@@ -4,3 +4,4 @@ jsconfig.json
 package-lock.json
 package.json
 .vscode
+*.bat

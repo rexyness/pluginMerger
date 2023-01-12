@@ -350,6 +350,69 @@
         "LastUpdated": "1673499238"
     },
     {
+        "Author": "Meisterlala",
+        "Name": "Neko Fans [Grinch API 8]",
+        "Punchline": "Frustrated in a dungeon? Look at a cute cat girl!",
+        "Description": "Shows you an image of a random neko character. Click on the image to view the next one.\nYou can choose different image sources, allowing you to look at Catboys, Waifus, Cats, Dogs and more.\n\nSupported APIs:\nTwitter, nekos.best, Nekos.life, Catboys, Dog CEO, The Cat API, Pic.re, Waifu.im, Waifu.pics and shibe.online\n\nWarning: You might see naughty images",
+        "InternalName": "Neko",
+        "AssemblyVersion": "1.2.3",
+        "RepoUrl": "https://github.com/Meisterlala/NekoFans",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "anime",
+            "neko",
+            "waifu",
+            "miqote",
+            "image"
+        ],
+        "CategoryTags": [
+            "UI"
+        ],
+        "DalamudApiLevel": 8,
+        "IconUrl": "https://raw.githubusercontent.com/Meisterlala/NekoFans/master/icon.png",
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/Meisterlala/NekoFans/master/images/image1.png",
+            "https://raw.githubusercontent.com/Meisterlala/NekoFans/master/images/image2.png"
+        ],
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdated": 1673532033,
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/Meisterlala/NekoFans/releases/download/1.2.3/NekoFans.zip",
+        "DownloadLinkTesting": "https://github.com/Meisterlala/NekoFans/releases/download/1.2.3/NekoFans.zip",
+        "DownloadLinkUpdate": "https://github.com/Meisterlala/NekoFans/releases/download/1.2.3/NekoFans.zip"
+    },
+    {
+        "Author": "Meisterlala",
+        "Name": "Neko Fans NSFW 18+ Patch [Grinch API 8]",
+        "Punchline": "Frustrated in a dungeon? Look at a cute cat girl! Or look at sexy anime tiddies!",
+        "Description": "This Plugin does nothing on its own. Neko Fans needs to be installed.\nYou now have access to NSFW images in Neko Fans.",
+        "InternalName": "NekoLewd",
+        "AssemblyVersion": "1.0.2",
+        "RepoUrl": "https://github.com/Meisterlala/NekoFans",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "anime",
+            "neko",
+            "waifu",
+            "miqote",
+            "image",
+            "NSFW"
+        ],
+        "CategoryTags": [
+            "UI"
+        ],
+        "DalamudApiLevel": 8,
+        "IconUrl": "https://raw.githubusercontent.com/Meisterlala/NekoFans/master/icon18.png",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdated": 1673531987,
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.2-NSFW/NekoFansLewd.zip",
+        "DownloadLinkTesting": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.2-NSFW/NekoFansLewd.zip",
+        "DownloadLinkUpdate": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.2-NSFW/NekoFansLewd.zip"
+    },
+    {
         "Author": "NightmareXIV",
         "Name": "DSR Toolbox [Grinch API 8]",
         "Punchline": "A helper plugin for Dragonsong's Reprise (Ultimate).",
@@ -1011,7 +1074,7 @@
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
         "InternalName": "XIVComboExpanded",
-        "AssemblyVersion": "1.4.0.2",
+        "AssemblyVersion": "1.4.0.3",
         "RepoUrl": "https://github.com/daemitus/XIVComboPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -1024,7 +1087,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1673493402"
+        "LastUpdate": "1673537140"
     },
     {
         "Author": "daemitus",
@@ -1045,7 +1108,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1673493402"
+        "LastUpdate": "1673537140"
     },
     {
         "Author": "daemitus",
@@ -1066,7 +1129,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1673493402"
+        "LastUpdate": "1673537140"
     },
     {
         "Name": "Startup Commands [Grinch API 8]",
