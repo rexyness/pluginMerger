@@ -607,6 +607,55 @@
         "Changelog": "0.0.1.3\nAPI8 and .net7, Basic bugfix for 6.3 changes"
     },
     {
+        "Author": "PunishedPineapple",
+        "Name": "HP Difference Gauge [Grinch API 8]",
+        "Punchline": "Enemy HP Split Gauge",
+        "Description": "Provides a visual representation of the HP difference between two enemies on your aggro list.  Open the plugin config window to see a preview of the gauge and to change options.",
+        "InternalName": "HPDiff",
+        "AssemblyVersion": "0.9.1.3",
+        "RepoUrl": "https://github.com/PunishedPineapple/HPDiff",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "UI"
+        ],
+        "DalamudApiLevel": 8,
+        "IconUrl": "https://github.com/PunishedPineapple/HPDiff/raw/main/docs/Images/icon.png",
+        "ImageUrls": [
+            "https://github.com/PunishedPineapple/HPDiff/raw/main/docs/Images/image1.png"
+        ],
+        "DownloadLinkInstall": "https://github.com/PunishedPineapple/DalamudPluginRepo/raw/main/plugins/HPDiff/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/PunishedPineapple/DalamudPluginRepo/raw/main/plugins/HPDiff/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/PunishedPineapple/DalamudPluginRepo/raw/main/plugins/HPDiff/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1673518890"
+    },
+    {
+        "Author": "PunishedPineapple",
+        "Name": "CIDNamer [Grinch API 8]",
+        "Punchline": "Content ID -> Character Name Mapping",
+        "Description": "Maps the content ID (i.e., number used in your character settings folder name) to the character name and server.  Only works for characters to which you log in.",
+        "InternalName": "CIDNamer",
+        "AssemblyVersion": "1.0.0.3",
+        "RepoUrl": "https://github.com/PunishedPineapple/CIDNamer",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "Settings",
+            "Utility"
+        ],
+        "DalamudApiLevel": 8,
+        "IconUrl": "https://github.com/PunishedPineapple/CIDNamer/raw/main/docs/Images/icon.png",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/PunishedPineapple/DalamudPluginRepo/raw/main/plugins/CIDNamer/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/PunishedPineapple/DalamudPluginRepo/raw/main/plugins/CIDNamer/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/PunishedPineapple/DalamudPluginRepo/raw/main/plugins/CIDNamer/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1673518890"
+    },
+    {
         "Author": "Sevii",
         "Name": "Material UI [Grinch API 8]",
         "Description": "Auto updating Material UI with customizable accent color and more. Icon by Meconate",
