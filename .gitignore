@@ -3,3 +3,4 @@ index.*
 jsconfig.json
 package-lock.json
 package.json
+.vscode
