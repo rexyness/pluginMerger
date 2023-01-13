@@ -1,5 +1,32 @@
 [
     {
+        "Author": "Cai",
+        "Name": "GCDTracker [Grinch API 8]",
+        "InternalName": "GCDTracker",
+        "AssemblyVersion": "1.0.2.5",
+        "Description": "Tracks GCD, OGCDs and combo status. Instantly visualizing what is happening with queue, animation lock and helping you get familiar with the concepts.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/CaiClone/GCDTracker",
+        "Tags": [
+            "combat",
+            "gcd"
+        ],
+        "DalamudApiLevel": 8,
+        "LoadPriority": 0,
+        "ImageUrls": [
+            "https://github.com/CaiClone/GCDTracker/raw/main/images/image1.png"
+        ],
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "IconUrl": "https://github.com/CaiClone/GCDTracker/raw/main/images/icon.png",
+        "Punchline": "Is my DRG still jumping?",
+        "DownloadLinkInstall": "https://github.com/CaiClone/DalamudPlugins/raw/GCDTracker/GCDTracker/latest.zip",
+        "DownloadLinkTesting": "https://github.com/CaiClone/DalamudPlugins/raw/GCDTracker/GCDTracker/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/CaiClone/DalamudPlugins/raw/GCDTracker/GCDTracker/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1673565239"
+    },
+    {
         "Author": "Taurenkey & Puni.sh",
         "Name": "Artisan [Grinch API 8]",
         "Description": "The all-in-one crafting plugin.",
@@ -271,7 +298,7 @@
         "Punchline": "Some FFXIV tweaks.",
         "AcceptsFeedback": true,
         "Changelog": "Preliminary update for Patch 6.3.\n\nEnhanced Experience Bar\n\n- Changed: Corrects the name of \"PvP Season Bar\" to \"PvP Series Bar\".\n  - Configuration is automatically updated.",
-        "DownloadCount": 187,
+        "DownloadCount": 236,
         "LastUpdate": 1673487023,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.7/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.7/latest.zip"
@@ -291,7 +318,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "Preliminary update for Patch 6.3.",
-        "DownloadCount": 37,
+        "DownloadCount": 47,
         "LastUpdate": 1673487153,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.4/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.4/latest.zip"
@@ -311,7 +338,7 @@
         "Punchline": "Some FFXIV tweaks.",
         "AcceptsFeedback": true,
         "Changelog": "Preliminary update for Patch 6.3.\n\nEnhanced Experience Bar\n\n- Changed: Corrects the name of \"PvP Season Bar\" to \"PvP Series Bar\".\n  - Configuration is automatically updated.",
-        "DownloadCount": 187,
+        "DownloadCount": 236,
         "LastUpdate": 1673487023,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.7/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.7/latest.zip"
@@ -331,10 +358,35 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "Preliminary update for Patch 6.3.",
-        "DownloadCount": 37,
+        "DownloadCount": 47,
         "LastUpdate": 1673487153,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.4/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.4/latest.zip"
+    },
+    {
+        "Author": "Det",
+        "Name": "Auto Hook [Grinch API 8]",
+        "Punchline": "Makes fishing less (or more) boring",
+        "Description": "It hooks the fish for you, can you believe it?",
+        "InternalName": "AutoHook",
+        "RepoUrl": "https://github.com/InitialDet/AutoHook",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "Gathering",
+            "Fishing"
+        ],
+        "DalamudApiLevel": 8,
+        "AcceptsFeedback": false,
+        "IconUrl": "https://raw.githubusercontent.com/InitialDet/AutoHook/main/AutoHook/images/icon.png",
+        "Changelog": "- Presets for custom baits added, you can now swap configs without needing to recreate it every time\n- Added an option to only cast Chum when under the effect of Fisher's Intuition\n- Added an option to only cast Prize Catch when Mooch II is not available, saving you 100gp if all you want is to mooch\n- Added Custom Timer when under the effect of Chum\n- Added an option to only use Prize Catch when under the effect of Identical Cast\n- Upgrade to .net7 and API8",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "AssemblyVersion": "2.4.0.1",
+        "LastUpdated": 1673591002,
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.4.0.1/latest.zip",
+        "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.4.0.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.4.0.1/latest.zip"
     },
     {
         "Author": "Det",
@@ -360,12 +412,12 @@
         "Changelog": "Disabled on Island Sanctuary, since it removed minions placed there",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "AssemblyVersion": "1.1.2.1",
-        "LastUpdated": 1673472800,
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.1/latest.zip",
-        "DownloadLinkTesting": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.1/latest.zip"
+        "AssemblyVersion": "1.1.2.2",
+        "LastUpdated": 1673585662,
+        "DownloadCount": 6,
+        "DownloadLinkInstall": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.2/latest.zip",
+        "DownloadLinkTesting": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.2/latest.zip"
     },
     {
         "Author": "Meowdy-do",
@@ -387,12 +439,38 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/Junie-774/CraftingList/main/CraftingList/latest.zip"
     },
     {
+        "Author": "llock",
+        "Name": "Auto Jail Marker [Grinch API 8]",
+        "Punchline": "Simple Jails",
+        "Description": "A scuffed uwu jail auto marker",
+        "Tags": [
+            "titan",
+            "jails",
+            "uwu"
+        ],
+        "InternalName": "AutoJailMarker",
+        "AssemblyVersion": "3.2.1.0",
+        "RepoUrl": "https://github.com/LockonS483/AutoJailMarker",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "LoadPriority": 0,
+        "ImageUrls": null,
+        "IconUrl": "https://raw.githubusercontent.com/LockonS483/AutoJailMarker/master/Data/TitIco.png",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdated": 1661443794,
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/LockonS483/AutoJailMarker/releases/download/3.2.1.0/AutoJailMarker.zip",
+        "DownloadLinkTesting": "https://github.com/LockonS483/AutoJailMarker/releases/download/3.2.1.0/AutoJailMarker.zip",
+        "DownloadLinkUpdate": "https://github.com/LockonS483/AutoJailMarker/releases/download/3.2.1.0/AutoJailMarker.zip"
+    },
+    {
         "Author": "attick, daemitus, Evil-Crab, PrincessRTFM, Maxunit",
         "Name": "XIV Combo Expanded Customized [Grinch API 8]",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
         "InternalName": "XIVComboExpandedCustomized",
-        "AssemblyVersion": "1.4.0.2",
+        "AssemblyVersion": "1.4.0.3",
         "RepoUrl": "https://github.com/maxunit/XIVComboPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -405,7 +483,7 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1673499238"
+        "LastUpdated": "1673564405"
     },
     {
         "Author": "Meisterlala",
@@ -806,84 +884,6 @@
     },
     {
         "Author": "UnknownX",
-        "Name": "NoClippy [Grinch API 8]",
-        "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
-        "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
-        "Changelog": "",
-        "InternalName": "NoClippy",
-        "AssemblyVersion": "0.5.0.6",
-        "RepoUrl": "https://github.com/UnknownX7/NoClippy",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "jobs",
-            "utility"
-        ],
-        "DalamudApiLevel": 8,
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1673478670"
-    },
-    {
-        "Author": "UnknownX",
-        "Name": "Cammy [Grinch API 8]",
-        "Punchline": "A simple editor for the game's camera settings",
-        "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoomhack, if you aren't comfortable with that fact, don't install it.",
-        "Changelog": "",
-        "InternalName": "Cammy",
-        "AssemblyVersion": "2.0.3.6",
-        "RepoUrl": "https://github.com/UnknownX7/Cammy",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "utility"
-        ],
-        "DalamudApiLevel": 8,
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1673478670"
-    },
-    {
-        "Author": "UnknownX",
-        "Name": "Fractionality [Grinch API 8]",
-        "Punchline": "Changes /wait and <wait> to support fractions",
-        "Description": "Adds 3 decimal precision waiting to macros and removes the 60 seconds cap.",
-        "InternalName": "Fractionality",
-        "AssemblyVersion": "1.0.1.4",
-        "RepoUrl": "https://github.com/UnknownX7/Fractionality",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "utility"
-        ],
-        "DalamudApiLevel": 8,
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1673478670"
-    },
-    {
-        "Author": "UnknownX",
         "Name": "ReAction [Grinch API 8]",
         "Punchline": "QoL for the battle system.",
         "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
@@ -906,7 +906,34 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1673478670"
+        "LastUpdate": "1673632735"
+    },
+    {
+        "Author": "UnknownX",
+        "Name": "NoClippy [Grinch API 8]",
+        "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
+        "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
+        "Changelog": "Add a fix for the mudra bug. This setting is automatically enabled!",
+        "InternalName": "NoClippy",
+        "AssemblyVersion": "0.5.0.8",
+        "RepoUrl": "https://github.com/UnknownX7/NoClippy",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "jobs",
+            "utility"
+        ],
+        "DalamudApiLevel": 8,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1673632735"
     },
     {
         "Author": "UnknownX",
@@ -932,7 +959,32 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1673478670"
+        "LastUpdate": "1673632735"
+    },
+    {
+        "Author": "UnknownX",
+        "Name": "Fractionality [Grinch API 8]",
+        "Punchline": "Changes /wait and <wait> to support fractions",
+        "Description": "Adds 3 decimal precision waiting to macros and removes the 60 seconds cap.",
+        "InternalName": "Fractionality",
+        "AssemblyVersion": "1.0.1.4",
+        "RepoUrl": "https://github.com/UnknownX7/Fractionality",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 8,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1673632735"
     },
     {
         "Author": "UnknownX",
@@ -958,7 +1010,33 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1673478670"
+        "LastUpdate": "1673632735"
+    },
+    {
+        "Author": "UnknownX",
+        "Name": "Cammy [Grinch API 8]",
+        "Punchline": "A simple editor for the game's camera settings",
+        "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoomhack, if you aren't comfortable with that fact, don't install it.",
+        "Changelog": "",
+        "InternalName": "Cammy",
+        "AssemblyVersion": "2.0.3.6",
+        "RepoUrl": "https://github.com/UnknownX7/Cammy",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 8,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1673632735"
     },
     {
         "Author": "XIV Tools",
@@ -1236,7 +1314,7 @@
         "Author": "akira0245, Ori",
         "Name": "MidiBard 2 [Grinch API 8]",
         "InternalName": "MidiBard2",
-        "AssemblyVersion": "2.3.1.1",
+        "AssemblyVersion": "2.3.1.2",
         "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
         "ApplicableVersion": "any",
         "RepoUrl": "https://midibard.org",
@@ -1253,12 +1331,12 @@
         ],
         "IconUrl": "https://i.imgur.com/OSxqew4.png",
         "Punchline": "Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
-        "Changelog": "- Use regex to identify track names, better compatibility.\n- Saves the last opening folder.\n- Even better sync on lower-end PC.",
+        "Changelog": "+ Use regex to identify track names, better compatibility for some old MIDI files.\n+ Saves the last folder of file import.\n+ Even better sync on some lower-end PCs.\n\n- Remove auto set background frame limitation functon as it's been implemented in Bard Toolbox in a more elegant way. Please Google and install Bard Toolbox if you need this function.",
         "AcceptsFeedback": true,
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "DownloadCount": 61021,
-        "LastUpdate": "1661375703",
+        "LastUpdate": "1673550115",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip"
