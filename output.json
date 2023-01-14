@@ -843,6 +843,30 @@
         ]
     },
     {
+        "Author": "Speshkitty",
+        "Name": "Deep Dungeon Helper [Grinch API 8]",
+        "InternalName": "PotDHelper",
+        "AssemblyVersion": "1.4.0.3",
+        "Description": "Tracks traps & Accursed Hoard in Palace of The Dead and Heaven on High",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "palace",
+            "potd",
+            "palace of the dead",
+            "hoh",
+            "heaven on high",
+            "deep dungeon"
+        ],
+        "Changelog": "1.4.0.3\n - Updated for patch 6.3\n\n1.4.0.2\n - Updated for patch 6.2\n\n1.4.0.1\n - Handles changing characters properly\n\n1.4.0.0\n - Microstutters fixed (With thanks to SiliconExarch)\n - Fixed points not loading on map change\n - Character and Servers are now SHA256'ed before being sent to the database",
+        "DalamudApiLevel": 8,
+        "LoadPriority": 0,
+        "Punchline": "Tracks traps & Accursed Hoard in Palace of The Dead and Heaven on High",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadLinkInstall": "https://github.com/Speshkitty/DalamudPlugins/releases/download/PotDHelper-v1.4.0.3/PotDHelper.v1.4.0.3.zip",
+        "DownloadLinkUpdate": "https://github.com/Speshkitty/DalamudPlugins/releases/download/PotDHelper-v1.4.0.3/PotDHelper.v1.4.0.3.zip"
+    },
+    {
         "Author": "UnknownX",
         "Name": "ReAction [Grinch API 8]",
         "Punchline": "QoL for the battle system.",
@@ -1023,8 +1047,8 @@
         "Author": "Zhyra",
         "Name": "Market Uploader [Grinch API 8]",
         "InternalName": "MarketUploader",
-        "AssemblyVersion": "1.0.3",
-        "Description": "Help the community by uploading market data using this plugin!",
+        "AssemblyVersion": "1.0.4",
+        "Description": "Uploads marketboard data to market.xivhub.org and other configurable aggregators.",
         "ApplicableVersion": "any",
         "IsHide": "False",
         "IsTestingExclusive": "False",
