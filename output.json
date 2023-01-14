@@ -262,6 +262,29 @@
         "DownloadLinkUpdate": "https://github.com/Frogworks-Interactive/OOF/releases/download/1.0.4/latest.zip"
     },
     {
+        "Author": "GiR-Zippo, Meowchestra",
+        "Name": "HypnotoadPlugin [Grinch API 8]",
+        "InternalName": "HypnotoadPlugin",
+        "AssemblyVersion": "0.0.1.2",
+        "Description": "LightAmp & BardMusicPlayer companion for enhanced functionality.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "",
+        "CategoryTags": [
+            "utility",
+            "other"
+        ],
+        "DalamudApiLevel": 8,
+        "LoadPriority": 0,
+        "IconUrl": "",
+        "Punchline": "Companion plugin for enhanced functionality.",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdate": "1673719748",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/GiR-Zippo/Hypnotoad-Plugin/master/PluginDir/HypnotoadPlugin/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/GiR-Zippo/Hypnotoad-Plugin/master/PluginDir/HypnotoadPlugin/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/GiR-Zippo/Hypnotoad-Plugin/master/PluginDir/HypnotoadPlugin/latest.zip"
+    },
+    {
         "Author": "attick, daemitus, alymphocyte, grammernatzi",
         "Name": "XIV Combo Expandedest [Grinch API 8]",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button. Plus extras.",
@@ -425,25 +448,25 @@
         "DownloadLinkUpdate": "https://github.com/LockonS483/AutoJailMarker/releases/download/3.2.1.0/AutoJailMarker.zip"
     },
     {
-        "Author": "attick, daemitus",
-        "Name": "XIV Combo Expanded [Grinch API 8]",
+        "Author": "attick, daemitus, Evil-Crab, PrincessRTFM, Maxunit",
+        "Name": "XIV Combo Expanded Customized [Grinch API 8]",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
-        "InternalName": "XIVComboExpanded",
+        "InternalName": "XIVComboExpandedCustomized",
         "AssemblyVersion": "1.4.0.4",
-        "RepoUrl": "https://github.com/daemitus/XIVComboPlugin",
+        "RepoUrl": "https://github.com/maxunit/XIVComboPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
         "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/daemitus/XIVComboPlugin/master/res/icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/maxunit/XIVComboPlugin/master/res/icon.png",
         "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
+        "DownloadLinkInstall": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
+        "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1673699322"
+        "LastUpdated": "1673719476"
     },
     {
         "Author": "Meisterlala",
@@ -472,11 +495,11 @@
         ],
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdated": 1673532033,
+        "LastUpdated": 1673721064,
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/Meisterlala/NekoFans/releases/download/1.2.3/NekoFans.zip",
-        "DownloadLinkTesting": "https://github.com/Meisterlala/NekoFans/releases/download/1.2.3/NekoFans.zip",
-        "DownloadLinkUpdate": "https://github.com/Meisterlala/NekoFans/releases/download/1.2.3/NekoFans.zip"
+        "DownloadLinkInstall": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFans.zip",
+        "DownloadLinkTesting": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFans.zip",
+        "DownloadLinkUpdate": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFans.zip"
     },
     {
         "Author": "Meisterlala",
@@ -484,7 +507,7 @@
         "Punchline": "Frustrated in a dungeon? Look at a cute cat girl! Or look at sexy anime tiddies!",
         "Description": "This Plugin does nothing on its own. Neko Fans needs to be installed.\nYou now have access to NSFW images in Neko Fans.",
         "InternalName": "NekoLewd",
-        "AssemblyVersion": "1.0.2",
+        "AssemblyVersion": "1.0.3",
         "RepoUrl": "https://github.com/Meisterlala/NekoFans",
         "ApplicableVersion": "any",
         "Tags": [
@@ -502,11 +525,11 @@
         "IconUrl": "https://raw.githubusercontent.com/Meisterlala/NekoFans/master/icon18.png",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdated": 1673531987,
+        "LastUpdated": 1673721064,
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.2-NSFW/NekoFansLewd.zip",
-        "DownloadLinkTesting": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.2-NSFW/NekoFansLewd.zip",
-        "DownloadLinkUpdate": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.2-NSFW/NekoFansLewd.zip"
+        "DownloadLinkInstall": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip",
+        "DownloadLinkTesting": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip",
+        "DownloadLinkUpdate": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip"
     },
     {
         "Author": "NightmareXIV",
@@ -780,14 +803,14 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1673718051"
+        "LastUpdated": "1673723353"
     },
     {
         "Author": "attick, daemitus, VariableVixen",
         "Name": "XIV Combo Very Expanded [Grinch API 8]",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
         "InternalName": "XIVComboVX",
-        "AssemblyVersion": "8.1.8414.31505",
+        "AssemblyVersion": "8.1.8414.34456",
         "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -797,7 +820,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1673718051"
+        "LastUpdated": "1673723353"
     },
     {
         "Author": "PunishedPineapple",
@@ -1309,6 +1332,31 @@
         "DownloadLinkUpdate": "https://github.com/oorzkws/DalamudPlugins/raw/master/plugins/NeonCastbarPlugin/latest.zip",
         "DownloadCount": 0,
         "LastUpdated": "1673661215"
+    },
+    {
+        "Author": "Paissa Heavy Industries",
+        "Name": "Telesto [Grinch API 8]",
+        "Description": "This plugin allows Triggernometry (and other programs, why not) some means to interact with the game directly.",
+        "InternalName": "Telesto",
+        "AssemblyVersion": "0.9.6.1",
+        "RepoUrl": "https://github.com/paissaheavyindustries/Telesto",
+        "IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/telesto.png",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "telesto",
+            "prrp",
+            "trigger",
+            "triggernometry",
+            "meow"
+        ],
+        "DalamudApiLevel": 8,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdated": 0,
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/paissaheavyindustries/Telesto/releases/download/v0.9.6.1/Telesto_0_9_6_1.zip",
+        "DownloadLinkTesting": "https://github.com/paissaheavyindustries/Telesto/releases/download/v0.9.6.1/Telesto_0_9_6_1.zip",
+        "DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Telesto/releases/download/v0.9.6.1/Telesto_0_9_6_1.zip"
     },
     {
         "Author": "Caraxi, Modified by Ori",
