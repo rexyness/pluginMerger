@@ -298,7 +298,7 @@
         "Punchline": "Some FFXIV tweaks.",
         "AcceptsFeedback": true,
         "Changelog": "Additional code to automatically re-scan cached hotfix adresses (the bug I fixed in in v0.7.8).",
-        "DownloadCount": 150,
+        "DownloadCount": 192,
         "LastUpdate": 1673645318,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.9/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.9/latest.zip"
@@ -318,7 +318,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "Preliminary update for Patch 6.3 Hotfix 1.\n\n- Fixed: Future-proofed reading the number of allowances and active levequests.",
-        "DownloadCount": 0,
+        "DownloadCount": 16,
         "LastUpdate": 1673676205,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.5/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.5/latest.zip"
@@ -385,7 +385,7 @@
         "Punchline": "Craft stuffs",
         "Description": "Craft your things",
         "InternalName": "CraftingList",
-        "AssemblyVersion": "1.7.6",
+        "AssemblyVersion": "1.8.0",
         "ApplicableVersion": "any",
         "Tags": [
             "craft"
@@ -425,25 +425,25 @@
         "DownloadLinkUpdate": "https://github.com/LockonS483/AutoJailMarker/releases/download/3.2.1.0/AutoJailMarker.zip"
     },
     {
-        "Author": "attick, daemitus, Evil-Crab, PrincessRTFM, Maxunit",
-        "Name": "XIV Combo Expanded Customized [Grinch API 8]",
+        "Author": "attick, daemitus",
+        "Name": "XIV Combo Expanded [Grinch API 8]",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
-        "InternalName": "XIVComboExpandedCustomized",
-        "AssemblyVersion": "1.4.0.3",
-        "RepoUrl": "https://github.com/maxunit/XIVComboPlugin",
+        "InternalName": "XIVComboExpanded",
+        "AssemblyVersion": "1.4.0.4",
+        "RepoUrl": "https://github.com/daemitus/XIVComboPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
         "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/maxunit/XIVComboPlugin/master/res/icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/daemitus/XIVComboPlugin/master/res/icon.png",
         "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
+        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
+        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1673651674"
+        "LastUpdate": "1673699322"
     },
     {
         "Author": "Meisterlala",
@@ -1204,7 +1204,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1673537140"
+        "LastUpdate": "1673699322"
     },
     {
         "Author": "perchbird, forked by mootykins",
