@@ -73,21 +73,17 @@
         "Name": "AutoRetainer [Grinch API 8]",
         "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
         "InternalName": "AutoRetainer",
-        "AssemblyVersion": "2.2.0.5",
-        "RepoUrl": null,
+        "AssemblyVersion": "2.2.0.8",
         "ApplicableVersion": "any",
-        "Tags": null,
         "DalamudApiLevel": 8,
-        "Punchline": null,
+        "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
         "IconUrl": "https://love.puni.sh/resources/auto-retainer.png",
-        "ImageUrls": null,
-        "Changelog": null,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
-        "LastUpdate": "1673480514"
+        "LastUpdate": "1673805932"
     },
     {
         "Author": "Aireil",
@@ -457,7 +453,7 @@
             "uwu"
         ],
         "InternalName": "AutoJailMarker",
-        "AssemblyVersion": "3.2.1.0",
+        "AssemblyVersion": "3.2.2.1",
         "RepoUrl": "https://github.com/LockonS483/AutoJailMarker",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -468,15 +464,15 @@
         "IsTestingExclusive": "False",
         "LastUpdated": 1661443794,
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/LockonS483/AutoJailMarker/releases/download/3.2.1.0/AutoJailMarker.zip",
-        "DownloadLinkTesting": "https://github.com/LockonS483/AutoJailMarker/releases/download/3.2.1.0/AutoJailMarker.zip",
-        "DownloadLinkUpdate": "https://github.com/LockonS483/AutoJailMarker/releases/download/3.2.1.0/AutoJailMarker.zip"
+        "DownloadLinkInstall": "https://github.com/LockonS483/AutoJailMarker/releases/download/3.2.2.1/AutoJailMarker.zip",
+        "DownloadLinkTesting": "https://github.com/LockonS483/AutoJailMarker/releases/download/3.2.2.1/AutoJailMarker.zip",
+        "DownloadLinkUpdate": "https://github.com/LockonS483/AutoJailMarker/releases/download/3.2.2.1/AutoJailMarker.zip"
     },
     {
         "Author": "attick, daemitus, Evil-Crab, PrincessRTFM, Maxunit",
         "Name": "XIV Combo Expanded Customized [Grinch API 8]",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
-        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
+        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1. Please keep an eye on the GitHub page for changes without a version bump!",
         "InternalName": "XIVComboExpandedCustomized",
         "AssemblyVersion": "1.4.0.4",
         "RepoUrl": "https://github.com/maxunit/XIVComboPlugin",
@@ -491,7 +487,7 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1673719476"
+        "LastUpdated": "1673815522"
     },
     {
         "Author": "Meisterlala",
@@ -622,7 +618,7 @@
         "Punchline": "Infinite waymarks in the world and target circles.",
         "Description": "",
         "InternalName": "Splatoon",
-        "AssemblyVersion": "3.2.0.1",
+        "AssemblyVersion": "3.2.0.2",
         "RepoUrl": "https://github.com/NightmareXIV/Splatoon",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -1530,6 +1526,23 @@
         "DownloadLinkInstall": "https://github.com/saltycog/ffxiv-startup-commands/releases/download/1.1.1.0/ffxiv-startup-commands.zip",
         "DownloadLinkTesting": "https://github.com/saltycog/ffxiv-startup-commands/releases/download/1.1.1.0/ffxiv-startup-commands.zip",
         "DownloadLinkUpdate": "https://github.com/saltycog/ffxiv-startup-commands/releases/download/1.1.1.0/ffxiv-startup-commands.zip"
+    },
+    {
+        "Author": "buttplug",
+        "Name": "buttplugin [Grinch API 8]",
+        "Description": "One time my squat plug ricocheted into someones head",
+        "InternalName": "Buttplugin",
+        "AssemblyVersion": "7.1.5.34407",
+        "RepoUrl": "",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "DownloadLinkInstall": "https://github.com/thesuccubus/repo/raw/main/plugins/Buttplugin/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/thesuccubus/repo/raw/main/plugins/Buttplugin/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/thesuccubus/repo/raw/main/plugins/Buttplugin/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1673809647"
     },
     {
         "Author": "",
