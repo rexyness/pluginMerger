@@ -166,7 +166,7 @@
         "ScheduledForDeletion": false,
         "InstalledFromUrl": "",
         "IsThirdParty": false,
-        "EffectiveVersion": "1.4.3.0",
+        "EffectiveVersion": "1.5.0.0",
         "IsAvailableForTesting": false,
         "Author": "BardToolbox",
         "Name": "BardToolbox [Grinch API 8]",
@@ -195,7 +195,7 @@
             "other"
         ],
         "InternalName": "BardToolbox",
-        "AssemblyVersion": "1.4.3.0",
+        "AssemblyVersion": "1.5.0.0",
         "TestingAssemblyVersion": null,
         "RepoUrl": "https://github.com/BardToolbox/BardToolbox-Release",
         "ApplicableVersion": "any",
@@ -212,8 +212,8 @@
         "_Dip17Channel": null,
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadCount": 2635,
-        "LastUpdate": "1673557120",
+        "DownloadCount": 12742,
+        "LastUpdate": "1673672330",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/latest.zip"
@@ -321,7 +321,7 @@
         "Punchline": "Some FFXIV tweaks.",
         "AcceptsFeedback": true,
         "Changelog": "Additional code to automatically re-scan cached hotfix adresses (the bug I fixed in in v0.7.8).",
-        "DownloadCount": 192,
+        "DownloadCount": 537,
         "LastUpdate": 1673645318,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.9/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.9/latest.zip"
@@ -341,7 +341,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "Preliminary update for Patch 6.3 Hotfix 1.\n\n- Fixed: Future-proofed reading the number of allowances and active levequests.",
-        "DownloadCount": 16,
+        "DownloadCount": 119,
         "LastUpdate": 1673676205,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.5/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.5/latest.zip"
@@ -408,7 +408,7 @@
         "Punchline": "Craft stuffs",
         "Description": "Craft your things",
         "InternalName": "CraftingList",
-        "AssemblyVersion": "1.8.0",
+        "AssemblyVersion": "1.8.1",
         "ApplicableVersion": "any",
         "Tags": [
             "craft"
@@ -420,6 +420,31 @@
         "DownloadLinkInstall": "https://raw.githubusercontent.com/Junie-774/CraftingList/main/CraftingList/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/Junie-774/CraftingList/main/CraftingList/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/Junie-774/CraftingList/main/CraftingList/latest.zip"
+    },
+    {
+        "Author": "LeonBlade",
+        "Name": "Heels Plugin [Grinch API 8]",
+        "Description": "Offsets your character off the ground for when wearing heels.",
+        "InternalName": "HeelsPlugin",
+        "AssemblyVersion": "1.2.5",
+        "RepoUrl": "https://github.com/LeonBlade/HeelsPlugin",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "heels",
+            "high heels",
+            "height",
+            "offset",
+            "leonblade"
+        ],
+        "DalamudApiLevel": 8,
+        "IconUrl": "https://github.com/LeonBlade/HeelsPlugin/raw/main/icon.png",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdated": 1670717923,
+        "DownloadCount": 14963,
+        "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.2.5/HeelsPlugin.zip",
+        "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.2.5/HeelsPlugin.zip",
+        "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.2.5/HeelsPlugin.zip"
     },
     {
         "Author": "llock",
@@ -496,7 +521,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1673721064,
-        "DownloadCount": 0,
+        "DownloadCount": 2,
         "DownloadLinkInstall": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFans.zip",
         "DownloadLinkTesting": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFans.zip",
         "DownloadLinkUpdate": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFans.zip"
@@ -526,7 +551,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1673721064,
-        "DownloadCount": 0,
+        "DownloadCount": 227,
         "DownloadLinkInstall": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip",
         "DownloadLinkTesting": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip",
         "DownloadLinkUpdate": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip"
@@ -767,6 +792,30 @@
         "LastUpdated": "0"
     },
     {
+        "Author": "Aki, k-kz, ele-starshade, damolitionn, Taurenkey, Augporto, grimgal, Genesis-Nova, Tartarga",
+        "Name": "XIVSlothCombo [Grinch API 8]",
+        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
+        "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
+        "Changelog": "Features, Fixes & Enhancements Framework, PvPGlobals, BLM, DNC, DRG, DRK, MNK, NIN, RDM, RPR, SAM, SCH, SGE, SMN, WAR, WHM, ASTPvP, DRGPvP, DRKPvP, PLDPvP, GNBPvP, SCHPvP and WHMPvP. Please check the project's GitHub or Discord for a full changelog.",
+        "InternalName": "XIVSlothCombo",
+        "AssemblyVersion": "3.0.18.0",
+        "RepoUrl": "https://github.com/Nik-Potokar/XIVSlothCombo",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "LoadPriority": 0,
+        "IconUrl": "https://i.imgur.com/UeRukF8.png",
+        "ImageUrls": [
+            "https://i.imgur.com/UeRukF8.png"
+        ],
+        "DownloadLinkInstall": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1673737037"
+    },
+    {
         "Author": "XIV Tools",
         "Name": "Customize+ [Grinch API 8]",
         "Description": "A plugin that allows you to create and apply Anamnesis-style body scaling full time.",
@@ -947,7 +996,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1673632735"
+        "LastUpdate": "1673744268"
     },
     {
         "Author": "UnknownX",
@@ -974,7 +1023,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1673632735"
+        "LastUpdate": "1673744268"
     },
     {
         "Author": "UnknownX",
@@ -1000,7 +1049,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1673632735"
+        "LastUpdate": "1673744268"
     },
     {
         "Author": "UnknownX",
@@ -1025,7 +1074,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1673632735"
+        "LastUpdate": "1673744268"
     },
     {
         "Author": "UnknownX",
@@ -1051,7 +1100,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1673632735"
+        "LastUpdate": "1673744268"
     },
     {
         "Author": "UnknownX",
@@ -1077,7 +1126,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1673632735"
+        "LastUpdate": "1673744268"
     },
     {
         "Author": "Zhyra",
