@@ -215,6 +215,82 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/latest.zip"
     },
     {
+        "Author": "Bluefissure",
+        "Name": "Double Weaver [Grinch API 8]",
+        "InternalName": "DoubleWeaver",
+        "AssemblyVersion": "1.0.6.1",
+        "Description": "Double weaving in high latency network.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/Bluefissure/DoubleWeaver",
+        "Tags": [
+            "bluefissure",
+            "doublewaver"
+        ],
+        "DalamudApiLevel": 8,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "LoadPriority": 0,
+        "IconUrl": "https://github.com/Bluefissure/DoubleWeaver/blob/master/images/icon.png",
+        "Punchline": "Double weaving with high ping",
+        "AcceptsFeedback": true,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 0,
+        "LastUpdate": "1673833893",
+        "DownloadLinkInstall": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/DoubleWeaver/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/DoubleWeaver/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/DoubleWeaver/latest.zip"
+    },
+    {
+        "Author": "Bluefissure",
+        "Name": "HousingPos [Grinch API 8]",
+        "InternalName": "HousingPos",
+        "AssemblyVersion": "1.3.1.0",
+        "Description": "Automatically save/load the positions of housing furnitures.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/Bluefissure/HousingPos",
+        "Tags": [
+            "bluefissure",
+            "housing"
+        ],
+        "DalamudApiLevel": 8,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "LoadPriority": 0,
+        "Punchline": "A housing tool",
+        "AcceptsFeedback": true,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 0,
+        "LastUpdate": "1673833893",
+        "DownloadLinkInstall": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/HousingPos/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/HousingPos/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/HousingPos/latest.zip"
+    },
+    {
+        "Author": "Bluefissure",
+        "Name": "Inviter [Grinch API 8]",
+        "InternalName": "Inviter",
+        "AssemblyVersion": "1.1.1.0",
+        "Description": "Automatically invite people to your party (doesn't work for CWLS). /xinvite to open.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/Bluefissure/Inviter",
+        "DalamudApiLevel": 8,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/Bluefissure/Inviter/main/images/icon.png",
+        "Punchline": "Invite please",
+        "AcceptsFeedback": true,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 0,
+        "LastUpdate": "1673833893",
+        "DownloadLinkInstall": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/Inviter/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/Inviter/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/Inviter/latest.zip"
+    },
+    {
         "Author": "Aulus mal Asina",
         "Name": "Resonant [Grinch API 8]",
         "Description": "Displays accurate player hitbox and positional outlines.",
@@ -285,9 +361,9 @@
         "Name": "XIV Combo Expandedest [Grinch API 8]",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button. Plus extras.",
         "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
-        "Changelog": "1.4.1.0:\r\n* Black Mage Fire/Blizzard Switch Feature added.\r\n* Extensive Paladin changes. Some new features, some changed ones, a lot of removed ones.\r\n\r\n1.4.1.2:\r\n* Paladin Confiteor Feature returned (but it works differently and much more simply).\r\n* Paladin Royal Authority to Holy Spirit Feature added.\r\n\r\nIf a recent change isn't documented on this changelog, it is because it doesn't affect plugin functionality, or is a minor bugfix.",
+        "Changelog": "1.4.1.0:\r\n* Black Mage Fire/Blizzard Switch Feature added.\r\n* Extensive Paladin changes. Some new features, some changed ones, a lot of removed ones.\r\n\r\n1.4.1.2:\r\n* Paladin Confiteor Feature returned (but it works differently and much more simply).\r\n* Paladin Royal Authority to Holy Spirit Feature added.\r\n\r\n1.4.1.6:\r\n* Dropping Atonement is now no longer considered a damage gain. Therefore, Royal Authority to Atonement is back on the menu.\r\n\r\nIf a recent change isn't documented on this changelog, it is because it doesn't affect plugin functionality, or is a minor bugfix.",
         "InternalName": "XIVComboExpandedest",
-        "AssemblyVersion": "1.4.1.4",
+        "AssemblyVersion": "1.4.1.6",
         "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -300,7 +376,7 @@
         "DownloadLinkTesting": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadLinkUpdate": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1673772063"
+        "LastUpdate": "1673847861"
     },
     {
         "Author": "Haselnussbomber",
@@ -317,7 +393,7 @@
         "Punchline": "Some FFXIV tweaks.",
         "AcceptsFeedback": true,
         "Changelog": "Additional code to automatically re-scan cached hotfix adresses (the bug I fixed in in v0.7.8).",
-        "DownloadCount": 655,
+        "DownloadCount": 735,
         "LastUpdate": 1673645318,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.9/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.9/latest.zip"
@@ -337,7 +413,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "Preliminary update for Patch 6.3 Hotfix 1.\n\n- Fixed: Future-proofed reading the number of allowances and active levequests.",
-        "DownloadCount": 140,
+        "DownloadCount": 154,
         "LastUpdate": 1673676205,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.5/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.5/latest.zip"
@@ -362,7 +438,7 @@
         "IsTestingExclusive": "False",
         "AssemblyVersion": "2.4.0.1",
         "LastUpdated": 1673591002,
-        "DownloadCount": 281,
+        "DownloadCount": 1568,
         "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.4.0.1/latest.zip",
         "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.4.0.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.4.0.1/latest.zip"
@@ -393,7 +469,7 @@
         "IsTestingExclusive": "False",
         "AssemblyVersion": "1.1.2.2",
         "LastUpdated": 1673585662,
-        "DownloadCount": 0,
+        "DownloadCount": 94,
         "DownloadLinkInstall": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.2/latest.zip",
         "DownloadLinkTesting": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.2/latest.zip"
@@ -437,7 +513,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1670717923,
-        "DownloadCount": 15392,
+        "DownloadCount": 15790,
         "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.2.5/HeelsPlugin.zip",
         "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.2.5/HeelsPlugin.zip",
         "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.2.5/HeelsPlugin.zip"
@@ -848,14 +924,14 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1673723353"
+        "LastUpdated": "1673818597"
     },
     {
         "Author": "attick, daemitus, VariableVixen",
         "Name": "XIV Combo Very Expanded [Grinch API 8]",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
         "InternalName": "XIVComboVX",
-        "AssemblyVersion": "8.1.8414.34456",
+        "AssemblyVersion": "8.1.8415.38878",
         "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -865,7 +941,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1673723353"
+        "LastUpdated": "1673818597"
     },
     {
         "Author": "PunishedPineapple",
@@ -1357,7 +1433,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1673699322"
+        "LastUpdate": "1673835988"
     },
     {
         "Author": "daemitus",
@@ -1378,7 +1454,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1673699322"
+        "LastUpdate": "1673835988"
     },
     {
         "Author": "daemitus",
@@ -1386,7 +1462,7 @@
         "Punchline": "Work work.",
         "Description": "A hard-working peon that crafts what you tell him to. An all-in-one sythesizing solution.",
         "InternalName": "SomethingNeedDoing",
-        "AssemblyVersion": "1.4.0.1",
+        "AssemblyVersion": "1.4.0.4",
         "RepoUrl": "https://github.com/daemitus/SomethingNeedDoing",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -1399,7 +1475,32 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1673699322"
+        "LastUpdate": "1673835988"
+    },
+    {
+        "Author": "Jawslouis",
+        "Name": "MakePlace Plugin [Grinch API 8]",
+        "InternalName": "MakePlacePlugin",
+        "AssemblyVersion": "2.19",
+        "Punchline": "Automatically save & load furniture layouts in your house.",
+        "Description": "Automatically save & load the positions of house furniture. Import/export layouts from the MakePlace program.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/jawslouis/MakePlacePlugin",
+        "Tags": [
+            "makeplace",
+            "housing",
+            "furniture",
+            "jawslouis"
+        ],
+        "DalamudApiLevel": 8,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/jawslouis/MakePlacePlugin/master/icon.png",
+        "DownloadCount": 32831,
+        "DownloadLinkInstall": "https://github.com/jawslouis/MakePlacePlugin/releases/download/v2.19/MakePlacePlugin.zip",
+        "DownloadLinkTesting": "https://github.com/jawslouis/MakePlacePlugin/releases/download/v2.19/MakePlacePlugin.zip",
+        "DownloadLinkUpdate": "https://github.com/jawslouis/MakePlacePlugin/releases/download/v2.19/MakePlacePlugin.zip",
+        "_isDip17Plugin": false,
+        "_Dip17Channel": null
     },
     {
         "Author": "perchbird, forked by mootykins",
