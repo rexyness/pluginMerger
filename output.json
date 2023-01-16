@@ -452,15 +452,15 @@
         "DalamudApiLevel": 8,
         "AcceptsFeedback": false,
         "IconUrl": "https://raw.githubusercontent.com/InitialDet/AutoHook/main/AutoHook/images/icon.png",
-        "Changelog": "- Presets for custom baits added, you can now swap configs without needing to recreate it every time\n- Added an option to only cast Chum when under the effect of Fisher's Intuition\n- Added an option to only cast Prize Catch when Mooch II is not available, saving you 100gp if all you want is to mooch\n- Added Custom Timer when under the effect of Chum\n- Added an option to only use Prize Catch when under the effect of Identical Cast\n- Upgrade to .net7 and API8",
+        "Changelog": "- Presets for custom baits added, you can now swap configs without needing to recreate it every time\n- Added options to cast Chum or Mooch only when under the effect of Fisher's Intuition\n- Added an option to only cast Prize Catch when Mooch II is not available, saving you 100gp if all you want is to mooch\n- Added Custom Timer when under the effect of Chum\n- Added an option to only use Prize Catch when under the effect of Identical Cast\n- Upgrade to .net7 and API8",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "AssemblyVersion": "2.4.0.1",
-        "LastUpdated": 1673591002,
-        "DownloadCount": 1713,
-        "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.4.0.1/latest.zip",
-        "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.4.0.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.4.0.1/latest.zip"
+        "AssemblyVersion": "2.4.1.0",
+        "LastUpdated": 1673896093,
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.4.1.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.4.1.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.4.1.0/latest.zip"
     },
     {
         "Author": "Det",
@@ -488,7 +488,7 @@
         "IsTestingExclusive": "False",
         "AssemblyVersion": "1.1.2.2",
         "LastUpdated": 1673585662,
-        "DownloadCount": 97,
+        "DownloadCount": 98,
         "DownloadLinkInstall": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.2/latest.zip",
         "DownloadLinkTesting": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.2/latest.zip"
@@ -609,7 +609,7 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1673815522"
+        "LastUpdated": "1673889640"
     },
     {
         "Author": "Meisterlala",
@@ -957,10 +957,27 @@
     },
     {
         "Author": "VariableVixen",
+        "Name": "WoLua [Grinch API 8]",
+        "Description": "Write custom chat commands by creating lua scripts",
+        "InternalName": "WoLua",
+        "AssemblyVersion": "1.0.8416.35482",
+        "RepoUrl": "https://github.com/PrincessRTFM/WoLua",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "DownloadLinkInstall": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1673898490"
+    },
+    {
+        "Author": "VariableVixen",
         "Name": "TinyCommands [Grinch API 8]",
         "Description": "Adds tiny and simple but useful chat commands, and nothing more. It doesn't even have a UI.",
         "InternalName": "TinyCmds",
-        "AssemblyVersion": "7.0.8414.31578",
+        "AssemblyVersion": "7.0.8416.35628",
         "RepoUrl": "https://github.com/PrincessRTFM/TinyCommands",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -970,14 +987,14 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1673818597"
+        "LastUpdated": "1673898490"
     },
     {
         "Author": "attick, daemitus, VariableVixen",
         "Name": "XIV Combo Very Expanded [Grinch API 8]",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
         "InternalName": "XIVComboVX",
-        "AssemblyVersion": "8.1.8415.38878",
+        "AssemblyVersion": "8.1.8416.35511",
         "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -987,7 +1004,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1673818597"
+        "LastUpdated": "1673898490"
     },
     {
         "Author": "PunishedPineapple",
@@ -1438,7 +1455,7 @@
         "Name": "Oops, All Lalafells! Super Rad Edition [Grinch API 8]",
         "InternalName": "OopsAllLalafellsSRE",
         "AssemblyVersion": "1.3.2.3",
-        "Description": "Turn everyone around you into Lalafells (or other races!)\n\nUse /poal to open settings.",
+        "Description": "Turn everyone around you into Lalafells (or other races!)\n\nUse /poal to open settings.\n\nBROKEN AGAIN IN 6.3, WILL CRASH YER GAME, INVESTIGATING A FIX",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/ars-magna/OopsAllLalafellsSRE",
         "DalamudApiLevel": 8,
@@ -1450,7 +1467,26 @@
         "DownloadLinkUpdate": "https://github.com/ars-magna/MyDalamudPlugins/blob/master/plugins/OopsAllLalafellsSRE/latest.zip?raw=tru",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1761389999"
+        "LastUpdated": "1761399999"
+    },
+    {
+        "Author": "Avaflow, buengese",
+        "Name": "Oops, All Lalafells! [Grinch API 8]",
+        "InternalName": "OopsAllLalafells2",
+        "AssemblyVersion": "1.0.0",
+        "Description": "Turn everyone around you into Lalafells (or other races!)\n\nUse /poal to open settings.\n\nBROKEN AGAIN IN 6.3, WILL CRASH YER GAME, INVESTIGATING A FIX",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/buengese/OopsAllLalafells/",
+        "DalamudApiLevel": 8,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/OopsAllLalafells/images/icon.png",
+        "Punchline": "That one funny plugin your friend told you about.",
+        "DownloadLinkInstall": "https://github.com/ars-magna/MyDalamudPlugins/blob/master/plugins/OopsAllLalafells2/latest.zip?raw=tru",
+        "DownloadLinkTesting": "https://github.com/ars-magna/MyDalamudPlugins/blob/master/plugins/OopsAllLalafells2/latest.zip?raw=tru",
+        "DownloadLinkUpdate": "https://github.com/ars-magna/MyDalamudPlugins/blob/master/plugins/OopsAllLalafells2/latest.zip?raw=tru",
+        "AcceptsFeedback": true
     },
     {
         "Author": "veyn",
