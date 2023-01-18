@@ -499,7 +499,7 @@
         "Punchline": "Craft stuffs",
         "Description": "Craft your things",
         "InternalName": "CraftingList",
-        "AssemblyVersion": "1.8.3",
+        "AssemblyVersion": "1.9.1",
         "ApplicableVersion": "any",
         "Tags": [
             "craft"
@@ -1262,6 +1262,27 @@
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "1673744268"
+    },
+    {
+        "Author": "XIV Tools",
+        "Name": "Fullscreen Toggle [Grinch API 8]",
+        "Description": "Enter and leave fullscreen quickly with Alt+Enter",
+        "Punchline": "Enter and leave fullscreen quickly with Alt+Enter ",
+        "InternalName": "FullscreenToggle",
+        "AssemblyVersion": "1.0.1.1",
+        "TestingAssemblyVersion": "1.0.1.1",
+        "RepoUrl": "https://github.com/XIV-Tools/FullscreenToggle",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 0,
+        "LastUpdate": 0,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://github.com/XIV-Tools/FullscreenToggle/releases/latest/download/FullscreenToggle.zip",
+        "DownloadLinkTesting": "https://github.com/XIV-Tools/FullscreenToggle/releases/latest/download/FullscreenToggle.zip",
+        "DownloadLinkUpdate": "https://github.com/XIV-Tools/FullscreenToggle/releases/latest/download/FullscreenToggle.zip",
+        "IconUrl": "https://raw.githubusercontent.com/XIV-Tools/FullscreenToggle/main/Data/icon.png"
     },
     {
         "Author": "Zhyra",
