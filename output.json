@@ -382,7 +382,7 @@
         "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
         "Changelog": "1.4.1.0:\r\n* Black Mage Fire/Blizzard Switch Feature added.\r\n* Extensive Paladin changes. Some new features, some changed ones, a lot of removed ones.\r\n\r\n1.4.1.2:\r\n* Paladin Confiteor Feature returned (but it works differently and much more simply).\r\n* Paladin Royal Authority to Holy Spirit Feature added.\r\n\r\n1.4.1.6:\r\n* Dropping Atonement is now no longer considered a damage gain. Therefore, Royal Authority to Atonement is back on the menu.\r\n\r\n1.4.1.8:\r\n* Royal Authority to Holy Spirit decoupled from combo (still works with it, of course).\r\n* Shield Lob to Holy Spirit added.\r\n* Fight or Flight to Requiescat added.\r\n\r\nIf a recent change isn't documented on this changelog, it is because it doesn't affect plugin functionality, or is a minor bugfix.",
         "InternalName": "XIVComboExpandedest",
-        "AssemblyVersion": "1.4.1.8",
+        "AssemblyVersion": "1.4.1.9",
         "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -395,13 +395,13 @@
         "DownloadLinkTesting": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadLinkUpdate": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1673909243"
+        "LastUpdate": "1674079124"
     },
     {
         "Author": "Haselnussbomber",
         "Name": "HaselTweaks [Grinch API 8]",
         "InternalName": "HaselTweaks",
-        "AssemblyVersion": "0.7.11",
+        "AssemblyVersion": "0.7.12",
         "Description": "Included Tweaks:\n\n- Aether Current Helper\n- Auto Sort Armoury Chest\n- Character Class Switcher\n- Commands\n- Custom Chat Timestamp\n- DTR\n- Expert Deliveries\n- Forced Cutscene Music\n- Hide MSQ Complete\n- Keep Screen Awake\n- Minimap Adjustments\n- Refresh Material List\n- Reveal Duty Requirements\n- Scrollable Tabs\n- Search the markets\n- Series Exp Bar\n",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -411,11 +411,11 @@
         "LoadPriority": 0,
         "Punchline": "Some FFXIV tweaks.",
         "AcceptsFeedback": true,
-        "Changelog": "Enhanced Experience Bar\n\n- Fixed: The Experience Bar should now update as intended (just another thing that broke in Patch 6.3).",
-        "DownloadCount": 634,
-        "LastUpdate": 1673976809,
-        "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.11/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.11/latest.zip"
+        "Changelog": "Scrollable Tabs\n\n- Added: Support for Island Minion Guide window.",
+        "DownloadCount": 2,
+        "LastUpdate": 1674100742,
+        "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.12/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.12/latest.zip"
     },
     {
         "Author": "Haselnussbomber",
@@ -432,7 +432,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "Preliminary update for Patch 6.3 Hotfix 1.\n\n- Fixed: Future-proofed reading the number of allowances and active levequests.",
-        "DownloadCount": 180,
+        "DownloadCount": 185,
         "LastUpdate": 1673676205,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.5/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.5/latest.zip"
@@ -760,7 +760,7 @@
         "Punchline": "Automatically skips subtitle boxes and confirms cutscene skipping. Useful mostly for alt levelling. Requires /at command to be typed on each log in to be enabled.",
         "Description": "",
         "InternalName": "TextAdvance",
-        "AssemblyVersion": "3.0.0.6",
+        "AssemblyVersion": "3.0.0.7",
         "RepoUrl": "https://github.com/NightmareXIV/TextAdvance",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
