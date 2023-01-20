@@ -3,7 +3,7 @@
         "Author": "Cai",
         "Name": "GCDTracker [Grinch API 8]",
         "InternalName": "GCDTracker",
-        "AssemblyVersion": "1.0.2.5",
+        "AssemblyVersion": "1.0.2.6",
         "Description": "Tracks GCD, OGCDs and combo status. Instantly visualizing what is happening with queue, animation lock and helping you get familiar with the concepts.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/CaiClone/GCDTracker",
@@ -24,7 +24,7 @@
         "DownloadLinkTesting": "https://github.com/CaiClone/DalamudPlugins/raw/GCDTracker/GCDTracker/latest.zip",
         "DownloadLinkUpdate": "https://github.com/CaiClone/DalamudPlugins/raw/GCDTracker/GCDTracker/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1673565239"
+        "LastUpdated": "1674174058"
     },
     {
         "Author": "Taurenkey & Puni.sh",
@@ -401,7 +401,7 @@
         "Author": "Haselnussbomber",
         "Name": "HaselTweaks [Grinch API 8]",
         "InternalName": "HaselTweaks",
-        "AssemblyVersion": "0.7.12",
+        "AssemblyVersion": "0.7.13",
         "Description": "Included Tweaks:\n\n- Aether Current Helper\n- Auto Sort Armoury Chest\n- Character Class Switcher\n- Commands\n- Custom Chat Timestamp\n- DTR\n- Expert Deliveries\n- Forced Cutscene Music\n- Hide MSQ Complete\n- Keep Screen Awake\n- Minimap Adjustments\n- Refresh Material List\n- Reveal Duty Requirements\n- Scrollable Tabs\n- Search the markets\n- Series Exp Bar\n",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -411,11 +411,11 @@
         "LoadPriority": 0,
         "Punchline": "Some FFXIV tweaks.",
         "AcceptsFeedback": true,
-        "Changelog": "Scrollable Tabs\n\n- Added: Support for Island Minion Guide window.",
-        "DownloadCount": 367,
-        "LastUpdate": 1674100742,
-        "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.12/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.12/latest.zip"
+        "Changelog": "Search the markets\n\n- Fixed: Searching via Recipe Tree or Materials List doesn't crash the game anymore.",
+        "DownloadCount": 35,
+        "LastUpdate": 1674175752,
+        "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.13/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.13/latest.zip"
     },
     {
         "Author": "Haselnussbomber",
@@ -432,7 +432,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "Preliminary update for Patch 6.3 Hotfix 1.\n\n- Fixed: Future-proofed reading the number of allowances and active levequests.",
-        "DownloadCount": 186,
+        "DownloadCount": 187,
         "LastUpdate": 1673676205,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.5/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.5/latest.zip"
@@ -534,7 +534,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1673872070,
-        "DownloadCount": 12612,
+        "DownloadCount": 13414,
         "DownloadLinkInstall": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.5.8/BDTHPlugin.zip",
         "DownloadLinkTesting": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.5.8/BDTHPlugin.zip",
         "DownloadLinkUpdate": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.5.8/BDTHPlugin.zip"
@@ -559,7 +559,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1673874218,
-        "DownloadCount": 7573,
+        "DownloadCount": 8015,
         "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.1/HeelsPlugin.zip",
         "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.1/HeelsPlugin.zip",
         "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.1/HeelsPlugin.zip"
@@ -1108,6 +1108,25 @@
         "DownloadLinkUpdate": "https://github.com/Speshkitty/DalamudPlugins/releases/download/PotDHelper-v1.4.0.3/PotDHelper.v1.4.0.3.zip"
     },
     {
+        "Author": "akira0245, Ori, SpuriousSnail86",
+        "Name": "HSC MIDI Driver [Grinch API 8]",
+        "InternalName": "HSC",
+        "AssemblyVersion": "2.1.0.0",
+        "Description": "This is a beta HSC MIDI driver plugin. It's mostly stable but you may still experience bugs/crashes.",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "Jobs",
+            "Utility"
+        ],
+        "DalamudApiLevel": 8,
+        "LoadPriority": 0,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/SpuriousSnail86/DalamudPlugins/main/plugins/HSC/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/SpuriousSnail86/DalamudPlugins/main/plugins/HSC/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/SpuriousSnail86/DalamudPlugins/main/plugins/HSC/latest.zip"
+    },
+    {
         "Author": "UnknownX",
         "Name": "ReAction [Grinch API 8]",
         "Punchline": "QoL for the battle system.",
@@ -1266,11 +1285,11 @@
     {
         "Author": "XIV Tools",
         "Name": "Fullscreen Toggle [Grinch API 8]",
-        "Description": "Enter and leave fullscreen quickly with Alt+Enter",
+        "Description": "A plugin that allows you to create and apply Anamnesis-style body scaling full time.",
         "Punchline": "Enter and leave fullscreen quickly with Alt+Enter ",
         "InternalName": "FullscreenToggle",
-        "AssemblyVersion": "1.0.1.1",
-        "TestingAssemblyVersion": "1.0.1.1",
+        "AssemblyVersion": "1.0.1.3",
+        "TestingAssemblyVersion": "1.0.1.3",
         "RepoUrl": "https://github.com/XIV-Tools/FullscreenToggle",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -1282,7 +1301,8 @@
         "DownloadLinkInstall": "https://github.com/XIV-Tools/FullscreenToggle/releases/latest/download/FullscreenToggle.zip",
         "DownloadLinkTesting": "https://github.com/XIV-Tools/FullscreenToggle/releases/latest/download/FullscreenToggle.zip",
         "DownloadLinkUpdate": "https://github.com/XIV-Tools/FullscreenToggle/releases/latest/download/FullscreenToggle.zip",
-        "IconUrl": "https://raw.githubusercontent.com/XIV-Tools/FullscreenToggle/main/Data/icon.png"
+        "IconUrl": "https://raw.githubusercontent.com/XIV-Tools/FullscreenToggle/main/Data/icon.png",
+        "Changelog": ""
     },
     {
         "Author": "Zhyra",
