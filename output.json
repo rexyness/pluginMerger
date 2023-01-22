@@ -31,7 +31,7 @@
         "Name": "Artisan [Grinch API 8]",
         "Description": "The all-in-one crafting plugin.",
         "InternalName": "Artisan",
-        "AssemblyVersion": "1.0.6.3",
+        "AssemblyVersion": "1.0.6.4",
         "ApplicableVersion": "any",
         "Tags": [
             "crafting"
@@ -39,13 +39,13 @@
         "DalamudApiLevel": 8,
         "Punchline": "A 'simple' crafting plugin.",
         "IconUrl": "https://love.puni.sh/resources/artisan.png",
-        "Changelog": "- Rename macros & crafting lists.\r\n- Craft X from recipe list.\r\n- Bug fixes.",
+        "Changelog": "- Please visit the Discord for a full list of updates.",
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Artisan/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://love.puni.sh/plugins/Artisan/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Artisan/latest.zip",
-        "LastUpdate": "1673469152"
+        "LastUpdate": "1674385686"
     },
     {
         "Author": "Puni.sh",
@@ -121,7 +121,7 @@
         "Description": "Various tools for private use.",
         "Changelog": "Add CraftQueue Module",
         "InternalName": "Athavar.FFXIV.Plugin",
-        "AssemblyVersion": "1.5.3",
+        "AssemblyVersion": "1.5.4",
         "RepoUrl": "https://github.com/Athavar/Athavar.FFXIV.Plugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -133,7 +133,7 @@
         "DownloadLinkTesting": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.Plugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.Plugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1674270057"
+        "LastUpdated": "1674406822"
     },
     {
         "Author": "Athavar",
@@ -395,7 +395,7 @@
         "Punchline": "Some FFXIV tweaks.",
         "AcceptsFeedback": true,
         "Changelog": "Search the markets\n\n- Fixed: Searching via Recipe Tree or Materials List doesn't crash the game anymore.",
-        "DownloadCount": 861,
+        "DownloadCount": 904,
         "LastUpdate": 1674175752,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.13/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.13/latest.zip"
@@ -415,7 +415,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "Preliminary update for Patch 6.3 Hotfix 1.\n\n- Fixed: Future-proofed reading the number of allowances and active levequests.",
-        "DownloadCount": 203,
+        "DownloadCount": 205,
         "LastUpdate": 1673676205,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.5/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.5/latest.zip"
@@ -613,7 +613,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1673874218,
-        "DownloadCount": 9703,
+        "DownloadCount": 10106,
         "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.1/HeelsPlugin.zip",
         "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.1/HeelsPlugin.zip",
         "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.1/HeelsPlugin.zip"
