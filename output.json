@@ -395,7 +395,7 @@
         "Punchline": "Some FFXIV tweaks.",
         "AcceptsFeedback": true,
         "Changelog": "Search the markets\n\n- Fixed: Searching via Recipe Tree or Materials List doesn't crash the game anymore.",
-        "DownloadCount": 797,
+        "DownloadCount": 861,
         "LastUpdate": 1674175752,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.13/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.13/latest.zip"
@@ -415,7 +415,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "Preliminary update for Patch 6.3 Hotfix 1.\n\n- Fixed: Future-proofed reading the number of allowances and active levequests.",
-        "DownloadCount": 198,
+        "DownloadCount": 203,
         "LastUpdate": 1673676205,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.5/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.5/latest.zip"
@@ -613,7 +613,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1673874218,
-        "DownloadCount": 9346,
+        "DownloadCount": 9703,
         "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.1/HeelsPlugin.zip",
         "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.1/HeelsPlugin.zip",
         "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.1/HeelsPlugin.zip"
@@ -693,7 +693,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1673721064,
-        "DownloadCount": 2,
+        "DownloadCount": 8,
         "DownloadLinkInstall": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFans.zip",
         "DownloadLinkTesting": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFans.zip",
         "DownloadLinkUpdate": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFans.zip"
@@ -723,7 +723,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1673721064,
-        "DownloadCount": 227,
+        "DownloadCount": 584,
         "DownloadLinkInstall": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip",
         "DownloadLinkTesting": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip",
         "DownloadLinkUpdate": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip"
@@ -994,7 +994,7 @@
         "Name": "XIV Combo Very Expanded [Grinch API 8]",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
         "InternalName": "XIVComboVX",
-        "AssemblyVersion": "8.1.8416.35511",
+        "AssemblyVersion": "8.1.8421.35556",
         "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -1004,7 +1004,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1674318616"
+        "LastUpdated": "1674330348"
     },
     {
         "Author": "VariableVixen",
@@ -1021,7 +1021,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1674318616"
+        "LastUpdated": "1674330348"
     },
     {
         "Author": "VariableVixen",
@@ -1038,7 +1038,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1674318616"
+        "LastUpdated": "1674330348"
     },
     {
         "Author": "PunishedPineapple",
@@ -1784,7 +1784,7 @@
         "Name": "Telesto [Grinch API 8]",
         "Description": "This plugin allows Triggernometry (and other programs, why not) some means to interact with the game directly.",
         "InternalName": "Telesto",
-        "AssemblyVersion": "0.9.6.1",
+        "AssemblyVersion": "0.9.7.0",
         "RepoUrl": "https://github.com/paissaheavyindustries/Telesto",
         "IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/telesto.png",
         "ApplicableVersion": "any",
@@ -1800,9 +1800,9 @@
         "IsTestingExclusive": "False",
         "LastUpdated": 0,
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/paissaheavyindustries/Telesto/releases/download/v0.9.6.1/Telesto_0_9_6_1.zip",
-        "DownloadLinkTesting": "https://github.com/paissaheavyindustries/Telesto/releases/download/v0.9.6.1/Telesto_0_9_6_1.zip",
-        "DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Telesto/releases/download/v0.9.6.1/Telesto_0_9_6_1.zip"
+        "DownloadLinkInstall": "https://github.com/paissaheavyindustries/Telesto/releases/download/v0.9.7.0/Telesto_0_9_7_0.zip",
+        "DownloadLinkTesting": "https://github.com/paissaheavyindustries/Telesto/releases/download/v0.9.7.0/Telesto_0_9_7_0.zip",
+        "DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Telesto/releases/download/v0.9.7.0/Telesto_0_9_7_0.zip"
     },
     {
         "Author": "Caraxi, Modified by Ori",
