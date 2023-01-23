@@ -384,7 +384,7 @@
         "Author": "Haselnussbomber",
         "Name": "HaselTweaks [Grinch API 8]",
         "InternalName": "HaselTweaks",
-        "AssemblyVersion": "0.7.13",
+        "AssemblyVersion": "0.7.14",
         "Description": "Included Tweaks:\n\n- Aether Current Helper\n- Auto Sort Armoury Chest\n- Character Class Switcher\n- Commands\n- Custom Chat Timestamp\n- DTR\n- Expert Deliveries\n- Forced Cutscene Music\n- Hide MSQ Complete\n- Keep Screen Awake\n- Minimap Adjustments\n- Refresh Material List\n- Reveal Duty Requirements\n- Scrollable Tabs\n- Search the markets\n- Series Exp Bar\n",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -394,11 +394,11 @@
         "LoadPriority": 0,
         "Punchline": "Some FFXIV tweaks.",
         "AcceptsFeedback": true,
-        "Changelog": "Search the markets\n\n- Fixed: Searching via Recipe Tree or Materials List doesn't crash the game anymore.",
-        "DownloadCount": 904,
-        "LastUpdate": 1674175752,
-        "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.13/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.13/latest.zip"
+        "Changelog": "Refresh Material List\n\n- Fixed: Possible crash fix.\n\nScrollable Tabs\n\n- Fixed: Minions and Mounts windows should be able to scroll out of favorites again (bug introduced in v0.7.12).\n- Changed: The plugin now uses the game's UI collision system to detect which window is being hovered instead of finding a match based on cursor and window position.",
+        "DownloadCount": 391,
+        "LastUpdate": 1674441746,
+        "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.14/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.7.14/latest.zip"
     },
     {
         "Author": "Haselnussbomber",
@@ -415,7 +415,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "Preliminary update for Patch 6.3 Hotfix 1.\n\n- Fixed: Future-proofed reading the number of allowances and active levequests.",
-        "DownloadCount": 205,
+        "DownloadCount": 209,
         "LastUpdate": 1673676205,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.5/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.5/latest.zip"
@@ -538,7 +538,7 @@
         "IsTestingExclusive": "False",
         "AssemblyVersion": "2.4.1.0",
         "LastUpdated": 1673896093,
-        "DownloadCount": 1457,
+        "DownloadCount": 2120,
         "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.4.1.0/latest.zip",
         "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.4.1.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.4.1.0/latest.zip"
@@ -569,7 +569,7 @@
         "IsTestingExclusive": "False",
         "AssemblyVersion": "1.1.2.3",
         "LastUpdated": 1674001897,
-        "DownloadCount": 0,
+        "DownloadCount": 154,
         "DownloadLinkInstall": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip",
         "DownloadLinkTesting": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip"
@@ -580,7 +580,7 @@
         "Punchline": "Craft stuffs",
         "Description": "Craft your things",
         "InternalName": "CraftingList",
-        "AssemblyVersion": "1.10.2",
+        "AssemblyVersion": "1.11.0",
         "ApplicableVersion": "any",
         "Tags": [
             "craft"
@@ -613,7 +613,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1673874218,
-        "DownloadCount": 10106,
+        "DownloadCount": 10751,
         "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.1/HeelsPlugin.zip",
         "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.1/HeelsPlugin.zip",
         "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.1/HeelsPlugin.zip"
@@ -734,7 +734,7 @@
         "Punchline": "A helper plugin for Dragonsong's Reprise (Ultimate).",
         "Description": "Current functions:\nResolve eyes position\nWroth flames automarker (whole group and personal)\nTether to your chain partner",
         "InternalName": "DSREyeLocator",
-        "AssemblyVersion": "2.0.0.9",
+        "AssemblyVersion": "2.0.1.0",
         "RepoUrl": "https://github.com/NightmareXIV/DSREyeLocator",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -794,7 +794,7 @@
         "Punchline": "Infinite waymarks in the world and target circles.",
         "Description": "",
         "InternalName": "Splatoon",
-        "AssemblyVersion": "3.2.0.2",
+        "AssemblyVersion": "3.2.0.4",
         "RepoUrl": "https://github.com/NightmareXIV/Splatoon",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -1586,27 +1586,6 @@
         "DownloadLinkUpdate": "https://github.com/awgil/ffxiv_plugin_distribution/raw/master/plugins/BossMod/latest.zip"
     },
     {
-        "Author": "attick, daemitus",
-        "Name": "XIV Combo Expanded [Grinch API 8]",
-        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
-        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
-        "InternalName": "XIVComboExpanded",
-        "AssemblyVersion": "1.4.0.4",
-        "RepoUrl": "https://github.com/daemitus/XIVComboPlugin",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
-        "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/daemitus/XIVComboPlugin/master/res/icon.png",
-        "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1673835988"
-    },
-    {
         "Author": "daemitus",
         "Name": "Yes Already [Grinch API 8]",
         "Punchline": "Clicks Yes in various dialogs you've specified.",
@@ -1625,7 +1604,28 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1673835988"
+        "LastUpdate": "1674421428"
+    },
+    {
+        "Author": "attick, daemitus",
+        "Name": "XIV Combo Expanded [Grinch API 8]",
+        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
+        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
+        "InternalName": "XIVComboExpanded",
+        "AssemblyVersion": "1.4.0.5",
+        "RepoUrl": "https://github.com/daemitus/XIVComboPlugin",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/daemitus/XIVComboPlugin/master/res/icon.png",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1674421428"
     },
     {
         "Author": "daemitus",
@@ -1646,7 +1646,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1673835988"
+        "LastUpdate": "1674421428"
     },
     {
         "Author": "DodingDaga",
@@ -1784,7 +1784,7 @@
         "Name": "Telesto [Grinch API 8]",
         "Description": "This plugin allows Triggernometry (and other programs, why not) some means to interact with the game directly.",
         "InternalName": "Telesto",
-        "AssemblyVersion": "0.9.7.0",
+        "AssemblyVersion": "0.9.8.0",
         "RepoUrl": "https://github.com/paissaheavyindustries/Telesto",
         "IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/telesto.png",
         "ApplicableVersion": "any",
@@ -1800,9 +1800,9 @@
         "IsTestingExclusive": "False",
         "LastUpdated": 0,
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/paissaheavyindustries/Telesto/releases/download/v0.9.7.0/Telesto_0_9_7_0.zip",
-        "DownloadLinkTesting": "https://github.com/paissaheavyindustries/Telesto/releases/download/v0.9.7.0/Telesto_0_9_7_0.zip",
-        "DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Telesto/releases/download/v0.9.7.0/Telesto_0_9_7_0.zip"
+        "DownloadLinkInstall": "https://github.com/paissaheavyindustries/Telesto/releases/download/v0.9.8.0/Telesto_0_9_8_0.zip",
+        "DownloadLinkTesting": "https://github.com/paissaheavyindustries/Telesto/releases/download/v0.9.8.0/Telesto_0_9_8_0.zip",
+        "DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Telesto/releases/download/v0.9.8.0/Telesto_0_9_8_0.zip"
     },
     {
         "Author": "Caraxi, Modified by Ori",
