@@ -396,7 +396,7 @@
         "Punchline": "Some FFXIV tweaks.",
         "AcceptsFeedback": true,
         "Changelog": "Auto Sorter\n\n- Changed: It's now possible to add more rules for the same category, allowing to sort with multiple conditions.\n- Added: A \"Run All\" button for easy testing.",
-        "DownloadCount": 833,
+        "DownloadCount": 900,
         "LastUpdate": 1674691108,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.1/latest.zip"
@@ -416,7 +416,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "Preliminary update for Patch 6.3 Hotfix 1.\n\n- Fixed: Future-proofed reading the number of allowances and active levequests.",
-        "DownloadCount": 227,
+        "DownloadCount": 229,
         "LastUpdate": 1673676205,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.5/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.5/latest.zip"
@@ -599,7 +599,7 @@
         "Name": "Heels Plugin [Grinch API 8]",
         "Description": "Offsets your character off the ground for when wearing heels.",
         "InternalName": "HeelsPlugin",
-        "AssemblyVersion": "1.3.1",
+        "AssemblyVersion": "1.3.2",
         "RepoUrl": "https://github.com/LeonBlade/HeelsPlugin",
         "ApplicableVersion": "any",
         "Tags": [
@@ -613,11 +613,11 @@
         "IconUrl": "https://github.com/LeonBlade/HeelsPlugin/raw/main/icon.png",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdated": 1673874218,
-        "DownloadCount": 12691,
-        "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.1/HeelsPlugin.zip",
-        "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.1/HeelsPlugin.zip",
-        "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.1/HeelsPlugin.zip"
+        "LastUpdated": 1674892759,
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip",
+        "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip",
+        "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip"
     },
     {
         "Author": "llock",
@@ -651,7 +651,7 @@
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1. Please keep an eye on the GitHub page for changes without a version bump!",
         "InternalName": "XIVComboExpandedCustomized",
-        "AssemblyVersion": "1.4.0.4",
+        "AssemblyVersion": "1.4.0.6",
         "RepoUrl": "https://github.com/maxunit/XIVComboPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -664,7 +664,7 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1673889640"
+        "LastUpdated": "1674861060"
     },
     {
         "Author": "Meisterlala",
