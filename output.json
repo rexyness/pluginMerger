@@ -396,7 +396,7 @@
         "Punchline": "Some FFXIV tweaks.",
         "AcceptsFeedback": true,
         "Changelog": "Auto Sorter\n\n- Changed: It's now possible to add more rules for the same category, allowing to sort with multiple conditions.\n- Added: A \"Run All\" button for easy testing.",
-        "DownloadCount": 944,
+        "DownloadCount": 1008,
         "LastUpdate": 1674691108,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.1/latest.zip"
@@ -416,7 +416,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "Preliminary update for Patch 6.3 Hotfix 1.\n\n- Fixed: Future-proofed reading the number of allowances and active levequests.",
-        "DownloadCount": 232,
+        "DownloadCount": 237,
         "LastUpdate": 1673676205,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.5/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.5/latest.zip"
@@ -614,7 +614,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1674892759,
-        "DownloadCount": 1006,
+        "DownloadCount": 5713,
         "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip",
         "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip",
         "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip"
@@ -694,7 +694,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1673721064,
-        "DownloadCount": 8,
+        "DownloadCount": 18,
         "DownloadLinkInstall": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFans.zip",
         "DownloadLinkTesting": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFans.zip",
         "DownloadLinkUpdate": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFans.zip"
@@ -724,7 +724,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1673721064,
-        "DownloadCount": 584,
+        "DownloadCount": 677,
         "DownloadLinkInstall": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip",
         "DownloadLinkTesting": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip",
         "DownloadLinkUpdate": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip"
@@ -1808,7 +1808,7 @@
         "Name": "Telesto [Grinch API 8]",
         "Description": "This plugin allows Triggernometry (and other programs, why not) some means to interact with the game directly.",
         "InternalName": "Telesto",
-        "AssemblyVersion": "0.9.8.2",
+        "AssemblyVersion": "0.9.8.3",
         "RepoUrl": "https://github.com/paissaheavyindustries/Telesto",
         "IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/telesto.png",
         "ApplicableVersion": "any",
@@ -1824,9 +1824,33 @@
         "IsTestingExclusive": "False",
         "LastUpdated": 0,
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/paissaheavyindustries/Telesto/releases/download/v0.9.8.2/Telesto_0_9_8_2.zip",
-        "DownloadLinkTesting": "https://github.com/paissaheavyindustries/Telesto/releases/download/v0.9.8.2/Telesto_0_9_8_2.zip",
-        "DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Telesto/releases/download/v0.9.8.2/Telesto_0_9_8_2.zip"
+        "DownloadLinkInstall": "https://github.com/paissaheavyindustries/Telesto/releases/download/v0.9.8.3/Telesto_0_9_8_3.zip",
+        "DownloadLinkTesting": "https://github.com/paissaheavyindustries/Telesto/releases/download/v0.9.8.3/Telesto_0_9_8_3.zip",
+        "DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Telesto/releases/download/v0.9.8.3/Telesto_0_9_8_3.zip"
+    },
+    {
+        "Author": "Paissa Heavy Industries",
+        "Name": "Chibi Omega [Grinch API 8]",
+        "Punchline": "Aww, he's so cute! But don't let his diminished stature fool you; his damage output has not scaled to match.",
+        "InternalName": "Chibi Omega",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/paissaheavyindustries/Chibi-Omega",
+        "IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/chibi_omega.png",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "omega",
+            "smolmega",
+            "cute",
+            "meow"
+        ],
+        "DalamudApiLevel": 8,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdated": 0,
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/paissaheavyindustries/Chibi-Omega/releases/download/v1.0.0.0/Chibi_Omega_1_0_0_0.zip",
+        "DownloadLinkTesting": "https://github.com/paissaheavyindustries/Chibi-Omega/releases/download/v1.0.0.0/Chibi_Omega_1_0_0_0.zip",
+        "DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Chibi-Omega/releases/download/v1.0.0.0/Chibi_Omega_1_0_0_0.zip"
     },
     {
         "Author": "Caraxi, Modified by Ori",
