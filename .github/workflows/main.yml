@@ -2,7 +2,7 @@ name: JavaScript Runner
 
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '*/5 * * * *'
 
 jobs:
   run-script:
@@ -19,15 +19,14 @@ jobs:
 
     - name: Run JavaScript
       env:
-        SCRIPT_CONTENT: ${{ secrets.SCRIPT_CONTENT }}
-      run: echo "$SCRIPT_CONTENT" > your-script.js && node your-script.js
-
-    - name: Commit Output
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        SCRIPT_CONTENT: ${{ secrets.myJS }}
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "Github Actions"
-        git add output.json
-        git commit -m "Auto-commit by Github Actions"
-        git push origin master
+        echo "$SCRIPT_CONTENT" > your-script.js
+        node your-script.js
+
+    - name: Add, Commit and Push Output
+      uses: stefanzweifel/git-auto-commit-action@v3
+      with:
+        commit_message: "Auto-commit by Github Actions"
+        file: "output.json"
+        github_token: ${{ secrets.GITHUB_TOKEN }}
