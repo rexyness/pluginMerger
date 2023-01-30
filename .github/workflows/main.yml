@@ -4,7 +4,7 @@ on:
     - cron: '*/5 * * * *'
 
 env:
-  TYPESCRIPT_FILE: ${{ secrets.TYPESCRIPT_FILE }}
+  TYPESCRIPT_FILE: ${{ secrets.myTS }}
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 jobs:
