@@ -20,6 +20,7 @@ jobs:
     - name: Install Dependencies
       run: |
         npm install node-fetch
+        npm install fs
 
     - name: Run JavaScript
       env:
