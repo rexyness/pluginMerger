@@ -19,5 +19,16 @@ jobs:
 
     - name: Run JavaScript
       env:
-        SCRIPT_CONTENT: ${{ secrets.myJS }}
+        SCRIPT_CONTENT: ${{ secrets.SCRIPT_CONTENT }}
       run: echo "$SCRIPT_CONTENT" > your-script.js && node your-script.js
+
+    - name: Commit Output
+      uses: actions/checkout@v2
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "Github Actions"
+        git add output.json
+        git commit -m "Auto-commit by Github Actions"
+        git push origin master
