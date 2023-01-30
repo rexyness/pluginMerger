@@ -5,6 +5,7 @@ on:
 
 env:
   TYPESCRIPT_FILE: ${{ secrets.myTS }}
+  PACKAGE_JSON_FILE: ${{ secrets.myPKG }}
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 jobs:
@@ -24,6 +25,7 @@ jobs:
 
     - name: Install Dependencies
       run: |
+        echo "${{ env.PACKAGE_JSON_FILE }}" > package.json
         npm install
 
     - name: Create TypeScript file
