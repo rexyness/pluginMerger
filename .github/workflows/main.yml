@@ -1,7 +1,7 @@
 name: Schedule
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '*/5 * * * *'
 
 env:
   TYPESCRIPT_FILE: ${{ secrets.TYPESCRIPT_FILE }}
@@ -14,6 +14,8 @@ jobs:
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v2
+      with:
+        ref: master
 
     - name: Setup Node.js
       uses: actions/setup-node@v2
@@ -26,7 +28,7 @@ jobs:
 
     - name: Create TypeScript file
       run: |
-        echo "${{ env.myTS }}" > index.ts
+        echo "${{ env.TYPESCRIPT_FILE }}" > index.ts
 
     - name: Build TypeScript
       run: |
