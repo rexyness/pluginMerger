@@ -23,7 +23,6 @@ jobs:
       run: echo "$SCRIPT_CONTENT" > your-script.js && node your-script.js
 
     - name: Commit Output
-      uses: actions/checkout@v2
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
