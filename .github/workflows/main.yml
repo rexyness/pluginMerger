@@ -1,7 +1,7 @@
 name: Schedule
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: "*/5 * * * *"
 
 env:
   TYPESCRIPT_FILE: ${{ secrets.myTS }}
@@ -13,32 +13,35 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v2
-      with:
-        ref: master
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+        with:
+          ref: master
 
-    - name: Setup Node.js
-      uses: actions/setup-node@v2
-      with:
-        node-version: 16
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: 16
 
-    - name: Install Dependencies
-      run: |
-        echo "${{ env.PACKAGE_JSON_FILE }}" > package.json
-        npm install
+      - name: Create Package JSON
+        run: |
+          echo "${{ env.PACKAGE_JSON_FILE }}" > package.json
 
-    - name: Create TypeScript file
-      run: |
-        echo "${{ env.TYPESCRIPT_FILE }}" > index.ts
+      - name: Install Dependencies
+        run: |
+          echo "${{ env.PACKAGE_JSON_FILE }}" > package.json
+          npm install
+      - name: Create TypeScript file
+        run: |
+          echo "${{ env.TYPESCRIPT_FILE }}" > index.ts
 
-    - name: Build TypeScript
-      run: |
-        npx tsc index.ts
+      - name: Build TypeScript
+        run: |
+          npx tsc index.ts
 
-    - name: Commit Output
-      uses: endBug/add-and-commit@v4
-      with:
-        args: -m 'Update output' output.json
-      env:
-        GITHUB_TOKEN: ${{ env.GITHUB_TOKEN }}
+      - name: Commit Output
+        uses: endBug/add-and-commit@v4
+        with:
+          args: -m 'Update output' output.json
+        env:
+          GITHUB_TOKEN: ${{ env.GITHUB_TOKEN }}
