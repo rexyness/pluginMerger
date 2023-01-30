@@ -25,7 +25,7 @@ jobs:
 
       - name: Create Package JSON
         run: |
-          echo "${{ env.PACKAGE_JSON_FILE }}" > package.json
+          echo "${{ env.PACKAGE_JSON_FILE }}" | jq > package.json
 
       - name: Install Dependencies
         run: |
