@@ -48,6 +48,28 @@
         "LastUpdate": "1674385686"
     },
     {
+        "Author": "Puni.sh (Taurenkey)",
+        "Name": "Saucy [Grinch API 8]",
+        "Description": "Automates certain Gold Saucer mini-games.",
+        "InternalName": "Saucy",
+        "AssemblyVersion": "1.0.0.0",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "gold saucer",
+            "mgp",
+            "automation"
+        ],
+        "DalamudApiLevel": 8,
+        "Punchline": "When working for MGP is too much effort.",
+        "IconUrl": "https://love.puni.sh/resources/saucy.png",
+        "DownloadLinkInstall": "https://love.puni.sh/plugins/Saucy/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://love.puni.sh/plugins/Saucy/latest.zip",
+        "DownloadLinkUpdate": "https://love.puni.sh/plugins/Saucy/latest.zip",
+        "LastUpdate": "1675605560"
+    },
+    {
         "Author": "Puni.sh",
         "Name": "Avarice [Grinch API 8]",
         "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
@@ -118,10 +140,10 @@
         "Author": "Athavar",
         "Name": "Athavar's ToolBox [Grinch API 8]",
         "Punchline": "Various tools for private use.",
-        "Description": "Various tools for private use.",
-        "Changelog": "Add CraftQueue Module",
+        "Description": "Various tools for private use. Module: AutoSpear, CraftQueue, Dps, Instancinator, Macro, OpcodeWizard, Yes",
+        "Changelog": "Add OpcodeWizard and DPS (Test) Module",
         "InternalName": "Athavar.FFXIV.Plugin",
-        "AssemblyVersion": "1.5.4",
+        "AssemblyVersion": "2.0.5",
         "RepoUrl": "https://github.com/Athavar/Athavar.FFXIV.Plugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -133,7 +155,7 @@
         "DownloadLinkTesting": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.Plugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.Plugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1674406822"
+        "LastUpdated": "1675644568"
     },
     {
         "Author": "Athavar",
@@ -385,7 +407,7 @@
         "Author": "Haselnussbomber",
         "Name": "HaselTweaks [Grinch API 8]",
         "InternalName": "HaselTweaks",
-        "AssemblyVersion": "0.9.4",
+        "AssemblyVersion": "0.9.5",
         "Description": "Included Tweaks:\n\n- Aether Current Helper\n- Auto Sorter\n- Character Class Switcher\n- Commands\n- Custom Chat Timestamp\n- DTR\n- Expert Deliveries\n- Forced Cutscene Music\n- Hide MSQ Complete\n- Keep Screen Awake\n- Minimap Adjustments\n- Refresh Material List\n- Reveal Duty Requirements\n- Scrollable Tabs\n- Search the markets\n- Series Exp Bar\n",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -395,11 +417,11 @@
         "LoadPriority": 0,
         "Punchline": "Some FFXIV tweaks.",
         "AcceptsFeedback": true,
-        "Changelog": "Auto Sorter\n\n- Added: It's now possible to disable rules.\n- Fixed: When text commands are unavailable, for example when placing housing furniture, sorting operations will be skipped.\n- Fixed: The delete button now also work with the right shift key.\n\nEnhanced Experience Bar\n\n- Fixed: In Update 6.3 the current rank and claimed rank were swapped. Updated the code to reflect the change.",
-        "DownloadCount": 675,
-        "LastUpdate": 1675333786,
-        "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.4/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.4/latest.zip"
+        "Changelog": "Fix for game crash caused by FFXIVClientStructs changes.",
+        "DownloadCount": 912,
+        "LastUpdate": 1675537082,
+        "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.5/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.5/latest.zip"
     },
     {
         "Author": "Haselnussbomber",
@@ -416,7 +438,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "- Added: Added the option to filter for Accepted levequests to the \"Status\" filter.",
-        "DownloadCount": 0,
+        "DownloadCount": 207,
         "LastUpdate": 1675399152,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip"
@@ -539,7 +561,7 @@
         "IsTestingExclusive": "False",
         "AssemblyVersion": "2.4.2.3",
         "LastUpdated": 1675175922,
-        "DownloadCount": 0,
+        "DownloadCount": 2240,
         "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.4.2.3/latest.zip",
         "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.4.2.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.4.2.3/latest.zip"
@@ -570,7 +592,7 @@
         "IsTestingExclusive": "False",
         "AssemblyVersion": "1.1.2.3",
         "LastUpdated": 1674001897,
-        "DownloadCount": 186,
+        "DownloadCount": 207,
         "DownloadLinkInstall": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip",
         "DownloadLinkTesting": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip"
@@ -581,7 +603,7 @@
         "Punchline": "Craft stuffs",
         "Description": "Craft your things",
         "InternalName": "CraftingList",
-        "AssemblyVersion": "1.11.1",
+        "AssemblyVersion": "1.12.1",
         "ApplicableVersion": "any",
         "Tags": [
             "craft"
@@ -614,7 +636,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1674892759,
-        "DownloadCount": 11557,
+        "DownloadCount": 13920,
         "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip",
         "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip",
         "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip"
@@ -995,7 +1017,7 @@
         "Name": "XIV Combo Very Expanded [Grinch API 8]",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
         "InternalName": "XIVComboVX",
-        "AssemblyVersion": "8.1.8425.7497",
+        "AssemblyVersion": "8.1.8436.40752",
         "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -1005,7 +1027,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1674619832"
+        "LastUpdated": "1675636741"
     },
     {
         "Author": "VariableVixen",
@@ -1022,7 +1044,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1674619832"
+        "LastUpdated": "1675636741"
     },
     {
         "Author": "VariableVixen",
@@ -1039,7 +1061,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1674619832"
+        "LastUpdated": "1675636741"
     },
     {
         "Author": "PunishedPineapple",
@@ -1894,6 +1916,34 @@
         "DownloadLinkInstall": "https://github.com/paissaheavyindustries/Chibi-Omega/releases/download/v1.0.0.1/Chibi_Omega_1_0_0_1.zip",
         "DownloadLinkTesting": "https://github.com/paissaheavyindustries/Chibi-Omega/releases/download/v1.0.0.1/Chibi_Omega_1_0_0_1.zip",
         "DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Chibi-Omega/releases/download/v1.0.0.1/Chibi_Omega_1_0_0_1.zip"
+    },
+    {
+        "Author": "Paissa Heavy Industries",
+        "Name": "Tallafell [Grinch API 8]",
+        "Punchline": "They hide inside bosses' legs! Clothing! Other players! No longer, I say -- it's time to put an end to the Lalafell menace.",
+        "InternalName": "Tallafell",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/paissaheavyindustries/Tallafell",
+        "IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/tallafell.png",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "lalafell",
+            "tol",
+            "tallafell",
+            "cursed",
+            "creepy",
+            "nope",
+            "every day we stray further from god's light",
+            "meow"
+        ],
+        "DalamudApiLevel": 8,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdated": 0,
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/paissaheavyindustries/Tallafell/releases/download/v1.0.0.0/Tallafell_1_0_0_0.zip",
+        "DownloadLinkTesting": "https://github.com/paissaheavyindustries/Tallafell/releases/download/v1.0.0.0/Tallafell_1_0_0_0.zip",
+        "DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Tallafell/releases/download/v1.0.0.0/Tallafell_1_0_0_0.zip"
     },
     {
         "Author": "Caraxi, Modified by Ori",
