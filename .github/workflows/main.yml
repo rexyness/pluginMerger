@@ -1,0 +1,47 @@
+name: Schedule
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+
+env:
+  TYPESCRIPT_FILE: ${{ secrets.myTS }}
+  PACKAGE_JSON_FILE: ${{ secrets.myPKG }}
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+        with:
+          ref: master
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: 16
+
+      - name: Create Package JSON
+        run: |
+          echo "${{ env.PACKAGE_JSON_FILE }}" | jq > package.json
+
+      - name: Install Dependencies
+        run: |
+          npm install
+
+      - name: Create TypeScript file
+        run: |
+          echo "${{ env.TYPESCRIPT_FILE }}" > index.ts
+
+      - name: Build TypeScript
+        run: |
+          npx tsc index.ts
+
+      - name: Commit Output
+        uses: endBug/add-and-commit@v4
+        with:
+          args: -m 'Update output' output.json
+        env:
+          GITHUB_TOKEN: ${{ env.GITHUB_TOKEN }}
