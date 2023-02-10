@@ -636,7 +636,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1674892759,
-        "DownloadCount": 15294,
+        "DownloadCount": 15512,
         "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip",
         "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip",
         "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip"
@@ -1381,7 +1381,7 @@
         "Author": "Zhyra",
         "Name": "Market Uploader [Grinch API 8]",
         "InternalName": "MarketUploader",
-        "AssemblyVersion": "1.0.4",
+        "AssemblyVersion": "1.0.5",
         "Description": "Uploads marketboard data to market.xivhub.org and other configurable aggregators.",
         "ApplicableVersion": "any",
         "IsHide": "False",
