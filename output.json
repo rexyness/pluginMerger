@@ -52,7 +52,7 @@
         "Name": "Saucy [Grinch API 8]",
         "Description": "Automates certain Gold Saucer mini-games.",
         "InternalName": "Saucy",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.0.0.3",
         "ApplicableVersion": "any",
         "Tags": [
             "gold saucer",
@@ -67,7 +67,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://love.puni.sh/plugins/Saucy/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Saucy/latest.zip",
-        "LastUpdate": "1675605560"
+        "LastUpdate": "1676242950"
     },
     {
         "Author": "Puni.sh",
@@ -141,21 +141,24 @@
         "Name": "Athavar's ToolBox [Grinch API 8]",
         "Punchline": "Various tools for private use.",
         "Description": "Various tools for private use. Module: AutoSpear, CraftQueue, Dps, Instancinator, Macro, OpcodeWizard, Yes",
-        "Changelog": "Version 2.0.9\n[dps] add setting to configure text refresh rate\n\nVersion 2.0.8\n[dps] fix multiple adding of Combatant in a singe encounter\n[dps] improve encounter stat calculation's\n\nVersion 2.0.7\n[dps] Add History Tab\n[dps] Limit dps/hps calculation in the first second\n\nVersion 2.0.6\n[opcodewizard] Add remote pull of opcodes\n[dps] fix duration of TerritoryEncounter\n[dps] fix that encounter is detected as invalid for filter set\nfix GetPercentHq for crafts without Hq possibility",
+        "Changelog": null,
         "InternalName": "Athavar.FFXIV.Plugin",
-        "AssemblyVersion": "2.0.9",
+        "AssemblyVersion": "2.0.11",
         "RepoUrl": "https://github.com/Athavar/Athavar.FFXIV.Plugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
         "IconUrl": "https://raw.githubusercontent.com/Athavar/Athavar.FFXIV.DalaRepo/master/plugins/Athavar.FFXIV.Plugin/images/icon.png",
         "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.Plugin/latest.zip",
+        "LoadSync": false,
+        "AcceptsFeedback": false,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.11/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.Plugin/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.Plugin/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.11/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.11/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1675820483"
+        "LastUpdated": "1676175149"
     },
     {
         "Author": "Athavar",
@@ -170,6 +173,9 @@
         "DalamudApiLevel": 8,
         "IconUrl": "https://raw.githubusercontent.com/Athavar/Athavar.FFXIV.DalaRepo/master/plugins/Athavar.FFXIV.StreamDeckPlugin/images/icon.png",
         "ImageUrls": [],
+        "LoadSync": false,
+        "AcceptsFeedback": false,
+        "LoadPriority": 0,
         "DownloadLinkInstall": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.StreamDeckPlugin/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
@@ -388,7 +394,7 @@
         "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
         "Changelog": "1.4.1.0:\r\n* Black Mage Fire/Blizzard Switch Feature added.\r\n* Extensive Paladin changes. Some new features, some changed ones, a lot of removed ones.\r\n\r\n1.4.1.2:\r\n* Paladin Confiteor Feature returned (but it works differently and much more simply).\r\n* Paladin Royal Authority to Holy Spirit Feature added.\r\n\r\n1.4.1.6:\r\n* Dropping Atonement is now no longer considered a damage gain. Therefore, Royal Authority to Atonement is back on the menu.\r\n\r\n1.4.1.8:\r\n* Royal Authority to Holy Spirit decoupled from combo (still works with it, of course).\r\n* Shield Lob to Holy Spirit added.\r\n* Fight or Flight to Requiescat added.\r\n\r\nIf a recent change isn't documented on this changelog, it is because it doesn't affect plugin functionality, or is a minor bugfix.",
         "InternalName": "XIVComboExpandedest",
-        "AssemblyVersion": "1.4.1.9",
+        "AssemblyVersion": "1.4.1.91",
         "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -401,13 +407,13 @@
         "DownloadLinkTesting": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadLinkUpdate": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1674079124"
+        "LastUpdate": "1676167219"
     },
     {
         "Author": "Haselnussbomber",
         "Name": "HaselTweaks [Grinch API 8]",
         "InternalName": "HaselTweaks",
-        "AssemblyVersion": "0.9.5",
+        "AssemblyVersion": "0.9.8",
         "Description": "Included Tweaks:\n\n- Aether Current Helper\n- Auto Sorter\n- Character Class Switcher\n- Commands\n- Custom Chat Timestamp\n- DTR\n- Expert Deliveries\n- Forced Cutscene Music\n- Hide MSQ Complete\n- Keep Screen Awake\n- Minimap Adjustments\n- Refresh Material List\n- Reveal Duty Requirements\n- Scrollable Tabs\n- Search the markets\n- Series Exp Bar\n",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -417,11 +423,11 @@
         "LoadPriority": 0,
         "Punchline": "Some FFXIV tweaks.",
         "AcceptsFeedback": true,
-        "Changelog": "Fix for game crash caused by FFXIVClientStructs changes.",
-        "DownloadCount": 1064,
-        "LastUpdate": 1675537082,
-        "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.5/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.5/latest.zip"
+        "Changelog": "DTR\n\n- Fixed: Initial values changed to -1 instead of 0, so it wont show empty DTRs after starting the game/enabling the tweak.",
+        "DownloadCount": 899,
+        "LastUpdate": 1676374313,
+        "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.8/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.8/latest.zip"
     },
     {
         "Author": "Haselnussbomber",
@@ -438,7 +444,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "- Added: Added the option to filter for Accepted levequests to the \"Status\" filter.",
-        "DownloadCount": 232,
+        "DownloadCount": 271,
         "LastUpdate": 1675399152,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip"
@@ -495,9 +501,9 @@
         "Name": "ReAction [Grinch API 8]",
         "Punchline": "QoL for the battle system.",
         "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
-        "Changelog": "",
+        "Changelog": "Plugin rework, early pull protection for spell autos, LB queuing, universal macro queue option, Fractionality feature, several bug fixes",
         "InternalName": "ReAction",
-        "AssemblyVersion": "1.1.6.7",
+        "AssemblyVersion": "1.2.0.0",
         "RepoUrl": "https://github.com/UnknownX7/ReAction",
         "ApplicableVersion": "any",
         "CategoryTags": [
@@ -514,7 +520,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1674143530"
+        "LastUpdate": "1676522467"
     },
     {
         "Author": "Liza Carvelli",
@@ -561,7 +567,7 @@
         "IsTestingExclusive": "False",
         "AssemblyVersion": "2.4.2.3",
         "LastUpdated": 1675175922,
-        "DownloadCount": 2240,
+        "DownloadCount": 2711,
         "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.4.2.3/latest.zip",
         "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.4.2.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.4.2.3/latest.zip"
@@ -592,7 +598,7 @@
         "IsTestingExclusive": "False",
         "AssemblyVersion": "1.1.2.3",
         "LastUpdated": 1674001897,
-        "DownloadCount": 207,
+        "DownloadCount": 231,
         "DownloadLinkInstall": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip",
         "DownloadLinkTesting": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip"
@@ -603,7 +609,7 @@
         "Punchline": "Craft stuffs",
         "Description": "Craft your things",
         "InternalName": "CraftingList",
-        "AssemblyVersion": "1.12.5",
+        "AssemblyVersion": "1.13.1",
         "ApplicableVersion": "any",
         "Tags": [
             "craft"
@@ -636,7 +642,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1674892759,
-        "DownloadCount": 15512,
+        "DownloadCount": 17822,
         "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip",
         "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip",
         "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip"
@@ -673,7 +679,7 @@
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1. Please keep an eye on the GitHub page for changes without a version bump!",
         "InternalName": "XIVComboExpandedCustomized",
-        "AssemblyVersion": "1.4.0.6",
+        "AssemblyVersion": "1.4.0.7",
         "RepoUrl": "https://github.com/maxunit/XIVComboPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -686,7 +692,7 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1675871491"
+        "LastUpdated": "1676486976"
     },
     {
         "Author": "Meisterlala",
@@ -716,7 +722,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1673721064,
-        "DownloadCount": 30,
+        "DownloadCount": 41,
         "DownloadLinkInstall": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFans.zip",
         "DownloadLinkTesting": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFans.zip",
         "DownloadLinkUpdate": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFans.zip"
@@ -746,7 +752,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1673721064,
-        "DownloadCount": 829,
+        "DownloadCount": 913,
         "DownloadLinkInstall": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip",
         "DownloadLinkTesting": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip",
         "DownloadLinkUpdate": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip"
@@ -817,7 +823,7 @@
         "Punchline": "Infinite waymarks in the world and target circles.",
         "Description": "",
         "InternalName": "Splatoon",
-        "AssemblyVersion": "3.2.1.1",
+        "AssemblyVersion": "3.2.1.3",
         "RepoUrl": "https://github.com/NightmareXIV/Splatoon",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -1017,7 +1023,7 @@
         "Name": "XIV Combo Very Expanded [Grinch API 8]",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
         "InternalName": "XIVComboVX",
-        "AssemblyVersion": "8.1.8441.10571",
+        "AssemblyVersion": "8.1.8442.6615",
         "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -1027,14 +1033,14 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1676008378"
+        "LastUpdated": "1676086937"
     },
     {
         "Author": "VariableVixen",
         "Name": "TinyCommands [Grinch API 8]",
         "Description": "Adds tiny and simple but useful chat commands, and nothing more. It doesn't even have a UI.",
         "InternalName": "TinyCmds",
-        "AssemblyVersion": "7.0.8439.17938",
+        "AssemblyVersion": "7.0.8442.6653",
         "RepoUrl": "https://github.com/PrincessRTFM/TinyCommands",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -1044,7 +1050,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1676008378"
+        "LastUpdated": "1676086937"
     },
     {
         "Author": "VariableVixen",
@@ -1061,7 +1067,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1676008378"
+        "LastUpdated": "1676086937"
     },
     {
         "Author": "PunishedPineapple",
@@ -1228,20 +1234,18 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1675170013"
+        "LastUpdate": "1676522467"
     },
     {
         "Author": "UnknownX",
         "Name": "Fractionality [Grinch API 8]",
-        "Punchline": "Changes /wait and <wait> to support fractions",
-        "Description": "Adds 3 decimal precision waiting to macros and removes the 60 seconds cap.",
+        "Punchline": "DEPRECATED",
+        "Description": "This plugin is available as an option in ReAction now.",
         "InternalName": "Fractionality",
-        "AssemblyVersion": "1.0.1.4",
+        "AssemblyVersion": "1.0.1.5",
         "RepoUrl": "https://github.com/UnknownX7/Fractionality",
         "ApplicableVersion": "any",
-        "CategoryTags": [
-            "utility"
-        ],
+        "CategoryTags": [],
         "DalamudApiLevel": 8,
         "IconUrl": "",
         "ImageUrls": [
@@ -1253,7 +1257,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1675170013"
+        "LastUpdate": "1676522467"
     },
     {
         "Author": "UnknownX",
@@ -1280,7 +1284,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1675170013"
+        "LastUpdate": "1676522467"
     },
     {
         "Author": "UnknownX",
@@ -1306,7 +1310,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1675170013"
+        "LastUpdate": "1676522467"
     },
     {
         "Author": "UnknownX",
@@ -1332,7 +1336,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1675170013"
+        "LastUpdate": "1676522467"
     },
     {
         "Author": "XIV Tools",
@@ -1670,7 +1674,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1674689357"
+        "LastUpdate": "1676516493"
     },
     {
         "Author": "attick, daemitus",
@@ -1678,7 +1682,7 @@
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
         "InternalName": "XIVComboExpanded",
-        "AssemblyVersion": "1.4.0.6",
+        "AssemblyVersion": "1.4.0.8",
         "RepoUrl": "https://github.com/daemitus/XIVComboPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -1691,7 +1695,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1674689357"
+        "LastUpdate": "1676516493"
     },
     {
         "Author": "daemitus",
@@ -1712,7 +1716,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1674689357"
+        "LastUpdate": "1676516493"
     },
     {
         "Author": "DodingDaga",
@@ -1873,7 +1877,7 @@
         "Name": "Telesto [Grinch API 8]",
         "Description": "This plugin allows Triggernometry (and other programs, why not) some means to interact with the game directly.",
         "InternalName": "Telesto",
-        "AssemblyVersion": "0.9.8.3",
+        "AssemblyVersion": "0.9.8.4",
         "RepoUrl": "https://github.com/paissaheavyindustries/Telesto",
         "IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/telesto.png",
         "ApplicableVersion": "any",
@@ -1889,9 +1893,9 @@
         "IsTestingExclusive": "False",
         "LastUpdated": 0,
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/paissaheavyindustries/Telesto/releases/download/v0.9.8.3/Telesto_0_9_8_3.zip",
-        "DownloadLinkTesting": "https://github.com/paissaheavyindustries/Telesto/releases/download/v0.9.8.3/Telesto_0_9_8_3.zip",
-        "DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Telesto/releases/download/v0.9.8.3/Telesto_0_9_8_3.zip"
+        "DownloadLinkInstall": "https://github.com/paissaheavyindustries/Telesto/releases/download/v0.9.8.4/Telesto_0_9_8_4.zip",
+        "DownloadLinkTesting": "https://github.com/paissaheavyindustries/Telesto/releases/download/v0.9.8.4/Telesto_0_9_8_4.zip",
+        "DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Telesto/releases/download/v0.9.8.4/Telesto_0_9_8_4.zip"
     },
     {
         "Author": "Paissa Heavy Industries",
@@ -1976,7 +1980,7 @@
         "Author": "akira0245, Ori",
         "Name": "MidiBard 2 [Grinch API 8]",
         "InternalName": "MidiBard2",
-        "AssemblyVersion": "2.4.0.1",
+        "AssemblyVersion": "2.5.0.0",
         "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
         "ApplicableVersion": "any",
         "RepoUrl": "https://midibard.org",
@@ -1993,12 +1997,12 @@
         ],
         "IconUrl": "https://i.imgur.com/OSxqew4.png",
         "Punchline": "Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
-        "Changelog": "+ Use regex to identify track names, better compatibility for some old MIDI files.\n+ Saves the last folder of file import.\n+ Even better sync on some lower-end PCs.\n\n- Remove auto set background frame limitation functon as it's been implemented in Bard Toolbox in a more elegant way. Please Google and install Bard Toolbox if you need this function.",
+        "Changelog": "+ Ensemble Compensation Editor for each instrument.\n+ Streamer Support: Write the name of the current playing song to a local *.txt file for OBS to read. This function needs Bard Toolbox v1.7 to be installed.",
         "AcceptsFeedback": false,
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "DownloadCount": 61021,
-        "LastUpdate": "1673661946",
+        "LastUpdate": "1674502217",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip"
