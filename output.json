@@ -31,7 +31,7 @@
         "Name": "Artisan [Grinch API 8]",
         "Description": "The all-in-one crafting plugin.",
         "InternalName": "Artisan",
-        "AssemblyVersion": "1.0.6.4",
+        "AssemblyVersion": "1.0.6.7",
         "ApplicableVersion": "any",
         "Tags": [
             "crafting"
@@ -45,14 +45,14 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://love.puni.sh/plugins/Artisan/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Artisan/latest.zip",
-        "LastUpdate": "1674385686"
+        "LastUpdate": "1676828498"
     },
     {
         "Author": "Puni.sh (Taurenkey)",
         "Name": "Saucy [Grinch API 8]",
         "Description": "Automates certain Gold Saucer mini-games.",
         "InternalName": "Saucy",
-        "AssemblyVersion": "1.0.0.3",
+        "AssemblyVersion": "1.0.0.4",
         "ApplicableVersion": "any",
         "Tags": [
             "gold saucer",
@@ -67,7 +67,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://love.puni.sh/plugins/Saucy/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Saucy/latest.zip",
-        "LastUpdate": "1676242950"
+        "LastUpdate": "1676748742"
     },
     {
         "Author": "Puni.sh",
@@ -135,6 +135,48 @@
         "DownloadLinkUpdate": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "1675827581"
+    },
+    {
+        "Author": "Ajisai Mirai",
+        "Name": "Who emoted at me [Grinch API 8]",
+        "InternalName": "WhoEmotedAtMe",
+        "AssemblyVersion": "1.1.1.1",
+        "RepoUrl": "https://github.com/AjisaiMirai/Who-emoted-at-me",
+        "Description": "Ever AFK and curious if people emoted at you? No longer.",
+        "ApplicableVersion": "any",
+        "Tags": [],
+        "DalamudApiLevel": 10,
+        "Punchline": "Never miss an emote to you ever again!",
+        "IsHide": false,
+        "IconUrl": "",
+        "Changelog": "Update to latest game build",
+        "LastUpdated": "0",
+        "DownloadCount": 0,
+        "IsTestingExclusive": false,
+        "DownloadLinkInstall": "https://github.com/AjisaiMirai/plugins/releases/download/Release/WhoEmotedAtMe.zip",
+        "DownloadLinkTesting": "https://github.com/AjisaiMirai/plugins/releases/download/Release/WhoEmotedAtMe.zip",
+        "DownloadLinkUpdate": "https://github.com/AjisaiMirai/plugins/releases/download/Release/WhoEmotedAtMe.zip"
+    },
+    {
+        "Author": "Ajisai Mirai",
+        "Name": "Misc shit [Grinch API 8]",
+        "InternalName": "MiscPlugin",
+        "AssemblyVersion": "0.1.19.0",
+        "RepoUrl": "https://github.com/AjisaiMirai/MiscPlugin",
+        "Description": "Misc stuff I made.",
+        "ApplicableVersion": "any",
+        "Tags": [],
+        "DalamudApiLevel": 10,
+        "Punchline": "Misc stuff.",
+        "IsHide": false,
+        "IconUrl": "",
+        "Changelog": "Update to latest game build",
+        "LastUpdated": "0",
+        "DownloadCount": 0,
+        "IsTestingExclusive": false,
+        "DownloadLinkInstall": "https://github.com/AjisaiMirai/plugins/releases/download/Release/MiscPlugin.zip",
+        "DownloadLinkTesting": "https://github.com/AjisaiMirai/plugins/releases/download/Release/MiscPlugin.zip",
+        "DownloadLinkUpdate": "https://github.com/AjisaiMirai/plugins/releases/download/Release/MiscPlugin.zip"
     },
     {
         "Author": "Athavar",
@@ -472,7 +514,7 @@
         "Punchline": "Some FFXIV tweaks.",
         "AcceptsFeedback": true,
         "Changelog": "DTR\n\n- Fixed: Initial values changed to -1 instead of 0, so it wont show empty DTRs after starting the game/enabling the tweak.",
-        "DownloadCount": 1019,
+        "DownloadCount": 1120,
         "LastUpdate": 1676374313,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.8/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.9.8/latest.zip"
@@ -492,7 +534,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "- Added: Added the option to filter for Accepted levequests to the \"Status\" filter.",
-        "DownloadCount": 278,
+        "DownloadCount": 289,
         "LastUpdate": 1675399152,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip"
@@ -615,7 +657,7 @@
         "IsTestingExclusive": "False",
         "AssemblyVersion": "2.4.2.3",
         "LastUpdated": 1675175922,
-        "DownloadCount": 2711,
+        "DownloadCount": 3057,
         "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.4.2.3/latest.zip",
         "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.4.2.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.4.2.3/latest.zip"
@@ -646,7 +688,7 @@
         "IsTestingExclusive": "False",
         "AssemblyVersion": "1.1.2.3",
         "LastUpdated": 1674001897,
-        "DownloadCount": 231,
+        "DownloadCount": 248,
         "DownloadLinkInstall": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip",
         "DownloadLinkTesting": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip"
@@ -657,7 +699,7 @@
         "Punchline": "Craft stuffs",
         "Description": "Craft your things",
         "InternalName": "CraftingList",
-        "AssemblyVersion": "1.13.1",
+        "AssemblyVersion": "2.1.1",
         "ApplicableVersion": "any",
         "Tags": [
             "craft"
@@ -690,7 +732,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1674892759,
-        "DownloadCount": 18359,
+        "DownloadCount": 19341,
         "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip",
         "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip",
         "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip"
@@ -740,7 +782,7 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1676486976"
+        "LastUpdated": "1676834493"
     },
     {
         "Author": "Meisterlala",
@@ -1067,23 +1109,6 @@
         "Changelog": "0.0.1.3\nAPI8 and .net7, Basic bugfix for 6.3 changes"
     },
     {
-        "Author": "attick, daemitus, VariableVixen",
-        "Name": "XIV Combo Very Expanded [Grinch API 8]",
-        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
-        "InternalName": "XIVComboVX",
-        "AssemblyVersion": "8.1.8442.6615",
-        "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
-        "DownloadLinkInstall": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1676086937"
-    },
-    {
         "Author": "VariableVixen",
         "Name": "TinyCommands [Grinch API 8]",
         "Description": "Adds tiny and simple but useful chat commands, and nothing more. It doesn't even have a UI.",
@@ -1098,7 +1123,24 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1676086937"
+        "LastUpdated": "1676839348"
+    },
+    {
+        "Author": "attick, daemitus, VariableVixen",
+        "Name": "XIV Combo Very Expanded [Grinch API 8]",
+        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
+        "InternalName": "XIVComboVX",
+        "AssemblyVersion": "8.1.8450.37256",
+        "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "DownloadLinkInstall": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1676839348"
     },
     {
         "Author": "VariableVixen",
@@ -1115,7 +1157,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1676086937"
+        "LastUpdated": "1676839348"
     },
     {
         "Author": "PunishedPineapple",
@@ -1412,7 +1454,7 @@
         "Author": "Zhyra",
         "Name": "PartyPlanner [Grinch API 8]",
         "InternalName": "PartyPlanner",
-        "AssemblyVersion": "1.4.4",
+        "AssemblyVersion": "1.5.1",
         "Description": "A plugin to see partyverse.app events.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/ZhyraPlugins/PartyPlanner",
