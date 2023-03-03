@@ -37,13 +37,14 @@
         ],
         "InternalName": "Artisan",
         "AssemblyVersion": "1.0.6.8",
+        "TestingAssemblyVersion": "1.7.0.6",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 16365,
-        "LastUpdate": 1677256442,
+        "DownloadCount": 18431,
+        "LastUpdate": 1677805156,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Artisan/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Artisan/latest.zip",
-        "DownloadLinkTesting": "https://love.puni.sh/plugins/Artisan/latest.zip",
+        "DownloadLinkTesting": "https://love.puni.sh/plugins/Artisan/Testing/latest.zip",
         "IconUrl": "https://love.puni.sh/resources/artisan.png",
         "AcceptsFeedback": true
     },
@@ -59,13 +60,14 @@
         ],
         "InternalName": "Saucy",
         "AssemblyVersion": "1.0.0.4",
+        "TestingAssemblyVersion": "1.1.0.0",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 3553,
-        "LastUpdate": 1676748672,
+        "DownloadCount": 3886,
+        "LastUpdate": 1677860482,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Saucy/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Saucy/latest.zip",
-        "DownloadLinkTesting": "https://love.puni.sh/plugins/Saucy/latest.zip",
+        "DownloadLinkTesting": "https://love.puni.sh/plugins/Saucy/Testing/latest.zip",
         "IconUrl": "https://love.puni.sh/resources/saucy.png",
         "AcceptsFeedback": true
     },
@@ -82,7 +84,7 @@
         "AssemblyVersion": "2.0.0.2",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 1973,
+        "DownloadCount": 2112,
         "LastUpdate": 1673455610,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Avarice/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Avarice/latest.zip",
@@ -100,7 +102,7 @@
         "TestingAssemblyVersion": "2.3.0.1",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 4625,
+        "DownloadCount": 4994,
         "LastUpdate": 1677262312,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
@@ -141,7 +143,7 @@
         "Author": "Ajisai Mirai",
         "Name": "Who emoted at me [Grinch API 8]",
         "InternalName": "WhoEmotedAtMe",
-        "AssemblyVersion": "1.1.1.1",
+        "AssemblyVersion": "1.1.1.2",
         "RepoUrl": "https://github.com/AjisaiMirai/Who-emoted-at-me",
         "Description": "Ever AFK and curious if people emoted at you? No longer.",
         "ApplicableVersion": "any",
@@ -150,7 +152,7 @@
         "Punchline": "Never miss an emote to you ever again!",
         "IsHide": false,
         "IconUrl": "",
-        "Changelog": "Update to latest game build",
+        "Changelog": "Fixed an offset issue.",
         "LastUpdated": "0",
         "DownloadCount": 0,
         "IsTestingExclusive": false,
@@ -184,9 +186,9 @@
         "Name": "Athavar's ToolBox [Grinch API 8]",
         "Punchline": "Various tools for private use.",
         "Description": "Various tools for private use. Module: AutoSpear, CraftQueue, Dps, Instancinator, Macro, OpcodeWizard, Yes",
-        "Changelog": "Version 2.0.9\n[dps] add setting to configure text refresh rate\n\nVersion 2.0.8\n[dps] fix multiple adding of Combatant in a singe encounter\n[dps] improve encounter stat calculation's\n\nVersion 2.0.7\n[dps] Add History Tab\n[dps] Limit dps/hps calculation in the first second\n\nVersion 2.0.6\n[opcodewizard] Add remote pull of opcodes\n[dps] fix duration of TerritoryEncounter\n[dps] fix that encounter is detected as invalid for filter set\nfix GetPercentHq for crafts without Hq possibility",
+        "Changelog": "Go to https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/latest to find the last changes.",
         "InternalName": "Athavar.FFXIV.Plugin",
-        "AssemblyVersion": "2.0.12",
+        "AssemblyVersion": "2.0.14",
         "RepoUrl": "https://github.com/Athavar/Athavar.FFXIV.Plugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -195,13 +197,13 @@
         "LoadSync": false,
         "AcceptsFeedback": false,
         "LoadPriority": 0,
-        "DownloadLinkInstall": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.12/latest.zip",
+        "DownloadLinkInstall": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.14/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.12/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.12/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.14/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.14/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1677015154"
+        "LastUpdated": "1677711581"
     },
     {
         "Author": "Athavar",
@@ -504,7 +506,7 @@
         "Author": "Haselnussbomber",
         "Name": "HaselTweaks [Grinch API 8]",
         "InternalName": "HaselTweaks",
-        "AssemblyVersion": "0.11.0",
+        "AssemblyVersion": "0.11.1",
         "Description": "Keep on tweaking.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -514,11 +516,11 @@
         "LoadPriority": 0,
         "Punchline": "A collection of quality of life tweaks.",
         "AcceptsFeedback": true,
-        "Changelog": "Reworked Tweak: Material Allocation\n\n- Added: A config option to enable clicking on gatherable items to open the Sanctuary Gathering Log (enabled by default).\n- Changed: Since this tweak now does two things, the previous function has been reworked and added as config option. Instead of always selecting the third tab, it now opens the window with the last selected tab, saved between game sessions.",
-        "DownloadCount": 965,
-        "LastUpdate": 1677169861,
-        "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.11.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.11.0/latest.zip"
+        "Changelog": "Lock Window Position\n\n- Added: A config option to invert the logic (locks all windows).\n- Added: A \"Toggle All\" button to easily toggle all locked window states.",
+        "DownloadCount": 880,
+        "LastUpdate": 1677694422,
+        "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.11.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.11.1/latest.zip"
     },
     {
         "Author": "Haselnussbomber",
@@ -535,10 +537,12 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "- Added: Added the option to filter for Accepted levequests to the \"Status\" filter.",
-        "DownloadCount": 306,
+        "DownloadCount": 325,
         "LastUpdate": 1675399152,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip"
+        "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Haselnussbomber/LeveHelper/releases/download/prerelease/latest.zip",
+        "TestingAssemblyVersion": "0.2.0.0"
     },
     {
         "Author": "NightmareXIV",
@@ -592,9 +596,9 @@
         "Name": "ReAction [Grinch API 8]",
         "Punchline": "QoL for the battle system.",
         "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
-        "Changelog": "Plugin rework, early pull protection for spell autos, LB queuing, universal macro queue option, Fractionality feature, several bug fixes",
+        "Changelog": "Many new target types for stacks (macros and chat too!), a new plugin tab for viewing custom target types, a redesigned \"Other Settings\" tab, 5 brand new features and an infinite amount of potential new bugs!",
         "InternalName": "ReAction",
-        "AssemblyVersion": "1.2.0.2",
+        "AssemblyVersion": "1.3.0.0",
         "RepoUrl": "https://github.com/UnknownX7/ReAction",
         "ApplicableVersion": "any",
         "CategoryTags": [
@@ -611,7 +615,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1676603612"
+        "LastUpdate": "1677455963"
     },
     {
         "Author": "Liza Carvelli",
@@ -656,12 +660,12 @@
         "Changelog": "Click the new Changelog button to see whats new",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "AssemblyVersion": "2.4.2.3",
-        "LastUpdated": 1675175922,
-        "DownloadCount": 3057,
-        "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.4.2.3/latest.zip",
-        "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.4.2.3/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.4.2.3/latest.zip"
+        "AssemblyVersion": "2.4.3.1",
+        "LastUpdated": 1677518542,
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.4.3.1/latest.zip",
+        "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.4.3.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.4.3.1/latest.zip"
     },
     {
         "Author": "Det",
@@ -689,7 +693,7 @@
         "IsTestingExclusive": "False",
         "AssemblyVersion": "1.1.2.3",
         "LastUpdated": 1674001897,
-        "DownloadCount": 248,
+        "DownloadCount": 264,
         "DownloadLinkInstall": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip",
         "DownloadLinkTesting": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip"
@@ -700,7 +704,7 @@
         "Punchline": "Craft stuffs",
         "Description": "Craft your things",
         "InternalName": "CraftingList",
-        "AssemblyVersion": "2.1.2",
+        "AssemblyVersion": "2.2.0",
         "ApplicableVersion": "any",
         "Tags": [
             "craft"
@@ -733,7 +737,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1674892759,
-        "DownloadCount": 21012,
+        "DownloadCount": 22843,
         "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip",
         "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip",
         "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip"
@@ -770,7 +774,7 @@
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1. Please keep an eye on the GitHub page for changes without a version bump!",
         "InternalName": "XIVComboExpandedCustomized",
-        "AssemblyVersion": "1.4.0.7",
+        "AssemblyVersion": "1.4.0.11",
         "RepoUrl": "https://github.com/maxunit/XIVComboPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -783,7 +787,7 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1676834493"
+        "LastUpdated": "1677854404"
     },
     {
         "Author": "Meisterlala",
@@ -843,7 +847,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1673721064,
-        "DownloadCount": 960,
+        "DownloadCount": 998,
         "DownloadLinkInstall": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip",
         "DownloadLinkTesting": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip",
         "DownloadLinkUpdate": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip"
@@ -1114,7 +1118,7 @@
         "Name": "TinyCommands [Grinch API 8]",
         "Description": "Adds tiny and simple but useful chat commands, and nothing more. It doesn't even have a UI.",
         "InternalName": "TinyCmds",
-        "AssemblyVersion": "7.0.8442.6653",
+        "AssemblyVersion": "7.0.8462.3221",
         "RepoUrl": "https://github.com/PrincessRTFM/TinyCommands",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -1124,14 +1128,14 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1676839348"
+        "LastUpdated": "1677808542"
     },
     {
         "Author": "attick, daemitus, VariableVixen",
         "Name": "XIV Combo Very Expanded [Grinch API 8]",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
         "InternalName": "XIVComboVX",
-        "AssemblyVersion": "8.1.8450.37256",
+        "AssemblyVersion": "8.1.8458.5752",
         "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -1141,14 +1145,14 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1676839348"
+        "LastUpdated": "1677808542"
     },
     {
         "Author": "VariableVixen",
         "Name": "WoLua [Grinch API 8]",
         "Description": "Write custom chat commands by creating lua scripts",
         "InternalName": "WoLua",
-        "AssemblyVersion": "1.0.8439.17930",
+        "AssemblyVersion": "1.0.8462.3220",
         "RepoUrl": "https://github.com/PrincessRTFM/WoLua",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -1158,7 +1162,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1676839348"
+        "LastUpdated": "1677808542"
     },
     {
         "Author": "PunishedPineapple",
@@ -1325,30 +1329,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1676603612"
-    },
-    {
-        "Author": "UnknownX",
-        "Name": "Fractionality [Grinch API 8]",
-        "Punchline": "DEPRECATED",
-        "Description": "This plugin is available as an option in ReAction now.",
-        "InternalName": "Fractionality",
-        "AssemblyVersion": "1.0.1.5",
-        "RepoUrl": "https://github.com/UnknownX7/Fractionality",
-        "ApplicableVersion": "any",
-        "CategoryTags": [],
-        "DalamudApiLevel": 8,
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1676603612"
+        "LastUpdate": "1677455963"
     },
     {
         "Author": "UnknownX",
@@ -1375,7 +1356,30 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1676603612"
+        "LastUpdate": "1677455963"
+    },
+    {
+        "Author": "UnknownX",
+        "Name": "Fractionality [Grinch API 8]",
+        "Punchline": "DEPRECATED",
+        "Description": "This plugin is available as an option in ReAction now.",
+        "InternalName": "Fractionality",
+        "AssemblyVersion": "1.0.1.5",
+        "RepoUrl": "https://github.com/UnknownX7/Fractionality",
+        "ApplicableVersion": "any",
+        "CategoryTags": [],
+        "DalamudApiLevel": 8,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1677455963"
     },
     {
         "Author": "UnknownX",
@@ -1401,7 +1405,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1676603612"
+        "LastUpdate": "1677455963"
     },
     {
         "Author": "UnknownX",
@@ -1427,7 +1431,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1676603612"
+        "LastUpdate": "1677455963"
     },
     {
         "Author": "XIV Tools",
@@ -1752,7 +1756,7 @@
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
         "InternalName": "XIVComboExpanded",
-        "AssemblyVersion": "1.4.0.10",
+        "AssemblyVersion": "1.4.0.11",
         "RepoUrl": "https://github.com/daemitus/XIVComboPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -1765,7 +1769,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1676939600"
+        "LastUpdate": "1677381683"
     },
     {
         "Author": "daemitus",
@@ -1786,7 +1790,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1676939600"
+        "LastUpdate": "1677381683"
     },
     {
         "Author": "daemitus",
@@ -1807,7 +1811,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1676939600"
+        "LastUpdate": "1677381683"
     },
     {
         "Author": "DodingDaga",
@@ -1886,7 +1890,7 @@
         "Name": "FFXIV Vibe Plugin [Grinch API 8]",
         "Description": "Plugin that let you vibe your controller or toys",
         "InternalName": "FFXIV_Vibe_Plugin",
-        "AssemblyVersion": "2.0.0.1",
+        "AssemblyVersion": "2.0.0.4",
         "RepoUrl": "https://github.com/kaciexx/FFXIV_Vibe_Plugin",
         "ApplicableVersion": "any",
         "Tags": [
@@ -1898,11 +1902,11 @@
         "IconUrl": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/raw/master/images/icon.png",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdated": 1677162946,
-        "DownloadCount": 6661,
-        "DownloadLinkInstall": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/releases/download/v2.0.0.1/FFXIV_Vibe_Plugin_v2.0.0.1.zip",
-        "DownloadLinkTesting": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/releases/download/v2.0.0.1/FFXIV_Vibe_Plugin_v2.0.0.1.zip",
-        "DownloadLinkUpdate": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/releases/download/v2.0.0.1/FFXIV_Vibe_Plugin_v2.0.0.1.zip"
+        "LastUpdated": 1677517731,
+        "DownloadCount": 3443,
+        "DownloadLinkInstall": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/releases/download/v2.0.0.4/FFXIV_Vibe_Plugin_v2.0.0.4.zip",
+        "DownloadLinkTesting": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/releases/download/v2.0.0.4/FFXIV_Vibe_Plugin_v2.0.0.4.zip",
+        "DownloadLinkUpdate": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/releases/download/v2.0.0.4/FFXIV_Vibe_Plugin_v2.0.0.4.zip"
     },
     {
         "Author": "Lichie",
@@ -2184,45 +2188,6 @@
     },
     {
         "Author": "",
-        "Name": "DrawCure [Grinch API 8]",
-        "Punchline": "显示治疗范围",
-        "Description": "显示治疗范围\n 能通过/DrawCure AOE x,-y,z,size,time 来显示aoe范围\n/DrawCure find在屏幕上和想找到的人划线,例如/DrawCure find 木人\n是在你和最近的木人间话一条白线，持续20s\n通过/DrawCure help获取更多信息",
-        "InternalName": "DrawCure",
-        "AssemblyVersion": "1.0.0.4",
-        "RepoUrl": "",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
-        "IconUrl": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/1-%E5%9B%BE%E7%89%87.png",
-        "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1673783086"
-    },
-    {
-        "Author": "",
-        "Name": "AutoFaka [Grinch API 8]",
-        "Description": "能自动发卡和抽卡并查看dps\n//faka dixing把地星放在中场，/faka liyi把礼仪之花放在中间，/faka chong自动帮你重抽,",
-        "InternalName": "AutoFaka",
-        "AssemblyVersion": "1.0.0.1",
-        "RepoUrl": "",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
-        "IconUrl": "",
-        "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/AutoFaka/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/AutoFaka/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/AutoFaka/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1673783086"
-    },
-    {
-        "Author": "",
         "Name": "Line [Grinch API 8]",
         "Punchline": "",
         "Description": "查看身为线和狩猎怪",
@@ -2239,27 +2204,27 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Line/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Line/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1673783086"
+        "LastUpdated": "1677757597"
     },
     {
         "Author": "",
-        "Name": "SeeBuff [Grinch API 8]",
-        "Punchline": "buff显示",
-        "Description": "SeeBuff/n 能通过/SeeBuff ID buffid time 来自定义显示buff",
-        "InternalName": "SeeBuff",
-        "AssemblyVersion": "1.0.1.5",
-        "RepoUrl": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
+        "Name": "DrawCure [Grinch API 8]",
+        "Punchline": "显示治疗范围",
+        "Description": "显示治疗范围\n 能通过/DrawCure AOE x,-y,z,size,time 来显示aoe范围\n/DrawCure find在屏幕上和想找到的人划线,例如/DrawCure find 木人\n是在你和最近的木人间话一条白线，持续20s\n通过/DrawCure help获取更多信息",
+        "InternalName": "DrawCure",
+        "AssemblyVersion": "1.0.0.4",
+        "RepoUrl": "",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "IconUrl": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/1-%E5%9B%BE%E7%89%87.png",
+        "IconUrl": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/1-%E5%9B%BE%E7%89%87.png",
         "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
+        "DownloadLinkInstall": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
+        "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1673783086"
+        "LastUpdated": "1677757597"
     },
     {
         "Author": "",
@@ -2279,7 +2244,26 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1673783086"
+        "LastUpdated": "1677757597"
+    },
+    {
+        "Author": "",
+        "Name": "AutoFaka [Grinch API 8]",
+        "Description": "能自动发卡和抽卡并查看dps\n//faka dixing把地星放在中场，/faka liyi把礼仪之花放在中间，/faka chong自动帮你重抽,",
+        "InternalName": "AutoFaka",
+        "AssemblyVersion": "1.0.0.2",
+        "RepoUrl": "",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "IconUrl": "",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/AutoFaka/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/AutoFaka/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/AutoFaka/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1677757597"
     },
     {
         "Author": "",
@@ -2299,7 +2283,27 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1673783086"
+        "LastUpdated": "1677757597"
+    },
+    {
+        "Author": "",
+        "Name": "SeeBuff [Grinch API 8]",
+        "Punchline": "buff显示",
+        "Description": "SeeBuff/n 能通过/SeeBuff ID buffid time 来自定义显示buff",
+        "InternalName": "SeeBuff",
+        "AssemblyVersion": "1.0.1.5",
+        "RepoUrl": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "IconUrl": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/1-%E5%9B%BE%E7%89%87.png",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1677757597"
     },
     {
         "Author": "yasatoma",
