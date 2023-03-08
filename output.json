@@ -37,11 +37,11 @@
         ],
         "InternalName": "Artisan",
         "AssemblyVersion": "1.0.6.8",
-        "TestingAssemblyVersion": "1.7.0.6",
+        "TestingAssemblyVersion": "1.7.0.9",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 18431,
-        "LastUpdate": 1677805156,
+        "DownloadCount": 19309,
+        "LastUpdate": 1678295234,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Artisan/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Artisan/latest.zip",
         "DownloadLinkTesting": "https://love.puni.sh/plugins/Artisan/Testing/latest.zip",
@@ -60,11 +60,11 @@
         ],
         "InternalName": "Saucy",
         "AssemblyVersion": "1.0.0.4",
-        "TestingAssemblyVersion": "1.1.0.0",
+        "TestingAssemblyVersion": "1.1.0.1",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 3886,
-        "LastUpdate": 1677860482,
+        "DownloadCount": 4235,
+        "LastUpdate": 1678257728,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Saucy/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Saucy/latest.zip",
         "DownloadLinkTesting": "https://love.puni.sh/plugins/Saucy/Testing/latest.zip",
@@ -84,7 +84,7 @@
         "AssemblyVersion": "2.0.0.2",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 2112,
+        "DownloadCount": 2244,
         "LastUpdate": 1673455610,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Avarice/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Avarice/latest.zip",
@@ -102,7 +102,7 @@
         "TestingAssemblyVersion": "2.3.0.1",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 4994,
+        "DownloadCount": 5311,
         "LastUpdate": 1677262312,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
@@ -143,7 +143,7 @@
         "Author": "Ajisai Mirai",
         "Name": "Who emoted at me [Grinch API 8]",
         "InternalName": "WhoEmotedAtMe",
-        "AssemblyVersion": "1.1.1.2",
+        "AssemblyVersion": "1.1.2.0",
         "RepoUrl": "https://github.com/AjisaiMirai/Who-emoted-at-me",
         "Description": "Ever AFK and curious if people emoted at you? No longer.",
         "ApplicableVersion": "any",
@@ -152,7 +152,7 @@
         "Punchline": "Never miss an emote to you ever again!",
         "IsHide": false,
         "IconUrl": "",
-        "Changelog": "Fixed an offset issue.",
+        "Changelog": "Game update.",
         "LastUpdated": "0",
         "DownloadCount": 0,
         "IsTestingExclusive": false,
@@ -164,7 +164,7 @@
         "Author": "Ajisai Mirai",
         "Name": "Misc shit [Grinch API 8]",
         "InternalName": "MiscPlugin",
-        "AssemblyVersion": "0.1.19.0",
+        "AssemblyVersion": "0.1.20.0",
         "RepoUrl": "https://github.com/AjisaiMirai/MiscPlugin",
         "Description": "Misc stuff I made.",
         "ApplicableVersion": "any",
@@ -506,7 +506,7 @@
         "Author": "Haselnussbomber",
         "Name": "HaselTweaks [Grinch API 8]",
         "InternalName": "HaselTweaks",
-        "AssemblyVersion": "0.11.1",
+        "AssemblyVersion": "0.11.2",
         "Description": "Keep on tweaking.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -516,11 +516,11 @@
         "LoadPriority": 0,
         "Punchline": "A collection of quality of life tweaks.",
         "AcceptsFeedback": true,
-        "Changelog": "Lock Window Position\n\n- Added: A config option to invert the logic (locks all windows).\n- Added: A \"Toggle All\" button to easily toggle all locked window states.",
-        "DownloadCount": 880,
-        "LastUpdate": 1677694422,
-        "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.11.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.11.1/latest.zip"
+        "Changelog": "Preliminary update for Patch 6.35.\n\nLock Window Position\n\n- Fixed: Configuration will now save when toggling the enable state of a window lock.  \n  This wasn't really worth a hotfix, since the configuration is saved when the plugin unloads (e.g. when closing the game).",
+        "DownloadCount": 825,
+        "LastUpdate": 1678203210,
+        "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.11.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.11.2/latest.zip"
     },
     {
         "Author": "Haselnussbomber",
@@ -537,7 +537,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "- Added: Added the option to filter for Accepted levequests to the \"Status\" filter.",
-        "DownloadCount": 325,
+        "DownloadCount": 342,
         "LastUpdate": 1675399152,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip",
@@ -660,12 +660,12 @@
         "Changelog": "Click the new Changelog button to see whats new",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "AssemblyVersion": "2.4.3.1",
-        "LastUpdated": 1677518542,
+        "AssemblyVersion": "2.4.4.0",
+        "LastUpdated": 1678153029,
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.4.3.1/latest.zip",
-        "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.4.3.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.4.3.1/latest.zip"
+        "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.4.4.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.4.4.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.4.4.0/latest.zip"
     },
     {
         "Author": "Det",
@@ -693,7 +693,7 @@
         "IsTestingExclusive": "False",
         "AssemblyVersion": "1.1.2.3",
         "LastUpdated": 1674001897,
-        "DownloadCount": 264,
+        "DownloadCount": 278,
         "DownloadLinkInstall": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip",
         "DownloadLinkTesting": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip"
@@ -737,7 +737,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1674892759,
-        "DownloadCount": 22843,
+        "DownloadCount": 24257,
         "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip",
         "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip",
         "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip"
@@ -817,7 +817,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1673721064,
-        "DownloadCount": 48,
+        "DownloadCount": 49,
         "DownloadLinkInstall": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFans.zip",
         "DownloadLinkTesting": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFans.zip",
         "DownloadLinkUpdate": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFans.zip"
@@ -847,7 +847,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1673721064,
-        "DownloadCount": 998,
+        "DownloadCount": 1035,
         "DownloadLinkInstall": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip",
         "DownloadLinkTesting": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip",
         "DownloadLinkUpdate": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip"
@@ -1245,8 +1245,8 @@
         "Author": "Speshkitty",
         "Name": "Deep Dungeon Helper [Grinch API 8]",
         "InternalName": "PotDHelper",
-        "AssemblyVersion": "1.4.0.3",
-        "Description": "Tracks traps & Accursed Hoard in Palace of The Dead and Heaven on High",
+        "AssemblyVersion": "1.5.0.1",
+        "Description": "Tracks traps & Accursed Hoard in Palace of The Dead, Heaven on High, and Eureka Orthos",
         "ApplicableVersion": "any",
         "Tags": [
             "palace",
@@ -1254,16 +1254,17 @@
             "palace of the dead",
             "hoh",
             "heaven on high",
-            "deep dungeon"
+            "deep dungeon",
+            "eureka orthos"
         ],
-        "Changelog": "1.4.0.3\n - Updated for patch 6.3\n\n1.4.0.2\n - Updated for patch 6.2\n\n1.4.0.1\n - Handles changing characters properly\n\n1.4.0.0\n - Microstutters fixed (With thanks to SiliconExarch)\n - Fixed points not loading on map change\n - Character and Servers are now SHA256'ed before being sent to the database",
+        "Changelog": "1.5.0.1\n - Added what I believe to be the Owlet trap\n\n1.5.0.0\n - Updated for patch 6.35",
         "DalamudApiLevel": 8,
         "LoadPriority": 0,
-        "Punchline": "Tracks traps & Accursed Hoard in Palace of The Dead and Heaven on High",
+        "Punchline": "Tracks traps & Accursed Hoard in Palace of The Dead, Heaven on High, and Eureka Orthos",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://github.com/Speshkitty/DalamudPlugins/releases/download/PotDHelper-v1.4.0.3/PotDHelper.v1.4.0.3.zip",
-        "DownloadLinkUpdate": "https://github.com/Speshkitty/DalamudPlugins/releases/download/PotDHelper-v1.4.0.3/PotDHelper.v1.4.0.3.zip"
+        "DownloadLinkInstall": "https://github.com/Speshkitty/DalamudPlugins/releases/download/PotdHelper-v1.5.0.1/PotDHelper.v1.5.0.1.zip",
+        "DownloadLinkUpdate": "https://github.com/Speshkitty/DalamudPlugins/releases/download/PotdHelper-v1.5.0.1/PotDHelper.v1.5.0.1.zip"
     },
     {
         "Author": "akira0245, Ori, SpuriousSnail86",
@@ -1727,9 +1728,9 @@
         "Author": "veyn",
         "Name": "Boss Mod [Grinch API 8]",
         "InternalName": "BossMod",
-        "AssemblyVersion": "0.0.0.83",
+        "AssemblyVersion": "0.0.0.84",
         "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content. ***very early alpha, use at your own risk***",
-        "ApplicableVersion": "2023.02.03.0000.0000",
+        "ApplicableVersion": "2023.02.28.0000.0000",
         "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
         "DalamudApiLevel": 8,
         "LoadRequiredState": 0,
@@ -1745,7 +1746,7 @@
         "AcceptsFeedback": true,
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdate": "1675106080",
+        "LastUpdate": "1675929178",
         "DownloadLinkInstall": "https://github.com/awgil/ffxiv_plugin_distribution/raw/master/plugins/BossMod/latest.zip",
         "DownloadLinkTesting": "https://github.com/awgil/ffxiv_plugin_distribution/raw/master/plugins/BossMod/latest.zip",
         "DownloadLinkUpdate": "https://github.com/awgil/ffxiv_plugin_distribution/raw/master/plugins/BossMod/latest.zip"
@@ -1756,7 +1757,7 @@
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
         "InternalName": "XIVComboExpanded",
-        "AssemblyVersion": "1.4.0.11",
+        "AssemblyVersion": "1.4.0.12",
         "RepoUrl": "https://github.com/daemitus/XIVComboPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -1769,7 +1770,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1677381683"
+        "LastUpdate": "1678237063"
     },
     {
         "Author": "daemitus",
@@ -1790,7 +1791,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1677381683"
+        "LastUpdate": "1678237063"
     },
     {
         "Author": "daemitus",
@@ -1811,7 +1812,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1677381683"
+        "LastUpdate": "1678237063"
     },
     {
         "Author": "DodingDaga",
@@ -1890,7 +1891,7 @@
         "Name": "FFXIV Vibe Plugin [Grinch API 8]",
         "Description": "Plugin that let you vibe your controller or toys",
         "InternalName": "FFXIV_Vibe_Plugin",
-        "AssemblyVersion": "2.0.0.4",
+        "AssemblyVersion": "2.0.0.7",
         "RepoUrl": "https://github.com/kaciexx/FFXIV_Vibe_Plugin",
         "ApplicableVersion": "any",
         "Tags": [
@@ -1902,11 +1903,11 @@
         "IconUrl": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/raw/master/images/icon.png",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdated": 1677517731,
-        "DownloadCount": 3443,
-        "DownloadLinkInstall": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/releases/download/v2.0.0.4/FFXIV_Vibe_Plugin_v2.0.0.4.zip",
-        "DownloadLinkTesting": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/releases/download/v2.0.0.4/FFXIV_Vibe_Plugin_v2.0.0.4.zip",
-        "DownloadLinkUpdate": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/releases/download/v2.0.0.4/FFXIV_Vibe_Plugin_v2.0.0.4.zip"
+        "LastUpdated": 1678190433,
+        "DownloadCount": 3253,
+        "DownloadLinkInstall": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/releases/download/v2.0.0.7/FFXIV_Vibe_Plugin_v2.0.0.7.zip",
+        "DownloadLinkTesting": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/releases/download/v2.0.0.7/FFXIV_Vibe_Plugin_v2.0.0.7.zip",
+        "DownloadLinkUpdate": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/releases/download/v2.0.0.7/FFXIV_Vibe_Plugin_v2.0.0.7.zip"
     },
     {
         "Author": "Lichie",
@@ -2075,7 +2076,7 @@
         "Author": "akira0245, Ori",
         "Name": "MidiBard 2 [Grinch API 8]",
         "InternalName": "MidiBard2",
-        "AssemblyVersion": "2.5.1.0",
+        "AssemblyVersion": "2.5.2.1",
         "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
         "ApplicableVersion": "any",
         "RepoUrl": "https://midibard.org",
@@ -2092,12 +2093,12 @@
         ],
         "IconUrl": "https://i.imgur.com/OSxqew4.png",
         "Punchline": "Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
-        "Changelog": "+ Ensemble Compensation Editor for each instrument.\n+ Streamer Support: Write the name of the current playing song to a local *.txt file for OBS to read. This function needs Bard Toolbox v1.7 to be installed.",
+        "Changelog": "+ New playback method, now your songs play even better! (You may still fall back to the legacy method in settings.)\n+ Use regex to search for the song.\n+ Now also shows the duration of the playlist.\n+ Indicator on track visualization works more precisely.",
         "AcceptsFeedback": false,
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "DownloadCount": 61021,
-        "LastUpdate": "1676506861",
+        "LastUpdate": "1677069472",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip"
@@ -2204,7 +2205,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Line/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Line/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1677757597"
+        "LastUpdated": "1678191308"
     },
     {
         "Author": "",
@@ -2224,7 +2225,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1677757597"
+        "LastUpdated": "1678191308"
     },
     {
         "Author": "",
@@ -2244,7 +2245,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1677757597"
+        "LastUpdated": "1678191308"
     },
     {
         "Author": "",
@@ -2263,7 +2264,26 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/AutoFaka/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/AutoFaka/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1677757597"
+        "LastUpdated": "1678191308"
+    },
+    {
+        "Author": "",
+        "Name": "DDD [Grinch API 8]",
+        "Description": "发送数据到inact",
+        "InternalName": "DDD",
+        "AssemblyVersion": "1.0.0.1",
+        "RepoUrl": "",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "IconUrl": "",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DDD/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DDD/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DDD/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1678191308"
     },
     {
         "Author": "",
@@ -2283,7 +2303,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1677757597"
+        "LastUpdated": "1678191308"
     },
     {
         "Author": "",
@@ -2303,7 +2323,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1677757597"
+        "LastUpdated": "1678191308"
     },
     {
         "Author": "yasatoma",
