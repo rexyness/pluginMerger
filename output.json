@@ -37,11 +37,11 @@
         ],
         "InternalName": "Artisan",
         "AssemblyVersion": "1.7.4.1",
-        "TestingAssemblyVersion": "1.7.4.11",
+        "TestingAssemblyVersion": "1.7.4.13",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 42795,
-        "LastUpdate": 1680880108,
+        "DownloadCount": 43326,
+        "LastUpdate": 1681062692,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Artisan/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Artisan/latest.zip",
         "DownloadLinkTesting": "https://love.puni.sh/plugins/Artisan/Testing/latest.zip",
@@ -63,7 +63,7 @@
         "TestingAssemblyVersion": "1.1.0.2",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 5606,
+        "DownloadCount": 5673,
         "LastUpdate": 1680368826,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Saucy/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Saucy/latest.zip",
@@ -84,7 +84,7 @@
         "AssemblyVersion": "2.0.0.2",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 2987,
+        "DownloadCount": 3036,
         "LastUpdate": 1673455610,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Avarice/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Avarice/latest.zip",
@@ -103,7 +103,7 @@
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 19826,
+        "DownloadCount": 20060,
         "LastUpdate": 1680811050,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
@@ -204,7 +204,7 @@
         "DownloadLinkTesting": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.StreamDeckPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/plugins/Athavar.FFXIV.StreamDeckPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1673461463"
+        "LastUpdated": "1680911461"
     },
     {
         "Author": "Athavar",
@@ -213,7 +213,7 @@
         "Description": "Various tools for private use. Module: AutoSpear, CraftQueue, Dps, Instancinator, Macro, OpcodeWizard, Yes",
         "Changelog": "Go to https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/latest to find the last changes.",
         "InternalName": "Athavar.FFXIV.Plugin",
-        "AssemblyVersion": "2.0.17",
+        "AssemblyVersion": "2.0.19",
         "RepoUrl": "https://github.com/Athavar/Athavar.FFXIV.Plugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -222,13 +222,13 @@
         "LoadSync": false,
         "AcceptsFeedback": false,
         "LoadPriority": 0,
-        "DownloadLinkInstall": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.17/latest.zip",
+        "DownloadLinkInstall": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.19/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.17/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.17/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.19/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.19/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1678902460"
+        "LastUpdated": "1680911461"
     },
     {
         "Disabled": false,
@@ -507,7 +507,7 @@
         "Author": "Haselnussbomber",
         "Name": "HaselTweaks [Grinch API 8]",
         "InternalName": "HaselTweaks",
-        "AssemblyVersion": "0.13.7",
+        "AssemblyVersion": "0.14.4",
         "Description": "Keep on tweaking.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -518,11 +518,11 @@
         "LoadPriority": 0,
         "Punchline": "A collection of quality of life tweaks.",
         "AcceptsFeedback": true,
-        "Changelog": "Lock Window Position\n\n- Fixed: Fixed a game crash caused by an infinite loop due to an overload function removed in v0.13.5 as part of a code cleanup.",
-        "DownloadCount": 1321,
-        "LastUpdate": 1680312440,
-        "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.13.7/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.13.7/latest.zip"
+        "Changelog": "Portrait Helper\n\n- Fixed: Last version introduced a \"Copy Image\" function to the Preset Browser and apparently copying an image to the clipboard is harder than I thought. Updated the code for better compatibility with programs like Paint and Discord.",
+        "DownloadCount": 37,
+        "LastUpdate": 1681173699,
+        "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.14.4/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.14.4/latest.zip"
     },
     {
         "Author": "Haselnussbomber",
@@ -539,7 +539,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "- Added: Added the option to filter for Accepted levequests to the \"Status\" filter.",
-        "DownloadCount": 442,
+        "DownloadCount": 450,
         "LastUpdate": 1675399152,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip",
@@ -616,7 +616,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.2/latest.zip",
-        "DownloadCount": 4125,
+        "DownloadCount": 5981,
         "LastUpdate": "1680728565"
     },
     {
@@ -664,7 +664,7 @@
         "IsTestingExclusive": "False",
         "AssemblyVersion": "2.4.4.1",
         "LastUpdated": 1678303302,
-        "DownloadCount": 3588,
+        "DownloadCount": 3817,
         "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.4.4.1/latest.zip",
         "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.4.4.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.4.4.1/latest.zip"
@@ -695,7 +695,7 @@
         "IsTestingExclusive": "False",
         "AssemblyVersion": "1.1.2.3",
         "LastUpdated": 1674001897,
-        "DownloadCount": 341,
+        "DownloadCount": 355,
         "DownloadLinkInstall": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip",
         "DownloadLinkTesting": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip"
@@ -759,7 +759,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1674892759,
-        "DownloadCount": 32668,
+        "DownloadCount": 33736,
         "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip",
         "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip",
         "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip"
@@ -869,10 +869,30 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1673721064,
-        "DownloadCount": 1171,
+        "DownloadCount": 1213,
         "DownloadLinkInstall": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip",
         "DownloadLinkTesting": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip",
         "DownloadLinkUpdate": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip"
+    },
+    {
+        "Author": "NightmareXIV",
+        "Name": "Lifestream [Grinch API 8]",
+        "Punchline": "A plugin to speed up Aethernet travel and World changing.",
+        "Description": "- One click to teleport to any world or aethernet destination\n- Click on aetheryte shards inside zone map to teleport to them",
+        "InternalName": "Lifestream",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/NightmareXIV/Lifestream",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "IconUrl": "",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/NightmareXIV/Lifestream/releases/latest/download/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/NightmareXIV/Lifestream/releases/latest/download/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/NightmareXIV/Lifestream/releases/latest/download/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "0"
     },
     {
         "Author": "NightmareXIV",
@@ -1144,7 +1164,7 @@
         "Name": "WoLua [Grinch API 8]",
         "Description": "Write custom chat commands by creating lua scripts",
         "InternalName": "WoLua",
-        "AssemblyVersion": "1.0.8488.32430",
+        "AssemblyVersion": "1.0.8497.27022",
         "RepoUrl": "https://github.com/PrincessRTFM/WoLua",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -1154,7 +1174,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1680504863"
+        "LastUpdated": "1680879680"
     },
     {
         "Author": "attick, daemitus, VariableVixen",
@@ -1171,7 +1191,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1680504863"
+        "LastUpdated": "1680879680"
     },
     {
         "Author": "VariableVixen",
@@ -1188,7 +1208,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1680504863"
+        "LastUpdated": "1680879680"
     },
     {
         "Author": "PunishedPineapple",
@@ -1355,7 +1375,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.0.3.6/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.0.3.6/latest.zip",
-        "DownloadCount": 631,
+        "DownloadCount": 943,
         "LastUpdate": "1680237651"
     },
     {
@@ -1381,7 +1401,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.8/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.8/latest.zip",
-        "DownloadCount": 158,
+        "DownloadCount": 253,
         "LastUpdate": "1680237651"
     },
     {
@@ -1404,7 +1424,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
-        "DownloadCount": 42,
+        "DownloadCount": 59,
         "LastUpdate": "1680237651"
     },
     {
@@ -1431,7 +1451,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.12/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.12/latest.zip",
-        "DownloadCount": 12971,
+        "DownloadCount": 14729,
         "LastUpdate": "1680271014"
     },
     {
@@ -1457,7 +1477,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
-        "DownloadCount": 370,
+        "DownloadCount": 526,
         "LastUpdate": "1680237651"
     },
     {
@@ -1925,7 +1945,7 @@
         "Name": "FFXIV Vibe Plugin [Grinch API 8]",
         "Description": "Plugin that let you vibe your controller or toys",
         "InternalName": "FFXIV_Vibe_Plugin",
-        "AssemblyVersion": "2.0.0.10",
+        "AssemblyVersion": "2.0.2.0",
         "RepoUrl": "https://github.com/kaciexx/FFXIV_Vibe_Plugin",
         "ApplicableVersion": "any",
         "Tags": [
@@ -1937,11 +1957,11 @@
         "IconUrl": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/raw/master/images/icon.png",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdated": 1679566539,
-        "DownloadCount": 4461,
-        "DownloadLinkInstall": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/releases/download/v2.0.0.10/FFXIV_Vibe_Plugin_v2.0.0.10.zip",
-        "DownloadLinkTesting": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/releases/download/v2.0.0.10/FFXIV_Vibe_Plugin_v2.0.0.10.zip",
-        "DownloadLinkUpdate": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/releases/download/v2.0.0.10/FFXIV_Vibe_Plugin_v2.0.0.10.zip"
+        "LastUpdated": 1681059040,
+        "DownloadCount": 5843,
+        "DownloadLinkInstall": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/releases/download/v2.0.2.0/FFXIV_Vibe_Plugin_v2.0.2.0.zip",
+        "DownloadLinkTesting": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/releases/download/v2.0.2.0/FFXIV_Vibe_Plugin_v2.0.2.0.zip",
+        "DownloadLinkUpdate": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/releases/download/v2.0.2.0/FFXIV_Vibe_Plugin_v2.0.2.0.zip"
     },
     {
         "Author": "Lichie",
