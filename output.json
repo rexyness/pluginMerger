@@ -40,7 +40,7 @@
         "TestingAssemblyVersion": "1.7.4.13",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 43326,
+        "DownloadCount": 43738,
         "LastUpdate": 1681062692,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Artisan/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Artisan/latest.zip",
@@ -63,7 +63,7 @@
         "TestingAssemblyVersion": "1.1.0.2",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 5673,
+        "DownloadCount": 5763,
         "LastUpdate": 1680368826,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Saucy/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Saucy/latest.zip",
@@ -84,7 +84,7 @@
         "AssemblyVersion": "2.0.0.2",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 3036,
+        "DownloadCount": 3085,
         "LastUpdate": 1673455610,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Avarice/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Avarice/latest.zip",
@@ -99,12 +99,12 @@
         "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
         "InternalName": "AutoRetainer",
         "AssemblyVersion": "3.0.3.7",
-        "TestingAssemblyVersion": "3.1.0.2",
+        "TestingAssemblyVersion": "3.1.0.4",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 20060,
-        "LastUpdate": 1680811050,
+        "DownloadCount": 20280,
+        "LastUpdate": 1681255320,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
         "DownloadLinkTesting": "https://love.puni.sh/plugins/AutoRetainer/Testing/latest.zip",
@@ -519,7 +519,7 @@
         "Punchline": "A collection of quality of life tweaks.",
         "AcceptsFeedback": true,
         "Changelog": "Portrait Helper\n\n- Fixed: Last version introduced a \"Copy Image\" function to the Preset Browser and apparently copying an image to the clipboard is harder than I thought. Updated the code for better compatibility with programs like Paint and Discord.",
-        "DownloadCount": 37,
+        "DownloadCount": 1084,
         "LastUpdate": 1681173699,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.14.4/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.14.4/latest.zip"
@@ -539,7 +539,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "- Added: Added the option to filter for Accepted levequests to the \"Status\" filter.",
-        "DownloadCount": 450,
+        "DownloadCount": 453,
         "LastUpdate": 1675399152,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip",
@@ -616,7 +616,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.2/latest.zip",
-        "DownloadCount": 5981,
+        "DownloadCount": 6453,
         "LastUpdate": "1680728565"
     },
     {
@@ -759,7 +759,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1674892759,
-        "DownloadCount": 33736,
+        "DownloadCount": 34228,
         "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip",
         "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip",
         "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip"
@@ -1375,7 +1375,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.0.3.6/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.0.3.6/latest.zip",
-        "DownloadCount": 943,
+        "DownloadCount": 1088,
         "LastUpdate": "1680237651"
     },
     {
@@ -1401,7 +1401,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.8/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.8/latest.zip",
-        "DownloadCount": 253,
+        "DownloadCount": 301,
         "LastUpdate": "1680237651"
     },
     {
@@ -1424,7 +1424,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
-        "DownloadCount": 59,
+        "DownloadCount": 71,
         "LastUpdate": "1680237651"
     },
     {
@@ -1451,7 +1451,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.12/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.12/latest.zip",
-        "DownloadCount": 14729,
+        "DownloadCount": 15373,
         "LastUpdate": "1680271014"
     },
     {
@@ -1477,7 +1477,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
-        "DownloadCount": 526,
+        "DownloadCount": 619,
         "LastUpdate": "1680237651"
     },
     {
@@ -1782,7 +1782,7 @@
         "Author": "veyn",
         "Name": "Boss Mod [Grinch API 8]",
         "InternalName": "BossMod",
-        "AssemblyVersion": "0.0.0.85",
+        "AssemblyVersion": "0.0.0.87",
         "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content. ***very early alpha, use at your own risk***",
         "ApplicableVersion": "2023.03.24.0000.0000",
         "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
@@ -1800,7 +1800,7 @@
         "AcceptsFeedback": true,
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdate": "1678222746",
+        "LastUpdate": "1681249887",
         "DownloadLinkInstall": "https://github.com/awgil/ffxiv_plugin_distribution/raw/master/plugins/BossMod/latest.zip",
         "DownloadLinkTesting": "https://github.com/awgil/ffxiv_plugin_distribution/raw/master/plugins/BossMod/latest.zip",
         "DownloadLinkUpdate": "https://github.com/awgil/ffxiv_plugin_distribution/raw/master/plugins/BossMod/latest.zip"
