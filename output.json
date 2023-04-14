@@ -40,7 +40,7 @@
         "TestingAssemblyVersion": "1.7.4.13",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 43738,
+        "DownloadCount": 43916,
         "LastUpdate": 1681062692,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Artisan/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Artisan/latest.zip",
@@ -63,7 +63,7 @@
         "TestingAssemblyVersion": "1.1.0.2",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 5763,
+        "DownloadCount": 5812,
         "LastUpdate": 1680368826,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Saucy/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Saucy/latest.zip",
@@ -84,7 +84,7 @@
         "AssemblyVersion": "2.0.0.2",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 3085,
+        "DownloadCount": 3110,
         "LastUpdate": 1673455610,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Avarice/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Avarice/latest.zip",
@@ -99,12 +99,12 @@
         "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
         "InternalName": "AutoRetainer",
         "AssemblyVersion": "3.0.3.7",
-        "TestingAssemblyVersion": "3.1.0.4",
+        "TestingAssemblyVersion": "3.1.0.6",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 20280,
-        "LastUpdate": 1681255320,
+        "DownloadCount": 20580,
+        "LastUpdate": 1681401574,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
         "DownloadLinkTesting": "https://love.puni.sh/plugins/AutoRetainer/Testing/latest.zip",
@@ -236,13 +236,13 @@
         "ScheduledForDeletion": false,
         "InstalledFromUrl": "",
         "IsThirdParty": false,
-        "EffectiveVersion": "1.7.1.1",
+        "EffectiveVersion": "1.7.2.0",
         "IsAvailableForTesting": false,
         "Author": "BardToolbox",
         "Name": "BardToolbox [Grinch API 8]",
         "Punchline": "An all-in-one toolbox, providing all the essentials bards & bands would need every day.\nSPECIAL THANKS to MidiBard and FFXIV Bards & Bands Community. Join: discord.gg/ff14bard",
         "Description": "",
-        "Changelog": "NEW Features:\n\nAuto toggle allow list: enables you to have individual control over which characters should automatically accept party invites, teleport invites, and other requests.\n\nNew text command: /btb [residentialtravel|rt] <ward> → Travel to specified ward. Only usable when near a residential traveling aetheryte.\n\nNew text command: /btb sound [on|off|toggle] → Set game's master sound.\nThe issue related to the game system settings has been fixed.",
+        "Changelog": "Fixed the issue where non party leader not writing song title correctly when playing on multiple computers.\nFixed the issue when loading formation position under controller mode.\nFixed the issue with the world travel command caused by game updates.",
         "Tags": [
             "bard",
             "midi",
@@ -297,7 +297,7 @@
             "other"
         ],
         "InternalName": "BardToolbox",
-        "AssemblyVersion": "1.7.1.1",
+        "AssemblyVersion": "1.7.2.0",
         "TestingAssemblyVersion": null,
         "RepoUrl": "https://discord.gg/h9Nt5NXZWz",
         "ApplicableVersion": "any",
@@ -315,7 +315,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "DownloadCount": 16187,
-        "LastUpdate": "1676574641",
+        "LastUpdate": "1681473459",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/latest.zip"
@@ -519,7 +519,7 @@
         "Punchline": "A collection of quality of life tweaks.",
         "AcceptsFeedback": true,
         "Changelog": "Portrait Helper\n\n- Fixed: Last version introduced a \"Copy Image\" function to the Preset Browser and apparently copying an image to the clipboard is harder than I thought. Updated the code for better compatibility with programs like Paint and Discord.",
-        "DownloadCount": 1084,
+        "DownloadCount": 1192,
         "LastUpdate": 1681173699,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.14.4/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.14.4/latest.zip"
@@ -539,7 +539,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "- Added: Added the option to filter for Accepted levequests to the \"Status\" filter.",
-        "DownloadCount": 453,
+        "DownloadCount": 455,
         "LastUpdate": 1675399152,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip",
@@ -616,7 +616,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.2/latest.zip",
-        "DownloadCount": 6453,
+        "DownloadCount": 6672,
         "LastUpdate": "1680728565"
     },
     {
@@ -759,7 +759,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1674892759,
-        "DownloadCount": 34228,
+        "DownloadCount": 34589,
         "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip",
         "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip",
         "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip"
@@ -1375,7 +1375,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.0.3.6/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.0.3.6/latest.zip",
-        "DownloadCount": 1088,
+        "DownloadCount": 1221,
         "LastUpdate": "1680237651"
     },
     {
@@ -1401,7 +1401,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.8/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.8/latest.zip",
-        "DownloadCount": 301,
+        "DownloadCount": 327,
         "LastUpdate": "1680237651"
     },
     {
@@ -1424,7 +1424,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
-        "DownloadCount": 71,
+        "DownloadCount": 76,
         "LastUpdate": "1680237651"
     },
     {
@@ -1451,7 +1451,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.12/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.12/latest.zip",
-        "DownloadCount": 15373,
+        "DownloadCount": 15739,
         "LastUpdate": "1680271014"
     },
     {
@@ -1477,7 +1477,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
-        "DownloadCount": 619,
+        "DownloadCount": 670,
         "LastUpdate": "1680237651"
     },
     {
@@ -2130,7 +2130,7 @@
         "Author": "akira0245, Ori",
         "Name": "MidiBard 2 [Grinch API 8]",
         "InternalName": "MidiBard2",
-        "AssemblyVersion": "2.5.2.2",
+        "AssemblyVersion": "2.5.2.3",
         "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
         "ApplicableVersion": "any",
         "RepoUrl": "https://midibard.org",
@@ -2147,12 +2147,12 @@
         ],
         "IconUrl": "https://i.imgur.com/OSxqew4.png",
         "Punchline": "Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
-        "Changelog": "+ New playback method, now your songs play even better! (You may still fall back to the legacy method in settings.)\n+ Use regex to search for the song.\n+ Now also shows the duration of the playlist.\n+ Indicator on track visualization works more precisely.",
+        "Changelog": "Fixed a performance issue when parsing lyrics in specific language environments.",
         "AcceptsFeedback": false,
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "DownloadCount": 61021,
-        "LastUpdate": "1678231082",
+        "LastUpdate": "1681476463",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip"
