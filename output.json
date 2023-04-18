@@ -40,7 +40,7 @@
         "TestingAssemblyVersion": "1.7.4.13",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 43916,
+        "DownloadCount": 44179,
         "LastUpdate": 1681062692,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Artisan/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Artisan/latest.zip",
@@ -63,7 +63,7 @@
         "TestingAssemblyVersion": "1.1.0.2",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 5812,
+        "DownloadCount": 5931,
         "LastUpdate": 1680368826,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Saucy/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Saucy/latest.zip",
@@ -84,7 +84,7 @@
         "AssemblyVersion": "2.0.0.2",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 3110,
+        "DownloadCount": 3185,
         "LastUpdate": 1673455610,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Avarice/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Avarice/latest.zip",
@@ -99,12 +99,12 @@
         "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
         "InternalName": "AutoRetainer",
         "AssemblyVersion": "3.0.3.7",
-        "TestingAssemblyVersion": "3.1.0.6",
+        "TestingAssemblyVersion": "3.1.1.0",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 20580,
-        "LastUpdate": 1681401574,
+        "DownloadCount": 21034,
+        "LastUpdate": 1681679194,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
         "DownloadLinkTesting": "https://love.puni.sh/plugins/AutoRetainer/Testing/latest.zip",
@@ -236,13 +236,13 @@
         "ScheduledForDeletion": false,
         "InstalledFromUrl": "",
         "IsThirdParty": false,
-        "EffectiveVersion": "1.7.2.0",
+        "EffectiveVersion": "1.7.2.1",
         "IsAvailableForTesting": false,
         "Author": "BardToolbox",
         "Name": "BardToolbox [Grinch API 8]",
         "Punchline": "An all-in-one toolbox, providing all the essentials bards & bands would need every day.\nSPECIAL THANKS to MidiBard and FFXIV Bards & Bands Community. Join: discord.gg/ff14bard",
         "Description": "",
-        "Changelog": "Fixed the issue where non party leader not writing song title correctly when playing on multiple computers.\nFixed the issue when loading formation position under controller mode.\nFixed the issue with the world travel command caused by game updates.",
+        "Changelog": "Fixed residential travel command.",
         "Tags": [
             "bard",
             "midi",
@@ -297,7 +297,7 @@
             "other"
         ],
         "InternalName": "BardToolbox",
-        "AssemblyVersion": "1.7.2.0",
+        "AssemblyVersion": "1.7.2.1",
         "TestingAssemblyVersion": null,
         "RepoUrl": "https://discord.gg/h9Nt5NXZWz",
         "ApplicableVersion": "any",
@@ -315,7 +315,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "DownloadCount": 16187,
-        "LastUpdate": "1681473459",
+        "LastUpdate": "1681690888",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/latest.zip"
@@ -507,7 +507,7 @@
         "Author": "Haselnussbomber",
         "Name": "HaselTweaks [Grinch API 8]",
         "InternalName": "HaselTweaks",
-        "AssemblyVersion": "0.14.4",
+        "AssemblyVersion": "0.14.5",
         "Description": "Keep on tweaking.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -518,11 +518,11 @@
         "LoadPriority": 0,
         "Punchline": "A collection of quality of life tweaks.",
         "AcceptsFeedback": true,
-        "Changelog": "Portrait Helper\n\n- Fixed: Last version introduced a \"Copy Image\" function to the Preset Browser and apparently copying an image to the clipboard is harder than I thought. Updated the code for better compatibility with programs like Paint and Discord.",
-        "DownloadCount": 1233,
-        "LastUpdate": 1681173699,
-        "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.14.4/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.14.4/latest.zip"
+        "Changelog": "- Fixed: The \"Configuration\" section title in the Tweak configuration is now hidden when there are no fields to configure.\n\nPortrait Helper\n\n- Added: An Alignment Tool which adds guide lines over the portrait to aid in proper alignment and composition.\n  - Hold Shift when clicking the button to open the settings, where you can change the number and color of the lines.",
+        "DownloadCount": 641,
+        "LastUpdate": 1681767269,
+        "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.14.5/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v0.14.5/latest.zip"
     },
     {
         "Author": "Haselnussbomber",
@@ -539,7 +539,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "- Added: Added the option to filter for Accepted levequests to the \"Status\" filter.",
-        "DownloadCount": 456,
+        "DownloadCount": 467,
         "LastUpdate": 1675399152,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v0.1.7/latest.zip",
@@ -616,7 +616,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.2/latest.zip",
-        "DownloadCount": 6767,
+        "DownloadCount": 7292,
         "LastUpdate": "1680728565"
     },
     {
@@ -664,7 +664,7 @@
         "IsTestingExclusive": "False",
         "AssemblyVersion": "2.4.4.1",
         "LastUpdated": 1678303302,
-        "DownloadCount": 3817,
+        "DownloadCount": 4063,
         "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.4.4.1/latest.zip",
         "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.4.4.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.4.4.1/latest.zip"
@@ -695,7 +695,7 @@
         "IsTestingExclusive": "False",
         "AssemblyVersion": "1.1.2.3",
         "LastUpdated": 1674001897,
-        "DownloadCount": 355,
+        "DownloadCount": 366,
         "DownloadLinkInstall": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip",
         "DownloadLinkTesting": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip"
@@ -759,7 +759,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1674892759,
-        "DownloadCount": 34843,
+        "DownloadCount": 35698,
         "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip",
         "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip",
         "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.2/HeelsPlugin.zip"
@@ -1164,7 +1164,7 @@
         "Name": "WoLua [Grinch API 8]",
         "Description": "Write custom chat commands by creating lua scripts",
         "InternalName": "WoLua",
-        "AssemblyVersion": "1.0.8497.27022",
+        "AssemblyVersion": "1.0.0",
         "RepoUrl": "https://github.com/PrincessRTFM/WoLua",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -1174,14 +1174,14 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1680879680"
+        "LastUpdated": "1681774673"
     },
     {
         "Author": "attick, daemitus, VariableVixen",
         "Name": "XIV Combo Very Expanded [Grinch API 8]",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
         "InternalName": "XIVComboVX",
-        "AssemblyVersion": "8.1.8493.12267",
+        "AssemblyVersion": "9.0.0",
         "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -1191,14 +1191,14 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1680879680"
+        "LastUpdated": "1681774673"
     },
     {
         "Author": "VariableVixen",
         "Name": "TinyCommands [Grinch API 8]",
         "Description": "Adds tiny and simple but useful chat commands, and nothing more. It doesn't even have a UI.",
         "InternalName": "TinyCmds",
-        "AssemblyVersion": "7.0.8493.12414",
+        "AssemblyVersion": "8.0.1",
         "RepoUrl": "https://github.com/PrincessRTFM/TinyCommands",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -1208,7 +1208,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1680879680"
+        "LastUpdated": "1681774673"
     },
     {
         "Author": "PunishedPineapple",
@@ -1357,9 +1357,9 @@
         "Name": "Cammy [Grinch API 8]",
         "Punchline": "A simple editor for the game's camera settings",
         "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
-        "Changelog": "",
+        "Changelog": "Added view bobbing, added free cam support for both GPose and Duty Recorder, removed useless settings, fixed several bugs related to camera settings resetting",
         "InternalName": "Cammy",
-        "AssemblyVersion": "2.0.3.6",
+        "AssemblyVersion": "2.1.0.6",
         "RepoUrl": "https://github.com/UnknownX7/Cammy",
         "ApplicableVersion": "any",
         "CategoryTags": [
@@ -1370,13 +1370,13 @@
         "ImageUrls": [
             "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
         ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/Cammy/releases/download/v2.0.3.6/latest.zip",
+        "DownloadLinkInstall": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.6/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.0.3.6/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.0.3.6/latest.zip",
-        "DownloadCount": 1259,
-        "LastUpdate": "1680237651"
+        "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.6/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.6/latest.zip",
+        "DownloadCount": 495,
+        "LastUpdate": "1681811098"
     },
     {
         "Author": "UnknownX",
@@ -1401,7 +1401,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.8/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.8/latest.zip",
-        "DownloadCount": 336,
+        "DownloadCount": 415,
         "LastUpdate": "1680237651"
     },
     {
@@ -1424,7 +1424,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
-        "DownloadCount": 76,
+        "DownloadCount": 82,
         "LastUpdate": "1680237651"
     },
     {
@@ -1451,7 +1451,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.12/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.12/latest.zip",
-        "DownloadCount": 15899,
+        "DownloadCount": 16785,
         "LastUpdate": "1680271014"
     },
     {
@@ -1477,7 +1477,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
-        "DownloadCount": 690,
+        "DownloadCount": 830,
         "LastUpdate": "1680237651"
     },
     {
