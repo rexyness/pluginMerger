@@ -43,7 +43,7 @@
         "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 1368,
+        "DownloadCount": 1446,
         "LastUpdate": 1683310338,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/LazyLoot/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/LazyLoot/latest.zip",
@@ -61,12 +61,12 @@
             "crafting"
         ],
         "InternalName": "Artisan",
-        "AssemblyVersion": "1.8.0.0",
+        "AssemblyVersion": "1.8.0.1",
         "TestingAssemblyVersion": "1.7.5.11",
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 60232,
+        "DownloadCount": 63388,
         "LastUpdate": 1684682084,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Artisan/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Artisan/latest.zip",
@@ -89,7 +89,7 @@
         "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 2692,
+        "DownloadCount": 3827,
         "LastUpdate": 1684680446,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Pandora/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Pandora/latest.zip",
@@ -113,7 +113,7 @@
         "RepoUrl": "https://github.com/PunishXIV/PalacePal",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 3044,
+        "DownloadCount": 3128,
         "LastUpdate": 1683838662,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/PalacePal/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/PalacePal/latest.zip",
@@ -135,7 +135,7 @@
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 2813,
+        "DownloadCount": 4773,
         "LastUpdate": 1684932968,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Splatoon/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Splatoon/latest.zip",
@@ -159,7 +159,7 @@
         "RepoUrl": "https://github.com/PunishXIV/Saucy",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 11164,
+        "DownloadCount": 11302,
         "LastUpdate": 1680368826,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Saucy/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Saucy/latest.zip",
@@ -181,7 +181,7 @@
         "RepoUrl": "https://github.com/PunishXIV/Avarice",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 6052,
+        "DownloadCount": 6609,
         "LastUpdate": 1684973328,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Avarice/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Avarice/latest.zip",
@@ -200,7 +200,7 @@
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 43371,
+        "DownloadCount": 43599,
         "LastUpdate": 1684009036,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
@@ -1208,9 +1208,9 @@
         "Name": "XIVSlothCombo [Grinch API 8]",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
         "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
-        "Changelog": "Features, Fixes & Enhancements Framework, DoH, PLD, RDM, SGE, WAR, WHM, ASTPvP and GNBPvP. Please check the project's GitHub or Discord for a full changelog.",
+        "Changelog": "Features, Fixes & Enhancements Framework, AST, PLD, RDM, SCH, SMN and WHM. Please check the project's GitHub or Discord for a full changelog.",
         "InternalName": "XIVSlothCombo",
-        "AssemblyVersion": "3.0.18.1",
+        "AssemblyVersion": "3.0.18.2",
         "RepoUrl": "https://github.com/Nik-Potokar/XIVSlothCombo",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -1225,7 +1225,7 @@
         "DownloadLinkTesting": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1674264473"
+        "LastUpdated": "1685046408"
     },
     {
         "Author": "XIV Tools",
@@ -1914,7 +1914,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1684963989"
+        "LastUpdate": "1685037099"
     },
     {
         "Author": "attick, daemitus",
@@ -1922,7 +1922,7 @@
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
         "InternalName": "XIVComboExpanded",
-        "AssemblyVersion": "1.4.0.16",
+        "AssemblyVersion": "1.4.0.17",
         "RepoUrl": "https://github.com/daemitus/XIVComboPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -1935,7 +1935,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1684963989"
+        "LastUpdate": "1685037099"
     },
     {
         "Author": "daemitus",
@@ -1956,7 +1956,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1684963989"
+        "LastUpdate": "1685037099"
     },
     {
         "Author": "DodingDaga",
