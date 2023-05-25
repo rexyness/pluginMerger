@@ -3,7 +3,7 @@
         "Author": "Cai",
         "Name": "GCDTracker [Grinch API 8]",
         "InternalName": "GCDTracker",
-        "AssemblyVersion": "1.0.2.6",
+        "AssemblyVersion": "1.0.2.7",
         "Description": "Tracks GCD, OGCDs and combo status. Instantly visualizing what is happening with queue, animation lock and helping you get familiar with the concepts.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/CaiClone/GCDTracker",
@@ -24,7 +24,7 @@
         "DownloadLinkTesting": "https://github.com/CaiClone/DalamudPlugins/raw/GCDTracker/GCDTracker/latest.zip",
         "DownloadLinkUpdate": "https://github.com/CaiClone/DalamudPlugins/raw/GCDTracker/GCDTracker/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1674174058"
+        "LastUpdated": "1684970410"
     },
     {
         "Author": "53m1k0l0n, Puni.sh",
@@ -43,7 +43,7 @@
         "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 1363,
+        "DownloadCount": 1368,
         "LastUpdate": 1683310338,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/LazyLoot/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/LazyLoot/latest.zip",
@@ -61,12 +61,12 @@
             "crafting"
         ],
         "InternalName": "Artisan",
-        "AssemblyVersion": "1.7.5.0",
+        "AssemblyVersion": "1.8.0.0",
         "TestingAssemblyVersion": "1.7.5.11",
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 59809,
+        "DownloadCount": 60232,
         "LastUpdate": 1684682084,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Artisan/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Artisan/latest.zip",
@@ -84,12 +84,12 @@
             "plugin"
         ],
         "InternalName": "PandorasBox",
-        "AssemblyVersion": "1.1.0.0",
+        "AssemblyVersion": "1.1.1.0",
         "TestingAssemblyVersion": "1.1.0.2",
         "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 2655,
+        "DownloadCount": 2692,
         "LastUpdate": 1684680446,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Pandora/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Pandora/latest.zip",
@@ -113,7 +113,7 @@
         "RepoUrl": "https://github.com/PunishXIV/PalacePal",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 3030,
+        "DownloadCount": 3044,
         "LastUpdate": 1683838662,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/PalacePal/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/PalacePal/latest.zip",
@@ -135,7 +135,7 @@
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 2496,
+        "DownloadCount": 2813,
         "LastUpdate": 1684932968,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Splatoon/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Splatoon/latest.zip",
@@ -159,7 +159,7 @@
         "RepoUrl": "https://github.com/PunishXIV/Saucy",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 11150,
+        "DownloadCount": 11164,
         "LastUpdate": 1680368826,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Saucy/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Saucy/latest.zip",
@@ -181,7 +181,7 @@
         "RepoUrl": "https://github.com/PunishXIV/Avarice",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 5912,
+        "DownloadCount": 6052,
         "LastUpdate": 1684973328,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Avarice/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Avarice/latest.zip",
@@ -200,7 +200,7 @@
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 43345,
+        "DownloadCount": 43371,
         "LastUpdate": 1684009036,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
@@ -582,7 +582,7 @@
         "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
         "Changelog": "1.4.1.92:\r\n* Shield Lob to Holy Spirit Movement Option added.\r\n* Reprisal Lockout Feature now also includes Addle/Feint.\r\n* Physical Ranged DPS Defense Cooldown Lockout Feature added.\r\n\r\n1.4.2.0:\r\n* Updated for 6.4.\r\n* Removed Fairy Feature Selene Option. All hail healing Carbuncle.\r\n\r\nIf a recent change isn't documented on this changelog, it is because it doesn't affect plugin functionality, or is a minor bugfix.",
         "InternalName": "XIVComboExpandedest",
-        "AssemblyVersion": "1.4.1.92",
+        "AssemblyVersion": "1.4.2.0",
         "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -595,7 +595,7 @@
         "DownloadLinkTesting": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadLinkUpdate": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1684921468"
+        "LastUpdate": "1684971986"
     },
     {
         "Author": "Haselnussbomber",
@@ -612,8 +612,8 @@
         "LoadPriority": 0,
         "Punchline": "A collection of quality of life tweaks.",
         "AcceptsFeedback": true,
-        "Changelog": "Another update for Patch 6.4 (staging).\n\n- Search the markets: Enabled again, because Dalamud.ContextMenu has been updated.\n\nKnown Issues\n\n- DTR: Busy status and Instance number are not showing until ClientStructs is updated and shipped with a new Dalamud version.",
-        "DownloadCount": 0,
+        "Changelog": "Another update for Patch 6.4 (staging).\n\n- Search the markets: Enabled again, because Dalamud.ContextMenu has been updated.\n\nKnown Issues\n\n- ~~DTR: Busy status and Instance number are not showing until ClientStructs is updated and shipped with a new Dalamud version.~~ (Resolved)",
+        "DownloadCount": 427,
         "LastUpdate": 1684950098,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.11.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.11.1/latest.zip"
@@ -633,7 +633,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "- Fixed: To prevent the tab order from being reset, the \"Queue\" and \"Recipe Tree\" tabs are now always displayed.",
-        "DownloadCount": 408,
+        "DownloadCount": 409,
         "LastUpdate": 1682272038,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.2/latest.zip"
@@ -680,7 +680,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1682384035,
-        "DownloadCount": 35076,
+        "DownloadCount": 35218,
         "DownloadLinkInstall": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.5.9/BDTHPlugin.zip",
         "DownloadLinkTesting": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.5.9/BDTHPlugin.zip",
         "DownloadLinkUpdate": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.5.9/BDTHPlugin.zip"
@@ -708,7 +708,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.4/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.4/latest.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 1487,
         "LastUpdate": "1684948005"
     },
     {
@@ -798,7 +798,7 @@
         "Punchline": "Craft stuffs",
         "Description": "Craft your things",
         "InternalName": "CraftingList",
-        "AssemblyVersion": "2.3.1",
+        "AssemblyVersion": "2.3.2",
         "ApplicableVersion": "any",
         "Tags": [
             "craft"
@@ -836,7 +836,7 @@
         "Name": "Heels Plugin [Grinch API 8]",
         "Description": "Offsets your character off the ground for when wearing heels.",
         "InternalName": "HeelsPlugin",
-        "AssemblyVersion": "1.3.3",
+        "AssemblyVersion": "1.3.4",
         "RepoUrl": "https://github.com/LeonBlade/HeelsPlugin",
         "ApplicableVersion": "any",
         "Tags": [
@@ -850,11 +850,11 @@
         "IconUrl": "https://github.com/LeonBlade/HeelsPlugin/raw/main/icon.png",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdated": 1684890945,
-        "DownloadCount": 196,
-        "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.3/HeelsPlugin.zip",
-        "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.3/HeelsPlugin.zip",
-        "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.3/HeelsPlugin.zip"
+        "LastUpdated": 1684969454,
+        "DownloadCount": 1313,
+        "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.4/HeelsPlugin.zip",
+        "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.4/HeelsPlugin.zip",
+        "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.4/HeelsPlugin.zip"
     },
     {
         "Author": "llock",
@@ -902,7 +902,7 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/LMeter/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/LMeter/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1684336469"
+        "LastUpdated": "1685010333"
     },
     {
         "Author": "attick, daemitus, Evil-Crab, PrincessRTFM, Maxunit",
@@ -923,7 +923,7 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1684336469"
+        "LastUpdated": "1685010333"
     },
     {
         "Author": "Meisterlala",
@@ -1233,8 +1233,8 @@
         "Description": "A plugin that allows you to create and apply Anamnesis-style body scaling full time.",
         "Punchline": "Customize your character beyond FFXIV's limitations.",
         "InternalName": "CustomizePlus",
-        "AssemblyVersion": "0.0.1.6",
-        "TestingAssemblyVersion": "0.0.1.6",
+        "AssemblyVersion": "0.0.1.7",
+        "TestingAssemblyVersion": "0.0.1.7",
         "RepoUrl": "https://github.com/XIV-Tools/CustomizePlus",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -1247,7 +1247,7 @@
         "DownloadLinkTesting": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
         "DownloadLinkUpdate": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
         "IconUrl": "https://raw.githubusercontent.com/XIV-Tools/CustomizePlus/main/Data/icon.png",
-        "Changelog": "0.0.1.6\n- Ignore root bone when setting transforms (fixes effects, nameplates and camera)\n- Custom precision slider\n- Removed duplicate AddCommand\n- Reworked Cutscene Name and added Penumbra String as Nugget, thanks Dark!\n- Improved Editing Interface"
+        "Changelog": "0.0.1.7 -6.40 signatures by Alex"
     },
     {
         "Author": "VariableVixen",
@@ -1462,7 +1462,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
-        "DownloadCount": 380,
+        "DownloadCount": 382,
         "LastUpdate": "1680237651"
     },
     {
@@ -1488,7 +1488,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.7/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.7/latest.zip",
-        "DownloadCount": 12359,
+        "DownloadCount": 12441,
         "LastUpdate": "1681869097"
     },
     {
@@ -1498,7 +1498,7 @@
         "Description": "oob oob",
         "Changelog": "",
         "InternalName": "OOBlugin",
-        "AssemblyVersion": "1.1.2.8",
+        "AssemblyVersion": "1.1.2.9",
         "RepoUrl": "https://github.com/UnknownX7/OOBlugin",
         "ApplicableVersion": "any",
         "CategoryTags": [
@@ -1509,13 +1509,13 @@
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.8/latest.zip",
+        "DownloadLinkInstall": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.9/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.8/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.8/latest.zip",
-        "DownloadCount": 1225,
-        "LastUpdate": "1680237651"
+        "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.9/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.9/latest.zip",
+        "DownloadCount": 226,
+        "LastUpdate": "1684989443"
     },
     {
         "Author": "UnknownX",
@@ -1540,7 +1540,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
-        "DownloadCount": 2440,
+        "DownloadCount": 2477,
         "LastUpdate": "1680237651"
     },
     {
@@ -1567,7 +1567,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.12/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.12/latest.zip",
-        "DownloadCount": 23854,
+        "DownloadCount": 23967,
         "LastUpdate": "1680271014"
     },
     {
@@ -2097,7 +2097,7 @@
         "Name": "Lemegeton [Grinch API 8]",
         "Description": "Your ultimate ingame companion; spells and enchantments to make your gameplay experience a little more magical.",
         "InternalName": "Lemegeton",
-        "AssemblyVersion": "1.0.1.0",
+        "AssemblyVersion": "1.0.1.1",
         "RepoUrl": "https://github.com/paissaheavyindustries/Lemegeton",
         "IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/lemegeton.png",
         "ApplicableVersion": "any",
@@ -2109,9 +2109,9 @@
         "IsTestingExclusive": "False",
         "LastUpdated": 0,
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.1.0/Lemegeton_1_0_1_0.zip",
-        "DownloadLinkTesting": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.1.0/Lemegeton_1_0_1_0.zip",
-        "DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.1.0/Lemegeton_1_0_1_0.zip"
+        "DownloadLinkInstall": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.1.1/Lemegeton_1_0_1_1.zip",
+        "DownloadLinkTesting": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.1.1/Lemegeton_1_0_1_1.zip",
+        "DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.1.1/Lemegeton_1_0_1_1.zip"
     },
     {
         "Author": "Paissa Heavy Industries",
