@@ -43,7 +43,7 @@
         "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 1446,
+        "DownloadCount": 1529,
         "LastUpdate": 1683310338,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/LazyLoot/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/LazyLoot/latest.zip",
@@ -66,7 +66,7 @@
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 63388,
+        "DownloadCount": 68262,
         "LastUpdate": 1684682084,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Artisan/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Artisan/latest.zip",
@@ -84,12 +84,12 @@
             "plugin"
         ],
         "InternalName": "PandorasBox",
-        "AssemblyVersion": "1.1.1.0",
+        "AssemblyVersion": "1.1.1.1",
         "TestingAssemblyVersion": "1.1.0.2",
         "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 3827,
+        "DownloadCount": 4549,
         "LastUpdate": 1684680446,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Pandora/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Pandora/latest.zip",
@@ -113,7 +113,7 @@
         "RepoUrl": "https://github.com/PunishXIV/PalacePal",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 3128,
+        "DownloadCount": 3268,
         "LastUpdate": 1683838662,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/PalacePal/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/PalacePal/latest.zip",
@@ -135,7 +135,7 @@
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 4773,
+        "DownloadCount": 8312,
         "LastUpdate": 1684932968,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Splatoon/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Splatoon/latest.zip",
@@ -159,7 +159,7 @@
         "RepoUrl": "https://github.com/PunishXIV/Saucy",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 11302,
+        "DownloadCount": 11476,
         "LastUpdate": 1680368826,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Saucy/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Saucy/latest.zip",
@@ -181,7 +181,7 @@
         "RepoUrl": "https://github.com/PunishXIV/Avarice",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 6609,
+        "DownloadCount": 7100,
         "LastUpdate": 1684973328,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Avarice/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Avarice/latest.zip",
@@ -200,7 +200,7 @@
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 43599,
+        "DownloadCount": 43908,
         "LastUpdate": 1684009036,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
@@ -213,9 +213,9 @@
         "Name": "FF Logs Viewer [Grinch API 8]",
         "Punchline": "View FF Logs ranking percentiles in-game.",
         "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
-        "Changelog": "- 2.1.2.0:\n   Add support for 6.4 encounters in the default layout.\n   Swapping headers will now display a mouse icon to indicate you can click on it.",
+        "Changelog": "- 2.1.2.1:\n   Fixes open with not working for search info.\n- 2.1.2.0:\n   Adds support for 6.4 encounters in the default layout.\n   Swapping headers will now display a mouse icon to indicate you can click on it.",
         "InternalName": "FFLogsViewer",
-        "AssemblyVersion": "2.1.2.0",
+        "AssemblyVersion": "2.1.2.1",
         "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
         "ApplicableVersion": "any",
         "Tags": [
@@ -232,7 +232,7 @@
         "DownloadLinkTesting": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1684945535"
+        "LastUpdate": "1685054560"
     },
     {
         "Author": "Ajisai Mirai",
@@ -330,13 +330,13 @@
         "ScheduledForDeletion": false,
         "InstalledFromUrl": "",
         "IsThirdParty": false,
-        "EffectiveVersion": "1.7.2.1",
+        "EffectiveVersion": "1.8.0.1",
         "IsAvailableForTesting": false,
         "Author": "BardToolbox",
         "Name": "BardToolbox [Grinch API 8]",
         "Punchline": "An all-in-one toolbox, providing all the essentials bards & bands would need every day.\nSPECIAL THANKS to MidiBard and FFXIV Bards & Bands Community. Join: discord.gg/ff14bard",
         "Description": "",
-        "Changelog": "Fixed residential travel command.",
+        "Changelog": "6.4 Update\n- Save each config file separately when using individual character configs\n- Add formation select menu on formation editor window",
         "Tags": [
             "bard",
             "midi",
@@ -391,7 +391,7 @@
             "other"
         ],
         "InternalName": "BardToolbox",
-        "AssemblyVersion": "1.7.2.1",
+        "AssemblyVersion": "1.8.0.1",
         "TestingAssemblyVersion": null,
         "RepoUrl": "https://discord.gg/h9Nt5NXZWz",
         "ApplicableVersion": "any",
@@ -556,7 +556,7 @@
         "Author": "GiR-Zippo, Meowchestra",
         "Name": "HypnotoadPlugin [Grinch API 8]",
         "InternalName": "HypnotoadPlugin",
-        "AssemblyVersion": "0.0.1.12",
+        "AssemblyVersion": "0.0.1.13",
         "Description": "LightAmp companion for enhanced functionality.",
         "ApplicableVersion": "any",
         "RepoUrl": "",
@@ -570,7 +570,7 @@
         "Punchline": "Companion plugin for enhanced functionality.",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdate": "1678888480",
+        "LastUpdate": "1685048356",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/GiR-Zippo/Hypnotoad-Plugin/master/PluginDir/HypnotoadPlugin/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/GiR-Zippo/Hypnotoad-Plugin/master/PluginDir/HypnotoadPlugin/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/GiR-Zippo/Hypnotoad-Plugin/master/PluginDir/HypnotoadPlugin/latest.zip"
@@ -582,7 +582,7 @@
         "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
         "Changelog": "1.4.1.92:\r\n* Shield Lob to Holy Spirit Movement Option added.\r\n* Reprisal Lockout Feature now also includes Addle/Feint.\r\n* Physical Ranged DPS Defense Cooldown Lockout Feature added.\r\n\r\n1.4.2.0:\r\n* Updated for 6.4.\r\n* Removed Fairy Feature Selene Option. All hail healing Carbuncle.\r\n\r\nIf a recent change isn't documented on this changelog, it is because it doesn't affect plugin functionality, or is a minor bugfix.",
         "InternalName": "XIVComboExpandedest",
-        "AssemblyVersion": "1.4.2.0",
+        "AssemblyVersion": "1.4.2.1",
         "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -595,13 +595,13 @@
         "DownloadLinkTesting": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadLinkUpdate": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1684971986"
+        "LastUpdate": "1685062386"
     },
     {
         "Author": "Haselnussbomber",
         "Name": "HaselTweaks [Grinch API 8]",
         "InternalName": "HaselTweaks",
-        "AssemblyVersion": "14.11.1",
+        "AssemblyVersion": "14.11.2",
         "Description": "Keep on tweaking.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -612,11 +612,11 @@
         "LoadPriority": 0,
         "Punchline": "A collection of quality of life tweaks.",
         "AcceptsFeedback": true,
-        "Changelog": "Another update for Patch 6.4 (staging).\n\n- Search the markets: Enabled again, because Dalamud.ContextMenu has been updated.\n\nKnown Issues\n\n- ~~DTR: Busy status and Instance number are not showing until ClientStructs is updated and shipped with a new Dalamud version.~~ (Resolved)",
-        "DownloadCount": 427,
-        "LastUpdate": 1684950098,
-        "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.11.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.11.1/latest.zip"
+        "Changelog": "Enhanced Material List\n\n- Fixed: After closing the \"Currency Exchange\" window the material list didn't refresh, because I simply forgot to check for this window.\n- Fixed: \"Search for Item by Crafting Method\" context menu entry wasn't shown due to wrong offsets.",
+        "DownloadCount": 0,
+        "LastUpdate": 1685063934,
+        "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.11.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.11.2/latest.zip"
     },
     {
         "Author": "Haselnussbomber",
@@ -633,7 +633,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "- Fixed: To prevent the tab order from being reset, the \"Queue\" and \"Recipe Tree\" tabs are now always displayed.",
-        "DownloadCount": 409,
+        "DownloadCount": 415,
         "LastUpdate": 1682272038,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.2/latest.zip"
@@ -680,7 +680,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1682384035,
-        "DownloadCount": 35218,
+        "DownloadCount": 35704,
         "DownloadLinkInstall": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.5.9/BDTHPlugin.zip",
         "DownloadLinkTesting": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.5.9/BDTHPlugin.zip",
         "DownloadLinkUpdate": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.5.9/BDTHPlugin.zip"
@@ -692,7 +692,7 @@
         "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
         "Changelog": "",
         "InternalName": "ReAction",
-        "AssemblyVersion": "1.3.3.4",
+        "AssemblyVersion": "1.3.3.5",
         "RepoUrl": "https://github.com/UnknownX7/ReAction",
         "ApplicableVersion": "any",
         "CategoryTags": [
@@ -703,13 +703,13 @@
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.4/latest.zip",
+        "DownloadLinkInstall": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.4/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.4/latest.zip",
-        "DownloadCount": 1487,
-        "LastUpdate": "1684948005"
+        "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1685081081"
     },
     {
         "Author": "Liza Carvelli",
@@ -851,7 +851,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1684969454,
-        "DownloadCount": 1313,
+        "DownloadCount": 4045,
         "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.4/HeelsPlugin.zip",
         "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.4/HeelsPlugin.zip",
         "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.4/HeelsPlugin.zip"
@@ -867,7 +867,7 @@
             "uwu"
         ],
         "InternalName": "AutoJailMarker",
-        "AssemblyVersion": "3.2.2.1",
+        "AssemblyVersion": "3.2.3.0",
         "RepoUrl": "https://github.com/LockonS483/AutoJailMarker",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -878,9 +878,9 @@
         "IsTestingExclusive": "False",
         "LastUpdated": 1661443794,
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/LockonS483/AutoJailMarker/releases/download/3.2.2.1/AutoJailMarker.zip",
-        "DownloadLinkTesting": "https://github.com/LockonS483/AutoJailMarker/releases/download/3.2.2.1/AutoJailMarker.zip",
-        "DownloadLinkUpdate": "https://github.com/LockonS483/AutoJailMarker/releases/download/3.2.2.1/AutoJailMarker.zip"
+        "DownloadLinkInstall": "https://github.com/LockonS483/AutoJailMarker/releases/download/3.2.3.0/AutoJailMarker.zip",
+        "DownloadLinkTesting": "https://github.com/LockonS483/AutoJailMarker/releases/download/3.2.3.0/AutoJailMarker.zip",
+        "DownloadLinkUpdate": "https://github.com/LockonS483/AutoJailMarker/releases/download/3.2.3.0/AutoJailMarker.zip"
     },
     {
         "Author": "Lichie",
@@ -1254,7 +1254,7 @@
         "Name": "WoLua [Grinch API 8]",
         "Description": "Write custom chat commands by creating lua scripts",
         "InternalName": "WoLua",
-        "AssemblyVersion": "1.0.0",
+        "AssemblyVersion": "1.2.0",
         "RepoUrl": "https://github.com/PrincessRTFM/WoLua",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -1264,31 +1264,14 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1682011947"
-    },
-    {
-        "Author": "attick, daemitus, VariableVixen",
-        "Name": "XIV Combo Very Expanded [Grinch API 8]",
-        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
-        "InternalName": "XIVComboVX",
-        "AssemblyVersion": "9.0.0",
-        "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
-        "DownloadLinkInstall": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1682011947"
+        "LastUpdated": "1685050157"
     },
     {
         "Author": "VariableVixen",
         "Name": "TinyCommands [Grinch API 8]",
         "Description": "Adds tiny and simple but useful chat commands, and nothing more. It doesn't even have a UI.",
         "InternalName": "TinyCmds",
-        "AssemblyVersion": "8.1.0",
+        "AssemblyVersion": "8.2.0",
         "RepoUrl": "https://github.com/PrincessRTFM/TinyCommands",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -1298,7 +1281,24 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1682011947"
+        "LastUpdated": "1685050157"
+    },
+    {
+        "Author": "attick, daemitus, VariableVixen",
+        "Name": "XIV Combo Very Expanded [Grinch API 8]",
+        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
+        "InternalName": "XIVComboVX",
+        "AssemblyVersion": "9.0.1",
+        "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "DownloadLinkInstall": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1685050157"
     },
     {
         "Author": "PunishedPineapple",
@@ -1462,7 +1462,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
-        "DownloadCount": 382,
+        "DownloadCount": 388,
         "LastUpdate": "1680237651"
     },
     {
@@ -1488,7 +1488,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.7/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.7/latest.zip",
-        "DownloadCount": 12441,
+        "DownloadCount": 12828,
         "LastUpdate": "1681869097"
     },
     {
@@ -1514,7 +1514,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.9/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.9/latest.zip",
-        "DownloadCount": 226,
+        "DownloadCount": 1299,
         "LastUpdate": "1684989443"
     },
     {
@@ -1540,7 +1540,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
-        "DownloadCount": 2477,
+        "DownloadCount": 2590,
         "LastUpdate": "1680237651"
     },
     {
@@ -1567,7 +1567,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.12/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.12/latest.zip",
-        "DownloadCount": 23967,
+        "DownloadCount": 24727,
         "LastUpdate": "1680271014"
     },
     {
@@ -2009,7 +2009,7 @@
         "Author": "Jawslouis",
         "Name": "MakePlace Plugin [Grinch API 8]",
         "InternalName": "MakePlacePlugin",
-        "AssemblyVersion": "2.22",
+        "AssemblyVersion": "2.23",
         "Punchline": "Automatically save & load furniture layouts in your house.",
         "Description": "Automatically save & load the positions of house furniture. Import/export layouts from the MakePlace program.",
         "ApplicableVersion": "any",
@@ -2024,9 +2024,9 @@
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/jawslouis/MakePlacePlugin/master/icon.png",
         "DownloadCount": 95130,
-        "DownloadLinkInstall": "https://github.com/jawslouis/MakePlacePlugin/releases/download/v2.22/MakePlacePlugin.zip",
-        "DownloadLinkTesting": "https://github.com/jawslouis/MakePlacePlugin/releases/download/v2.22/MakePlacePlugin.zip",
-        "DownloadLinkUpdate": "https://github.com/jawslouis/MakePlacePlugin/releases/download/v2.22/MakePlacePlugin.zip",
+        "DownloadLinkInstall": "https://github.com/jawslouis/MakePlacePlugin/releases/download/v2.23/MakePlacePlugin.zip",
+        "DownloadLinkTesting": "https://github.com/jawslouis/MakePlacePlugin/releases/download/v2.23/MakePlacePlugin.zip",
+        "DownloadLinkUpdate": "https://github.com/jawslouis/MakePlacePlugin/releases/download/v2.23/MakePlacePlugin.zip",
         "_isDip17Plugin": false,
         "_Dip17Channel": null
     },
@@ -2244,7 +2244,7 @@
         "Author": "akira0245, Ori",
         "Name": "MidiBard 2 [Grinch API 8]",
         "InternalName": "MidiBard2",
-        "AssemblyVersion": "2.5.2.3",
+        "AssemblyVersion": "2.5.3.1",
         "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
         "ApplicableVersion": "any",
         "RepoUrl": "https://midibard.org",
@@ -2261,12 +2261,12 @@
         ],
         "IconUrl": "https://i.imgur.com/OSxqew4.png",
         "Punchline": "Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
-        "Changelog": "Fixed a performance issue when parsing lyrics in specific language environments.",
+        "Changelog": "Update after 6.4.\nFixed electric guitar UI issue.",
         "AcceptsFeedback": false,
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "DownloadCount": 61021,
-        "LastUpdate": "1681476463",
+        "LastUpdate": "1681476679",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip"
