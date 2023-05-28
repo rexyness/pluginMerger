@@ -27,7 +27,7 @@
         "LastUpdated": "1684970410"
     },
     {
-        "Author": "53m1k0l0n, Puni.sh",
+        "Author": "53m1k0l0n/Gidedin (Puni.sh)",
         "Name": "LazyLoot [Grinch API 8]",
         "Punchline": "Dungeon Loot but Lazy.",
         "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
@@ -39,16 +39,16 @@
             "other"
         ],
         "InternalName": "LazyLoot",
-        "AssemblyVersion": "5.0.9.4",
+        "AssemblyVersion": "5.1.0.0",
         "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 1646,
-        "LastUpdate": 1683310338,
+        "DownloadCount": 1811,
+        "LastUpdate": 1685281568,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/LazyLoot/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/LazyLoot/latest.zip",
         "DownloadLinkTesting": "https://love.puni.sh/plugins/LazyLoot/latest.zip",
-        "IconUrl": "https://love.puni.sh/resources/plugin.png",
+        "IconUrl": "https://love.puni.sh/resources/lazyloot.png",
         "AcceptsFeedback": true
     },
     {
@@ -66,7 +66,7 @@
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 73715,
+        "DownloadCount": 79319,
         "LastUpdate": 1684682084,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Artisan/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Artisan/latest.zip",
@@ -89,7 +89,7 @@
         "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 6479,
+        "DownloadCount": 7212,
         "LastUpdate": 1684680446,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Pandora/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Pandora/latest.zip",
@@ -113,7 +113,7 @@
         "RepoUrl": "https://github.com/PunishXIV/PalacePal",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 3431,
+        "DownloadCount": 3622,
         "LastUpdate": 1683838662,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/PalacePal/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/PalacePal/latest.zip",
@@ -135,7 +135,7 @@
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 10952,
+        "DownloadCount": 12183,
         "LastUpdate": 1684932968,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Splatoon/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Splatoon/latest.zip",
@@ -159,7 +159,7 @@
         "RepoUrl": "https://github.com/PunishXIV/Saucy",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 11647,
+        "DownloadCount": 11865,
         "LastUpdate": 1680368826,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Saucy/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Saucy/latest.zip",
@@ -181,7 +181,7 @@
         "RepoUrl": "https://github.com/PunishXIV/Avarice",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 7510,
+        "DownloadCount": 7827,
         "LastUpdate": 1684973328,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Avarice/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Avarice/latest.zip",
@@ -195,12 +195,12 @@
         "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
         "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
         "InternalName": "AutoRetainer",
-        "AssemblyVersion": "3.1.2.9",
+        "AssemblyVersion": "3.1.3.0",
         "TestingAssemblyVersion": "3.1.2.6",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 44286,
+        "DownloadCount": 52205,
         "LastUpdate": 1684009036,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
@@ -613,7 +613,7 @@
         "Punchline": "A collection of quality of life tweaks.",
         "AcceptsFeedback": true,
         "Changelog": "Enhanced Material List\n\n- Fixed: After closing the \"Currency Exchange\" window the material list didn't refresh, because I simply forgot to check for this window.\n- Fixed: \"Search for Item by Crafting Method\" context menu entry wasn't shown due to wrong offsets.",
-        "DownloadCount": 1233,
+        "DownloadCount": 1340,
         "LastUpdate": 1685063934,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.11.2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.11.2/latest.zip"
@@ -633,7 +633,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "Updated for Patch 6.4.\n\nSome text has been translated into French and Japanese by using ChatGPT (commit ee6316c).  \nPlease file a bug if any translation is incorrect.",
-        "DownloadCount": 226,
+        "DownloadCount": 251,
         "LastUpdate": 1685101682,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.3/latest.zip"
@@ -680,7 +680,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1682384035,
-        "DownloadCount": 37533,
+        "DownloadCount": 38298,
         "DownloadLinkInstall": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.5.9/BDTHPlugin.zip",
         "DownloadLinkTesting": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.5.9/BDTHPlugin.zip",
         "DownloadLinkUpdate": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.5.9/BDTHPlugin.zip"
@@ -708,7 +708,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 5598,
         "LastUpdate": "1685081081"
     },
     {
@@ -798,7 +798,7 @@
         "Punchline": "Craft stuffs",
         "Description": "Craft your things",
         "InternalName": "CraftingList",
-        "AssemblyVersion": "2.3.2",
+        "AssemblyVersion": "2.3.3",
         "ApplicableVersion": "any",
         "Tags": [
             "craft"
@@ -851,7 +851,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1684969454,
-        "DownloadCount": 10325,
+        "DownloadCount": 11998,
         "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.4/HeelsPlugin.zip",
         "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.4/HeelsPlugin.zip",
         "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.4/HeelsPlugin.zip"
@@ -1208,9 +1208,9 @@
         "Name": "XIVSlothCombo [Grinch API 8]",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
         "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
-        "Changelog": "Features, Fixes & Enhancements Framework, AST, PLD, RDM, SCH, SMN and WHM. Please check the project's GitHub or Discord for a full changelog.",
+        "Changelog": "Features, Fixes & Enhancements NIN, RPR, SAM and SCH. Please check the project's GitHub or Discord for a full changelog.",
         "InternalName": "XIVSlothCombo",
-        "AssemblyVersion": "3.0.18.2",
+        "AssemblyVersion": "3.0.18.3",
         "RepoUrl": "https://github.com/Nik-Potokar/XIVSlothCombo",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -1225,7 +1225,7 @@
         "DownloadLinkTesting": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1685046408"
+        "LastUpdated": "1685247388"
     },
     {
         "Author": "XIV Tools",
@@ -1233,8 +1233,8 @@
         "Description": "A plugin that allows you to create and apply Anamnesis-style body scaling full time.",
         "Punchline": "Customize your character beyond FFXIV's limitations.",
         "InternalName": "CustomizePlus",
-        "AssemblyVersion": "0.0.1.7",
-        "TestingAssemblyVersion": "0.0.1.7",
+        "AssemblyVersion": "0.0.1.8",
+        "TestingAssemblyVersion": "0.0.1.8",
         "RepoUrl": "https://github.com/XIV-Tools/CustomizePlus",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -1247,7 +1247,7 @@
         "DownloadLinkTesting": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
         "DownloadLinkUpdate": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
         "IconUrl": "https://raw.githubusercontent.com/XIV-Tools/CustomizePlus/main/Data/icon.png",
-        "Changelog": "0.0.1.7 -6.40 signatures by Alex"
+        "Changelog": "0.0.1.8 -Fixed Potential Crash issue by Alex"
     },
     {
         "Author": "VariableVixen",
@@ -1462,7 +1462,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 413,
         "LastUpdate": "1680237651"
     },
     {
@@ -1488,7 +1488,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.7/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.7/latest.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 13648,
         "LastUpdate": "1681869097"
     },
     {
@@ -1498,7 +1498,7 @@
         "Description": "oob oob",
         "Changelog": "",
         "InternalName": "OOBlugin",
-        "AssemblyVersion": "1.1.2.9",
+        "AssemblyVersion": "1.1.2.10",
         "RepoUrl": "https://github.com/UnknownX7/OOBlugin",
         "ApplicableVersion": "any",
         "CategoryTags": [
@@ -1509,13 +1509,13 @@
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.9/latest.zip",
+        "DownloadLinkInstall": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.10/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.9/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.9/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1684989443"
+        "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.10/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.10/latest.zip",
+        "DownloadCount": 778,
+        "LastUpdate": "1685234965"
     },
     {
         "Author": "UnknownX",
@@ -1540,7 +1540,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 2863,
         "LastUpdate": "1680237651"
     },
     {
@@ -1567,7 +1567,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.12/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.12/latest.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 26133,
         "LastUpdate": "1680271014"
     },
     {
@@ -2097,7 +2097,7 @@
         "Name": "Lemegeton [Grinch API 8]",
         "Description": "Your ultimate ingame companion; spells and enchantments to make your gameplay experience a little more magical.",
         "InternalName": "Lemegeton",
-        "AssemblyVersion": "1.0.1.3",
+        "AssemblyVersion": "1.0.1.4",
         "RepoUrl": "https://github.com/paissaheavyindustries/Lemegeton",
         "IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/lemegeton.png",
         "ApplicableVersion": "any",
@@ -2109,9 +2109,9 @@
         "IsTestingExclusive": "False",
         "LastUpdated": 0,
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.1.3/Lemegeton_1_0_1_3.zip",
-        "DownloadLinkTesting": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.1.3/Lemegeton_1_0_1_3.zip",
-        "DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.1.3/Lemegeton_1_0_1_3.zip"
+        "DownloadLinkInstall": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.1.4/Lemegeton_1_0_1_4.zip",
+        "DownloadLinkTesting": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.1.4/Lemegeton_1_0_1_4.zip",
+        "DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.1.4/Lemegeton_1_0_1_4.zip"
     },
     {
         "Author": "Paissa Heavy Industries",
@@ -2360,7 +2360,7 @@
         "Name": "AutoFaka [Grinch API 8]",
         "Description": "能自动发卡和抽卡并查看dps\n//faka dixing把地星放在中场，/faka liyi把礼仪之花放在中间，/faka chong自动帮你重抽,",
         "InternalName": "AutoFaka",
-        "AssemblyVersion": "1.0.0.2",
+        "AssemblyVersion": "1.0.0.4",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -2372,7 +2372,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/AutoFaka/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/AutoFaka/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1684762951"
+        "LastUpdated": "1685265093"
     },
     {
         "Author": "",
@@ -2380,7 +2380,7 @@
         "Punchline": "",
         "Description": "查看身为线和狩猎怪",
         "InternalName": "Line",
-        "AssemblyVersion": "1.0.1.0",
+        "AssemblyVersion": "1.0.1.2",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -2392,7 +2392,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Line/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Line/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1684762951"
+        "LastUpdated": "1685265093"
     },
     {
         "Author": "",
@@ -2400,7 +2400,7 @@
         "Punchline": "buff显示",
         "Description": "SeeBuff/n 能通过/SeeBuff ID buffid time 来自定义显示buff",
         "InternalName": "SeeBuff",
-        "AssemblyVersion": "1.0.1.6",
+        "AssemblyVersion": "1.0.1.8",
         "RepoUrl": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -2412,7 +2412,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1684762951"
+        "LastUpdated": "1685265093"
     },
     {
         "Author": "牙刷play",
@@ -2431,7 +2431,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBoss/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBoss/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1684762951"
+        "LastUpdated": "1685265093"
     },
     {
         "Author": "Usagi",
@@ -2455,7 +2455,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/IINACT/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/IINACT/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1684762951"
+        "LastUpdated": "1685265093"
     },
     {
         "Author": "",
@@ -2475,7 +2475,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1684762951"
+        "LastUpdated": "1685265093"
     },
     {
         "Author": "",
@@ -2495,14 +2495,14 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1684762951"
+        "LastUpdated": "1685265093"
     },
     {
         "Author": "",
         "Name": "DDD [Grinch API 8]",
         "Description": "发送数据到inact",
         "InternalName": "DDD",
-        "AssemblyVersion": "1.0.0.6",
+        "AssemblyVersion": "1.0.0.8",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -2514,7 +2514,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DDD/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DDD/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1684762951"
+        "LastUpdated": "1685265093"
     },
     {
         "Author": "",
@@ -2534,7 +2534,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeletRollItem/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeletRollItem/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1684762951"
+        "LastUpdated": "1685265093"
     },
     {
         "Author": "",
@@ -2542,7 +2542,7 @@
         "Punchline": "锁定",
         "Description": "锁定BOSS /LockBOSS change 1 靠近水晶切换1号线路\n/LockBOSS qi骑上最近的人\n/LockBOSS cai采集最近的矿,",
         "InternalName": "Lock",
-        "AssemblyVersion": "1.0.2.2",
+        "AssemblyVersion": "1.0.2.4",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -2554,7 +2554,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1684762951"
+        "LastUpdated": "1685265093"
     },
     {
         "Author": "yasatoma",
