@@ -213,9 +213,9 @@
         "Name": "FF Logs Viewer [Grinch API 8]",
         "Punchline": "View FF Logs ranking percentiles in-game.",
         "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
-        "Changelog": "- 2.1.2.2:\n   Fixes open with not working for examine.- 2.1.2.1:\n   Fixes open with not working for search info.\n- 2.1.2.0:\n   Adds support for 6.4 encounters in the default layout.\n   Swapping headers will now display a mouse icon to indicate you can click on it.",
+        "Changelog": "- 2.1.2.4:\n   Fixes an edge case where context menu would fail if someone had their world in their name.\n- 2.1.2.3:\n   Adds P12S P2 to the default layout.\n- 2.1.2.2:\n   Fixes open with not working for examine.\n- 2.1.2.1:\n   Fixes open with not working for search info.\n- 2.1.2.0:\n   Adds support for 6.4 encounters in the default layout.\n   Swapping headers will now display a mouse icon to indicate you can click on it.",
         "InternalName": "FFLogsViewer",
-        "AssemblyVersion": "2.1.2.2",
+        "AssemblyVersion": "2.1.2.4",
         "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
         "ApplicableVersion": "any",
         "Tags": [
@@ -232,7 +232,7 @@
         "DownloadLinkTesting": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1685202401"
+        "LastUpdate": "1685578083"
     },
     {
         "Author": "Ajisai Mirai",
@@ -613,7 +613,7 @@
         "Punchline": "A collection of quality of life tweaks.",
         "AcceptsFeedback": true,
         "Changelog": "Maintenance update with optimizations and bug fixes.\n\n- Fixed: Disabled buttons now display their intended tooltips again.\n- Optimized: Multiple hooks now use cached addresses for signatures, which makes the plugin start a bit faster due to less scanning.\n- Optimized: The FPS display in the DTR tweak now only updates when the frame rate has changed to avoid formatting a number into a string on every frame.\n\nScrollable Tabs\n\n- Fixed: It was possible to scroll in windows when they were the last thing the cursor hovered before tabbing out. Now scrolling is disabled when the game isn't focused.",
-        "DownloadCount": 1351,
+        "DownloadCount": 1410,
         "LastUpdate": 1685302222,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.11.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.11.3/latest.zip"
@@ -633,7 +633,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "Updated for Patch 6.4.\n\nSome text has been translated into French and Japanese by using ChatGPT (commit ee6316c).  \nPlease file a bug if any translation is incorrect.",
-        "DownloadCount": 291,
+        "DownloadCount": 299,
         "LastUpdate": 1685101682,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.3/latest.zip"
@@ -680,7 +680,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1682384035,
-        "DownloadCount": 40072,
+        "DownloadCount": 40531,
         "DownloadLinkInstall": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.5.9/BDTHPlugin.zip",
         "DownloadLinkTesting": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.5.9/BDTHPlugin.zip",
         "DownloadLinkUpdate": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.5.9/BDTHPlugin.zip"
@@ -708,7 +708,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
-        "DownloadCount": 6918,
+        "DownloadCount": 7159,
         "LastUpdate": "1685081081"
     },
     {
@@ -851,7 +851,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1684969454,
-        "DownloadCount": 15169,
+        "DownloadCount": 15831,
         "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.4/HeelsPlugin.zip",
         "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.4/HeelsPlugin.zip",
         "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.4/HeelsPlugin.zip"
@@ -953,7 +953,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1673721064,
-        "DownloadCount": 76,
+        "DownloadCount": 80,
         "DownloadLinkInstall": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFans.zip",
         "DownloadLinkTesting": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFans.zip",
         "DownloadLinkUpdate": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFans.zip"
@@ -983,7 +983,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1673721064,
-        "DownloadCount": 1505,
+        "DownloadCount": 1525,
         "DownloadLinkInstall": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip",
         "DownloadLinkTesting": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip",
         "DownloadLinkUpdate": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip"
@@ -1444,59 +1444,6 @@
     },
     {
         "Author": "UnknownX",
-        "Name": "NoClippy [Grinch API 8]",
-        "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
-        "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
-        "Changelog": "Added Feature of the Day",
-        "InternalName": "NoClippy",
-        "AssemblyVersion": "0.5.0.12",
-        "RepoUrl": "https://github.com/UnknownX7/NoClippy",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "jobs",
-            "utility"
-        ],
-        "DalamudApiLevel": 8,
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.12/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.12/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.12/latest.zip",
-        "DownloadCount": 27340,
-        "LastUpdate": "1680271014"
-    },
-    {
-        "Author": "UnknownX",
-        "Name": "DalamudRepoBrowser [Grinch API 8]",
-        "Punchline": "Browse and add third party repositories in an instant",
-        "Description": "An interface for browsing and managing third party repositories.",
-        "Changelog": "",
-        "InternalName": "DalamudRepoBrowser",
-        "AssemblyVersion": "2.0.3.2",
-        "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "other"
-        ],
-        "DalamudApiLevel": 8,
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
-        "DownloadCount": 3105,
-        "LastUpdate": "1680237651"
-    },
-    {
-        "Author": "UnknownX",
         "Name": "Fractionality [Grinch API 8]",
         "Punchline": "DEPRECATED",
         "Description": "This plugin is available as an option in ReAction now.",
@@ -1515,7 +1462,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
-        "DownloadCount": 427,
+        "DownloadCount": 432,
         "LastUpdate": "1680237651"
     },
     {
@@ -1541,7 +1488,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.7/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.7/latest.zip",
-        "DownloadCount": 14332,
+        "DownloadCount": 14512,
         "LastUpdate": "1681869097"
     },
     {
@@ -1567,8 +1514,61 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.10/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.10/latest.zip",
-        "DownloadCount": 1922,
+        "DownloadCount": 2003,
         "LastUpdate": "1685234965"
+    },
+    {
+        "Author": "UnknownX",
+        "Name": "DalamudRepoBrowser [Grinch API 8]",
+        "Punchline": "Browse and add third party repositories in an instant",
+        "Description": "An interface for browsing and managing third party repositories.",
+        "Changelog": "",
+        "InternalName": "DalamudRepoBrowser",
+        "AssemblyVersion": "2.0.3.2",
+        "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "other"
+        ],
+        "DalamudApiLevel": 8,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
+        "DownloadCount": 3170,
+        "LastUpdate": "1680237651"
+    },
+    {
+        "Author": "UnknownX",
+        "Name": "NoClippy [Grinch API 8]",
+        "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
+        "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
+        "Changelog": "Added Feature of the Day",
+        "InternalName": "NoClippy",
+        "AssemblyVersion": "0.5.0.12",
+        "RepoUrl": "https://github.com/UnknownX7/NoClippy",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "jobs",
+            "utility"
+        ],
+        "DalamudApiLevel": 8,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.12/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.12/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.12/latest.zip",
+        "DownloadCount": 27648,
+        "LastUpdate": "1680271014"
     },
     {
         "Author": "XIV Tools",
@@ -1636,18 +1636,21 @@
         "DownloadLinkUpdate": "https://github.com/ZhyraPlugins/MarketUploader/releases/latest/download/latest.zip"
     },
     {
+        "AcceptsFeedback": true,
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.2.3.3",
+        "AssemblyVersion": "1.2.3.6",
         "Author": "ocealot, a1hena",
-        "Changelog": "7d03f1c: [WIP] .NET7.0\n80e7a65: Merge branch 'main' of https://github.com/0ceal0t/JobBars\n5686a52: update clientstructs\n63b2736: Update README.md\nf1d5589: Update README.md\n47c554d: v1.2.3.1\n3c6c447: Update JobBars.json\n0fb847c: update version\nbc3a2de: Merge branch 'main' of https://github.com/0ceal0t/JobBars\n2e2e008: fix InternalNBame\n2b15c92: Update JobBars.json\n3d56cca: Update JobBars.json\nf3e79f5: Update JobBars.csproj\ncf2a7bd: rework some icon stuff, add minor arcana icon\n32bb92a: update custom version\n2a692b0: update deploy expr\n4b47436: kick\n98c9440: add ci workflow\ne551cf4: Merge branch 'main' of https://github.com/0ceal0t/JobBars\na4c14c2: v1.2.3.0\n78a6355: fix structs, update visuals to be more consistent with centered icons\nf9d2ba8: UI tweaks, fix issue where party list glow not hidden\n1078107: Update README.md\n4343d9a: some refactoring, fix issues with AST cards\n093c39f: UI tweaks\n469db6f: v1.2.2.4\n59eb98f: rework texture loading to account for new penumbra\n908de73: remove ILRepack, add client struct dlls\nb7848a1: prep for net6\nd7fa17f: adjustment TrackerState.Running Timeleft offset",
+        "Changelog": "23d13ae: Merge branch 'main' of https://github.com/0ceal0t/JobBars\n9e07da7: support bottom-aligned partylist\ne436549: v1.2.3.6\ndfd91e7: update for 6.4\n3cf912f: 1.2.3.5 + remove custom CS\nec2de38: v1.2.3.4\n4404300: fix issue with icons being affected even when not enabled\n6c9c681: fix living shadow duration\nc269978: v.1.2.3.3\n8957178: add max gcds option\ndc89298: 1.2.3.2\n7d03f1c: [WIP] .NET7.0\n80e7a65: Merge branch 'main' of https://github.com/0ceal0t/JobBars\n5686a52: update clientstructs\n63b2736: Update README.md\nf1d5589: Update README.md\n47c554d: v1.2.3.1\n3c6c447: Update JobBars.json\n0fb847c: update version\nbc3a2de: Merge branch 'main' of https://github.com/0ceal0t/JobBars\n2e2e008: fix InternalNBame\n2b15c92: Update JobBars.json\n3d56cca: Update JobBars.json\nf3e79f5: Update JobBars.csproj\ncf2a7bd: rework some icon stuff, add minor arcana icon\n32bb92a: update custom version\n2a692b0: update deploy expr\n4b47436: kick\n98c9440: add ci workflow\ne551cf4: Merge branch 'main' of https://github.com/0ceal0t/JobBars",
         "DalamudApiLevel": 8,
         "Description": "Additional job gauges, party buff timers, mitigation trackers, and more. Icon by PAPACHIN",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/a1hena/PluginRepository/master/dist/stable/JobBars/latest.zip",
         "InternalName": "JobBars a1hena custom",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": 1673543269,
+        "LastUpdated": 1685610280,
         "LoadPriority": 0,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
         "Name": "JobBars a1hena custom [Grinch API 8]",
         "Punchline": "Extra job gauges",
         "RepoUrl": "https://github.com/a1hena/JobBars",
@@ -1914,7 +1917,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1685037099"
+        "LastUpdate": "1685581363"
     },
     {
         "Author": "attick, daemitus",
@@ -1935,7 +1938,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1685037099"
+        "LastUpdate": "1685581363"
     },
     {
         "Author": "daemitus",
@@ -1943,7 +1946,7 @@
         "Punchline": "Work work.",
         "Description": "A hard-working peon that crafts what you tell him to. An all-in-one sythesizing solution.",
         "InternalName": "SomethingNeedDoing",
-        "AssemblyVersion": "1.4.0.5",
+        "AssemblyVersion": "1.4.1.0",
         "RepoUrl": "https://github.com/daemitus/SomethingNeedDoing",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -1956,7 +1959,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1685037099"
+        "LastUpdate": "1685581363"
     },
     {
         "Author": "DodingDaga",
