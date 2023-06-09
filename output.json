@@ -43,7 +43,7 @@
         "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 5615,
+        "DownloadCount": 5823,
         "LastUpdate": 1686062200,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/LazyLoot/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/LazyLoot/latest.zip",
@@ -61,13 +61,13 @@
             "crafting"
         ],
         "InternalName": "Artisan",
-        "AssemblyVersion": "1.9.0.2",
-        "TestingAssemblyVersion": "1.9.0.1",
+        "AssemblyVersion": "1.9.0.3",
+        "TestingAssemblyVersion": "1.9.0.4",
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 97144,
-        "LastUpdate": 1686073732,
+        "DownloadCount": 105378,
+        "LastUpdate": 1686298054,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Artisan/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Artisan/latest.zip",
         "DownloadLinkTesting": "https://love.puni.sh/plugins/Artisan/Testing/latest.zip",
@@ -89,7 +89,7 @@
         "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 8850,
+        "DownloadCount": 9075,
         "LastUpdate": 1684680446,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Pandora/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Pandora/latest.zip",
@@ -113,7 +113,7 @@
         "RepoUrl": "https://github.com/PunishXIV/PalacePal",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 4308,
+        "DownloadCount": 4391,
         "LastUpdate": 1683838662,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/PalacePal/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/PalacePal/latest.zip",
@@ -135,7 +135,7 @@
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 15810,
+        "DownloadCount": 16148,
         "LastUpdate": 1684932968,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Splatoon/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Splatoon/latest.zip",
@@ -154,12 +154,12 @@
             "automation"
         ],
         "InternalName": "Saucy",
-        "AssemblyVersion": "1.2.0.0",
+        "AssemblyVersion": "1.2.0.2",
         "TestingAssemblyVersion": "1.1.0.2",
         "RepoUrl": "https://github.com/PunishXIV/Saucy",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 12998,
+        "DownloadCount": 13259,
         "LastUpdate": 1680368826,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Saucy/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Saucy/latest.zip",
@@ -181,7 +181,7 @@
         "RepoUrl": "https://github.com/PunishXIV/Avarice",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 8704,
+        "DownloadCount": 10140,
         "LastUpdate": 1686174812,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Avarice/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Avarice/latest.zip",
@@ -200,7 +200,7 @@
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 56352,
+        "DownloadCount": 56571,
         "LastUpdate": 1684009036,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
@@ -213,9 +213,9 @@
         "Name": "FF Logs Viewer [Grinch API 8]",
         "Punchline": "View FF Logs ranking percentiles in-game.",
         "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
-        "Changelog": "- 2.1.2.4:\n   Fixes an edge case where context menu would fail if someone had their world in their name.\n- 2.1.2.3:\n   Adds P12S P2 to the default layout.\n- 2.1.2.2:\n   Fixes open with not working for examine.\n- 2.1.2.1:\n   Fixes open with not working for search info.\n- 2.1.2.0:\n   Adds support for 6.4 encounters in the default layout.\n   Swapping headers will now display a mouse icon to indicate you can click on it.",
+        "Changelog": "- 2.1.3.0:\n   Adds the history feature, containing the last 50 searched characters.\n   Most errors are now clickable to bring you on FF Logs.\n   Hidden logs are now yellow, to distinguish them from other errors in the party view without hovering.\n   Fixes an issue where errors would get cached.\n   Combines clear current view and clear cache buttons.",
         "InternalName": "FFLogsViewer",
-        "AssemblyVersion": "2.1.2.4",
+        "AssemblyVersion": "2.1.3.0",
         "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
         "ApplicableVersion": "any",
         "Tags": [
@@ -232,7 +232,7 @@
         "DownloadLinkTesting": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1685578083"
+        "LastUpdate": "1686310772"
     },
     {
         "Author": "Ajisai Mirai",
@@ -613,7 +613,7 @@
         "Punchline": "A collection of quality of life tweaks.",
         "AcceptsFeedback": true,
         "Changelog": "HaselTweaks\n\n- Fixed: Resolver wouldn't resolve the same signature with different offsets (happened to Forced Cutscene Music).\n\nEnhanced Experience Bar\n\n- Fixed: The PvP Series Bar will now update after claiming a rank to clean the claimable rank indicator.",
-        "DownloadCount": 1227,
+        "DownloadCount": 1318,
         "LastUpdate": 1686060563,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.12.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.12.1/latest.zip"
@@ -633,7 +633,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "Updated for Patch 6.4.\n\nSome text has been translated into French and Japanese by using ChatGPT (commit ee6316c).  \nPlease file a bug if any translation is incorrect.",
-        "DownloadCount": 333,
+        "DownloadCount": 335,
         "LastUpdate": 1685101682,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.3/latest.zip"
@@ -680,36 +680,10 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1682384035,
-        "DownloadCount": 43086,
+        "DownloadCount": 43264,
         "DownloadLinkInstall": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.5.9/BDTHPlugin.zip",
         "DownloadLinkTesting": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.5.9/BDTHPlugin.zip",
         "DownloadLinkUpdate": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.5.9/BDTHPlugin.zip"
-    },
-    {
-        "Author": "UnknownX",
-        "Name": "ReAction [Grinch API 8]",
-        "Punchline": "QoL for the battle system.",
-        "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
-        "Changelog": "",
-        "InternalName": "ReAction",
-        "AssemblyVersion": "1.3.3.5",
-        "RepoUrl": "https://github.com/UnknownX7/ReAction",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "jobs"
-        ],
-        "DalamudApiLevel": 8,
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
-        "DownloadCount": 8196,
-        "LastUpdate": "1685081081"
     },
     {
         "Author": "Liza Carvelli",
@@ -798,7 +772,7 @@
         "Punchline": "Craft stuffs",
         "Description": "Craft your things",
         "InternalName": "CraftingList",
-        "AssemblyVersion": "2.3.3",
+        "AssemblyVersion": "2.4.2",
         "ApplicableVersion": "any",
         "Tags": [
             "craft"
@@ -851,7 +825,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1684969454,
-        "DownloadCount": 19252,
+        "DownloadCount": 19630,
         "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.4/HeelsPlugin.zip",
         "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.4/HeelsPlugin.zip",
         "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.4/HeelsPlugin.zip"
@@ -1444,29 +1418,29 @@
     },
     {
         "Author": "UnknownX",
-        "Name": "DalamudRepoBrowser [Grinch API 8]",
-        "Punchline": "Browse and add third party repositories in an instant",
-        "Description": "An interface for browsing and managing third party repositories.",
+        "Name": "ReAction [Grinch API 8]",
+        "Punchline": "QoL for the battle system.",
+        "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
         "Changelog": "",
-        "InternalName": "DalamudRepoBrowser",
-        "AssemblyVersion": "2.0.3.2",
-        "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser",
+        "InternalName": "ReAction",
+        "AssemblyVersion": "1.3.3.5",
+        "RepoUrl": "https://github.com/UnknownX7/ReAction",
         "ApplicableVersion": "any",
         "CategoryTags": [
-            "other"
+            "jobs"
         ],
         "DalamudApiLevel": 8,
         "IconUrl": "",
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
+        "DownloadLinkInstall": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
-        "DownloadCount": 3566,
-        "LastUpdate": "1680237651"
+        "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
+        "DownloadCount": 8315,
+        "LastUpdate": "1685081081"
     },
     {
         "Author": "UnknownX",
@@ -1492,8 +1466,57 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.12/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.12/latest.zip",
-        "DownloadCount": 29328,
+        "DownloadCount": 29542,
         "LastUpdate": "1680271014"
+    },
+    {
+        "Author": "UnknownX",
+        "Name": "DalamudRepoBrowser [Grinch API 8]",
+        "Punchline": "Browse and add third party repositories in an instant",
+        "Description": "An interface for browsing and managing third party repositories.",
+        "Changelog": "",
+        "InternalName": "DalamudRepoBrowser",
+        "AssemblyVersion": "2.0.3.2",
+        "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "other"
+        ],
+        "DalamudApiLevel": 8,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
+        "DownloadCount": 3608,
+        "LastUpdate": "1680237651"
+    },
+    {
+        "Author": "UnknownX",
+        "Name": "Fractionality [Grinch API 8]",
+        "Punchline": "DEPRECATED",
+        "Description": "This plugin is available as an option in ReAction now.",
+        "InternalName": "Fractionality",
+        "AssemblyVersion": "1.0.1.5",
+        "RepoUrl": "https://github.com/UnknownX7/Fractionality",
+        "ApplicableVersion": "any",
+        "CategoryTags": [],
+        "DalamudApiLevel": 8,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
+        "DownloadCount": 460,
+        "LastUpdate": "1680237651"
     },
     {
         "Author": "UnknownX",
@@ -1518,7 +1541,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.7/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.7/latest.zip",
-        "DownloadCount": 15492,
+        "DownloadCount": 15609,
         "LastUpdate": "1681869097"
     },
     {
@@ -1544,31 +1567,8 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.10/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.10/latest.zip",
-        "DownloadCount": 2372,
+        "DownloadCount": 2412,
         "LastUpdate": "1685234965"
-    },
-    {
-        "Author": "UnknownX",
-        "Name": "Fractionality [Grinch API 8]",
-        "Punchline": "DEPRECATED",
-        "Description": "This plugin is available as an option in ReAction now.",
-        "InternalName": "Fractionality",
-        "AssemblyVersion": "1.0.1.5",
-        "RepoUrl": "https://github.com/UnknownX7/Fractionality",
-        "ApplicableVersion": "any",
-        "CategoryTags": [],
-        "DalamudApiLevel": 8,
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
-        "DownloadCount": 457,
-        "LastUpdate": "1680237651"
     },
     {
         "Author": "XIV Tools",
