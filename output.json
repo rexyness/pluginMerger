@@ -39,12 +39,12 @@
             "other"
         ],
         "InternalName": "LazyLoot",
-        "AssemblyVersion": "5.1.0.2",
+        "AssemblyVersion": "5.1.0.3",
         "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 5823,
-        "LastUpdate": 1686062200,
+        "DownloadCount": 6003,
+        "LastUpdate": 1686496772,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/LazyLoot/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/LazyLoot/latest.zip",
         "DownloadLinkTesting": "https://love.puni.sh/plugins/LazyLoot/latest.zip",
@@ -66,7 +66,7 @@
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 105378,
+        "DownloadCount": 108577,
         "LastUpdate": 1686298054,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Artisan/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Artisan/latest.zip",
@@ -84,13 +84,13 @@
             "plugin"
         ],
         "InternalName": "PandorasBox",
-        "AssemblyVersion": "1.1.1.1",
-        "TestingAssemblyVersion": "1.1.0.2",
+        "AssemblyVersion": "1.2.0.1",
+        "TestingAssemblyVersion": "1.2.0.2",
         "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 9075,
-        "LastUpdate": 1684680446,
+        "DownloadCount": 12186,
+        "LastUpdate": 1686484282,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Pandora/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Pandora/latest.zip",
         "DownloadLinkTesting": "https://love.puni.sh/plugins/Pandora/Testing/latest.zip",
@@ -113,7 +113,7 @@
         "RepoUrl": "https://github.com/PunishXIV/PalacePal",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 4391,
+        "DownloadCount": 4540,
         "LastUpdate": 1683838662,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/PalacePal/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/PalacePal/latest.zip",
@@ -135,7 +135,7 @@
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 16148,
+        "DownloadCount": 16546,
         "LastUpdate": 1684932968,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Splatoon/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Splatoon/latest.zip",
@@ -159,7 +159,7 @@
         "RepoUrl": "https://github.com/PunishXIV/Saucy",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 13259,
+        "DownloadCount": 16619,
         "LastUpdate": 1680368826,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Saucy/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Saucy/latest.zip",
@@ -181,7 +181,7 @@
         "RepoUrl": "https://github.com/PunishXIV/Avarice",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 10140,
+        "DownloadCount": 10459,
         "LastUpdate": 1686174812,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Avarice/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Avarice/latest.zip",
@@ -200,7 +200,7 @@
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 56571,
+        "DownloadCount": 56805,
         "LastUpdate": 1684009036,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
@@ -580,9 +580,9 @@
         "Name": "XIV Combo Expandedest [Grinch API 8]",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button. Plus extras.",
         "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
-        "Changelog": "1.4.1.92:\r\n* Shield Lob to Holy Spirit Movement Option added.\r\n* Reprisal Lockout Feature now also includes Addle/Feint.\r\n* Physical Ranged DPS Defense Cooldown Lockout Feature added.\r\n\r\n1.4.2.0:\r\n* Updated for 6.4.\r\n* Removed Fairy Feature Selene Option. All hail healing Carbuncle.\r\n\r\nIf a recent change isn't documented on this changelog, it is because it doesn't affect plugin functionality, or is a minor bugfix.",
+        "Changelog": "1.4.1.92:\r\n* Shield Lob to Holy Spirit Movement Option added.\r\n* Reprisal Lockout Feature now also includes Addle/Feint.\r\n* Physical Ranged DPS Defense Cooldown Lockout Feature added.\r\n\r\n1.4.2.0:\r\n* Updated for 6.4.\r\n* Removed Fairy Feature Selene Option. All hail healing Carbuncle.\r\n\r\n1.4.2.2:\r\n* Storm's Eye Onslaught Replacement Feature added.\r\n* The Blackest Night to Oblation Feature added.\r\n\r\nIf a recent change isn't documented on this changelog, it is because it doesn't affect plugin functionality, or is a minor bugfix.",
         "InternalName": "XIVComboExpandedest",
-        "AssemblyVersion": "1.4.2.1",
+        "AssemblyVersion": "1.4.2.2",
         "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -595,7 +595,7 @@
         "DownloadLinkTesting": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadLinkUpdate": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1685062386"
+        "LastUpdate": "1686367097"
     },
     {
         "Author": "Haselnussbomber",
@@ -613,7 +613,7 @@
         "Punchline": "A collection of quality of life tweaks.",
         "AcceptsFeedback": true,
         "Changelog": "HaselTweaks\n\n- Fixed: Resolver wouldn't resolve the same signature with different offsets (happened to Forced Cutscene Music).\n\nEnhanced Experience Bar\n\n- Fixed: The PvP Series Bar will now update after claiming a rank to clean the claimable rank indicator.",
-        "DownloadCount": 1318,
+        "DownloadCount": 1568,
         "LastUpdate": 1686060563,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.12.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.12.1/latest.zip"
@@ -633,7 +633,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "Updated for Patch 6.4.\n\nSome text has been translated into French and Japanese by using ChatGPT (commit ee6316c).  \nPlease file a bug if any translation is incorrect.",
-        "DownloadCount": 335,
+        "DownloadCount": 350,
         "LastUpdate": 1685101682,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.3/latest.zip"
@@ -730,7 +730,7 @@
         "IsTestingExclusive": "False",
         "AssemblyVersion": "2.4.4.1",
         "LastUpdated": 1678303302,
-        "DownloadCount": 6683,
+        "DownloadCount": 7563,
         "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.4.4.1/latest.zip",
         "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.4.4.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.4.4.1/latest.zip"
@@ -761,7 +761,7 @@
         "IsTestingExclusive": "False",
         "AssemblyVersion": "1.1.2.3",
         "LastUpdated": 1674001897,
-        "DownloadCount": 490,
+        "DownloadCount": 528,
         "DownloadLinkInstall": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip",
         "DownloadLinkTesting": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip"
@@ -825,7 +825,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1684969454,
-        "DownloadCount": 19630,
+        "DownloadCount": 21677,
         "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.4/HeelsPlugin.zip",
         "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.4/HeelsPlugin.zip",
         "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.4/HeelsPlugin.zip"
@@ -876,7 +876,7 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/LMeter/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/LMeter/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1685384770"
+        "LastUpdated": "1686492642"
     },
     {
         "Author": "attick, daemitus, Evil-Crab, PrincessRTFM, Maxunit",
@@ -897,7 +897,7 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1685384770"
+        "LastUpdated": "1686492642"
     },
     {
         "Author": "Meisterlala",
@@ -927,7 +927,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1673721064,
-        "DownloadCount": 87,
+        "DownloadCount": 90,
         "DownloadLinkInstall": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFans.zip",
         "DownloadLinkTesting": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFans.zip",
         "DownloadLinkUpdate": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFans.zip"
@@ -957,7 +957,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1673721064,
-        "DownloadCount": 1573,
+        "DownloadCount": 1624,
         "DownloadLinkInstall": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip",
         "DownloadLinkTesting": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip",
         "DownloadLinkUpdate": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip"
@@ -1238,14 +1238,14 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1685786221"
+        "LastUpdated": "1686446011"
     },
     {
         "Author": "attick, daemitus, VariableVixen",
         "Name": "XIV Combo Very Expanded [Grinch API 8]",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
         "InternalName": "XIVComboVX",
-        "AssemblyVersion": "9.1.0",
+        "AssemblyVersion": "9.3.0",
         "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -1255,7 +1255,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1685786221"
+        "LastUpdated": "1686446011"
     },
     {
         "Author": "VariableVixen",
@@ -1272,7 +1272,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1685786221"
+        "LastUpdated": "1686446011"
     },
     {
         "Author": "PunishedPineapple",
@@ -1418,59 +1418,6 @@
     },
     {
         "Author": "UnknownX",
-        "Name": "ReAction [Grinch API 8]",
-        "Punchline": "QoL for the battle system.",
-        "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
-        "Changelog": "",
-        "InternalName": "ReAction",
-        "AssemblyVersion": "1.3.3.5",
-        "RepoUrl": "https://github.com/UnknownX7/ReAction",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "jobs"
-        ],
-        "DalamudApiLevel": 8,
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
-        "DownloadCount": 8315,
-        "LastUpdate": "1685081081"
-    },
-    {
-        "Author": "UnknownX",
-        "Name": "NoClippy [Grinch API 8]",
-        "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
-        "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
-        "Changelog": "Added Feature of the Day",
-        "InternalName": "NoClippy",
-        "AssemblyVersion": "0.5.0.12",
-        "RepoUrl": "https://github.com/UnknownX7/NoClippy",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "jobs",
-            "utility"
-        ],
-        "DalamudApiLevel": 8,
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.12/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.12/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.12/latest.zip",
-        "DownloadCount": 29542,
-        "LastUpdate": "1680271014"
-    },
-    {
-        "Author": "UnknownX",
         "Name": "DalamudRepoBrowser [Grinch API 8]",
         "Punchline": "Browse and add third party repositories in an instant",
         "Description": "An interface for browsing and managing third party repositories.",
@@ -1492,31 +1439,61 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
-        "DownloadCount": 3608,
+        "DownloadCount": 3881,
         "LastUpdate": "1680237651"
     },
     {
         "Author": "UnknownX",
-        "Name": "Fractionality [Grinch API 8]",
-        "Punchline": "DEPRECATED",
-        "Description": "This plugin is available as an option in ReAction now.",
-        "InternalName": "Fractionality",
-        "AssemblyVersion": "1.0.1.5",
-        "RepoUrl": "https://github.com/UnknownX7/Fractionality",
+        "Name": "NoClippy [Grinch API 8]",
+        "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
+        "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
+        "Changelog": "",
+        "InternalName": "NoClippy",
+        "AssemblyVersion": "0.5.0.13",
+        "RepoUrl": "https://github.com/UnknownX7/NoClippy",
         "ApplicableVersion": "any",
-        "CategoryTags": [],
+        "CategoryTags": [
+            "jobs",
+            "utility"
+        ],
         "DalamudApiLevel": 8,
         "IconUrl": "",
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
+        "DownloadLinkInstall": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.13/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
-        "DownloadCount": 460,
-        "LastUpdate": "1680237651"
+        "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.13/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.13/latest.zip",
+        "DownloadCount": 11593,
+        "LastUpdate": "1686534786"
+    },
+    {
+        "Author": "UnknownX",
+        "Name": "ReAction [Grinch API 8]",
+        "Punchline": "QoL for the battle system.",
+        "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
+        "Changelog": "",
+        "InternalName": "ReAction",
+        "AssemblyVersion": "1.3.3.5",
+        "RepoUrl": "https://github.com/UnknownX7/ReAction",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "jobs"
+        ],
+        "DalamudApiLevel": 8,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
+        "DownloadCount": 8920,
+        "LastUpdate": "1685081081"
     },
     {
         "Author": "UnknownX",
@@ -1541,7 +1518,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.7/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.7/latest.zip",
-        "DownloadCount": 15609,
+        "DownloadCount": 16216,
         "LastUpdate": "1681869097"
     },
     {
@@ -1567,8 +1544,31 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.10/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.10/latest.zip",
-        "DownloadCount": 2412,
+        "DownloadCount": 2632,
         "LastUpdate": "1685234965"
+    },
+    {
+        "Author": "UnknownX",
+        "Name": "Fractionality [Grinch API 8]",
+        "Punchline": "DEPRECATED",
+        "Description": "This plugin is available as an option in ReAction now.",
+        "InternalName": "Fractionality",
+        "AssemblyVersion": "1.0.1.5",
+        "RepoUrl": "https://github.com/UnknownX7/Fractionality",
+        "ApplicableVersion": "any",
+        "CategoryTags": [],
+        "DalamudApiLevel": 8,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
+        "DownloadCount": 484,
+        "LastUpdate": "1680237651"
     },
     {
         "Author": "XIV Tools",
@@ -1875,7 +1875,7 @@
         "Author": "veyn",
         "Name": "Boss Mod [Grinch API 8]",
         "InternalName": "BossMod",
-        "AssemblyVersion": "0.0.0.98",
+        "AssemblyVersion": "0.0.0.99",
         "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content. ***very early alpha, use at your own risk***",
         "ApplicableVersion": "2023.05.31.0000.0000",
         "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
@@ -1893,7 +1893,7 @@
         "AcceptsFeedback": true,
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdate": "1685895240",
+        "LastUpdate": "1686055438",
         "DownloadLinkInstall": "https://github.com/awgil/ffxiv_plugin_distribution/raw/master/plugins/BossMod/latest.zip",
         "DownloadLinkTesting": "https://github.com/awgil/ffxiv_plugin_distribution/raw/master/plugins/BossMod/latest.zip",
         "DownloadLinkUpdate": "https://github.com/awgil/ffxiv_plugin_distribution/raw/master/plugins/BossMod/latest.zip"
