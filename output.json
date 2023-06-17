@@ -43,7 +43,7 @@
         "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 6003,
+        "DownloadCount": 7566,
         "LastUpdate": 1686496772,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/LazyLoot/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/LazyLoot/latest.zip",
@@ -66,7 +66,7 @@
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 108577,
+        "DownloadCount": 110457,
         "LastUpdate": 1686298054,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Artisan/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Artisan/latest.zip",
@@ -89,7 +89,7 @@
         "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 12186,
+        "DownloadCount": 14921,
         "LastUpdate": 1686484282,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Pandora/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Pandora/latest.zip",
@@ -113,7 +113,7 @@
         "RepoUrl": "https://github.com/PunishXIV/PalacePal",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 4540,
+        "DownloadCount": 4790,
         "LastUpdate": 1683838662,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/PalacePal/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/PalacePal/latest.zip",
@@ -135,7 +135,7 @@
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 16546,
+        "DownloadCount": 17256,
         "LastUpdate": 1684932968,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Splatoon/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Splatoon/latest.zip",
@@ -159,7 +159,7 @@
         "RepoUrl": "https://github.com/PunishXIV/Saucy",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 16619,
+        "DownloadCount": 17718,
         "LastUpdate": 1680368826,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Saucy/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Saucy/latest.zip",
@@ -181,7 +181,7 @@
         "RepoUrl": "https://github.com/PunishXIV/Avarice",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 10459,
+        "DownloadCount": 10828,
         "LastUpdate": 1686174812,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Avarice/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Avarice/latest.zip",
@@ -196,12 +196,12 @@
         "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
         "InternalName": "AutoRetainer",
         "AssemblyVersion": "3.1.3.0",
-        "TestingAssemblyVersion": "3.1.2.6",
+        "TestingAssemblyVersion": "3.1.3.2",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 56805,
-        "LastUpdate": 1684009036,
+        "DownloadCount": 57482,
+        "LastUpdate": 1686948630,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
         "DownloadLinkTesting": "https://love.puni.sh/plugins/AutoRetainer/Testing/latest.zip",
@@ -613,7 +613,7 @@
         "Punchline": "A collection of quality of life tweaks.",
         "AcceptsFeedback": true,
         "Changelog": "HaselTweaks\n\n- Fixed: Resolver wouldn't resolve the same signature with different offsets (happened to Forced Cutscene Music).\n\nEnhanced Experience Bar\n\n- Fixed: The PvP Series Bar will now update after claiming a rank to clean the claimable rank indicator.",
-        "DownloadCount": 1568,
+        "DownloadCount": 1598,
         "LastUpdate": 1686060563,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.12.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.12.1/latest.zip"
@@ -633,7 +633,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "Updated for Patch 6.4.\n\nSome text has been translated into French and Japanese by using ChatGPT (commit ee6316c).  \nPlease file a bug if any translation is incorrect.",
-        "DownloadCount": 350,
+        "DownloadCount": 353,
         "LastUpdate": 1685101682,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.3/latest.zip"
@@ -825,7 +825,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1684969454,
-        "DownloadCount": 21677,
+        "DownloadCount": 22130,
         "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.4/HeelsPlugin.zip",
         "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.4/HeelsPlugin.zip",
         "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.4/HeelsPlugin.zip"
@@ -1208,7 +1208,7 @@
         "Punchline": "Customize your character beyond FFXIV's limitations.",
         "InternalName": "CustomizePlus",
         "AssemblyVersion": "0.0.1.9",
-        "TestingAssemblyVersion": "0.0.1.9",
+        "TestingAssemblyVersion": "0.0.2.0",
         "RepoUrl": "https://github.com/XIV-Tools/CustomizePlus",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -1218,10 +1218,10 @@
         "LastUpdate": 0,
         "LoadPriority": 0,
         "DownloadLinkInstall": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
-        "DownloadLinkTesting": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
+        "DownloadLinkTesting": "https://github.com/XIV-Tools/CustomizePlus/releases/download/test_0.0.2.0/CustomizePlus.zip",
         "DownloadLinkUpdate": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
         "IconUrl": "https://raw.githubusercontent.com/XIV-Tools/CustomizePlus/main/Data/icon.png",
-        "Changelog": "0.0.1.9 \n-Added Dalamud Filepicker to not screw with the game\n-Added IPC Version check in preperation for 0.0.2.0 by Alex"
+        "Changelog": "0.0.2.0 A LOT..."
     },
     {
         "Author": "VariableVixen",
@@ -1439,7 +1439,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
-        "DownloadCount": 3881,
+        "DownloadCount": 3945,
         "LastUpdate": "1680237651"
     },
     {
@@ -1466,7 +1466,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.13/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.13/latest.zip",
-        "DownloadCount": 11593,
+        "DownloadCount": 12887,
         "LastUpdate": "1686534786"
     },
     {
@@ -1492,7 +1492,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
-        "DownloadCount": 8920,
+        "DownloadCount": 9033,
         "LastUpdate": "1685081081"
     },
     {
@@ -1518,7 +1518,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.7/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.7/latest.zip",
-        "DownloadCount": 16216,
+        "DownloadCount": 16384,
         "LastUpdate": "1681869097"
     },
     {
@@ -1544,7 +1544,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.10/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.10/latest.zip",
-        "DownloadCount": 2632,
+        "DownloadCount": 2672,
         "LastUpdate": "1685234965"
     },
     {
@@ -1567,7 +1567,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
-        "DownloadCount": 484,
+        "DownloadCount": 487,
         "LastUpdate": "1680237651"
     },
     {
