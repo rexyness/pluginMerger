@@ -213,9 +213,9 @@
         "Name": "FF Logs Viewer [Grinch API 8]",
         "Punchline": "View FF Logs ranking percentiles in-game.",
         "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
-        "Changelog": "- 2.1.3.0:\n   Adds the history feature, containing the last 50 searched characters.\n   Most errors are now clickable to bring you on FF Logs.\n   Hidden logs are now yellow, to distinguish them from other errors in the party view without hovering.\n   Fixes an issue where errors would get cached.\n   Combines clear current view and clear cache buttons.",
+        "Changelog": "- 2.1.4.0:\n   Adds cDPS metric, this new metric only works on new reports.\n- 2.1.3.0:\n   Adds the history feature, containing the last 50 searched characters.\n   Most errors are now clickable to bring you on FF Logs.\n   Hidden logs are now yellow, to distinguish them from other errors in the party view without hovering.\n   Fixes an issue where errors would get cached.\n   Combines clear current view and clear cache buttons.",
         "InternalName": "FFLogsViewer",
-        "AssemblyVersion": "2.1.3.0",
+        "AssemblyVersion": "2.1.4.0",
         "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
         "ApplicableVersion": "any",
         "Tags": [
@@ -232,7 +232,7 @@
         "DownloadLinkTesting": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686310772"
+        "LastUpdate": "1687371554"
     },
     {
         "Author": "Ajisai Mirai",
@@ -601,7 +601,7 @@
         "Author": "Haselnussbomber",
         "Name": "HaselTweaks [Grinch API 8]",
         "InternalName": "HaselTweaks",
-        "AssemblyVersion": "14.12.1",
+        "AssemblyVersion": "15.0.0",
         "Description": "Keep on tweaking.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -612,11 +612,11 @@
         "LoadPriority": 0,
         "Punchline": "A collection of quality of life tweaks.",
         "AcceptsFeedback": true,
-        "Changelog": "HaselTweaks\n\n- Fixed: Resolver wouldn't resolve the same signature with different offsets (happened to Forced Cutscene Music).\n\nEnhanced Experience Bar\n\n- Fixed: The PvP Series Bar will now update after claiming a rank to clean the claimable rank indicator.",
-        "DownloadCount": 1670,
-        "LastUpdate": 1686060563,
-        "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.12.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v14.12.1/latest.zip"
+        "Changelog": "New Tweak: Enhanced Login/Logout\n\nLogin options:\n\n- Show pets in character selection: Displays a carbuncle for Arcanist/Summoner and a fairy for Scholar next to your character. Position is adjustable.\n  > Note\n  > In order to apply the pet glamor settings, you must have logged in at least once.\n- Preload territory when queued: When it puts you in queue, it will preload the territory textures in the background, just as it does as when you start teleporting.  \n  > Note\n  > Since I only have SSDs, I don't really know if this works at all.\n\nLogout options:\n\n- Clear tell history on logout\n\nDTR\n\n- Fixed: Sometimes text would not be set, resulting in an empty DTR entry.",
+        "DownloadCount": 355,
+        "LastUpdate": 1687377327,
+        "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v15.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v15.0.0/latest.zip"
     },
     {
         "Author": "Haselnussbomber",
@@ -633,7 +633,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "Updated for Patch 6.4.\n\nSome text has been translated into French and Japanese by using ChatGPT (commit ee6316c).  \nPlease file a bug if any translation is incorrect.",
-        "DownloadCount": 364,
+        "DownloadCount": 368,
         "LastUpdate": 1685101682,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.3/latest.zip"
@@ -825,7 +825,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1684969454,
-        "DownloadCount": 23172,
+        "DownloadCount": 23552,
         "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.4/HeelsPlugin.zip",
         "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.4/HeelsPlugin.zip",
         "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.4/HeelsPlugin.zip"
@@ -927,7 +927,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1673721064,
-        "DownloadCount": 90,
+        "DownloadCount": 100,
         "DownloadLinkInstall": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFans.zip",
         "DownloadLinkTesting": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFans.zip",
         "DownloadLinkUpdate": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFans.zip"
@@ -957,7 +957,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1673721064,
-        "DownloadCount": 1624,
+        "DownloadCount": 1657,
         "DownloadLinkInstall": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip",
         "DownloadLinkTesting": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip",
         "DownloadLinkUpdate": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip"
@@ -1418,85 +1418,6 @@
     },
     {
         "Author": "UnknownX",
-        "Name": "DalamudRepoBrowser [Grinch API 8]",
-        "Punchline": "Browse and add third party repositories in an instant",
-        "Description": "An interface for browsing and managing third party repositories.",
-        "Changelog": "",
-        "InternalName": "DalamudRepoBrowser",
-        "AssemblyVersion": "2.0.3.2",
-        "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "other"
-        ],
-        "DalamudApiLevel": 8,
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
-        "DownloadCount": 4069,
-        "LastUpdate": "1680237651"
-    },
-    {
-        "Author": "UnknownX",
-        "Name": "NoClippy [Grinch API 8]",
-        "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
-        "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
-        "Changelog": "",
-        "InternalName": "NoClippy",
-        "AssemblyVersion": "0.5.0.13",
-        "RepoUrl": "https://github.com/UnknownX7/NoClippy",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "jobs",
-            "utility"
-        ],
-        "DalamudApiLevel": 8,
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.13/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.13/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.13/latest.zip",
-        "DownloadCount": 14862,
-        "LastUpdate": "1686534786"
-    },
-    {
-        "Author": "UnknownX",
-        "Name": "ReAction [Grinch API 8]",
-        "Punchline": "QoL for the battle system.",
-        "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
-        "Changelog": "",
-        "InternalName": "ReAction",
-        "AssemblyVersion": "1.3.3.5",
-        "RepoUrl": "https://github.com/UnknownX7/ReAction",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "jobs"
-        ],
-        "DalamudApiLevel": 8,
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
-        "DownloadCount": 9309,
-        "LastUpdate": "1685081081"
-    },
-    {
-        "Author": "UnknownX",
         "Name": "Cammy [Grinch API 8]",
         "Punchline": "A simple editor for the game's camera settings",
         "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
@@ -1518,7 +1439,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.7/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.7/latest.zip",
-        "DownloadCount": 16719,
+        "DownloadCount": 16852,
         "LastUpdate": "1681869097"
     },
     {
@@ -1544,8 +1465,35 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.10/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.10/latest.zip",
-        "DownloadCount": 2778,
+        "DownloadCount": 2819,
         "LastUpdate": "1685234965"
+    },
+    {
+        "Author": "UnknownX",
+        "Name": "NoClippy [Grinch API 8]",
+        "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
+        "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
+        "Changelog": "",
+        "InternalName": "NoClippy",
+        "AssemblyVersion": "0.5.0.13",
+        "RepoUrl": "https://github.com/UnknownX7/NoClippy",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "jobs",
+            "utility"
+        ],
+        "DalamudApiLevel": 8,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.13/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.13/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.13/latest.zip",
+        "DownloadCount": 15866,
+        "LastUpdate": "1686534786"
     },
     {
         "Author": "UnknownX",
@@ -1568,6 +1516,58 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
         "DownloadCount": 497,
+        "LastUpdate": "1680237651"
+    },
+    {
+        "Author": "UnknownX",
+        "Name": "ReAction [Grinch API 8]",
+        "Punchline": "QoL for the battle system.",
+        "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
+        "Changelog": "",
+        "InternalName": "ReAction",
+        "AssemblyVersion": "1.3.3.5",
+        "RepoUrl": "https://github.com/UnknownX7/ReAction",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "jobs"
+        ],
+        "DalamudApiLevel": 8,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
+        "DownloadCount": 9451,
+        "LastUpdate": "1685081081"
+    },
+    {
+        "Author": "UnknownX",
+        "Name": "DalamudRepoBrowser [Grinch API 8]",
+        "Punchline": "Browse and add third party repositories in an instant",
+        "Description": "An interface for browsing and managing third party repositories.",
+        "Changelog": "",
+        "InternalName": "DalamudRepoBrowser",
+        "AssemblyVersion": "2.0.3.2",
+        "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "other"
+        ],
+        "DalamudApiLevel": 8,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
+        "DownloadCount": 4121,
         "LastUpdate": "1680237651"
     },
     {
@@ -2038,7 +2038,7 @@
         "Name": "FFXIV Vibe Plugin [Grinch API 8]",
         "Description": "Plugin that let you vibe your controller or toys",
         "InternalName": "FFXIV_Vibe_Plugin",
-        "AssemblyVersion": "2.1.0.0",
+        "AssemblyVersion": "2.2.0.0",
         "RepoUrl": "https://github.com/kaciexx/FFXIV_Vibe_Plugin",
         "ApplicableVersion": "any",
         "Tags": [
@@ -2050,11 +2050,11 @@
         "IconUrl": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/raw/master/images/icon.png",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdated": 1685437682,
-        "DownloadCount": 6653,
-        "DownloadLinkInstall": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/releases/download/v2.1.0.0/FFXIV_Vibe_Plugin_v2.1.0.0.zip",
-        "DownloadLinkTesting": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/releases/download/v2.1.0.0/FFXIV_Vibe_Plugin_v2.1.0.0.zip",
-        "DownloadLinkUpdate": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/releases/download/v2.1.0.0/FFXIV_Vibe_Plugin_v2.1.0.0.zip"
+        "LastUpdated": 1687359201,
+        "DownloadCount": 6699,
+        "DownloadLinkInstall": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/releases/download/v2.2.0.0/FFXIV_Vibe_Plugin_v2.2.0.0.zip",
+        "DownloadLinkTesting": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/releases/download/v2.2.0.0/FFXIV_Vibe_Plugin_v2.2.0.0.zip",
+        "DownloadLinkUpdate": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/releases/download/v2.2.0.0/FFXIV_Vibe_Plugin_v2.2.0.0.zip"
     },
     {
         "Author": "Lichie",
