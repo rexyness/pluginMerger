@@ -43,7 +43,7 @@
         "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 13218,
+        "DownloadCount": 13636,
         "LastUpdate": 1690479090,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/LazyLoot/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/LazyLoot/latest.zip",
@@ -66,7 +66,7 @@
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 135157,
+        "DownloadCount": 136037,
         "LastUpdate": 1690397938,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Artisan/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Artisan/latest.zip",
@@ -84,12 +84,12 @@
             "plugin"
         ],
         "InternalName": "PandorasBox",
-        "AssemblyVersion": "1.3.0.1",
+        "AssemblyVersion": "1.4.0.0",
         "TestingAssemblyVersion": "1.3.0.18",
         "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 25162,
+        "DownloadCount": 28151,
         "LastUpdate": 1690531800,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Pandora/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Pandora/latest.zip",
@@ -113,7 +113,7 @@
         "RepoUrl": "https://github.com/PunishXIV/PalacePal",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 7699,
+        "DownloadCount": 7921,
         "LastUpdate": 1683838662,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/PalacePal/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/PalacePal/latest.zip",
@@ -131,12 +131,12 @@
             "Accessibility"
         ],
         "InternalName": "Splatoon",
-        "AssemblyVersion": "3.3.0.0",
+        "AssemblyVersion": "3.3.0.3",
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 32860,
-        "LastUpdate": 1689686040,
+        "DownloadCount": 48342,
+        "LastUpdate": 1691009884,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Splatoon/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Splatoon/latest.zip",
         "DownloadLinkTesting": "https://love.puni.sh/plugins/Splatoon/latest.zip",
@@ -159,7 +159,7 @@
         "RepoUrl": "https://github.com/PunishXIV/Saucy",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 22219,
+        "DownloadCount": 22497,
         "LastUpdate": 1680368826,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Saucy/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Saucy/latest.zip",
@@ -177,12 +177,12 @@
             "combat"
         ],
         "InternalName": "Avarice",
-        "AssemblyVersion": "2.0.3.0",
+        "AssemblyVersion": "2.0.3.3",
         "TestingAssemblyVersion": "2.0.3.2",
         "RepoUrl": "https://github.com/PunishXIV/Avarice",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 14890,
+        "DownloadCount": 16511,
         "LastUpdate": 1689878130,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Avarice/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Avarice/latest.zip",
@@ -200,7 +200,7 @@
         "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 1544,
+        "DownloadCount": 1666,
         "LastUpdate": 1689250620,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/Orbwalker/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/Orbwalker/latest.zip",
@@ -214,12 +214,12 @@
         "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
         "InternalName": "AutoRetainer",
         "AssemblyVersion": "3.1.4.6",
-        "TestingAssemblyVersion": "3.1.4.6",
+        "TestingAssemblyVersion": "3.1.5.0",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 63022,
-        "LastUpdate": 1690769022,
+        "DownloadCount": 70908,
+        "LastUpdate": 1691153450,
         "DownloadLinkInstall": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
         "DownloadLinkUpdate": "https://love.puni.sh/plugins/AutoRetainer/latest.zip",
         "DownloadLinkTesting": "https://love.puni.sh/plugins/AutoRetainer/Testing/latest.zip",
@@ -325,7 +325,7 @@
         "Description": "Various tools for private use. Module: AutoSpear, CraftQueue, Dps, Instancinator, Macro, OpcodeWizard, Yes",
         "Changelog": "Go to https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/latest to find the last changes.",
         "InternalName": "Athavar.FFXIV.Plugin",
-        "AssemblyVersion": "2.0.27",
+        "AssemblyVersion": "2.0.28",
         "RepoUrl": "https://github.com/Athavar/Athavar.FFXIV.Plugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -335,13 +335,13 @@
         "AcceptsFeedback": false,
         "LoadPriority": 0,
         "CanUnloadAsync": false,
-        "DownloadLinkInstall": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.27/latest.zip",
+        "DownloadLinkInstall": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.28/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.27/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.27/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.28/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.28/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1690714595"
+        "LastUpdated": "1691002774"
     },
     {
         "Disabled": false,
@@ -620,7 +620,7 @@
         "Author": "Haselnussbomber",
         "Name": "HaselTweaks [Grinch API 8]",
         "InternalName": "HaselTweaks",
-        "AssemblyVersion": "15.3.3",
+        "AssemblyVersion": "16.0.3",
         "Description": "Keep on tweaking.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -631,11 +631,11 @@
         "LoadPriority": 0,
         "Punchline": "A collection of quality of life tweaks.",
         "AcceptsFeedback": true,
-        "Changelog": "- Fixed: Sometimes the game would freeze, especially when reloading the plugin, due to asynchronously enabling the hooks. Now, the plugin makes sure to enable them on the framework thread.",
-        "DownloadCount": 1787,
-        "LastUpdate": 1689820020,
-        "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v15.3.3/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v15.3.3/latest.zip"
+        "Changelog": "Background Music Keybind\n\n- Fixed: The game would respond to the keybind. Now the key press state is reset after handling it.\n\nGear Set Grid\n\n- Fixed: Calculating the item level color caused the table to suddenly stop rendering, because it was using a wrong column in the ClassJob sheet.",
+        "DownloadCount": 1321,
+        "LastUpdate": 1690930890,
+        "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.0.3/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v16.0.3/latest.zip"
     },
     {
         "Author": "Haselnussbomber",
@@ -653,7 +653,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "- Changed: Result items are now displayed as HQ items. You don't need to craft them in HQ, but why miss out on bonus rewards? Now it's easier to see when it's an item you have to turn in. :)\n- Fixed: Not all items that can be gathered were categorized as such due to prematurely aborting a loop.",
-        "DownloadCount": 0,
+        "DownloadCount": 292,
         "LastUpdate": 1690751919,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.6/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.6/latest.zip"
@@ -750,7 +750,7 @@
         "IsTestingExclusive": "False",
         "AssemblyVersion": "2.4.4.1",
         "LastUpdated": 1678303302,
-        "DownloadCount": 9126,
+        "DownloadCount": 9411,
         "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.4.4.1/latest.zip",
         "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.4.4.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.4.4.1/latest.zip"
@@ -781,7 +781,7 @@
         "IsTestingExclusive": "False",
         "AssemblyVersion": "1.1.2.3",
         "LastUpdated": 1674001897,
-        "DownloadCount": 604,
+        "DownloadCount": 617,
         "DownloadLinkInstall": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip",
         "DownloadLinkTesting": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip"
@@ -852,6 +852,27 @@
         "DownloadLinkUpdate": "https://github.com/LockonS483/AutoJailMarker/releases/download/3.2.3.0/AutoJailMarker.zip"
     },
     {
+        "Author": "attick, daemitus, Evil-Crab, PrincessRTFM, Maxunit",
+        "Name": "XIV Combo Expanded Customized [Grinch API 8]",
+        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
+        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1. Please keep an eye on the GitHub page for changes without a version bump!",
+        "InternalName": "XIVComboExpandedCustomized",
+        "AssemblyVersion": "1.4.0.18",
+        "RepoUrl": "https://github.com/maxunit/XIVComboPlugin",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/maxunit/XIVComboPlugin/master/res/icon.png",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1690910103"
+    },
+    {
         "Author": "Lichie",
         "Name": "LMeter Customized [Grinch API 8]",
         "Punchline": "Plugin to display ACT combat log data.",
@@ -871,28 +892,7 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/LMeter/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/LMeter/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1686492642"
-    },
-    {
-        "Author": "attick, daemitus, Evil-Crab, PrincessRTFM, Maxunit",
-        "Name": "XIV Combo Expanded Customized [Grinch API 8]",
-        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
-        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1. Please keep an eye on the GitHub page for changes without a version bump!",
-        "InternalName": "XIVComboExpandedCustomized",
-        "AssemblyVersion": "1.4.0.17",
-        "RepoUrl": "https://github.com/maxunit/XIVComboPlugin",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
-        "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/maxunit/XIVComboPlugin/master/res/icon.png",
-        "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1686492642"
+        "LastUpdated": "1690910103"
     },
     {
         "Author": "Meisterlala",
@@ -922,7 +922,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1687955390,
-        "DownloadCount": 4,
+        "DownloadCount": 5,
         "DownloadLinkInstall": "https://github.com/Meisterlala/NekoFans/releases/download/1.3.0/NekoFans.zip",
         "DownloadLinkTesting": "https://github.com/Meisterlala/NekoFans/releases/download/1.3.0/NekoFans.zip",
         "DownloadLinkUpdate": "https://github.com/Meisterlala/NekoFans/releases/download/1.3.0/NekoFans.zip"
@@ -952,7 +952,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1673721064,
-        "DownloadCount": 1841,
+        "DownloadCount": 1863,
         "DownloadLinkInstall": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip",
         "DownloadLinkTesting": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip",
         "DownloadLinkUpdate": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.3-NSFW/NekoFansLewd.zip"
@@ -1222,7 +1222,7 @@
         "Description": "A plugin that allows you to create and apply Anamnesis-style body scaling full time.",
         "Punchline": "Customize your character beyond FFXIV's limitations.",
         "InternalName": "CustomizePlus",
-        "AssemblyVersion": "1.2.5.2",
+        "AssemblyVersion": "1.2.5.3",
         "RepoUrl": "https://github.com/XIV-Tools/CustomizePlus",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -1234,7 +1234,7 @@
         "DownloadLinkInstall": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
         "DownloadLinkUpdate": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
         "IconUrl": "https://raw.githubusercontent.com/XIV-Tools/CustomizePlus/main/Data/icon.png",
-        "Changelog": "1.2.5.2 - Hotfix 2, Performance improvements and a fix for defaulting to disabled.\r\n\r\nIf you installed fresh in the last couple of days, please confirm in the settings that profiles are enabled before reporting issues. This includes applying scales from Mare."
+        "Changelog": "1.2.5.3 - Added Fix for zeroed and untouched Scales.\r\n\r\nHotfix 2, Performance improvements and a fix for defaulting to disabled.\r\n\r\nIf you installed fresh in the last couple of days, please confirm in the settings that profiles are enabled before reporting issues. This includes applying scales from Mare."
     },
     {
         "Author": "XIV Tools",
@@ -1273,14 +1273,14 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1690379160"
+        "LastUpdated": "1690812122"
     },
     {
         "Author": "VariableVixen",
         "Name": "WoLua [Grinch API 8]",
         "Description": "Write custom chat commands by creating lua scripts",
         "InternalName": "WoLua",
-        "AssemblyVersion": "1.2.0",
+        "AssemblyVersion": "2.0.0",
         "RepoUrl": "https://github.com/PrincessRTFM/WoLua",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -1290,7 +1290,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1690379160"
+        "LastUpdated": "1690812122"
     },
     {
         "Author": "attick, daemitus, VariableVixen",
@@ -1307,7 +1307,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1690379160"
+        "LastUpdated": "1690812122"
     },
     {
         "Author": "PunishedPineapple",
@@ -1453,6 +1453,32 @@
     },
     {
         "Author": "UnknownX",
+        "Name": "OOBlugin [Grinch API 8]",
+        "Punchline": "oob oob",
+        "Description": "oob oob",
+        "Changelog": "",
+        "InternalName": "OOBlugin",
+        "AssemblyVersion": "1.1.2.10",
+        "RepoUrl": "https://github.com/UnknownX7/OOBlugin",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 8,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.10/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.10/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.10/latest.zip",
+        "DownloadCount": 4126,
+        "LastUpdate": "1685234965"
+    },
+    {
+        "Author": "UnknownX",
         "Name": "DalamudRepoBrowser [Grinch API 8]",
         "Punchline": "Browse and add third party repositories in an instant",
         "Description": "An interface for browsing and managing third party repositories.",
@@ -1474,34 +1500,8 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
-        "DownloadCount": 5803,
+        "DownloadCount": 6048,
         "LastUpdate": "1680237651"
-    },
-    {
-        "Author": "UnknownX",
-        "Name": "Cammy [Grinch API 8]",
-        "Punchline": "A simple editor for the game's camera settings",
-        "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
-        "Changelog": "Added view bobbing, added free cam support for both GPose and Duty Recorder, removed useless settings, fixed several bugs related to camera settings resetting",
-        "InternalName": "Cammy",
-        "AssemblyVersion": "2.1.0.7",
-        "RepoUrl": "https://github.com/UnknownX7/Cammy",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "utility"
-        ],
-        "DalamudApiLevel": 8,
-        "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
-        "ImageUrls": [
-            "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
-        ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.7/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.7/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.7/latest.zip",
-        "DownloadCount": 20118,
-        "LastUpdate": "1681869097"
     },
     {
         "Author": "UnknownX",
@@ -1527,34 +1527,8 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.13/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.13/latest.zip",
-        "DownloadCount": 25623,
+        "DownloadCount": 26662,
         "LastUpdate": "1686534786"
-    },
-    {
-        "Author": "UnknownX",
-        "Name": "OOBlugin [Grinch API 8]",
-        "Punchline": "oob oob",
-        "Description": "oob oob",
-        "Changelog": "",
-        "InternalName": "OOBlugin",
-        "AssemblyVersion": "1.1.2.10",
-        "RepoUrl": "https://github.com/UnknownX7/OOBlugin",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "utility"
-        ],
-        "DalamudApiLevel": 8,
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.10/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.10/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.10/latest.zip",
-        "DownloadCount": 3970,
-        "LastUpdate": "1685234965"
     },
     {
         "Author": "UnknownX",
@@ -1576,8 +1550,34 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
-        "DownloadCount": 587,
+        "DownloadCount": 597,
         "LastUpdate": "1680237651"
+    },
+    {
+        "Author": "UnknownX",
+        "Name": "Cammy [Grinch API 8]",
+        "Punchline": "A simple editor for the game's camera settings",
+        "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
+        "Changelog": "Added view bobbing, added free cam support for both GPose and Duty Recorder, removed useless settings, fixed several bugs related to camera settings resetting",
+        "InternalName": "Cammy",
+        "AssemblyVersion": "2.1.0.7",
+        "RepoUrl": "https://github.com/UnknownX7/Cammy",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 8,
+        "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
+        ],
+        "DownloadLinkInstall": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.7/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.7/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.7/latest.zip",
+        "DownloadCount": 20555,
+        "LastUpdate": "1681869097"
     },
     {
         "Author": "UnknownX",
@@ -1602,7 +1602,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
-        "DownloadCount": 12329,
+        "DownloadCount": 12678,
         "LastUpdate": "1685081081"
     },
     {
@@ -2377,7 +2377,7 @@
         "Punchline": "锁定",
         "Description": "锁定BOSS /LockBOSS change 1 靠近水晶切换1号线路",
         "InternalName": "Lock",
-        "AssemblyVersion": "1.0.2.5",
+        "AssemblyVersion": "1.0.2.6",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -2389,7 +2389,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1689088078"
+        "LastUpdated": "1690899422"
     },
     {
         "Author": "",
@@ -2409,7 +2409,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DrawCure/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1689088078"
+        "LastUpdated": "1690899422"
     },
     {
         "Author": "",
@@ -2429,7 +2429,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Zoom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1689088078"
+        "LastUpdated": "1690899422"
     },
     {
         "Author": "",
@@ -2449,7 +2449,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeletRollItem/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeletRollItem/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1689088078"
+        "LastUpdated": "1690899422"
     },
     {
         "Author": "",
@@ -2469,7 +2469,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Line/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Line/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1689088078"
+        "LastUpdated": "1690899422"
     },
     {
         "Author": "",
@@ -2489,7 +2489,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBuff/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1689088078"
+        "LastUpdated": "1690899422"
     },
     {
         "Author": "牙刷play",
@@ -2508,7 +2508,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBoss/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/SeeBoss/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1689088078"
+        "LastUpdated": "1690899422"
     },
     {
         "Author": "",
@@ -2527,7 +2527,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/AutoFaka/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/AutoFaka/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1689088078"
+        "LastUpdated": "1690899422"
     },
     {
         "Author": "Usagi",
@@ -2535,7 +2535,7 @@
         "Punchline": "A parsing plugin.",
         "Description": "能在replay里面使用的和使用edgetts的加强版",
         "InternalName": "IINACT",
-        "AssemblyVersion": "2.1.3.6",
+        "AssemblyVersion": "2.1.3.7",
         "RepoUrl": "https://github.com/tssailzz8/IINACT",
         "ApplicableVersion": "any",
         "Tags": [
@@ -2551,7 +2551,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/IINACT/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/IINACT/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1689088078"
+        "LastUpdated": "1690899422"
     },
     {
         "Author": "",
@@ -2570,7 +2570,7 @@
         "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DDD/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/DDD/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1689088078"
+        "LastUpdated": "1690899422"
     },
     {
         "Author": "yasatoma",
