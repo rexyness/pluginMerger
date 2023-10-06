@@ -9,7 +9,7 @@
         ],
         "InternalName": "Avarice",
         "RepoUrl": "https://github.com/PunishXIV/Avarice",
-        "DownloadCount": 27520,
+        "DownloadCount": 27970,
         "LastUpdate": 1696319211206,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
@@ -27,7 +27,7 @@
         "Tags": [],
         "InternalName": "Orbwalker",
         "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
-        "DownloadCount": 5536,
+        "DownloadCount": 5713,
         "LastUpdate": 1696319578443,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
@@ -45,7 +45,7 @@
         "Tags": [],
         "InternalName": "YesAlready",
         "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-        "DownloadCount": 10359,
+        "DownloadCount": 10728,
         "LastUpdate": 1696363703286,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
@@ -68,7 +68,7 @@
         ],
         "InternalName": "LazyLoot",
         "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-        "DownloadCount": 25684,
+        "DownloadCount": 26127,
         "LastUpdate": 1696399202264,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
@@ -79,28 +79,6 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png"
     },
     {
-        "Author": "Taurenkey",
-        "Name": "Saucy [Grinch API 9]",
-        "Punchline": "When working for MGP is too much effort.",
-        "Description": "Automates certain Gold Saucer mini-games.",
-        "Tags": [
-            "gold saucer",
-            "mgp",
-            "automation"
-        ],
-        "InternalName": "Saucy",
-        "RepoUrl": "https://github.com/PunishXIV/Saucy",
-        "DownloadCount": 44536,
-        "LastUpdate": 1696441393488,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
-        "AssemblyVersion": "1.3.0.0",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "9",
-        "Changelog": "API 9 Fixes",
-        "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png"
-    },
-    {
         "Author": "kawaii, NightmareXIV",
         "Name": "AutoRetainer [Grinch API 9]",
         "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
@@ -108,7 +86,7 @@
         "Tags": [],
         "InternalName": "AutoRetainer",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "DownloadCount": 93709,
+        "DownloadCount": 95481,
         "LastUpdate": 1696457400598,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -116,7 +94,7 @@
         "ApplicableVersion": "any",
         "DalamudApiLevel": "9",
         "Changelog": "",
-        "TestingAssemblyVersion": "4.1.2.5",
+        "TestingAssemblyVersion": "4.2.0.7",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
     },
@@ -131,7 +109,7 @@
         ],
         "InternalName": "Splatoon",
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-        "DownloadCount": 118703,
+        "DownloadCount": 119881,
         "LastUpdate": 1696500729175,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
@@ -140,28 +118,6 @@
         "DalamudApiLevel": "9",
         "Changelog": "- Tethers fixed",
         "IconUrl": "https://s3.puni.sh/media/plugin/10/icon-cchf5yumm2p.png"
-    },
-    {
-        "Author": "Taurenkey",
-        "Name": "Artisan [Grinch API 9]",
-        "Punchline": "A 'simple' crafting plugin.",
-        "Description": "The all-in-one crafting plugin.",
-        "Tags": [
-            "crafting"
-        ],
-        "InternalName": "Artisan",
-        "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 180947,
-        "LastUpdate": 1696501535540,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
-        "AssemblyVersion": "2.1.0.1",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "9",
-        "Changelog": "Repair fixes",
-        "TestingAssemblyVersion": "2.0.1.6",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
     },
     {
         "Author": "Taurenkey, croizat",
@@ -174,7 +130,7 @@
         ],
         "InternalName": "PandorasBox",
         "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-        "DownloadCount": 57975,
+        "DownloadCount": 59361,
         "LastUpdate": 1696505411374,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
@@ -185,6 +141,50 @@
         "TestingAssemblyVersion": "1.4.0.6",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/testing.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png"
+    },
+    {
+        "Author": "Taurenkey",
+        "Name": "Saucy [Grinch API 9]",
+        "Punchline": "When working for MGP is too much effort.",
+        "Description": "Automates certain Gold Saucer mini-games.",
+        "Tags": [
+            "gold saucer",
+            "mgp",
+            "automation"
+        ],
+        "InternalName": "Saucy",
+        "RepoUrl": "https://github.com/PunishXIV/Saucy",
+        "DownloadCount": 47838,
+        "LastUpdate": 1696546424846,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
+        "AssemblyVersion": "1.3.0.1",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "9",
+        "Changelog": "Fix saving issue",
+        "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png"
+    },
+    {
+        "Author": "Taurenkey",
+        "Name": "Artisan [Grinch API 9]",
+        "Punchline": "A 'simple' crafting plugin.",
+        "Description": "The all-in-one crafting plugin.",
+        "Tags": [
+            "crafting"
+        ],
+        "InternalName": "Artisan",
+        "RepoUrl": "https://github.com/PunishXIV/Artisan",
+        "DownloadCount": 187094,
+        "LastUpdate": 1696547156658,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
+        "AssemblyVersion": "2.1.0.2",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "9",
+        "Changelog": "",
+        "TestingAssemblyVersion": "2.0.1.6",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
     },
     {
         "Author": "Aireil",
@@ -457,7 +457,7 @@
         "Author": "Haselnussbomber",
         "Name": "HaselTweaks [Grinch API 9]",
         "InternalName": "HaselTweaks",
-        "AssemblyVersion": "18.0.4",
+        "AssemblyVersion": "19.0.0",
         "Description": "Keep on tweaking.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -468,11 +468,11 @@
         "LoadPriority": 0,
         "Punchline": "A collection of quality of life tweaks.",
         "AcceptsFeedback": true,
-        "Changelog": "Lock Window Position\n\n- Fixed: Game crashed upon clicking the context menu entry.",
+        "Changelog": "New Tweak: Simple Aethernet List\n\nSimplifies the behavior of the Aethernet list: mouseover selects the aetheryte and a click teleports you.",
         "DownloadCount": 0,
-        "LastUpdate": 1696543870,
-        "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v18.0.4/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v18.0.4/latest.zip"
+        "LastUpdate": 1696556253,
+        "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v19.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v19.0.0/latest.zip"
     },
     {
         "Author": "Haselnussbomber",
@@ -490,7 +490,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "Update for Patch 6.5.",
-        "DownloadCount": 198,
+        "DownloadCount": 243,
         "LastUpdate": 1696447736,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.10/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.10/latest.zip"
@@ -511,7 +511,7 @@
         "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
         "AcceptsFeedback": true,
         "Changelog": "Update for Patch 6.5.",
-        "DownloadCount": 128,
+        "DownloadCount": 145,
         "LastUpdate": 1696448124,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v1.1.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v1.1.1/latest.zip"
@@ -577,7 +577,7 @@
         "Punchline": "Craft stuffs",
         "Description": "Craft your things",
         "InternalName": "CraftingList",
-        "AssemblyVersion": "2.5.1",
+        "AssemblyVersion": "2.5.2",
         "ApplicableVersion": "any",
         "Tags": [
             "craft"
@@ -611,7 +611,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1696380899,
-        "DownloadCount": 3016,
+        "DownloadCount": 6087,
         "DownloadLinkInstall": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.1/BDTHPlugin.zip",
         "DownloadLinkTesting": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.1/BDTHPlugin.zip",
         "DownloadLinkUpdate": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.1/BDTHPlugin.zip"
@@ -1091,6 +1091,55 @@
         "LastUpdated": "1696544982"
     },
     {
+        "Author": "PunishedPineapple",
+        "Name": "HP Difference Gauge [Grinch API 9]",
+        "Punchline": "Enemy HP Split Gauge",
+        "Description": "Provides a visual representation of the HP difference between two enemies on your aggro list.  Open the plugin config window to see a preview of the gauge and to change options.",
+        "InternalName": "HPDiff",
+        "AssemblyVersion": "0.9.1.4",
+        "RepoUrl": "https://github.com/PunishedPineapple/HPDiff",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "UI"
+        ],
+        "DalamudApiLevel": 9,
+        "IconUrl": "https://github.com/PunishedPineapple/HPDiff/raw/main/docs/Images/icon.png",
+        "ImageUrls": [
+            "https://github.com/PunishedPineapple/HPDiff/raw/main/docs/Images/image1.png"
+        ],
+        "DownloadLinkInstall": "https://github.com/PunishedPineapple/DalamudPluginRepo/raw/main/plugins/HPDiff/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/PunishedPineapple/DalamudPluginRepo/raw/main/plugins/HPDiff/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/PunishedPineapple/DalamudPluginRepo/raw/main/plugins/HPDiff/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1696569553"
+    },
+    {
+        "Author": "PunishedPineapple",
+        "Name": "CIDNamer [Grinch API 9]",
+        "Punchline": "Content ID -> Character Name Mapping",
+        "Description": "Maps the content ID (i.e., number used in your character settings folder name) to the character name and server.  Only works for characters to which you log in.",
+        "InternalName": "CIDNamer",
+        "AssemblyVersion": "1.0.0.4",
+        "RepoUrl": "https://github.com/PunishedPineapple/CIDNamer",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "Settings",
+            "Utility"
+        ],
+        "DalamudApiLevel": 9,
+        "IconUrl": "https://github.com/PunishedPineapple/CIDNamer/raw/main/docs/Images/icon.png",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/PunishedPineapple/DalamudPluginRepo/raw/main/plugins/CIDNamer/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/PunishedPineapple/DalamudPluginRepo/raw/main/plugins/CIDNamer/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/PunishedPineapple/DalamudPluginRepo/raw/main/plugins/CIDNamer/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1696569553"
+    },
+    {
         "Author": "Sevii",
         "Name": "Material UI [Grinch API 9]",
         "Description": "Auto updating Material UI with customizable accent color and more. Icon by Mek",
@@ -1141,7 +1190,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
-        "DownloadCount": 682,
+        "DownloadCount": 1527,
         "LastUpdate": "1696378706"
     },
     {
@@ -1168,7 +1217,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
-        "DownloadCount": 2921,
+        "DownloadCount": 5654,
         "LastUpdate": "1696379002"
     },
     {
@@ -1194,7 +1243,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.6/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.6/latest.zip",
-        "DownloadCount": 2236,
+        "DownloadCount": 3893,
         "LastUpdate": "1696379002"
     },
     {
@@ -1220,7 +1269,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
-        "DownloadCount": 2367,
+        "DownloadCount": 4235,
         "LastUpdate": "1696379002"
     },
     {
@@ -1244,6 +1293,95 @@
         "DownloadLinkUpdate": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
         "IconUrl": "https://raw.githubusercontent.com/XIV-Tools/CustomizePlus/main/Data/icon.png",
         "Changelog": "Release 1.2.5.7 - Validated for 6.5"
+    },
+    {
+        "Author": "aRkker",
+        "Name": "Anti-Dickhead ChatModule [Grinch API 9]",
+        "InternalName": "AntiDickheadChatmodule",
+        "AssemblyVersion": "0.0.2.1",
+        "Description": "Makes your chat more sufferable. :)",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "other",
+            "social"
+        ],
+        "DalamudApiLevel": 9,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "Punchline": "Removes periods, and capitals",
+        "Changelog": "0.0.1.1\nReuploadto fix?\n0.0.1.0\nProbably broken 6.3",
+        "AcceptsFeedback": true,
+        "LastUpdate": "1696556595",
+        "IsHide": "False",
+        "DownloadCount": 69420,
+        "IsTestingExclusive": "False",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/AntiDickheadChatmodule/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/AntiDickheadChatmodule/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/AntiDickheadChatmodule/latest.zip"
+    },
+    {
+        "Author": "aRkker",
+        "Name": "Omicron music enabler [Grinch API 9]",
+        "InternalName": "OmicronMountMusicFixer",
+        "AssemblyVersion": "1.0.3.10",
+        "Description": "This plugin swaps the Miiw Miisv mount music to the Elysion theme from the Omicron beast tribe dailies. I found that this should have been the music from the get-go, but alas it wasnt. Now, with this plugin, it can be so",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "other",
+            "social"
+        ],
+        "DalamudApiLevel": 9,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "Punchline": "Swap the Miiw Miisv music for Cradle of Hope",
+        "Changelog": "1.0.2.0\n6.4 fixes\n1.0.1.0\nPreliminary version for 6.3. Probably broken",
+        "AcceptsFeedback": true,
+        "LastUpdate": "1696557973",
+        "IsHide": "False",
+        "DownloadCount": 69420,
+        "IsTestingExclusive": "False",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/OmicronMountMusicFixer/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/OmicronMountMusicFixer/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/OmicronMountMusicFixer/latest.zip"
+    },
+    {
+        "Author": "aRkker",
+        "Name": "World Map Enhancer [Grinch API 9]",
+        "InternalName": "WorldMapEnhancer",
+        "AssemblyVersion": "1.0.2.0",
+        "Description": "Simply zoom out by right clicking the world map, like God intended it",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "world",
+            "map",
+            "enhance",
+            "rightclick",
+            "zoom"
+        ],
+        "DalamudApiLevel": 9,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "Punchline": "Right click to zoom out the big map",
+        "Changelog": "1.0.1.0\nAPI 8, NET7",
+        "AcceptsFeedback": true,
+        "LastUpdate": "1696558458",
+        "IsHide": "False",
+        "DownloadCount": 69420,
+        "IsTestingExclusive": "False",
+        "CategoryTags": [
+            "utility",
+            "other",
+            "ui"
+        ],
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/WorldMapEnhancer/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/WorldMapEnhancer/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/WorldMapEnhancer/latest.zip"
     },
     {
         "Author": "veyn",
@@ -1342,7 +1480,7 @@
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
         "InternalName": "XIVComboExpanded",
-        "AssemblyVersion": "1.4.0.20",
+        "AssemblyVersion": "1.4.0.21",
         "RepoUrl": "https://github.com/daemitus/XIVComboPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
@@ -1355,7 +1493,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1696545754"
+        "LastUpdate": "1696546101"
     },
     {
         "Author": "perchbird, forked by mootykins",
@@ -1573,5 +1711,56 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/plugins/PikuminMarker/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "1696400075"
+    },
+    {
+        "Author": "zhudotexe",
+        "Name": "PaissaHouse [Grinch API 9]",
+        "InternalName": "autoSweep",
+        "AssemblyVersion": "1.4.3.0",
+        "Description": "Looking for that perfect house? PaissaHouse lets you receive notifications when a new plot of land is up for sale on your home world.\nView the list of all houses available on a world at https://paissadb.zhu.codes/!\n\nWant to contribute? Check out the repository (globe icon below) for instructions.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/zhudotexe/FFXIV_PaissaHouse",
+        "Tags": [
+            "housing"
+        ],
+        "DalamudApiLevel": 9,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/zhudotexe/FFXIV_PaissaHouse/main/images/icon.png",
+        "Punchline": "Crowdsourced housing alerts and lottery tracking for all.",
+        "AcceptsFeedback": true,
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": 1696548023,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_PaissaHouse/autoSweep.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_PaissaHouse/autoSweep.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_PaissaHouse/autoSweep.zip"
+    },
+    {
+        "Author": "zhudotexe",
+        "Name": "Arc Sys Countdown Messages [Grinch API 9]",
+        "InternalName": "CountdownMessages",
+        "AssemblyVersion": "1.0.6.0",
+        "Description": "Generates a random Arc Sys countdown message on /rcd <time>. Time must be between 5 and 30 seconds.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/zhudotexe/FFXIV_CountdownMessages",
+        "Tags": [
+            "meme"
+        ],
+        "DalamudApiLevel": 9,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "Punchline": "Can't escape from crossing Michigan! The lazy Susan of fate is turning! Third fish! Eviscerate!",
+        "AcceptsFeedback": true,
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": 1696544035,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_CountdownMessages/CountdownMessages.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_CountdownMessages/CountdownMessages.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_CountdownMessages/CountdownMessages.zip"
     }
 ]
