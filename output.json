@@ -9,7 +9,7 @@
         ],
         "InternalName": "Avarice",
         "RepoUrl": "https://github.com/PunishXIV/Avarice",
-        "DownloadCount": 28439,
+        "DownloadCount": 28647,
         "LastUpdate": 1696319211206,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
@@ -27,7 +27,7 @@
         "Tags": [],
         "InternalName": "Orbwalker",
         "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
-        "DownloadCount": 5848,
+        "DownloadCount": 5928,
         "LastUpdate": 1696319578443,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
@@ -50,7 +50,7 @@
         ],
         "InternalName": "LazyLoot",
         "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-        "DownloadCount": 26552,
+        "DownloadCount": 26740,
         "LastUpdate": 1696399202264,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
@@ -68,7 +68,7 @@
         "Tags": [],
         "InternalName": "AutoRetainer",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "DownloadCount": 97090,
+        "DownloadCount": 97791,
         "LastUpdate": 1696457400598,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -76,7 +76,7 @@
         "ApplicableVersion": "any",
         "DalamudApiLevel": "9",
         "Changelog": "",
-        "TestingAssemblyVersion": "4.2.0.7",
+        "TestingAssemblyVersion": "4.2.0.6",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
     },
@@ -91,7 +91,7 @@
         ],
         "InternalName": "Splatoon",
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-        "DownloadCount": 121173,
+        "DownloadCount": 121735,
         "LastUpdate": 1696500729175,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
@@ -112,7 +112,7 @@
         ],
         "InternalName": "PandorasBox",
         "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-        "DownloadCount": 60527,
+        "DownloadCount": 60995,
         "LastUpdate": 1696505411374,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
@@ -134,7 +134,7 @@
         ],
         "InternalName": "Artisan",
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 191774,
+        "DownloadCount": 193250,
         "LastUpdate": 1696547156658,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -154,7 +154,7 @@
         "Tags": [],
         "InternalName": "YesAlready",
         "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-        "DownloadCount": 12169,
+        "DownloadCount": 12876,
         "LastUpdate": 1696587621304,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
@@ -176,7 +176,7 @@
         ],
         "InternalName": "Saucy",
         "RepoUrl": "https://github.com/PunishXIV/Saucy",
-        "DownloadCount": 51792,
+        "DownloadCount": 54105,
         "LastUpdate": 1696597899287,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
@@ -185,6 +185,29 @@
         "DalamudApiLevel": "9",
         "Changelog": "Fix Triple Triad sometimes not playing",
         "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png"
+    },
+    {
+        "Author": "kawaii",
+        "Name": "Palace Pal [Grinch API 9]",
+        "Punchline": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.",
+        "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
+        "Tags": [
+            "potd",
+            "hoh",
+            "splatoon",
+            "palace"
+        ],
+        "InternalName": "PalacePal",
+        "RepoUrl": "https://github.com/PunishXIV/PalacePal",
+        "DownloadCount": 19028,
+        "LastUpdate": 1696635551820,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
+        "AssemblyVersion": "4.8.0.3",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "9",
+        "Changelog": "",
+        "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png"
     },
     {
         "Author": "Aireil",
@@ -262,7 +285,7 @@
         "Description": "Various tools for private use. Module: AutoSpear, CraftQueue, Dps, Instancinator, Macro, OpcodeWizard, Yes",
         "Changelog": "Go to https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/latest to find the last changes.",
         "InternalName": "Athavar.FFXIV.Plugin",
-        "AssemblyVersion": "2.0.30",
+        "AssemblyVersion": "2.1.0.0",
         "RepoUrl": "https://github.com/Athavar/Athavar.FFXIV.Plugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
@@ -272,13 +295,13 @@
         "AcceptsFeedback": false,
         "LoadPriority": 0,
         "CanUnloadAsync": false,
-        "DownloadLinkInstall": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.30/latest.zip",
+        "DownloadLinkInstall": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.1.0.0/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.30/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.0.30/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.1.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/download/v2.1.0.0/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1696377004"
+        "LastUpdated": "1696624916"
     },
     {
         "Disabled": false,
@@ -469,7 +492,7 @@
         "Punchline": "A collection of quality of life tweaks.",
         "AcceptsFeedback": true,
         "Changelog": "Glamour Dresser Armoire Alert\n\n- Fixed: Info text didn't display correctly due to changed translation key.",
-        "DownloadCount": 0,
+        "DownloadCount": 840,
         "LastUpdate": 1696606807,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v19.0.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v19.0.3/latest.zip"
@@ -490,7 +513,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "Update for Patch 6.5.",
-        "DownloadCount": 307,
+        "DownloadCount": 333,
         "LastUpdate": 1696447736,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.10/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.10/latest.zip"
@@ -511,7 +534,7 @@
         "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
         "AcceptsFeedback": true,
         "Changelog": "Update for Patch 6.5.",
-        "DownloadCount": 188,
+        "DownloadCount": 201,
         "LastUpdate": 1696448124,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v1.1.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v1.1.1/latest.zip"
@@ -611,7 +634,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1696380899,
-        "DownloadCount": 10147,
+        "DownloadCount": 12891,
         "DownloadLinkInstall": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.1/BDTHPlugin.zip",
         "DownloadLinkTesting": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.1/BDTHPlugin.zip",
         "DownloadLinkUpdate": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.1/BDTHPlugin.zip"
@@ -622,7 +645,7 @@
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1. Please keep an eye on the GitHub page for changes without a version bump!",
         "InternalName": "XIVComboExpandedCustomized",
-        "AssemblyVersion": "1.4.0.20",
+        "AssemblyVersion": "1.4.0.21",
         "RepoUrl": "https://github.com/maxunit/XIVComboPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
@@ -635,7 +658,7 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedCustomized/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1696524720"
+        "LastUpdated": "1696619262"
     },
     {
         "Author": "Meisterlala",
@@ -1190,7 +1213,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
-        "DownloadCount": 2054,
+        "DownloadCount": 2349,
         "LastUpdate": "1696378706"
     },
     {
@@ -1217,7 +1240,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
-        "DownloadCount": 8398,
+        "DownloadCount": 10302,
         "LastUpdate": "1696379002"
     },
     {
@@ -1243,7 +1266,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.6/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.6/latest.zip",
-        "DownloadCount": 5290,
+        "DownloadCount": 6216,
         "LastUpdate": "1696379002"
     },
     {
@@ -1269,7 +1292,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
-        "DownloadCount": 5976,
+        "DownloadCount": 7063,
         "LastUpdate": "1696379002"
     },
     {
@@ -1320,6 +1343,30 @@
         "DownloadLinkInstall": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/AntiDickheadChatmodule/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/AntiDickheadChatmodule/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/AntiDickheadChatmodule/latest.zip"
+    },
+    {
+        "Author": "aRkker",
+        "Name": "Crystalline Conflict Winratio tracker [Grinch API 9]",
+        "InternalName": "CrystallineConflictWinsTracker",
+        "AssemblyVersion": "0.0.2.9",
+        "Description": "Tracks your CC wins and losses",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "pvp",
+            "stats",
+            "other"
+        ],
+        "DalamudApiLevel": 9,
+        "LoadPriority": 0,
+        "Punchline": "See how shite you are",
+        "Changelog": "0.0.1.4\nSeason 6\n0.0.1.1\nFixes for something dno\n0.0.1.0\nDalamud API 8, NET 7.0",
+        "LastUpdate": "1696644502",
+        "IsHide": "False",
+        "DownloadCount": 69420,
+        "IsTestingExclusive": "False",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/CrystallineConflictWinsTracker/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/CrystallineConflictWinsTracker/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/CrystallineConflictWinsTracker/latest.zip"
     },
     {
         "Author": "aRkker",
@@ -1480,7 +1527,7 @@
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
         "InternalName": "XIVComboExpanded",
-        "AssemblyVersion": "1.4.0.21",
+        "AssemblyVersion": "1.4.0.24",
         "RepoUrl": "https://github.com/daemitus/XIVComboPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
@@ -1493,7 +1540,32 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1696546101"
+        "LastUpdate": "1696624970"
+    },
+    {
+        "Author": "Jawslouis",
+        "Name": "MakePlace Plugin [Grinch API 9]",
+        "InternalName": "MakePlacePlugin",
+        "AssemblyVersion": "3.1.0",
+        "Punchline": "Automatically save & load furniture layouts in your house.",
+        "Description": "Automatically save & load the positions of house furniture. Import/export layouts from the MakePlace program.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/jawslouis/MakePlacePlugin",
+        "Tags": [
+            "makeplace",
+            "housing",
+            "furniture",
+            "jawslouis"
+        ],
+        "DalamudApiLevel": 9,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/jawslouis/MakePlacePlugin/master/icon.png",
+        "DownloadCount": 171301,
+        "DownloadLinkInstall": "https://github.com/jawslouis/MakePlacePlugin/releases/download/v3.1.0/MakePlacePlugin.zip",
+        "DownloadLinkTesting": "https://github.com/jawslouis/MakePlacePlugin/releases/download/v3.1.0/MakePlacePlugin.zip",
+        "DownloadLinkUpdate": "https://github.com/jawslouis/MakePlacePlugin/releases/download/v3.1.0/MakePlacePlugin.zip",
+        "_isDip17Plugin": false,
+        "_Dip17Channel": null
     },
     {
         "Author": "perchbird, forked by mootykins",
