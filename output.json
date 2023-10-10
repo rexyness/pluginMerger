@@ -10,7 +10,7 @@
         ],
         "InternalName": "Splatoon",
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-        "DownloadCount": 128830,
+        "DownloadCount": 129515,
         "LastUpdate": 1696733124156,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
@@ -19,26 +19,6 @@
         "DalamudApiLevel": "9",
         "Changelog": "cone offset fixed",
         "IconUrl": "https://s3.puni.sh/media/plugin/10/icon-cchf5yumm2p.png"
-    },
-    {
-        "Author": "kawaii, NightmareXIV",
-        "Name": "AutoRetainer [Grinch API 9]",
-        "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "Tags": [],
-        "InternalName": "AutoRetainer",
-        "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "DownloadCount": 108059,
-        "LastUpdate": 1696695126603,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
-        "AssemblyVersion": "4.2.1.0",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "9",
-        "Changelog": "",
-        "TestingAssemblyVersion": "4.2.0.7",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
     },
     {
         "Author": "Taurenkey, croizat",
@@ -51,7 +31,7 @@
         ],
         "InternalName": "PandorasBox",
         "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-        "DownloadCount": 69856,
+        "DownloadCount": 71748,
         "LastUpdate": 1696837497033,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
@@ -64,6 +44,26 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png"
     },
     {
+        "Author": "kawaii, NightmareXIV",
+        "Name": "AutoRetainer [Grinch API 9]",
+        "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
+        "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
+        "Tags": [],
+        "InternalName": "AutoRetainer",
+        "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
+        "DownloadCount": 108705,
+        "LastUpdate": 1696695126603,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
+        "AssemblyVersion": "4.2.1.0",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "9",
+        "Changelog": "",
+        "TestingAssemblyVersion": "4.2.0.7",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
+    },
+    {
         "Author": "Taurenkey",
         "Name": "Artisan [Grinch API 9]",
         "Punchline": "A 'simple' crafting plugin.",
@@ -73,7 +73,7 @@
         ],
         "InternalName": "Artisan",
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 215945,
+        "DownloadCount": 217730,
         "LastUpdate": 1696779015516,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -97,7 +97,7 @@
         ],
         "InternalName": "Saucy",
         "RepoUrl": "https://github.com/PunishXIV/Saucy",
-        "DownloadCount": 56118,
+        "DownloadCount": 56380,
         "LastUpdate": 1696597899287,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
@@ -108,29 +108,6 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png"
     },
     {
-        "Author": "Taurenkey, Gidedin",
-        "Name": "LazyLoot [Grinch API 9]",
-        "Punchline": "Dungeon Loot but Lazy.",
-        "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
-        "Tags": [
-            "plugin",
-            "loot",
-            "utility",
-            "other"
-        ],
-        "InternalName": "LazyLoot",
-        "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-        "DownloadCount": 27308,
-        "LastUpdate": 1696399202264,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
-        "AssemblyVersion": "5.2.0.0",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "9",
-        "Changelog": "API 9 Update",
-        "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png"
-    },
-    {
         "Author": "kawaii, NightmareXIV",
         "Name": "Orbwalker [Grinch API 9]",
         "Punchline": "S P A C E G L I D I N G",
@@ -138,7 +115,7 @@
         "Tags": [],
         "InternalName": "Orbwalker",
         "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
-        "DownloadCount": 6253,
+        "DownloadCount": 6323,
         "LastUpdate": 1696319578443,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
@@ -147,29 +124,6 @@
         "DalamudApiLevel": "9",
         "Changelog": "6.5",
         "IconUrl": "https://s3.puni.sh/media/plugin/12/icon-o94qaw6cyn.png"
-    },
-    {
-        "Author": "kawaii",
-        "Name": "Palace Pal [Grinch API 9]",
-        "Punchline": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.",
-        "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
-        "Tags": [
-            "potd",
-            "hoh",
-            "splatoon",
-            "palace"
-        ],
-        "InternalName": "PalacePal",
-        "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-        "DownloadCount": 20356,
-        "LastUpdate": 1696635551820,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
-        "AssemblyVersion": "4.8.0.3",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "9",
-        "Changelog": "",
-        "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png"
     },
     {
         "Author": "kawaii, NightmareXIV",
@@ -181,7 +135,7 @@
         ],
         "InternalName": "Avarice",
         "RepoUrl": "https://github.com/PunishXIV/Avarice",
-        "DownloadCount": 29333,
+        "DownloadCount": 29511,
         "LastUpdate": 1696319211206,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
@@ -199,7 +153,7 @@
         "Tags": [],
         "InternalName": "YesAlready",
         "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-        "DownloadCount": 14874,
+        "DownloadCount": 15348,
         "LastUpdate": 1696587621304,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
@@ -208,6 +162,52 @@
         "DalamudApiLevel": "9",
         "Changelog": "",
         "IconUrl": "https://s3.puni.sh/media/plugin/26/icon-v1pvonkr6r.png"
+    },
+    {
+        "Author": "Taurenkey, Gidedin",
+        "Name": "LazyLoot [Grinch API 9]",
+        "Punchline": "Dungeon Loot but Lazy.",
+        "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
+        "Tags": [
+            "plugin",
+            "loot",
+            "utility",
+            "other"
+        ],
+        "InternalName": "LazyLoot",
+        "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
+        "DownloadCount": 27428,
+        "LastUpdate": 1696399202264,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
+        "AssemblyVersion": "5.2.0.0",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "9",
+        "Changelog": "API 9 Update",
+        "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png"
+    },
+    {
+        "Author": "kawaii",
+        "Name": "Palace Pal [Grinch API 9]",
+        "Punchline": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.",
+        "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
+        "Tags": [
+            "potd",
+            "hoh",
+            "splatoon",
+            "palace"
+        ],
+        "InternalName": "PalacePal",
+        "RepoUrl": "https://github.com/PunishXIV/PalacePal",
+        "DownloadCount": 20610,
+        "LastUpdate": 1696635551820,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
+        "AssemblyVersion": "4.8.0.3",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "9",
+        "Changelog": "",
+        "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png"
     },
     {
         "Author": "Aireil",
@@ -492,7 +492,7 @@
         "Punchline": "A collection of quality of life tweaks.",
         "AcceptsFeedback": true,
         "Changelog": "Glamour Dresser Armoire Alert\n\n- Fixed: Info text didn't display correctly due to changed translation key.",
-        "DownloadCount": 1727,
+        "DownloadCount": 1831,
         "LastUpdate": 1696606807,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v19.0.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v19.0.3/latest.zip"
@@ -513,7 +513,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "Update for Patch 6.5.",
-        "DownloadCount": 378,
+        "DownloadCount": 399,
         "LastUpdate": 1696447736,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.10/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.10/latest.zip"
@@ -534,7 +534,7 @@
         "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
         "AcceptsFeedback": true,
         "Changelog": "Update for Patch 6.5.",
-        "DownloadCount": 223,
+        "DownloadCount": 232,
         "LastUpdate": 1696448124,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v1.1.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v1.1.1/latest.zip"
@@ -634,7 +634,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1696380899,
-        "DownloadCount": 19056,
+        "DownloadCount": 20469,
         "DownloadLinkInstall": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.1/BDTHPlugin.zip",
         "DownloadLinkTesting": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.1/BDTHPlugin.zip",
         "DownloadLinkUpdate": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.1/BDTHPlugin.zip"
@@ -1057,8 +1057,8 @@
             "Character"
         ],
         "InternalName": "Glamourer",
-        "AssemblyVersion": "1.0.2.1",
-        "TestingAssemblyVersion": "1.0.2.1",
+        "AssemblyVersion": "1.0.2.2",
+        "TestingAssemblyVersion": "1.0.2.2",
         "RepoUrl": "https://github.com/Ottermandias/Glamourer",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
@@ -1066,9 +1066,9 @@
         "IsTestingExclusive": "False",
         "DownloadCount": 1,
         "LastUpdate": 1618608322,
-        "DownloadLinkInstall": "https://github.com/Ottermandias/Glamourer/releases/download/1.0.2.1/Glamourer.zip",
-        "DownloadLinkUpdate": "https://github.com/Ottermandias/Glamourer/releases/download/1.0.2.1/Glamourer.zip",
-        "DownloadLinkTesting": "https://github.com/Ottermandias/Glamourer/releases/download/1.0.2.1/Glamourer.zip",
+        "DownloadLinkInstall": "https://github.com/Ottermandias/Glamourer/releases/download/1.0.2.2/Glamourer.zip",
+        "DownloadLinkUpdate": "https://github.com/Ottermandias/Glamourer/releases/download/1.0.2.2/Glamourer.zip",
+        "DownloadLinkTesting": "https://github.com/Ottermandias/Glamourer/releases/download/1.0.2.2/Glamourer.zip",
         "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/images/icon.png"
     },
     {
@@ -1239,7 +1239,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
-        "DownloadCount": 2811,
+        "DownloadCount": 2927,
         "LastUpdate": "1696378706"
     },
     {
@@ -1266,7 +1266,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
-        "DownloadCount": 14013,
+        "DownloadCount": 14866,
         "LastUpdate": "1696379002"
     },
     {
@@ -1292,7 +1292,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.6/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.6/latest.zip",
-        "DownloadCount": 7877,
+        "DownloadCount": 8233,
         "LastUpdate": "1696379002"
     },
     {
@@ -1318,7 +1318,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
-        "DownloadCount": 9037,
+        "DownloadCount": 9476,
         "LastUpdate": "1696379002"
     },
     {
@@ -1566,7 +1566,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1696624970"
+        "LastUpdate": "1696919884"
     },
     {
         "Author": "DodingDaga",
