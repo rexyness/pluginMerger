@@ -27,27 +27,6 @@
         "LastUpdated": "1697152118"
     },
     {
-        "Author": "NightmareXIV, kawaii",
-        "Name": "Splatoon [Grinch API 9]",
-        "Punchline": "Redefining FFXIV navigation with unlimited, precise waymarks.",
-        "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
-        "Tags": [
-            "Utility",
-            "Accessibility"
-        ],
-        "InternalName": "Splatoon",
-        "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-        "DownloadCount": 130689,
-        "LastUpdate": 1696733124156,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
-        "AssemblyVersion": "3.4.0.4",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "9",
-        "Changelog": "cone offset fixed",
-        "IconUrl": "https://s3.puni.sh/media/plugin/10/icon-cchf5yumm2p.png"
-    },
-    {
         "Author": "Taurenkey, croizat",
         "Name": "Pandora's Box [Grinch API 9]",
         "Punchline": "Do you dare to open Pandora's Box?",
@@ -58,7 +37,7 @@
         ],
         "InternalName": "PandorasBox",
         "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-        "DownloadCount": 73567,
+        "DownloadCount": 73735,
         "LastUpdate": 1696837497033,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
@@ -71,6 +50,27 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png"
     },
     {
+        "Author": "NightmareXIV, kawaii",
+        "Name": "Splatoon [Grinch API 9]",
+        "Punchline": "Redefining FFXIV navigation with unlimited, precise waymarks.",
+        "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
+        "Tags": [
+            "Utility",
+            "Accessibility"
+        ],
+        "InternalName": "Splatoon",
+        "RepoUrl": "https://github.com/PunishXIV/Splatoon",
+        "DownloadCount": 130864,
+        "LastUpdate": 1696733124156,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
+        "AssemblyVersion": "3.4.0.4",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "9",
+        "Changelog": "cone offset fixed",
+        "IconUrl": "https://s3.puni.sh/media/plugin/10/icon-cchf5yumm2p.png"
+    },
+    {
         "Author": "kawaii, NightmareXIV",
         "Name": "AutoRetainer [Grinch API 9]",
         "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
@@ -78,7 +78,7 @@
         "Tags": [],
         "InternalName": "AutoRetainer",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "DownloadCount": 116943,
+        "DownloadCount": 117390,
         "LastUpdate": 1696973228228,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -100,7 +100,7 @@
         ],
         "InternalName": "Artisan",
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 228330,
+        "DownloadCount": 230613,
         "LastUpdate": 1697105767474,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -111,6 +111,28 @@
         "TestingAssemblyVersion": "2.1.0.8",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
+    },
+    {
+        "Author": "Taurenkey",
+        "Name": "Saucy [Grinch API 9]",
+        "Punchline": "When working for MGP is too much effort.",
+        "Description": "Automates certain Gold Saucer mini-games.",
+        "Tags": [
+            "gold saucer",
+            "mgp",
+            "automation"
+        ],
+        "InternalName": "Saucy",
+        "RepoUrl": "https://github.com/PunishXIV/Saucy",
+        "DownloadCount": 57052,
+        "LastUpdate": 1696597899287,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
+        "AssemblyVersion": "1.3.0.2",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "9",
+        "Changelog": "Fix Triple Triad sometimes not playing",
+        "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png"
     },
     {
         "Author": "Taurenkey, Gidedin",
@@ -125,7 +147,7 @@
         ],
         "InternalName": "LazyLoot",
         "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-        "DownloadCount": 30056,
+        "DownloadCount": 30170,
         "LastUpdate": 1696968705635,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
@@ -134,46 +156,6 @@
         "DalamudApiLevel": "9",
         "Changelog": "Fix Faded Copy pass when unlocked and item level settings",
         "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png"
-    },
-    {
-        "Author": "Taurenkey",
-        "Name": "Saucy [Grinch API 9]",
-        "Punchline": "When working for MGP is too much effort.",
-        "Description": "Automates certain Gold Saucer mini-games.",
-        "Tags": [
-            "gold saucer",
-            "mgp",
-            "automation"
-        ],
-        "InternalName": "Saucy",
-        "RepoUrl": "https://github.com/PunishXIV/Saucy",
-        "DownloadCount": 56961,
-        "LastUpdate": 1696597899287,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
-        "AssemblyVersion": "1.3.0.2",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "9",
-        "Changelog": "Fix Triple Triad sometimes not playing",
-        "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png"
-    },
-    {
-        "Author": "kawaii, NightmareXIV",
-        "Name": "Orbwalker [Grinch API 9]",
-        "Punchline": "S P A C E G L I D I N G",
-        "Description": "Locks player movement while casting and allows for maximum caster uptime during the course of a fight.",
-        "Tags": [],
-        "InternalName": "Orbwalker",
-        "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
-        "DownloadCount": 7220,
-        "LastUpdate": 1696968937655,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
-        "AssemblyVersion": "1.0.0.4",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "9",
-        "Changelog": "",
-        "IconUrl": "https://s3.puni.sh/media/plugin/12/icon-o94qaw6cyn.png"
     },
     {
         "Author": "kawaii",
@@ -188,7 +170,7 @@
         ],
         "InternalName": "PalacePal",
         "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-        "DownloadCount": 21233,
+        "DownloadCount": 21332,
         "LastUpdate": 1696635551820,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
@@ -200,23 +182,21 @@
     },
     {
         "Author": "kawaii, NightmareXIV",
-        "Name": "Avarice [Grinch API 9]",
-        "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "Tags": [
-            "combat"
-        ],
-        "InternalName": "Avarice",
-        "RepoUrl": "https://github.com/PunishXIV/Avarice",
-        "DownloadCount": 29966,
-        "LastUpdate": 1696319211206,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
-        "AssemblyVersion": "2.0.3.7",
+        "Name": "Orbwalker [Grinch API 9]",
+        "Punchline": "S P A C E G L I D I N G",
+        "Description": "Locks player movement while casting and allows for maximum caster uptime during the course of a fight.",
+        "Tags": [],
+        "InternalName": "Orbwalker",
+        "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
+        "DownloadCount": 7254,
+        "LastUpdate": 1696968937655,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
+        "AssemblyVersion": "1.0.0.4",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "9",
-        "Changelog": "6.5",
-        "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png"
+        "Changelog": "",
+        "IconUrl": "https://s3.puni.sh/media/plugin/12/icon-o94qaw6cyn.png"
     },
     {
         "Author": "daemitus, kawaii",
@@ -226,7 +206,7 @@
         "Tags": [],
         "InternalName": "YesAlready",
         "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-        "DownloadCount": 16823,
+        "DownloadCount": 17090,
         "LastUpdate": 1696587621304,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
@@ -235,6 +215,26 @@
         "DalamudApiLevel": "9",
         "Changelog": "",
         "IconUrl": "https://s3.puni.sh/media/plugin/26/icon-v1pvonkr6r.png"
+    },
+    {
+        "Author": "kawaii, NightmareXIV",
+        "Name": "Avarice [Grinch API 9]",
+        "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+        "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+        "Tags": [
+            "combat"
+        ],
+        "InternalName": "Avarice",
+        "RepoUrl": "https://github.com/PunishXIV/Avarice",
+        "DownloadCount": 30024,
+        "LastUpdate": 1696319211206,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
+        "AssemblyVersion": "2.0.3.7",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "9",
+        "Changelog": "6.5",
+        "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png"
     },
     {
         "Author": "Aireil",
@@ -598,7 +598,7 @@
         "Punchline": "A collection of quality of life tweaks.",
         "AcceptsFeedback": true,
         "Changelog": "HaselTweaks\n\n- Changed: Dropped the SVG rendering library and replaced the logo in the settings with a simple PNG image. Making it scaleable with the UI was a nice thought, but in the end it just wasn't worth it.",
-        "DownloadCount": 1537,
+        "DownloadCount": 1553,
         "LastUpdate": 1696962858,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v19.0.4/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v19.0.4/latest.zip"
@@ -619,7 +619,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "- Changed: The Levemete column is now the issuer instead of the client, as it should be. This makes it easier to figure out where to accept the leves.\n  - *Note:* The game sheets don't contain any information about the issuer of a leve. This is server-side only and the reason why I used the leve client instead. Now I added issuer information based on data from the Gamer Escape wiki and will have to update the list with each expansion. ️  \n  If you encounter any problems, please report them. I don't use the plugin much myself at the moment. ",
-        "DownloadCount": 0,
+        "DownloadCount": 71,
         "LastUpdate": 1697147386,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.0/latest.zip"
@@ -640,7 +640,7 @@
         "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
         "AcceptsFeedback": true,
         "Changelog": "Update for Patch 6.5.",
-        "DownloadCount": 244,
+        "DownloadCount": 245,
         "LastUpdate": 1696448124,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v1.1.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v1.1.1/latest.zip"
@@ -1345,7 +1345,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
-        "DownloadCount": 3086,
+        "DownloadCount": 3118,
         "LastUpdate": "1696378706"
     },
     {
@@ -1372,7 +1372,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
-        "DownloadCount": 16046,
+        "DownloadCount": 16303,
         "LastUpdate": "1696379002"
     },
     {
@@ -1398,7 +1398,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.6/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.6/latest.zip",
-        "DownloadCount": 8734,
+        "DownloadCount": 8839,
         "LastUpdate": "1696379002"
     },
     {
@@ -1424,7 +1424,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
-        "DownloadCount": 10161,
+        "DownloadCount": 10293,
         "LastUpdate": "1696379002"
     },
     {
