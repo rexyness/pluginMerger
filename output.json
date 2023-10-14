@@ -37,7 +37,7 @@
         ],
         "InternalName": "PandorasBox",
         "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-        "DownloadCount": 73735,
+        "DownloadCount": 74104,
         "LastUpdate": 1696837497033,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
@@ -60,7 +60,7 @@
         ],
         "InternalName": "Splatoon",
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-        "DownloadCount": 130864,
+        "DownloadCount": 131261,
         "LastUpdate": 1696733124156,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
@@ -78,7 +78,7 @@
         "Tags": [],
         "InternalName": "AutoRetainer",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "DownloadCount": 117390,
+        "DownloadCount": 117977,
         "LastUpdate": 1696973228228,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -91,6 +91,31 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
     },
     {
+        "Author": "Taurenkey, Gidedin",
+        "Name": "LazyLoot [Grinch API 9]",
+        "Punchline": "Dungeon Loot but Lazy.",
+        "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
+        "Tags": [
+            "plugin",
+            "loot",
+            "utility",
+            "other"
+        ],
+        "InternalName": "LazyLoot",
+        "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
+        "DownloadCount": 30400,
+        "LastUpdate": 1696968705635,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
+        "AssemblyVersion": "5.2.0.1",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "9",
+        "Changelog": "Fix Faded Copy pass when unlocked and item level settings",
+        "TestingAssemblyVersion": "5.2.0.2",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/testing.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png"
+    },
+    {
         "Author": "Taurenkey",
         "Name": "Artisan [Grinch API 9]",
         "Punchline": "A 'simple' crafting plugin.",
@@ -100,7 +125,7 @@
         ],
         "InternalName": "Artisan",
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 230613,
+        "DownloadCount": 232568,
         "LastUpdate": 1697105767474,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -124,7 +149,7 @@
         ],
         "InternalName": "Saucy",
         "RepoUrl": "https://github.com/PunishXIV/Saucy",
-        "DownloadCount": 57052,
+        "DownloadCount": 57239,
         "LastUpdate": 1696597899287,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
@@ -133,29 +158,6 @@
         "DalamudApiLevel": "9",
         "Changelog": "Fix Triple Triad sometimes not playing",
         "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png"
-    },
-    {
-        "Author": "Taurenkey, Gidedin",
-        "Name": "LazyLoot [Grinch API 9]",
-        "Punchline": "Dungeon Loot but Lazy.",
-        "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
-        "Tags": [
-            "plugin",
-            "loot",
-            "utility",
-            "other"
-        ],
-        "InternalName": "LazyLoot",
-        "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-        "DownloadCount": 30170,
-        "LastUpdate": 1696968705635,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
-        "AssemblyVersion": "5.2.0.1",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "9",
-        "Changelog": "Fix Faded Copy pass when unlocked and item level settings",
-        "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png"
     },
     {
         "Author": "kawaii",
@@ -170,7 +172,7 @@
         ],
         "InternalName": "PalacePal",
         "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-        "DownloadCount": 21332,
+        "DownloadCount": 21549,
         "LastUpdate": 1696635551820,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
@@ -182,13 +184,33 @@
     },
     {
         "Author": "kawaii, NightmareXIV",
+        "Name": "Avarice [Grinch API 9]",
+        "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+        "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+        "Tags": [
+            "combat"
+        ],
+        "InternalName": "Avarice",
+        "RepoUrl": "https://github.com/PunishXIV/Avarice",
+        "DownloadCount": 30156,
+        "LastUpdate": 1696319211206,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
+        "AssemblyVersion": "2.0.3.7",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "9",
+        "Changelog": "6.5",
+        "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png"
+    },
+    {
+        "Author": "kawaii, NightmareXIV",
         "Name": "Orbwalker [Grinch API 9]",
         "Punchline": "S P A C E G L I D I N G",
         "Description": "Locks player movement while casting and allows for maximum caster uptime during the course of a fight.",
         "Tags": [],
         "InternalName": "Orbwalker",
         "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
-        "DownloadCount": 7254,
+        "DownloadCount": 7335,
         "LastUpdate": 1696968937655,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
@@ -206,7 +228,7 @@
         "Tags": [],
         "InternalName": "YesAlready",
         "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-        "DownloadCount": 17090,
+        "DownloadCount": 17505,
         "LastUpdate": 1696587621304,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
@@ -215,26 +237,6 @@
         "DalamudApiLevel": "9",
         "Changelog": "",
         "IconUrl": "https://s3.puni.sh/media/plugin/26/icon-v1pvonkr6r.png"
-    },
-    {
-        "Author": "kawaii, NightmareXIV",
-        "Name": "Avarice [Grinch API 9]",
-        "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "Tags": [
-            "combat"
-        ],
-        "InternalName": "Avarice",
-        "RepoUrl": "https://github.com/PunishXIV/Avarice",
-        "DownloadCount": 30024,
-        "LastUpdate": 1696319211206,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
-        "AssemblyVersion": "2.0.3.7",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "9",
-        "Changelog": "6.5",
-        "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png"
     },
     {
         "Author": "Aireil",
@@ -542,7 +544,7 @@
         "Author": "GiR-Zippo, Meowchestra",
         "Name": "HypnotoadPlugin [Grinch API 9]",
         "InternalName": "HypnotoadPlugin",
-        "AssemblyVersion": "0.0.1.16",
+        "AssemblyVersion": "0.0.1.17",
         "Description": "LightAmp companion for enhanced functionality.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/GiR-Zippo/Hypnotoad-Plugin",
@@ -555,7 +557,7 @@
         "Punchline": "Companion plugin for enhanced functionality.",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdate": "1695944620",
+        "LastUpdate": "1697214938",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/GiR-Zippo/Hypnotoad-Plugin/master/PluginDir/HypnotoadPlugin/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/GiR-Zippo/Hypnotoad-Plugin/master/PluginDir/HypnotoadPlugin/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/GiR-Zippo/Hypnotoad-Plugin/master/PluginDir/HypnotoadPlugin/latest.zip"
@@ -598,7 +600,7 @@
         "Punchline": "A collection of quality of life tweaks.",
         "AcceptsFeedback": true,
         "Changelog": "HaselTweaks\n\n- Changed: Dropped the SVG rendering library and replaced the logo in the settings with a simple PNG image. Making it scaleable with the UI was a nice thought, but in the end it just wasn't worth it.",
-        "DownloadCount": 1553,
+        "DownloadCount": 1667,
         "LastUpdate": 1696962858,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v19.0.4/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v19.0.4/latest.zip"
@@ -619,7 +621,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "- Changed: The Levemete column is now the issuer instead of the client, as it should be. This makes it easier to figure out where to accept the leves.\n  - *Note:* The game sheets don't contain any information about the issuer of a leve. This is server-side only and the reason why I used the leve client instead. Now I added issuer information based on data from the Gamer Escape wiki and will have to update the list with each expansion. ️  \n  If you encounter any problems, please report them. I don't use the plugin much myself at the moment. ",
-        "DownloadCount": 71,
+        "DownloadCount": 272,
         "LastUpdate": 1697147386,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.0/latest.zip"
@@ -640,7 +642,7 @@
         "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
         "AcceptsFeedback": true,
         "Changelog": "Update for Patch 6.5.",
-        "DownloadCount": 245,
+        "DownloadCount": 247,
         "LastUpdate": 1696448124,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v1.1.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v1.1.1/latest.zip"
@@ -740,7 +742,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1696380899,
-        "DownloadCount": 23046,
+        "DownloadCount": 23835,
         "DownloadLinkInstall": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.1/BDTHPlugin.zip",
         "DownloadLinkTesting": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.1/BDTHPlugin.zip",
         "DownloadLinkUpdate": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.1/BDTHPlugin.zip"
@@ -1345,7 +1347,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
-        "DownloadCount": 3118,
+        "DownloadCount": 3181,
         "LastUpdate": "1696378706"
     },
     {
@@ -1372,7 +1374,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
-        "DownloadCount": 16303,
+        "DownloadCount": 16746,
         "LastUpdate": "1696379002"
     },
     {
@@ -1398,7 +1400,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.6/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.6/latest.zip",
-        "DownloadCount": 8839,
+        "DownloadCount": 9012,
         "LastUpdate": "1696379002"
     },
     {
@@ -1424,7 +1426,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
-        "DownloadCount": 10293,
+        "DownloadCount": 10519,
         "LastUpdate": "1696379002"
     },
     {
@@ -1725,7 +1727,7 @@
         "Author": "Jawslouis",
         "Name": "MakePlace Plugin [Grinch API 9]",
         "InternalName": "MakePlacePlugin",
-        "AssemblyVersion": "3.1.0",
+        "AssemblyVersion": "3.2.0",
         "Punchline": "Automatically save & load furniture layouts in your house.",
         "Description": "Automatically save & load the positions of house furniture. Import/export layouts from the MakePlace program.",
         "ApplicableVersion": "any",
@@ -1739,10 +1741,10 @@
         "DalamudApiLevel": 9,
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/jawslouis/MakePlacePlugin/master/icon.png",
-        "DownloadCount": 171301,
-        "DownloadLinkInstall": "https://github.com/jawslouis/MakePlacePlugin/releases/download/v3.1.0/MakePlacePlugin.zip",
-        "DownloadLinkTesting": "https://github.com/jawslouis/MakePlacePlugin/releases/download/v3.1.0/MakePlacePlugin.zip",
-        "DownloadLinkUpdate": "https://github.com/jawslouis/MakePlacePlugin/releases/download/v3.1.0/MakePlacePlugin.zip",
+        "DownloadCount": 183839,
+        "DownloadLinkInstall": "https://github.com/jawslouis/MakePlacePlugin/releases/download/v3.2.0/MakePlacePlugin.zip",
+        "DownloadLinkTesting": "https://github.com/jawslouis/MakePlacePlugin/releases/download/v3.2.0/MakePlacePlugin.zip",
+        "DownloadLinkUpdate": "https://github.com/jawslouis/MakePlacePlugin/releases/download/v3.2.0/MakePlacePlugin.zip",
         "_isDip17Plugin": false,
         "_Dip17Channel": null
     },
