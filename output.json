@@ -37,7 +37,7 @@
         ],
         "InternalName": "Splatoon",
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-        "DownloadCount": 132425,
+        "DownloadCount": 132707,
         "LastUpdate": 1696733124156,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
@@ -60,7 +60,7 @@
         ],
         "InternalName": "LazyLoot",
         "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-        "DownloadCount": 33502,
+        "DownloadCount": 33708,
         "LastUpdate": 1697274016656,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
@@ -73,6 +73,29 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png"
     },
     {
+        "Author": "Taurenkey, croizat",
+        "Name": "Pandora's Box [Grinch API 9]",
+        "Punchline": "Do you dare to open Pandora's Box?",
+        "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
+        "Tags": [
+            "punish",
+            "plugin"
+        ],
+        "InternalName": "PandorasBox",
+        "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
+        "DownloadCount": 76563,
+        "LastUpdate": 1696837497033,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
+        "AssemblyVersion": "1.5.0.4",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "9",
+        "Changelog": "Fix project turn-in button",
+        "TestingAssemblyVersion": "1.5.0.13",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/testing.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png"
+    },
+    {
         "Author": "kawaii, NightmareXIV",
         "Name": "AutoRetainer [Grinch API 9]",
         "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
@@ -80,15 +103,15 @@
         "Tags": [],
         "InternalName": "AutoRetainer",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "DownloadCount": 127553,
-        "LastUpdate": 1697415297434,
+        "DownloadCount": 132611,
+        "LastUpdate": 1697710572834,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
-        "AssemblyVersion": "4.2.1.2",
+        "AssemblyVersion": "4.2.1.3",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "9",
-        "Changelog": "- Vessels are now repaired at sending rather than at finalizing and configuration options to repair were deleted and permanently enabled, testing required\n- Venture planner preview fps drop issue fixed\n- Deployables-related functions are moved into Multi mode tab, and Deployables tab removed from settings\n- FPS limiter values are displayed in FPS now rather than in frame times\n- An attempt to fix \"relog in advance\" for deployables, testing required",
-        "TestingAssemblyVersion": "4.2.1.2",
+        "Changelog": "- Changed cutscene skipping method\n- Repairs are done on both finalize and resend",
+        "TestingAssemblyVersion": "4.2.1.3",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
     },
@@ -102,7 +125,7 @@
         ],
         "InternalName": "Artisan",
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 248390,
+        "DownloadCount": 249384,
         "LastUpdate": 1697358953772,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -113,29 +136,6 @@
         "TestingAssemblyVersion": "2.1.0.8",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
-    },
-    {
-        "Author": "Taurenkey, croizat",
-        "Name": "Pandora's Box [Grinch API 9]",
-        "Punchline": "Do you dare to open Pandora's Box?",
-        "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
-        "Tags": [
-            "punish",
-            "plugin"
-        ],
-        "InternalName": "PandorasBox",
-        "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-        "DownloadCount": 76168,
-        "LastUpdate": 1696837497033,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
-        "AssemblyVersion": "1.5.0.4",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "9",
-        "Changelog": "Fix project turn-in button",
-        "TestingAssemblyVersion": "1.5.0.13",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/testing.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png"
     },
     {
         "Author": "Taurenkey",
@@ -149,7 +149,7 @@
         ],
         "InternalName": "Saucy",
         "RepoUrl": "https://github.com/PunishXIV/Saucy",
-        "DownloadCount": 58382,
+        "DownloadCount": 58570,
         "LastUpdate": 1696597899287,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
@@ -158,24 +158,6 @@
         "DalamudApiLevel": "9",
         "Changelog": "Fix Triple Triad sometimes not playing",
         "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png"
-    },
-    {
-        "Author": "daemitus, kawaii",
-        "Name": "Yes Already [Grinch API 9]",
-        "Punchline": "Clicks Yes in various dialogs you've specified.",
-        "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
-        "Tags": [],
-        "InternalName": "YesAlready",
-        "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-        "DownloadCount": 18929,
-        "LastUpdate": 1696587621304,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
-        "AssemblyVersion": "1.3.0.4",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "9",
-        "Changelog": "",
-        "IconUrl": "https://s3.puni.sh/media/plugin/26/icon-v1pvonkr6r.png"
     },
     {
         "Author": "kawaii",
@@ -190,7 +172,7 @@
         ],
         "InternalName": "PalacePal",
         "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-        "DownloadCount": 22463,
+        "DownloadCount": 22685,
         "LastUpdate": 1696635551820,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
@@ -210,7 +192,7 @@
         ],
         "InternalName": "Avarice",
         "RepoUrl": "https://github.com/PunishXIV/Avarice",
-        "DownloadCount": 30659,
+        "DownloadCount": 30827,
         "LastUpdate": 1696319211206,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
@@ -221,6 +203,24 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png"
     },
     {
+        "Author": "daemitus, kawaii",
+        "Name": "Yes Already [Grinch API 9]",
+        "Punchline": "Clicks Yes in various dialogs you've specified.",
+        "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
+        "Tags": [],
+        "InternalName": "YesAlready",
+        "RepoUrl": "https://github.com/PunishXIV/YesAlready",
+        "DownloadCount": 19302,
+        "LastUpdate": 1696587621304,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
+        "AssemblyVersion": "1.3.0.4",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "9",
+        "Changelog": "",
+        "IconUrl": "https://s3.puni.sh/media/plugin/26/icon-v1pvonkr6r.png"
+    },
+    {
         "Author": "kawaii, NightmareXIV",
         "Name": "Orbwalker [Grinch API 9]",
         "Punchline": "S P A C E G L I D I N G",
@@ -228,7 +228,7 @@
         "Tags": [],
         "InternalName": "Orbwalker",
         "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
-        "DownloadCount": 7642,
+        "DownloadCount": 7711,
         "LastUpdate": 1696968937655,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
@@ -243,9 +243,9 @@
         "Name": "FF Logs Viewer [Grinch API 9]",
         "Punchline": "View FF Logs ranking percentiles in-game.",
         "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
-        "Changelog": "- 2.1.5.2:\n   Add current job feature to the job selection (default for all or current can be set in Configuration -> Stats).\n- 2.1.5.1:\n   Attempt to fix party view shaking under certain circumstances.\n   Remove Penumbra IPC (no longer needed).",
+        "Changelog": "- 2.1.5.3:\n   Fix an issue with job detection for current job in single view.\n- 2.1.5.2:\n   Add current job feature to the job selection (default for all or current can be set in Configuration -> Stats).\n- 2.1.5.1:\n   Attempt to fix party view shaking under certain circumstances.\n   Remove Penumbra IPC (no longer needed).",
         "InternalName": "FFLogsViewer",
-        "AssemblyVersion": "2.1.5.2",
+        "AssemblyVersion": "2.1.5.3",
         "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
         "ApplicableVersion": "any",
         "Tags": [
@@ -263,7 +263,7 @@
         "DownloadLinkTesting": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1697491197"
+        "LastUpdate": "1697692130"
     },
     {
         "Author": "Ajisai Mirai",
@@ -544,7 +544,7 @@
         "Author": "GiR-Zippo, Meowchestra",
         "Name": "HypnotoadPlugin [Grinch API 9]",
         "InternalName": "HypnotoadPlugin",
-        "AssemblyVersion": "0.0.1.17",
+        "AssemblyVersion": "0.0.1.18",
         "Description": "LightAmp companion for enhanced functionality.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/GiR-Zippo/Hypnotoad-Plugin",
@@ -557,7 +557,7 @@
         "Punchline": "Companion plugin for enhanced functionality.",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdate": "1697214938",
+        "LastUpdate": "1697715568",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/GiR-Zippo/Hypnotoad-Plugin/master/PluginDir/HypnotoadPlugin/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/GiR-Zippo/Hypnotoad-Plugin/master/PluginDir/HypnotoadPlugin/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/GiR-Zippo/Hypnotoad-Plugin/master/PluginDir/HypnotoadPlugin/latest.zip"
@@ -600,7 +600,7 @@
         "Punchline": "A collection of quality of life tweaks.",
         "AcceptsFeedback": true,
         "Changelog": "HaselTweaks\n\n- Changed: Dropped the SVG rendering library and replaced the logo in the settings with a simple PNG image. Making it scaleable with the UI was a nice thought, but in the end it just wasn't worth it.",
-        "DownloadCount": 1945,
+        "DownloadCount": 2023,
         "LastUpdate": 1696962858,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v19.0.4/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v19.0.4/latest.zip"
@@ -621,7 +621,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "- Changed: The Levemete column is now the issuer instead of the client, as it should be. This makes it easier to figure out where to accept the leves.\n  - *Note:* The game sheets don't contain any information about the issuer of a leve. This is server-side only and the reason why I used the leve client instead. Now I added issuer information based on data from the Gamer Escape wiki and will have to update the list with each expansion. ️  \n  If you encounter any problems, please report them. I don't use the plugin much myself at the moment. ",
-        "DownloadCount": 373,
+        "DownloadCount": 388,
         "LastUpdate": 1697147386,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.0/latest.zip"
@@ -642,7 +642,7 @@
         "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
         "AcceptsFeedback": true,
         "Changelog": "Update for Patch 6.5.",
-        "DownloadCount": 259,
+        "DownloadCount": 260,
         "LastUpdate": 1696448124,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v1.1.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v1.1.1/latest.zip"
@@ -692,12 +692,12 @@
         "Changelog": "Click the new Changelog button to see whats new",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "AssemblyVersion": "3.0.0.5",
-        "LastUpdated": 1697633045,
-        "DownloadCount": 53722,
-        "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/3.0.0.5/latest.zip",
-        "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/3.0.0.5/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/3.0.0.5/latest.zip"
+        "AssemblyVersion": "3.0.0.7",
+        "LastUpdated": 1697671471,
+        "DownloadCount": 51365,
+        "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/3.0.0.7/latest.zip",
+        "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/3.0.0.7/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/3.0.0.7/latest.zip"
     },
     {
         "Author": "Det",
@@ -724,7 +724,7 @@
         "IsTestingExclusive": "False",
         "AssemblyVersion": "1.1.3.0",
         "LastUpdated": 1696452206,
-        "DownloadCount": 1775,
+        "DownloadCount": 1776,
         "DownloadLinkInstall": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.3.0/latest.zip",
         "DownloadLinkTesting": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.3.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.3.0/latest.zip"
@@ -974,7 +974,7 @@
         "Punchline": "Automatically skips subtitle boxes and confirms cutscene skipping. Useful mostly for alt levelling. Requires /at command to be typed on each log in to be enabled.",
         "Description": "",
         "InternalName": "TextAdvance",
-        "AssemblyVersion": "3.1.0.2",
+        "AssemblyVersion": "3.1.0.3",
         "RepoUrl": "https://github.com/NightmareXIV/TextAdvance",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
@@ -1347,7 +1347,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.6/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.6/latest.zip",
-        "DownloadCount": 9684,
+        "DownloadCount": 9851,
         "LastUpdate": "1696379002"
     },
     {
@@ -1373,7 +1373,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
-        "DownloadCount": 3397,
+        "DownloadCount": 3452,
         "LastUpdate": "1696378706"
     },
     {
@@ -1399,7 +1399,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
-        "DownloadCount": 11510,
+        "DownloadCount": 11762,
         "LastUpdate": "1696379002"
     },
     {
@@ -1426,7 +1426,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
-        "DownloadCount": 18414,
+        "DownloadCount": 18837,
         "LastUpdate": "1696379002"
     },
     {
@@ -1568,7 +1568,7 @@
         "Author": "veyn",
         "Name": "Better borderless window mode [Grinch API 9]",
         "InternalName": "borderless-fix",
-        "AssemblyVersion": "0.0.0.2",
+        "AssemblyVersion": "0.0.0.3",
         "Description": "Borderless window can now be properly minimized (by clicking on taskbar or by win+down shortcut); when moved between monitors (win+shift+left/right), resolution is updated automatically.",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
@@ -1580,7 +1580,7 @@
         "AcceptsFeedback": true,
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdate": "1675256108",
+        "LastUpdate": "1696348265",
         "DownloadLinkInstall": "https://github.com/awgil/ffxiv_plugin_distribution/raw/master/plugins/borderless-fix/latest.zip",
         "DownloadLinkTesting": "https://github.com/awgil/ffxiv_plugin_distribution/raw/master/plugins/borderless-fix/latest.zip",
         "DownloadLinkUpdate": "https://github.com/awgil/ffxiv_plugin_distribution/raw/master/plugins/borderless-fix/latest.zip"
@@ -1589,7 +1589,7 @@
         "Author": "veyn",
         "Name": "Boss Mod [Grinch API 9]",
         "InternalName": "BossMod",
-        "AssemblyVersion": "0.0.0.116",
+        "AssemblyVersion": "0.0.0.117",
         "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content. ***very early alpha, use at your own risk***",
         "ApplicableVersion": "2023.09.28.0000.0000",
         "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
@@ -1608,7 +1608,7 @@
         "AcceptsFeedback": true,
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdate": "1696348265",
+        "LastUpdate": "1696454411",
         "DownloadLinkInstall": "https://github.com/awgil/ffxiv_plugin_distribution/raw/master/plugins/BossMod/latest.zip",
         "DownloadLinkTesting": "https://github.com/awgil/ffxiv_plugin_distribution/raw/master/plugins/BossMod/latest.zip",
         "DownloadLinkUpdate": "https://github.com/awgil/ffxiv_plugin_distribution/raw/master/plugins/BossMod/latest.zip"
@@ -1629,7 +1629,7 @@
         "AcceptsFeedback": true,
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdate": "1696348265",
+        "LastUpdate": "1696454411",
         "DownloadLinkInstall": "https://github.com/awgil/ffxiv_plugin_distribution/raw/master/plugins/vfaux/latest.zip",
         "DownloadLinkTesting": "https://github.com/awgil/ffxiv_plugin_distribution/raw/master/plugins/vfaux/latest.zip",
         "DownloadLinkUpdate": "https://github.com/awgil/ffxiv_plugin_distribution/raw/master/plugins/vfaux/latest.zip"
@@ -1650,7 +1650,7 @@
         "AcceptsFeedback": true,
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdate": "1696437999",
+        "LastUpdate": "1696454411",
         "DownloadLinkInstall": "https://github.com/awgil/ffxiv_plugin_distribution/raw/master/plugins/visland/latest.zip",
         "DownloadLinkTesting": "https://github.com/awgil/ffxiv_plugin_distribution/raw/master/plugins/visland/latest.zip",
         "DownloadLinkUpdate": "https://github.com/awgil/ffxiv_plugin_distribution/raw/master/plugins/visland/latest.zip"
@@ -1674,7 +1674,7 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1697379633"
+        "LastUpdate": "1697680726"
     },
     {
         "Author": "DodingDaga",
@@ -1753,7 +1753,7 @@
         "Name": "FFXIV Vibe Plugin [Grinch API 9]",
         "Description": "Plugin that let you vibe your controller or toys",
         "InternalName": "FFXIV_Vibe_Plugin",
-        "AssemblyVersion": "2.4.0.0",
+        "AssemblyVersion": "2.4.0.1",
         "RepoUrl": "https://github.com/kaciexx/FFXIV_Vibe_Plugin",
         "ApplicableVersion": "any",
         "Tags": [
@@ -1765,11 +1765,11 @@
         "IconUrl": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/raw/master/images/icon.png",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdated": 1697093795,
-        "DownloadCount": 10103,
-        "DownloadLinkInstall": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/releases/download/v2.4.0.0/FFXIV_Vibe_Plugin_v2.4.0.0.zip",
-        "DownloadLinkTesting": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/releases/download/v2.4.0.0/FFXIV_Vibe_Plugin_v2.4.0.0.zip",
-        "DownloadLinkUpdate": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/releases/download/v2.4.0.0/FFXIV_Vibe_Plugin_v2.4.0.0.zip"
+        "LastUpdated": 1697712919,
+        "DownloadCount": 10703,
+        "DownloadLinkInstall": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/releases/download/v2.4.0.1/FFXIV_Vibe_Plugin_v2.4.0.1.zip",
+        "DownloadLinkTesting": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/releases/download/v2.4.0.1/FFXIV_Vibe_Plugin_v2.4.0.1.zip",
+        "DownloadLinkUpdate": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/releases/download/v2.4.0.1/FFXIV_Vibe_Plugin_v2.4.0.1.zip"
     },
     {
         "Author": "perchbird, forked by mootykins",
