@@ -27,26 +27,6 @@
         "LastUpdated": "1697152118"
     },
     {
-        "Author": "kawaii, NightmareXIV",
-        "Name": "Avarice [Grinch API 9]",
-        "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "Tags": [
-            "combat"
-        ],
-        "InternalName": "Avarice",
-        "RepoUrl": "https://github.com/PunishXIV/Avarice",
-        "DownloadCount": 31947,
-        "LastUpdate": 1696319211206,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
-        "AssemblyVersion": "2.0.3.7",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "9",
-        "Changelog": "6.5",
-        "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png"
-    },
-    {
         "Author": "kawaii",
         "Name": "Palace Pal [Grinch API 9]",
         "Punchline": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.",
@@ -59,7 +39,7 @@
         ],
         "InternalName": "PalacePal",
         "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-        "DownloadCount": 24503,
+        "DownloadCount": 24576,
         "LastUpdate": 1696635551820,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
@@ -70,6 +50,26 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png"
     },
     {
+        "Author": "kawaii, NightmareXIV",
+        "Name": "Avarice [Grinch API 9]",
+        "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+        "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+        "Tags": [
+            "combat"
+        ],
+        "InternalName": "Avarice",
+        "RepoUrl": "https://github.com/PunishXIV/Avarice",
+        "DownloadCount": 32019,
+        "LastUpdate": 1696319211206,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
+        "AssemblyVersion": "2.0.3.7",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "9",
+        "Changelog": "6.5",
+        "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png"
+    },
+    {
         "Author": "daemitus, kawaii",
         "Name": "Yes Already [Grinch API 9]",
         "Punchline": "Clicks Yes in various dialogs you've specified.",
@@ -77,7 +77,7 @@
         "Tags": [],
         "InternalName": "YesAlready",
         "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-        "DownloadCount": 21807,
+        "DownloadCount": 21920,
         "LastUpdate": 1696587621304,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
@@ -86,6 +86,46 @@
         "DalamudApiLevel": "9",
         "Changelog": "",
         "IconUrl": "https://s3.puni.sh/media/plugin/26/icon-v1pvonkr6r.png"
+    },
+    {
+        "Author": "kawaii, NightmareXIV",
+        "Name": "Orbwalker [Grinch API 9]",
+        "Punchline": "S P A C E G L I D I N G",
+        "Description": "Locks player movement while casting and allows for maximum caster uptime during the course of a fight.",
+        "Tags": [],
+        "InternalName": "Orbwalker",
+        "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
+        "DownloadCount": 8280,
+        "LastUpdate": 1698874187557,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
+        "AssemblyVersion": "1.0.0.4",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "9",
+        "Changelog": "",
+        "IconUrl": "https://s3.puni.sh/media/plugin/12/icon-o94qaw6cyn.png"
+    },
+    {
+        "Author": "Taurenkey",
+        "Name": "Saucy [Grinch API 9]",
+        "Punchline": "When working for MGP is too much effort.",
+        "Description": "Automates certain Gold Saucer mini-games.",
+        "Tags": [
+            "gold saucer",
+            "mgp",
+            "automation"
+        ],
+        "InternalName": "Saucy",
+        "RepoUrl": "https://github.com/PunishXIV/Saucy",
+        "DownloadCount": 60624,
+        "LastUpdate": 1696597899287,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
+        "AssemblyVersion": "1.3.0.2",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "9",
+        "Changelog": "Fix Triple Triad sometimes not playing",
+        "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png"
     },
     {
         "Author": "Taurenkey, croizat",
@@ -98,7 +138,7 @@
         ],
         "InternalName": "PandorasBox",
         "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-        "DownloadCount": 87651,
+        "DownloadCount": 87801,
         "LastUpdate": 1698159807797,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
@@ -123,7 +163,7 @@
         ],
         "InternalName": "LazyLoot",
         "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-        "DownloadCount": 34798,
+        "DownloadCount": 34850,
         "LastUpdate": 1697274016656,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
@@ -143,7 +183,7 @@
         "Tags": [],
         "InternalName": "AutoRetainer",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "DownloadCount": 156645,
+        "DownloadCount": 157032,
         "LastUpdate": 1698540218677,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -156,46 +196,6 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
     },
     {
-        "Author": "Taurenkey",
-        "Name": "Saucy [Grinch API 9]",
-        "Punchline": "When working for MGP is too much effort.",
-        "Description": "Automates certain Gold Saucer mini-games.",
-        "Tags": [
-            "gold saucer",
-            "mgp",
-            "automation"
-        ],
-        "InternalName": "Saucy",
-        "RepoUrl": "https://github.com/PunishXIV/Saucy",
-        "DownloadCount": 60499,
-        "LastUpdate": 1696597899287,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
-        "AssemblyVersion": "1.3.0.2",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "9",
-        "Changelog": "Fix Triple Triad sometimes not playing",
-        "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png"
-    },
-    {
-        "Author": "kawaii, NightmareXIV",
-        "Name": "Orbwalker [Grinch API 9]",
-        "Punchline": "S P A C E G L I D I N G",
-        "Description": "Locks player movement while casting and allows for maximum caster uptime during the course of a fight.",
-        "Tags": [],
-        "InternalName": "Orbwalker",
-        "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
-        "DownloadCount": 8245,
-        "LastUpdate": 1696968937655,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
-        "AssemblyVersion": "1.0.0.4",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "9",
-        "Changelog": "",
-        "IconUrl": "https://s3.puni.sh/media/plugin/12/icon-o94qaw6cyn.png"
-    },
-    {
         "Author": "NightmareXIV",
         "Name": "Splatoon [Grinch API 9]",
         "Punchline": "Redefining FFXIV navigation with unlimited, precise waymarks.",
@@ -206,7 +206,7 @@
         ],
         "InternalName": "Splatoon",
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-        "DownloadCount": 144777,
+        "DownloadCount": 144949,
         "LastUpdate": 1697984570769,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
@@ -226,7 +226,7 @@
         ],
         "InternalName": "Artisan",
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 283755,
+        "DownloadCount": 284465,
         "LastUpdate": 1698574677683,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -600,7 +600,7 @@
         "Punchline": "A collection of quality of life tweaks.",
         "AcceptsFeedback": true,
         "Changelog": "HaselTweaks\n\n- Changed: Dropped the SVG rendering library and replaced the logo in the settings with a simple PNG image. Making it scaleable with the UI was a nice thought, but in the end it just wasn't worth it.",
-        "DownloadCount": 2405,
+        "DownloadCount": 2420,
         "LastUpdate": 1696962858,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v19.0.4/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v19.0.4/latest.zip"
@@ -621,7 +621,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "- Fixed: \"Queue\" and \"Recipe Tree\" tabs didn't show crafting ingredients. Sorry about that!",
-        "DownloadCount": 372,
+        "DownloadCount": 379,
         "LastUpdate": 1698225276,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.1/latest.zip"
@@ -1177,21 +1177,21 @@
         "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/images/icon.png"
     },
     {
-        "Author": "attick, daemitus, VariableVixen",
-        "Name": "XIV Combo Very Expanded [Grinch API 9]",
-        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
-        "InternalName": "XIVComboVX",
-        "AssemblyVersion": "9.11.1",
-        "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin",
+        "Author": "VariableVixen",
+        "Name": "XivEsp [Grinch API 9]",
+        "Description": "If you've ever spent ten minutes looking for your hunt target, this is the plugin for you. Set a case-insensitive substring, glob, or regular expression, and all nearby game objects with matching names will be tagged on your screen!",
+        "InternalName": "XivEsp",
+        "AssemblyVersion": "1.1.0.0",
+        "RepoUrl": "https://github.com/PrincessRTFM/XivEsp",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
-        "DownloadLinkInstall": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
+        "DownloadLinkInstall": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
+        "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1696544982"
+        "LastUpdated": "1698891706"
     },
     {
         "Author": "VariableVixen",
@@ -1208,24 +1208,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1696544982"
-    },
-    {
-        "Author": "VariableVixen",
-        "Name": "XivEsp [Grinch API 9]",
-        "Description": "If you've ever spent ten minutes looking for your hunt target, this is the plugin for you. Set a case-insensitive substring, glob, or regular expression, and all nearby game objects with matching names will be tagged on your screen!",
-        "InternalName": "XivEsp",
-        "AssemblyVersion": "1.1.0.0",
-        "RepoUrl": "https://github.com/PrincessRTFM/XivEsp",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 9,
-        "DownloadLinkInstall": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1696544982"
+        "LastUpdated": "1698891706"
     },
     {
         "Author": "VariableVixen",
@@ -1242,7 +1225,24 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1696544982"
+        "LastUpdated": "1698891706"
+    },
+    {
+        "Author": "attick, daemitus, VariableVixen",
+        "Name": "XIV Combo Very Expanded [Grinch API 9]",
+        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
+        "InternalName": "XIVComboVX",
+        "AssemblyVersion": "9.12.0",
+        "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 9,
+        "DownloadLinkInstall": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1698891706"
     },
     {
         "Author": "PunishedPineapple",
@@ -1344,7 +1344,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.6/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.6/latest.zip",
-        "DownloadCount": 11085,
+        "DownloadCount": 11137,
         "LastUpdate": "1696379002"
     },
     {
@@ -1370,7 +1370,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
-        "DownloadCount": 3949,
+        "DownloadCount": 3976,
         "LastUpdate": "1696378706"
     },
     {
@@ -1397,7 +1397,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
-        "DownloadCount": 22311,
+        "DownloadCount": 22507,
         "LastUpdate": "1696379002"
     },
     {
@@ -1423,7 +1423,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
-        "DownloadCount": 13683,
+        "DownloadCount": 13771,
         "LastUpdate": "1696379002"
     },
     {
@@ -1618,7 +1618,7 @@
         "Tags": [],
         "InternalName": "vfaux",
         "RepoUrl": "https://github.com/awgil/vfaux",
-        "DownloadCount": 1624,
+        "DownloadCount": 1674,
         "LastUpdate": 1698574458600,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/29/vfaux/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/29/vfaux/versions/latest.zip",
@@ -1636,11 +1636,11 @@
         "Tags": [],
         "InternalName": "visland",
         "RepoUrl": "https://github.com/awgil/ffxiv_visland",
-        "DownloadCount": 22404,
-        "LastUpdate": 1698852739652,
+        "DownloadCount": 24961,
+        "LastUpdate": 1698874293986,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
-        "AssemblyVersion": "0.0.0.38",
+        "AssemblyVersion": "0.0.0.39",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "9",
         "Changelog": "",
