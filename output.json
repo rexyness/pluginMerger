@@ -37,7 +37,7 @@
         ],
         "InternalName": "Splatoon",
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-        "DownloadCount": 155789,
+        "DownloadCount": 156882,
         "LastUpdate": 1699397772599,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
@@ -58,7 +58,7 @@
         ],
         "InternalName": "PandorasBox",
         "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-        "DownloadCount": 110035,
+        "DownloadCount": 111202,
         "LastUpdate": 1699469260515,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
@@ -78,7 +78,7 @@
         "Tags": [],
         "InternalName": "AutoRetainer",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "DownloadCount": 177395,
+        "DownloadCount": 181498,
         "LastUpdate": 1699636233357,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -103,7 +103,7 @@
         ],
         "InternalName": "LazyLoot",
         "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-        "DownloadCount": 35473,
+        "DownloadCount": 35643,
         "LastUpdate": 1697274016656,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
@@ -123,7 +123,7 @@
         "Tags": [],
         "InternalName": "YesAlready",
         "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-        "DownloadCount": 35665,
+        "DownloadCount": 36721,
         "LastUpdate": 1699458879203,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
@@ -145,14 +145,14 @@
         ],
         "InternalName": "Artisan",
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 316748,
-        "LastUpdate": 1699469408721,
+        "DownloadCount": 327410,
+        "LastUpdate": 1699859895588,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
-        "AssemblyVersion": "2.1.1.3",
+        "AssemblyVersion": "2.1.1.4",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "9",
-        "Changelog": "- Updates YesAlready support to latest version.",
+        "Changelog": "",
         "TestingAssemblyVersion": "2.1.1.2",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
@@ -167,7 +167,7 @@
         ],
         "InternalName": "Avarice",
         "RepoUrl": "https://github.com/PunishXIV/Avarice",
-        "DownloadCount": 35107,
+        "DownloadCount": 35553,
         "LastUpdate": 1699389412236,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
@@ -185,7 +185,7 @@
         "Tags": [],
         "InternalName": "Orbwalker",
         "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
-        "DownloadCount": 8678,
+        "DownloadCount": 8753,
         "LastUpdate": 1696968937655,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
@@ -208,7 +208,7 @@
         ],
         "InternalName": "PalacePal",
         "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-        "DownloadCount": 25826,
+        "DownloadCount": 26058,
         "LastUpdate": 1696635551820,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
@@ -230,7 +230,7 @@
         ],
         "InternalName": "Saucy",
         "RepoUrl": "https://github.com/PunishXIV/Saucy",
-        "DownloadCount": 61785,
+        "DownloadCount": 62027,
         "LastUpdate": 1696597899287,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
@@ -602,7 +602,7 @@
         "Punchline": "A collection of quality of life tweaks.",
         "AcceptsFeedback": true,
         "Changelog": "Search the markets\n\n- Added: Support for Recipes List window.",
-        "DownloadCount": 1718,
+        "DownloadCount": 1926,
         "LastUpdate": 1699397773,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v19.1.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v19.1.0/latest.zip"
@@ -623,7 +623,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "- Fixed: \"Queue\" and \"Recipe Tree\" tabs didn't show crafting ingredients. Sorry about that!",
-        "DownloadCount": 443,
+        "DownloadCount": 460,
         "LastUpdate": 1698225276,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.1/latest.zip"
@@ -644,7 +644,7 @@
         "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
         "AcceptsFeedback": true,
         "Changelog": "Update for Patch 6.5.",
-        "DownloadCount": 296,
+        "DownloadCount": 299,
         "LastUpdate": 1696448124,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v1.1.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v1.1.1/latest.zip"
@@ -696,7 +696,7 @@
         "IsTestingExclusive": "False",
         "AssemblyVersion": "3.0.0.7",
         "LastUpdated": 1697671471,
-        "DownloadCount": 60445,
+        "DownloadCount": 61225,
         "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/3.0.0.7/latest.zip",
         "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/3.0.0.7/latest.zip",
         "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/3.0.0.7/latest.zip"
@@ -726,7 +726,7 @@
         "IsTestingExclusive": "False",
         "AssemblyVersion": "1.1.3.0",
         "LastUpdated": 1696452206,
-        "DownloadCount": 1839,
+        "DownloadCount": 1867,
         "DownloadLinkInstall": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.3.0/latest.zip",
         "DownloadLinkTesting": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.3.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.3.0/latest.zip"
@@ -1164,8 +1164,8 @@
             "Character"
         ],
         "InternalName": "Glamourer",
-        "AssemblyVersion": "1.0.4.3",
-        "TestingAssemblyVersion": "1.0.4.3",
+        "AssemblyVersion": "1.0.5.0",
+        "TestingAssemblyVersion": "1.0.5.0",
         "RepoUrl": "https://github.com/Ottermandias/Glamourer",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
@@ -1173,9 +1173,9 @@
         "IsTestingExclusive": "False",
         "DownloadCount": 1,
         "LastUpdate": 1618608322,
-        "DownloadLinkInstall": "https://github.com/Ottermandias/Glamourer/releases/download/1.0.4.3/Glamourer.zip",
-        "DownloadLinkUpdate": "https://github.com/Ottermandias/Glamourer/releases/download/1.0.4.3/Glamourer.zip",
-        "DownloadLinkTesting": "https://github.com/Ottermandias/Glamourer/releases/download/1.0.4.3/Glamourer.zip",
+        "DownloadLinkInstall": "https://github.com/Ottermandias/Glamourer/releases/download/1.0.5.0/Glamourer.zip",
+        "DownloadLinkUpdate": "https://github.com/Ottermandias/Glamourer/releases/download/1.0.5.0/Glamourer.zip",
+        "DownloadLinkTesting": "https://github.com/Ottermandias/Glamourer/releases/download/1.0.5.0/Glamourer.zip",
         "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/images/icon.png"
     },
     {
@@ -1193,7 +1193,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1699058335"
+        "LastUpdated": "1699891320"
     },
     {
         "Author": "VariableVixen",
@@ -1210,7 +1210,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1699058335"
+        "LastUpdated": "1699891320"
     },
     {
         "Author": "VariableVixen",
@@ -1227,14 +1227,14 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1699058335"
+        "LastUpdated": "1699891320"
     },
     {
         "Author": "attick, daemitus, VariableVixen",
         "Name": "XIV Combo Very Expanded [Grinch API 9]",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
         "InternalName": "XIVComboVX",
-        "AssemblyVersion": "9.12.2",
+        "AssemblyVersion": "9.13.0",
         "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
@@ -1244,7 +1244,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1699058335"
+        "LastUpdated": "1699891320"
     },
     {
         "Author": "PunishedPineapple",
@@ -1347,7 +1347,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
-        "DownloadCount": 24538,
+        "DownloadCount": 25046,
         "LastUpdate": "1696379002"
     },
     {
@@ -1373,7 +1373,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
-        "DownloadCount": 14977,
+        "DownloadCount": 15283,
         "LastUpdate": "1696379002"
     },
     {
@@ -1399,7 +1399,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
-        "DownloadCount": 4325,
+        "DownloadCount": 4401,
         "LastUpdate": "1696378706"
     },
     {
@@ -1425,7 +1425,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.6/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.6/latest.zip",
-        "DownloadCount": 11811,
+        "DownloadCount": 11987,
         "LastUpdate": "1696379002"
     },
     {
@@ -1620,7 +1620,7 @@
         "Tags": [],
         "InternalName": "vfaux",
         "RepoUrl": "https://github.com/awgil/vfaux",
-        "DownloadCount": 2574,
+        "DownloadCount": 2711,
         "LastUpdate": 1698574458600,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/29/vfaux/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/29/vfaux/versions/latest.zip",
@@ -1638,7 +1638,7 @@
         "Tags": [],
         "InternalName": "visland",
         "RepoUrl": "https://github.com/awgil/ffxiv_visland",
-        "DownloadCount": 32414,
+        "DownloadCount": 32727,
         "LastUpdate": 1698964752618,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
@@ -2098,7 +2098,7 @@
         "Tags": [],
         "InternalName": "vfallguy",
         "RepoUrl": null,
-        "DownloadCount": 8616,
+        "DownloadCount": 9602,
         "LastUpdate": 1699404683103,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/41/vfallguy/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/41/vfallguy/versions/latest.zip",
