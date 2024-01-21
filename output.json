@@ -34,7 +34,7 @@
         "Tags": [],
         "InternalName": "YesAlready",
         "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-        "DownloadCount": 45156,
+        "DownloadCount": 45533,
         "LastUpdate": 1699458879203,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
@@ -47,28 +47,6 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/26/icon-v1pvonkr6r.png"
     },
     {
-        "Author": "Taurenkey, kawaii",
-        "Name": "Artisan [Grinch API 9]",
-        "Punchline": "A 'simple' crafting plugin.",
-        "Description": "The all-in-one crafting plugin.",
-        "Tags": [
-            "crafting"
-        ],
-        "InternalName": "Artisan",
-        "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 438785,
-        "LastUpdate": 1705574632724,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
-        "AssemblyVersion": "3.0.0.6",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "9",
-        "Changelog": "",
-        "TestingAssemblyVersion": "2.1.2.31",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
-    },
-    {
         "Author": "kawaii, NightmareXIV",
         "Name": "AutoRetainer [Grinch API 9]",
         "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
@@ -76,7 +54,7 @@
         "Tags": [],
         "InternalName": "AutoRetainer",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "DownloadCount": 238582,
+        "DownloadCount": 240201,
         "LastUpdate": 1705432096482,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -87,6 +65,29 @@
         "TestingAssemblyVersion": "4.2.5.0",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
+    },
+    {
+        "Author": "Taurenkey, croizat",
+        "Name": "Pandora's Box [Grinch API 9]",
+        "Punchline": "Do you dare to open Pandora's Box?",
+        "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
+        "Tags": [
+            "punish",
+            "plugin"
+        ],
+        "InternalName": "PandorasBox",
+        "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
+        "DownloadCount": 147156,
+        "LastUpdate": 1704896518632,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
+        "AssemblyVersion": "1.5.4.2",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "9",
+        "Changelog": "- Adds \"Map Hotbar Decipher\" feature\n- Adds \"Auto-Collect for FSH\" feature\n- Fix various bugs with features not disabling",
+        "TestingAssemblyVersion": "1.5.4.1",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/testing.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png"
     },
     {
         "Author": "Taurenkey, Gidedin",
@@ -101,7 +102,7 @@
         ],
         "InternalName": "LazyLoot",
         "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-        "DownloadCount": 46328,
+        "DownloadCount": 46590,
         "LastUpdate": 1703850327807,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
@@ -114,6 +115,28 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png"
     },
     {
+        "Author": "Taurenkey, kawaii",
+        "Name": "Artisan [Grinch API 9]",
+        "Punchline": "A 'simple' crafting plugin.",
+        "Description": "The all-in-one crafting plugin.",
+        "Tags": [
+            "crafting"
+        ],
+        "InternalName": "Artisan",
+        "RepoUrl": "https://github.com/PunishXIV/Artisan",
+        "DownloadCount": 467139,
+        "LastUpdate": 1705651698769,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
+        "AssemblyVersion": "3.0.0.8",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "9",
+        "Changelog": "",
+        "TestingAssemblyVersion": "3.0.1.1",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
+    },
+    {
         "Author": "NightmareXIV, kawaii",
         "Name": "Splatoon [Grinch API 9]",
         "Punchline": "Redefining FFXIV navigation with unlimited, precise waymarks.",
@@ -124,7 +147,7 @@
         ],
         "InternalName": "Splatoon",
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-        "DownloadCount": 181272,
+        "DownloadCount": 184539,
         "LastUpdate": 1705516582563,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
@@ -137,29 +160,6 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/10/icon-cchf5yumm2p.png"
     },
     {
-        "Author": "Taurenkey, croizat",
-        "Name": "Pandora's Box [Grinch API 9]",
-        "Punchline": "Do you dare to open Pandora's Box?",
-        "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
-        "Tags": [
-            "punish",
-            "plugin"
-        ],
-        "InternalName": "PandorasBox",
-        "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-        "DownloadCount": 146256,
-        "LastUpdate": 1704896518632,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
-        "AssemblyVersion": "1.5.4.2",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "9",
-        "Changelog": "- Adds \"Map Hotbar Decipher\" feature\n- Adds \"Auto-Collect for FSH\" feature\n- Fix various bugs with features not disabling",
-        "TestingAssemblyVersion": "1.5.4.1",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/testing.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png"
-    },
-    {
         "Author": "kawaii, NightmareXIV",
         "Name": "Avarice [Grinch API 9]",
         "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
@@ -169,7 +169,7 @@
         ],
         "InternalName": "Avarice",
         "RepoUrl": "https://github.com/PunishXIV/Avarice",
-        "DownloadCount": 39836,
+        "DownloadCount": 40006,
         "LastUpdate": 1699389412236,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
@@ -187,7 +187,7 @@
         "Tags": [],
         "InternalName": "Orbwalker",
         "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
-        "DownloadCount": 10282,
+        "DownloadCount": 10404,
         "LastUpdate": 1696968937655,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
@@ -210,7 +210,7 @@
         ],
         "InternalName": "PalacePal",
         "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-        "DownloadCount": 36459,
+        "DownloadCount": 36733,
         "LastUpdate": 1701511408558,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
@@ -232,7 +232,7 @@
         ],
         "InternalName": "Saucy",
         "RepoUrl": "https://github.com/PunishXIV/Saucy",
-        "DownloadCount": 66562,
+        "DownloadCount": 66771,
         "LastUpdate": 1696597899287,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
@@ -604,7 +604,7 @@
         "Punchline": "A collection of quality of life tweaks.",
         "AcceptsFeedback": true,
         "Changelog": "HaselTweaks\n\n- Fixed: Tweaks were not notified when the config was updated.\n\nMaterial Allocation\n\n- Fixed: Config is now saved directly upon changing tabs.\n- Fixed: The currently selected language in the dropdown was not highlighted.\n- Fixed: Removed the language selection from the tweak config that was added there by mistake.\n\nPortrait Helper\n\n- Fixed: Stopped the maximum timestamp value from updating while the animation is loading.\n\n---\n\nVersion 20.1.2 and 20.1.3 were unpublished, because I thought I had introduced a bug that prevented the plugin from initializing.\nNeither of them had an issue - it was me breaking things locally. I let the CI re-build and re-release v20.1.3. Sorry for the confusion.\n\nThe changelog above reflects changes made in v20.1.2, as v20.1.3 was an attempted bugfix for said local issue.",
-        "DownloadCount": 2488,
+        "DownloadCount": 2659,
         "LastUpdate": 1704674748,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.1.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.1.3/latest.zip"
@@ -625,7 +625,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "Wanted Targets\n\n- Fixed: Detection of Sabotender Corrido didn't work because the wrong name id was used.",
-        "DownloadCount": 507,
+        "DownloadCount": 541,
         "LastUpdate": 1704056826,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.2/latest.zip"
@@ -646,7 +646,7 @@
         "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
         "AcceptsFeedback": true,
         "Changelog": "Update for Patch 6.5.",
-        "DownloadCount": 355,
+        "DownloadCount": 356,
         "LastUpdate": 1696448124,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v1.1.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v1.1.1/latest.zip"
@@ -1364,7 +1364,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
-        "DownloadCount": 6024,
+        "DownloadCount": 6087,
         "LastUpdate": "1696378706"
     },
     {
@@ -1391,7 +1391,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
-        "DownloadCount": 34782,
+        "DownloadCount": 35291,
         "LastUpdate": "1696379002"
     },
     {
@@ -1417,7 +1417,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.6/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.6/latest.zip",
-        "DownloadCount": 15400,
+        "DownloadCount": 15563,
         "LastUpdate": "1696379002"
     },
     {
@@ -1443,7 +1443,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
-        "DownloadCount": 21481,
+        "DownloadCount": 21768,
         "LastUpdate": "1696379002"
     },
     {
@@ -1469,7 +1469,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
-        "DownloadCount": 9306,
+        "DownloadCount": 9460,
         "LastUpdate": "1700166956"
     },
     {
@@ -1636,7 +1636,7 @@
         "Tags": [],
         "InternalName": "BossMod",
         "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-        "DownloadCount": 32078,
+        "DownloadCount": 32839,
         "LastUpdate": 1705408305492,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
@@ -1659,7 +1659,7 @@
         "Tags": [],
         "InternalName": "vfaux",
         "RepoUrl": "https://github.com/awgil/vfaux",
-        "DownloadCount": 5011,
+        "DownloadCount": 5091,
         "LastUpdate": 1698574458600,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/29/vfaux/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/29/vfaux/versions/latest.zip",
@@ -1677,11 +1677,11 @@
         "Tags": [],
         "InternalName": "visland",
         "RepoUrl": "https://github.com/awgil/ffxiv_visland",
-        "DownloadCount": 74243,
-        "LastUpdate": 1704813818280,
+        "DownloadCount": 79381,
+        "LastUpdate": 1705666265972,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
-        "AssemblyVersion": "0.0.0.54",
+        "AssemblyVersion": "0.0.0.55",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "9",
         "Changelog": "",
@@ -2137,7 +2137,7 @@
         "Tags": [],
         "InternalName": "vfallguy",
         "RepoUrl": null,
-        "DownloadCount": 18281,
+        "DownloadCount": 18336,
         "LastUpdate": 1700000789276,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/41/vfallguy/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/41/vfallguy/versions/latest.zip",
