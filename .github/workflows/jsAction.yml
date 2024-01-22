@@ -26,7 +26,10 @@ jobs:
       with:
         node-version: 16  # Adjust this to your preferred Node.js version
 
-    - name: Install Dependencies
+    - name: Install npm
+      run: npm install  # Adjust this if you're using a different package manager
+
+    - name: Install fs
       run: npm install fs  # Adjust this if you're using a different package manager
     
     - name: Install node-fetch
