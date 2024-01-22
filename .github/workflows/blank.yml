@@ -44,4 +44,5 @@ jobs:
         # Optional. Commit message for the created commit.
         # Defaults to "Apply automatic changes"
         commit_message: Automated Change
+        repository: .
         file_pattern: '*.json'
