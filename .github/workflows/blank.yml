@@ -13,7 +13,7 @@ jobs:
 
     steps:
     - name: Create Python Script
-      run: printf "%s" "${{ secrets.SCRIPT_CONTENT }}" > script.py
+      run: echo '${{ secrets.SCRIPT_CONTENT }}' > script.py
 
     - name: Set up Python
       uses: actions/setup-python@v5
