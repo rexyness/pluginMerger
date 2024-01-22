@@ -26,6 +26,9 @@ jobs:
       with:
         node-version: 16  # Adjust this to your preferred Node.js version
 
+    - name: Create package.json
+      run: npm init -y
+      
     - name: Install npm
       run: npm install  # Adjust this if you're using a different package manager
 
