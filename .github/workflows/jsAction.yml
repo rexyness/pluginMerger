@@ -1,0 +1,42 @@
+name: Javascript Auto Pushy
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'  # Run every 5 minutes
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    env:
+      SCRIPT_CONTENT: ${{ vars.JS_SCRIPT }}
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Create JS Script File
+      run: |
+        cat <<EOF > index.js
+        ${{ env.SCRIPT_CONTENT }}
+        EOF
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: 16  # Adjust this to your preferred Node.js version
+
+    - name: Install Dependencies
+      run: npm install fs  # Adjust this if you're using a different package manager
+
+    - name: Run index.js
+      run: node index.js  # Adjust this if your entry file has a different name
+
+    - name: Commit Changes
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        # Optional. Commit message for the created commit.
+        # Defaults to "Apply automatic changes"
+        commit_message: Automated Change
+        repository: .
+        file_pattern: '*.json'
