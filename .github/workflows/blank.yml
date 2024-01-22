@@ -31,6 +31,9 @@ jobs:
     - name: Run Python Script
       run: python script.py
       
+    - name: List Files in Current Directory
+      run: ls $GITHUB_WORKSPACE
+      
     - name: Checkout repository
       uses: actions/checkout@v4
 
