@@ -28,6 +28,9 @@ jobs:
 
     - name: Install Dependencies
       run: npm install fs  # Adjust this if you're using a different package manager
+    
+    - name: Install node-fetch
+      run: npm install node-fetch
 
     - name: Run index.js
       run: node index.js  # Adjust this if your entry file has a different name
