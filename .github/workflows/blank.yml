@@ -1,4 +1,4 @@
-name: Run Auto Pushy
+name: Run Auto Pushy v2
 
 on:
   schedule:
