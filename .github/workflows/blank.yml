@@ -32,9 +32,9 @@ jobs:
       run: python script.py
 
     - name: Commit Changes
-      run: |
-        git config user.email "actions@github.com"
-        git config user.name "GitHub Actions"
-        git add output.json  # Assuming your generated file is named output.json
-        git commit -m "Update generated file"
-        git push
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        # Optional. Commit message for the created commit.
+        # Defaults to "Apply automatic changes"
+        commit_message: Automated Change
+        file_pattern: '*.json'
