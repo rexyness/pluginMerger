@@ -13,7 +13,10 @@ jobs:
 
     steps:
     - name: Create Python Script
-      run: printf "%s" "${{ env.SCRIPT_CONTENT }}" > script.py
+      run: |
+        cat <<EOF > script.py
+        ${{ env.SCRIPT_CONTENT }}
+        EOF
 
     - name: Set up Python
       uses: actions/setup-python@v5
