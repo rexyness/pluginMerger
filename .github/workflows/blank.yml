@@ -30,6 +30,9 @@ jobs:
 
     - name: Run Python Script
       run: python script.py
+      
+    - name: Checkout repository
+      uses: actions/checkout@v4
 
     - name: Commit Changes
       uses: stefanzweifel/git-auto-commit-action@v5
