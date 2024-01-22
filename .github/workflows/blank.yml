@@ -9,11 +9,11 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      SCRIPT_CONTENT: ${{ secrets.SCRIPT_CONTENT }}
+      SCRIPT_CONTENT: ${{ vars.SCRIPT_CONTENT }}
 
     steps:
     - name: Create Python Script
-      run: echo '${{ vars.SCRIPTOVAR }}' > script.py
+      run: echo '${{ env.SCRIPT_CONTENT }}' > script.py
 
     - name: Set up Python
       uses: actions/setup-python@v5
