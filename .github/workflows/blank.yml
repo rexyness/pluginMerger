@@ -12,6 +12,9 @@ jobs:
       SCRIPT_CONTENT: ${{ vars.SCRIPT_CONTENT }}
 
     steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
     - name: Create Python Script
       run: |
         cat <<EOF > script.py
@@ -34,8 +37,6 @@ jobs:
     - name: List Files in Current Directory
       run: ls $GITHUB_WORKSPACE
       
-    - name: Checkout repository
-      uses: actions/checkout@v4
 
     - name: Commit Changes
       uses: stefanzweifel/git-auto-commit-action@v5
