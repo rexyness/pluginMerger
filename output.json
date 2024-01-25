@@ -27,26 +27,6 @@
         "LastUpdated": "1697152118"
     },
     {
-        "Author": "daemitus, kawaii",
-        "Name": "Yes Already [Grinch API 9]",
-        "Punchline": "Clicks Yes in various dialogs you've specified.",
-        "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
-        "Tags": [],
-        "InternalName": "YesAlready",
-        "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-        "DownloadCount": 45867,
-        "LastUpdate": 1699458879203,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
-        "AssemblyVersion": "1.4.0.3",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "9",
-        "Changelog": "",
-        "TestingAssemblyVersion": "1.4.0.3",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/26/YesAlready/versions/testing.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/26/icon-v1pvonkr6r.png"
-    },
-    {
         "Author": "kawaii, NightmareXIV",
         "Name": "AutoRetainer [Grinch API 9]",
         "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
@@ -54,7 +34,7 @@
         "Tags": [],
         "InternalName": "AutoRetainer",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "DownloadCount": 248931,
+        "DownloadCount": 249040,
         "LastUpdate": 1706022411732,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -67,6 +47,26 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
     },
     {
+        "Author": "daemitus, kawaii",
+        "Name": "Yes Already [Grinch API 9]",
+        "Punchline": "Clicks Yes in various dialogs you've specified.",
+        "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
+        "Tags": [],
+        "InternalName": "YesAlready",
+        "RepoUrl": "https://github.com/PunishXIV/YesAlready",
+        "DownloadCount": 45876,
+        "LastUpdate": 1699458879203,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
+        "AssemblyVersion": "1.4.0.3",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "9",
+        "Changelog": "",
+        "TestingAssemblyVersion": "1.4.0.3",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/26/YesAlready/versions/testing.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/26/icon-v1pvonkr6r.png"
+    },
+    {
         "Author": "NightmareXIV, kawaii",
         "Name": "Splatoon [Grinch API 9]",
         "Punchline": "Redefining FFXIV navigation with unlimited, precise waymarks.",
@@ -77,7 +77,7 @@
         ],
         "InternalName": "Splatoon",
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-        "DownloadCount": 185640,
+        "DownloadCount": 185645,
         "LastUpdate": 1705516582563,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
@@ -100,7 +100,7 @@
         ],
         "InternalName": "PandorasBox",
         "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-        "DownloadCount": 147847,
+        "DownloadCount": 147852,
         "LastUpdate": 1704896518632,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
@@ -125,7 +125,7 @@
         ],
         "InternalName": "LazyLoot",
         "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-        "DownloadCount": 46807,
+        "DownloadCount": 46812,
         "LastUpdate": 1703850327807,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
@@ -147,7 +147,7 @@
         ],
         "InternalName": "Artisan",
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 514604,
+        "DownloadCount": 515518,
         "LastUpdate": 1706124488456,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -169,7 +169,7 @@
         ],
         "InternalName": "Avarice",
         "RepoUrl": "https://github.com/PunishXIV/Avarice",
-        "DownloadCount": 40243,
+        "DownloadCount": 40244,
         "LastUpdate": 1699389412236,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
@@ -187,7 +187,7 @@
         "Tags": [],
         "InternalName": "Orbwalker",
         "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
-        "DownloadCount": 10517,
+        "DownloadCount": 10518,
         "LastUpdate": 1696968937655,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
@@ -210,7 +210,7 @@
         ],
         "InternalName": "PalacePal",
         "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-        "DownloadCount": 37002,
+        "DownloadCount": 37005,
         "LastUpdate": 1701511408558,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
@@ -232,7 +232,7 @@
         ],
         "InternalName": "Saucy",
         "RepoUrl": "https://github.com/PunishXIV/Saucy",
-        "DownloadCount": 67042,
+        "DownloadCount": 67046,
         "LastUpdate": 1696597899287,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
@@ -1321,6 +1321,84 @@
     },
     {
         "Author": "UnknownX",
+        "Name": "DalamudRepoBrowser [Grinch API 9]",
+        "Punchline": "Browse and add third party repositories in an instant",
+        "Description": "An interface for browsing and managing third party repositories.",
+        "Changelog": "",
+        "InternalName": "DalamudRepoBrowser",
+        "AssemblyVersion": "2.0.3.3",
+        "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "other"
+        ],
+        "DalamudApiLevel": 9,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
+        "DownloadCount": 9652,
+        "LastUpdate": "1700166956"
+    },
+    {
+        "Author": "UnknownX",
+        "Name": "Cammy [Grinch API 9]",
+        "Punchline": "A simple editor for the game's camera settings",
+        "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
+        "Changelog": "Added view bobbing, added free cam support for both GPose and Duty Recorder, removed useless settings, fixed several bugs related to camera settings resetting",
+        "InternalName": "Cammy",
+        "AssemblyVersion": "2.1.0.8",
+        "RepoUrl": "https://github.com/UnknownX7/Cammy",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 9,
+        "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
+        ],
+        "DownloadLinkInstall": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
+        "DownloadCount": 22098,
+        "LastUpdate": "1696379002"
+    },
+    {
+        "Author": "UnknownX",
+        "Name": "ReAction [Grinch API 9]",
+        "Punchline": "QoL for the battle system.",
+        "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
+        "Changelog": "",
+        "InternalName": "ReAction",
+        "AssemblyVersion": "1.3.3.6",
+        "RepoUrl": "https://github.com/UnknownX7/ReAction",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "jobs"
+        ],
+        "DalamudApiLevel": 9,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.6/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.6/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.6/latest.zip",
+        "DownloadCount": 15766,
+        "LastUpdate": "1696379002"
+    },
+    {
+        "Author": "UnknownX",
         "Name": "OOBlugin [Grinch API 9]",
         "Punchline": "oob oob",
         "Description": "oob oob",
@@ -1342,7 +1420,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
-        "DownloadCount": 6165,
+        "DownloadCount": 6178,
         "LastUpdate": "1696378706"
     },
     {
@@ -1369,86 +1447,8 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
-        "DownloadCount": 35780,
+        "DownloadCount": 35844,
         "LastUpdate": "1696379002"
-    },
-    {
-        "Author": "UnknownX",
-        "Name": "ReAction [Grinch API 9]",
-        "Punchline": "QoL for the battle system.",
-        "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
-        "Changelog": "",
-        "InternalName": "ReAction",
-        "AssemblyVersion": "1.3.3.6",
-        "RepoUrl": "https://github.com/UnknownX7/ReAction",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "jobs"
-        ],
-        "DalamudApiLevel": 9,
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.6/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.6/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.6/latest.zip",
-        "DownloadCount": 15747,
-        "LastUpdate": "1696379002"
-    },
-    {
-        "Author": "UnknownX",
-        "Name": "Cammy [Grinch API 9]",
-        "Punchline": "A simple editor for the game's camera settings",
-        "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
-        "Changelog": "Added view bobbing, added free cam support for both GPose and Duty Recorder, removed useless settings, fixed several bugs related to camera settings resetting",
-        "InternalName": "Cammy",
-        "AssemblyVersion": "2.1.0.8",
-        "RepoUrl": "https://github.com/UnknownX7/Cammy",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "utility"
-        ],
-        "DalamudApiLevel": 9,
-        "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
-        "ImageUrls": [
-            "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
-        ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
-        "DownloadCount": 22065,
-        "LastUpdate": "1696379002"
-    },
-    {
-        "Author": "UnknownX",
-        "Name": "DalamudRepoBrowser [Grinch API 9]",
-        "Punchline": "Browse and add third party repositories in an instant",
-        "Description": "An interface for browsing and managing third party repositories.",
-        "Changelog": "",
-        "InternalName": "DalamudRepoBrowser",
-        "AssemblyVersion": "2.0.3.3",
-        "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "other"
-        ],
-        "DalamudApiLevel": 9,
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
-        "DownloadCount": 9621,
-        "LastUpdate": "1700166956"
     },
     {
         "Author": "XIV Tools",
