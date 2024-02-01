@@ -34,7 +34,7 @@
         "Tags": [],
         "InternalName": "YesAlready",
         "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-        "DownloadCount": 46518,
+        "DownloadCount": 46523,
         "LastUpdate": 1699458879203,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
@@ -59,7 +59,7 @@
         ],
         "InternalName": "LazyLoot",
         "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-        "DownloadCount": 47162,
+        "DownloadCount": 47166,
         "LastUpdate": 1703850327807,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
@@ -82,7 +82,7 @@
         ],
         "InternalName": "PandorasBox",
         "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-        "DownloadCount": 164426,
+        "DownloadCount": 164495,
         "LastUpdate": 1706532435621,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
@@ -102,7 +102,7 @@
         "Tags": [],
         "InternalName": "AutoRetainer",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "DownloadCount": 253175,
+        "DownloadCount": 253197,
         "LastUpdate": 1706022411732,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -125,7 +125,7 @@
         ],
         "InternalName": "Splatoon",
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-        "DownloadCount": 186888,
+        "DownloadCount": 186898,
         "LastUpdate": 1705516582563,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
@@ -147,7 +147,7 @@
         ],
         "InternalName": "Artisan",
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 580578,
+        "DownloadCount": 580680,
         "LastUpdate": 1706514450798,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -169,7 +169,7 @@
         ],
         "InternalName": "Avarice",
         "RepoUrl": "https://github.com/PunishXIV/Avarice",
-        "DownloadCount": 40586,
+        "DownloadCount": 40590,
         "LastUpdate": 1699389412236,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
@@ -210,7 +210,7 @@
         ],
         "InternalName": "PalacePal",
         "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-        "DownloadCount": 37486,
+        "DownloadCount": 37488,
         "LastUpdate": 1701511408558,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
@@ -232,7 +232,7 @@
         ],
         "InternalName": "Saucy",
         "RepoUrl": "https://github.com/PunishXIV/Saucy",
-        "DownloadCount": 67516,
+        "DownloadCount": 67521,
         "LastUpdate": 1696597899287,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
@@ -582,7 +582,7 @@
         "Punchline": "A collection of quality of life tweaks.",
         "AcceptsFeedback": true,
         "Changelog": "HaselTweaks\n\n- Changed: The plugin now uses Dalamud's language setting and will fall back to English if there's no translation available. If you haven't changed the language in HaselTweaks itself, nothing will change for you.\n- Fixed: Item names, chocobo colors or portrait expressions, are now respecting the language selected in Dalamud instead of using the client's language.\n\nGear Set Grid\n\n- Fixed: When opened in game and returned to the main menu, the window was still visible. It is now automatically hidden when you're not logged in.",
-        "DownloadCount": 1801,
+        "DownloadCount": 1871,
         "LastUpdate": 1706445829,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.1.4/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v20.1.4/latest.zip"
@@ -603,7 +603,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "- Changed: The plugin now uses Dalamud's language setting and will fall back to English if there's no translation available. If you haven't changed the language in LeveHelper itself, nothing will change for you.\n- Fixed: Issuer for Blood in the Water at level 68 was incorrect.  \n  If someone could update it on the Gamer Escape's wiki, that would be awesome. I can't because my ISPs IP address is listed on DNSBL. \u200d\ufe0f",
-        "DownloadCount": 438,
+        "DownloadCount": 449,
         "LastUpdate": 1706196904,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.1.3/latest.zip"
@@ -625,7 +625,7 @@
         "Punchline": "Tracking assistant for Moogle Treasure Trove rewards",
         "AcceptsFeedback": true,
         "Changelog": "- Fixed: Tomestone count was always 0.\n- Fixed: Window open sound would play twice when MogMogCheck was opened with Mogpendium.",
-        "DownloadCount": 129,
+        "DownloadCount": 182,
         "LastUpdate": 1706639887,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.0.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/MogMogCheck/releases/download/v2.0.1/latest.zip"
@@ -1174,14 +1174,14 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1706550832"
+        "LastUpdated": "1706747227"
     },
     {
         "Author": "VariableVixen",
         "Name": "WoLua [Grinch API 9]",
         "Description": "Write custom chat commands by creating lua scripts",
         "InternalName": "WoLua",
-        "AssemblyVersion": "3.1.0",
+        "AssemblyVersion": "3.2.0",
         "RepoUrl": "https://github.com/PrincessRTFM/WoLua",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
@@ -1191,7 +1191,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1706550832"
+        "LastUpdated": "1706747227"
     },
     {
         "Author": "VariableVixen",
@@ -1208,7 +1208,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1706550832"
+        "LastUpdated": "1706747227"
     },
     {
         "Author": "attick, daemitus, VariableVixen",
@@ -1225,7 +1225,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1706550832"
+        "LastUpdated": "1706747227"
     },
     {
         "Author": "PunishedPineapple",
@@ -1344,7 +1344,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
-        "DownloadCount": 36660,
+        "DownloadCount": 36727,
         "LastUpdate": "1696379002"
     },
     {
@@ -1370,7 +1370,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
-        "DownloadCount": 6316,
+        "DownloadCount": 6331,
         "LastUpdate": "1696378706"
     },
     {
@@ -1396,7 +1396,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
-        "DownloadCount": 9935,
+        "DownloadCount": 9951,
         "LastUpdate": "1700166956"
     },
     {
@@ -1422,7 +1422,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.6/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.6/latest.zip",
-        "DownloadCount": 16108,
+        "DownloadCount": 16143,
         "LastUpdate": "1696379002"
     },
     {
@@ -1448,7 +1448,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
-        "DownloadCount": 22668,
+        "DownloadCount": 22704,
         "LastUpdate": "1696379002"
     },
     {
