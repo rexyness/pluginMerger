@@ -37,7 +37,7 @@
         ],
         "InternalName": "Splatoon",
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-        "DownloadCount": 187669,
+        "DownloadCount": 187672,
         "LastUpdate": 1705516582563,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
@@ -60,7 +60,7 @@
         ],
         "InternalName": "PandorasBox",
         "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-        "DownloadCount": 166826,
+        "DownloadCount": 166838,
         "LastUpdate": 1706532435621,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
@@ -85,7 +85,7 @@
         ],
         "InternalName": "LazyLoot",
         "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-        "DownloadCount": 47473,
+        "DownloadCount": 47475,
         "LastUpdate": 1703850327807,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
@@ -107,7 +107,7 @@
         ],
         "InternalName": "Artisan",
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 611588,
+        "DownloadCount": 611744,
         "LastUpdate": 1707146372622,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -127,7 +127,7 @@
         "Tags": [],
         "InternalName": "AutoRetainer",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "DownloadCount": 257976,
+        "DownloadCount": 258507,
         "LastUpdate": 1707259567054,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -147,7 +147,7 @@
         "Tags": [],
         "InternalName": "YesAlready",
         "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-        "DownloadCount": 47307,
+        "DownloadCount": 47311,
         "LastUpdate": 1699458879203,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
@@ -210,7 +210,7 @@
         ],
         "InternalName": "PalacePal",
         "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-        "DownloadCount": 37856,
+        "DownloadCount": 37857,
         "LastUpdate": 1701511408558,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
@@ -1146,7 +1146,7 @@
         ],
         "InternalName": "Glamourer",
         "AssemblyVersion": "1.1.0.4",
-        "TestingAssemblyVersion": "1.1.0.6",
+        "TestingAssemblyVersion": "1.1.0.7",
         "RepoUrl": "https://github.com/Ottermandias/Glamourer",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
@@ -1156,7 +1156,7 @@
         "LastUpdate": 1618608322,
         "DownloadLinkInstall": "https://github.com/Ottermandias/Glamourer/releases/download/1.1.0.4/Glamourer.zip",
         "DownloadLinkUpdate": "https://github.com/Ottermandias/Glamourer/releases/download/1.1.0.4/Glamourer.zip",
-        "DownloadLinkTesting": "https://github.com/Ottermandias/Glamourer/releases/download/testing_1.1.0.6/Glamourer.zip",
+        "DownloadLinkTesting": "https://github.com/Ottermandias/Glamourer/releases/download/testing_1.1.0.7/Glamourer.zip",
         "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/images/icon.png"
     },
     {
@@ -1322,6 +1322,32 @@
     },
     {
         "Author": "UnknownX",
+        "Name": "Cammy [Grinch API 9]",
+        "Punchline": "A simple editor for the game's camera settings",
+        "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
+        "Changelog": "Added view bobbing, added free cam support for both GPose and Duty Recorder, removed useless settings, fixed several bugs related to camera settings resetting",
+        "InternalName": "Cammy",
+        "AssemblyVersion": "2.1.0.8",
+        "RepoUrl": "https://github.com/UnknownX7/Cammy",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 9,
+        "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
+        ],
+        "DownloadLinkInstall": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
+        "DownloadCount": 23313,
+        "LastUpdate": "1696379002"
+    },
+    {
+        "Author": "UnknownX",
         "Name": "NoClippy [Grinch API 9]",
         "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
         "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
@@ -1344,60 +1370,8 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
-        "DownloadCount": 37468,
+        "DownloadCount": 37534,
         "LastUpdate": "1696379002"
-    },
-    {
-        "Author": "UnknownX",
-        "Name": "OOBlugin [Grinch API 9]",
-        "Punchline": "oob oob",
-        "Description": "oob oob",
-        "Changelog": "",
-        "InternalName": "OOBlugin",
-        "AssemblyVersion": "1.1.2.11",
-        "RepoUrl": "https://github.com/UnknownX7/OOBlugin",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "utility"
-        ],
-        "DalamudApiLevel": 9,
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
-        "DownloadCount": 6467,
-        "LastUpdate": "1696378706"
-    },
-    {
-        "Author": "UnknownX",
-        "Name": "DalamudRepoBrowser [Grinch API 9]",
-        "Punchline": "Browse and add third party repositories in an instant",
-        "Description": "An interface for browsing and managing third party repositories.",
-        "Changelog": "",
-        "InternalName": "DalamudRepoBrowser",
-        "AssemblyVersion": "2.0.3.3",
-        "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "other"
-        ],
-        "DalamudApiLevel": 9,
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
-        "DownloadCount": 10242,
-        "LastUpdate": "1700166956"
     },
     {
         "Author": "UnknownX",
@@ -1422,34 +1396,60 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.6/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.6/latest.zip",
-        "DownloadCount": 16453,
+        "DownloadCount": 16480,
         "LastUpdate": "1696379002"
     },
     {
         "Author": "UnknownX",
-        "Name": "Cammy [Grinch API 9]",
-        "Punchline": "A simple editor for the game's camera settings",
-        "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
-        "Changelog": "Added view bobbing, added free cam support for both GPose and Duty Recorder, removed useless settings, fixed several bugs related to camera settings resetting",
-        "InternalName": "Cammy",
-        "AssemblyVersion": "2.1.0.8",
-        "RepoUrl": "https://github.com/UnknownX7/Cammy",
+        "Name": "DalamudRepoBrowser [Grinch API 9]",
+        "Punchline": "Browse and add third party repositories in an instant",
+        "Description": "An interface for browsing and managing third party repositories.",
+        "Changelog": "",
+        "InternalName": "DalamudRepoBrowser",
+        "AssemblyVersion": "2.0.3.3",
+        "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "other"
+        ],
+        "DalamudApiLevel": 9,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
+        "DownloadCount": 10268,
+        "LastUpdate": "1700166956"
+    },
+    {
+        "Author": "UnknownX",
+        "Name": "OOBlugin [Grinch API 9]",
+        "Punchline": "oob oob",
+        "Description": "oob oob",
+        "Changelog": "",
+        "InternalName": "OOBlugin",
+        "AssemblyVersion": "1.1.2.11",
+        "RepoUrl": "https://github.com/UnknownX7/OOBlugin",
         "ApplicableVersion": "any",
         "CategoryTags": [
             "utility"
         ],
         "DalamudApiLevel": 9,
-        "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
+        "IconUrl": "",
         "ImageUrls": [
-            "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
+            ""
         ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
+        "DownloadLinkInstall": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
-        "DownloadCount": 23267,
-        "LastUpdate": "1696379002"
+        "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
+        "DownloadCount": 6481,
+        "LastUpdate": "1696378706"
     },
     {
         "Author": "XIV Tools",
