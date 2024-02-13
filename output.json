@@ -37,7 +37,7 @@
         ],
         "InternalName": "PandorasBox",
         "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-        "DownloadCount": 168212,
+        "DownloadCount": 168213,
         "LastUpdate": 1706532435621,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
@@ -60,7 +60,7 @@
         ],
         "InternalName": "Splatoon",
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-        "DownloadCount": 188542,
+        "DownloadCount": 188546,
         "LastUpdate": 1705516582563,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
@@ -82,7 +82,7 @@
         ],
         "InternalName": "Artisan",
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 619073,
+        "DownloadCount": 619074,
         "LastUpdate": 1707146372622,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -93,26 +93,6 @@
         "TestingAssemblyVersion": "3.0.2.10",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
-    },
-    {
-        "Author": "kawaii, NightmareXIV",
-        "Name": "AutoRetainer [Grinch API 9]",
-        "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "Tags": [],
-        "InternalName": "AutoRetainer",
-        "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "DownloadCount": 278016,
-        "LastUpdate": 1707426838347,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
-        "AssemblyVersion": "4.2.5.8",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "9",
-        "Changelog": "/ays m e/d",
-        "TestingAssemblyVersion": "4.2.5.9",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
     },
     {
         "Author": "Taurenkey, Gidedin",
@@ -158,6 +138,26 @@
         "TestingAssemblyVersion": "1.4.0.3",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/26/YesAlready/versions/testing.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/26/icon-v1pvonkr6r.png"
+    },
+    {
+        "Author": "kawaii, NightmareXIV",
+        "Name": "AutoRetainer [Grinch API 9]",
+        "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
+        "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
+        "Tags": [],
+        "InternalName": "AutoRetainer",
+        "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
+        "DownloadCount": 278022,
+        "LastUpdate": 1707426838347,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
+        "AssemblyVersion": "4.2.5.8",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "9",
+        "Changelog": "/ays m e/d",
+        "TestingAssemblyVersion": "4.2.5.9",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
     },
     {
         "Author": "kawaii, NightmareXIV",
@@ -208,7 +208,7 @@
         ],
         "InternalName": "AutoHook",
         "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-        "DownloadCount": 5172,
+        "DownloadCount": 5180,
         "LastUpdate": 1707768566953,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
@@ -1318,42 +1318,15 @@
     },
     {
         "Author": "UnknownX",
-        "Name": "Cammy [Grinch API 9]",
-        "Punchline": "A simple editor for the game's camera settings",
-        "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
-        "Changelog": "Added view bobbing, added free cam support for both GPose and Duty Recorder, removed useless settings, fixed several bugs related to camera settings resetting",
-        "InternalName": "Cammy",
-        "AssemblyVersion": "2.1.0.8",
-        "RepoUrl": "https://github.com/UnknownX7/Cammy",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "utility"
-        ],
-        "DalamudApiLevel": 9,
-        "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
-        "ImageUrls": [
-            "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
-        ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
-        "DownloadCount": 23871,
-        "LastUpdate": "1696379002"
-    },
-    {
-        "Author": "UnknownX",
-        "Name": "NoClippy [Grinch API 9]",
-        "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
-        "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
+        "Name": "OOBlugin [Grinch API 9]",
+        "Punchline": "oob oob",
+        "Description": "oob oob",
         "Changelog": "",
-        "InternalName": "NoClippy",
-        "AssemblyVersion": "0.5.0.14",
-        "RepoUrl": "https://github.com/UnknownX7/NoClippy",
+        "InternalName": "OOBlugin",
+        "AssemblyVersion": "1.1.2.11",
+        "RepoUrl": "https://github.com/UnknownX7/OOBlugin",
         "ApplicableVersion": "any",
         "CategoryTags": [
-            "jobs",
             "utility"
         ],
         "DalamudApiLevel": 9,
@@ -1361,13 +1334,13 @@
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
+        "DownloadLinkInstall": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
-        "DownloadCount": 38327,
-        "LastUpdate": "1696379002"
+        "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
+        "DownloadCount": 6617,
+        "LastUpdate": "1696378706"
     },
     {
         "Author": "UnknownX",
@@ -1392,7 +1365,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.6/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.6/latest.zip",
-        "DownloadCount": 16771,
+        "DownloadCount": 16775,
         "LastUpdate": "1696379002"
     },
     {
@@ -1418,20 +1391,21 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
-        "DownloadCount": 10539,
+        "DownloadCount": 10541,
         "LastUpdate": "1700166956"
     },
     {
         "Author": "UnknownX",
-        "Name": "OOBlugin [Grinch API 9]",
-        "Punchline": "oob oob",
-        "Description": "oob oob",
+        "Name": "NoClippy [Grinch API 9]",
+        "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
+        "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
         "Changelog": "",
-        "InternalName": "OOBlugin",
-        "AssemblyVersion": "1.1.2.11",
-        "RepoUrl": "https://github.com/UnknownX7/OOBlugin",
+        "InternalName": "NoClippy",
+        "AssemblyVersion": "0.5.0.14",
+        "RepoUrl": "https://github.com/UnknownX7/NoClippy",
         "ApplicableVersion": "any",
         "CategoryTags": [
+            "jobs",
             "utility"
         ],
         "DalamudApiLevel": 9,
@@ -1439,13 +1413,39 @@
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
+        "DownloadLinkInstall": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
-        "DownloadCount": 6613,
-        "LastUpdate": "1696378706"
+        "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
+        "DownloadCount": 38335,
+        "LastUpdate": "1696379002"
+    },
+    {
+        "Author": "UnknownX",
+        "Name": "Cammy [Grinch API 9]",
+        "Punchline": "A simple editor for the game's camera settings",
+        "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
+        "Changelog": "Added view bobbing, added free cam support for both GPose and Duty Recorder, removed useless settings, fixed several bugs related to camera settings resetting",
+        "InternalName": "Cammy",
+        "AssemblyVersion": "2.1.0.8",
+        "RepoUrl": "https://github.com/UnknownX7/Cammy",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 9,
+        "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
+        ],
+        "DownloadLinkInstall": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
+        "DownloadCount": 23879,
+        "LastUpdate": "1696379002"
     },
     {
         "Author": "XIV Tools",
