@@ -36,7 +36,7 @@
         ],
         "InternalName": "Artisan",
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 658110,
+        "DownloadCount": 658131,
         "LastUpdate": 1708542961594,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -59,7 +59,7 @@
         ],
         "InternalName": "PandorasBox",
         "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-        "DownloadCount": 180544,
+        "DownloadCount": 180549,
         "LastUpdate": 1708276723025,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
@@ -72,29 +72,6 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png"
     },
     {
-        "Author": "NightmareXIV, kawaii",
-        "Name": "Splatoon [Grinch API 9]",
-        "Punchline": "Redefining FFXIV navigation with unlimited, precise waymarks.",
-        "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
-        "Tags": [
-            "Utility",
-            "Accessibility"
-        ],
-        "InternalName": "Splatoon",
-        "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-        "DownloadCount": 191203,
-        "LastUpdate": 1705516582563,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
-        "AssemblyVersion": "3.4.0.9",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "9",
-        "Changelog": "- Fixed clipboard issues",
-        "TestingAssemblyVersion": "3.5.0.4",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/10/Splatoon/versions/testing.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/10/icon-cchf5yumm2p.png"
-    },
-    {
         "Author": "kawaii, NightmareXIV",
         "Name": "AutoRetainer [Grinch API 9]",
         "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
@@ -102,7 +79,7 @@
         "Tags": [],
         "InternalName": "AutoRetainer",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "DownloadCount": 282289,
+        "DownloadCount": 282295,
         "LastUpdate": 1707426838347,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -147,17 +124,40 @@
         ],
         "InternalName": "LazyLoot",
         "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-        "DownloadCount": 48446,
-        "LastUpdate": 1703850327807,
+        "DownloadCount": 48479,
+        "LastUpdate": 1708862771548,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
-        "AssemblyVersion": "5.2.0.4",
+        "AssemblyVersion": "5.2.0.5",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "9",
-        "Changelog": "- Click to switch FULF mode added to the DTR bar entry",
+        "Changelog": "Updated Orchestrion logic",
         "TestingAssemblyVersion": "5.2.0.2",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/testing.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png"
+    },
+    {
+        "Author": "NightmareXIV, kawaii",
+        "Name": "Splatoon [Grinch API 9]",
+        "Punchline": "Redefining FFXIV navigation with unlimited, precise waymarks.",
+        "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
+        "Tags": [
+            "Utility",
+            "Accessibility"
+        ],
+        "InternalName": "Splatoon",
+        "RepoUrl": "https://github.com/PunishXIV/Splatoon",
+        "DownloadCount": 191208,
+        "LastUpdate": 1705516582563,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
+        "AssemblyVersion": "3.4.0.9",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "9",
+        "Changelog": "- Fixed clipboard issues",
+        "TestingAssemblyVersion": "3.5.0.4",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/10/Splatoon/versions/testing.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/10/icon-cchf5yumm2p.png"
     },
     {
         "Author": "Det, Taurenkey",
@@ -170,7 +170,7 @@
         ],
         "InternalName": "AutoHook",
         "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-        "DownloadCount": 33551,
+        "DownloadCount": 33591,
         "LastUpdate": 1708789480501,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
@@ -208,7 +208,7 @@
         "Tags": [],
         "InternalName": "Orbwalker",
         "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
-        "DownloadCount": 11273,
+        "DownloadCount": 11274,
         "LastUpdate": 1696968937655,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
@@ -253,7 +253,7 @@
         ],
         "InternalName": "Saucy",
         "RepoUrl": "https://github.com/PunishXIV/Saucy",
-        "DownloadCount": 69517,
+        "DownloadCount": 69518,
         "LastUpdate": 1696597899287,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
@@ -1339,7 +1339,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
-        "DownloadCount": 6941,
+        "DownloadCount": 6953,
         "LastUpdate": "1696378706"
     },
     {
@@ -1365,7 +1365,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.6/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.6/latest.zip",
-        "DownloadCount": 17351,
+        "DownloadCount": 17373,
         "LastUpdate": "1696379002"
     },
     {
@@ -1391,7 +1391,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
-        "DownloadCount": 10982,
+        "DownloadCount": 10996,
         "LastUpdate": "1700166956"
     },
     {
@@ -1418,7 +1418,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
-        "DownloadCount": 39885,
+        "DownloadCount": 39944,
         "LastUpdate": "1696379002"
     },
     {
@@ -1444,7 +1444,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
-        "DownloadCount": 25011,
+        "DownloadCount": 25060,
         "LastUpdate": "1696379002"
     },
     {
