@@ -27,29 +27,6 @@
         "LastUpdated": "1697152118"
     },
     {
-        "Author": "Taurenkey, croizat",
-        "Name": "Pandora's Box [Grinch API 9]",
-        "Punchline": "Do you dare to open Pandora's Box?",
-        "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
-        "Tags": [
-            "punish",
-            "plugin"
-        ],
-        "InternalName": "PandorasBox",
-        "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-        "DownloadCount": 190559,
-        "LastUpdate": 1709020225185,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
-        "AssemblyVersion": "1.5.4.6",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "9",
-        "Changelog": "Fixes to Teleporter detection",
-        "TestingAssemblyVersion": "1.5.4.1",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/testing.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png"
-    },
-    {
         "Author": "Taurenkey, kawaii",
         "Name": "Artisan [Grinch API 9]",
         "Punchline": "A 'simple' crafting plugin.",
@@ -59,7 +36,7 @@
         ],
         "InternalName": "Artisan",
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 677513,
+        "DownloadCount": 678617,
         "LastUpdate": 1709290696359,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -72,24 +49,27 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
     },
     {
-        "Author": "kawaii, NightmareXIV",
-        "Name": "AutoRetainer [Grinch API 9]",
-        "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "Tags": [],
-        "InternalName": "AutoRetainer",
-        "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "DownloadCount": 283168,
-        "LastUpdate": 1707426838347,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
-        "AssemblyVersion": "4.2.5.8",
+        "Author": "Taurenkey, croizat",
+        "Name": "Pandora's Box [Grinch API 9]",
+        "Punchline": "Do you dare to open Pandora's Box?",
+        "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
+        "Tags": [
+            "punish",
+            "plugin"
+        ],
+        "InternalName": "PandorasBox",
+        "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
+        "DownloadCount": 190580,
+        "LastUpdate": 1709020225185,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
+        "AssemblyVersion": "1.5.4.6",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "9",
-        "Changelog": "/ays m e/d",
-        "TestingAssemblyVersion": "4.2.5.9",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
+        "Changelog": "Fixes to Teleporter detection",
+        "TestingAssemblyVersion": "1.5.4.1",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/testing.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png"
     },
     {
         "Author": "Taurenkey, Gidedin",
@@ -104,7 +84,7 @@
         ],
         "InternalName": "LazyLoot",
         "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-        "DownloadCount": 52333,
+        "DownloadCount": 52340,
         "LastUpdate": 1708862771548,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
@@ -117,6 +97,26 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png"
     },
     {
+        "Author": "kawaii, NightmareXIV",
+        "Name": "AutoRetainer [Grinch API 9]",
+        "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
+        "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
+        "Tags": [],
+        "InternalName": "AutoRetainer",
+        "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
+        "DownloadCount": 283174,
+        "LastUpdate": 1707426838347,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
+        "AssemblyVersion": "4.2.5.8",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "9",
+        "Changelog": "/ays m e/d",
+        "TestingAssemblyVersion": "4.2.5.9",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
+    },
+    {
         "Author": "daemitus, kawaii",
         "Name": "Yes Already [Grinch API 9]",
         "Punchline": "Clicks Yes in various dialogs you've specified.",
@@ -124,7 +124,7 @@
         "Tags": [],
         "InternalName": "YesAlready",
         "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-        "DownloadCount": 49967,
+        "DownloadCount": 49972,
         "LastUpdate": 1699458879203,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
@@ -147,7 +147,7 @@
         ],
         "InternalName": "AutoHook",
         "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-        "DownloadCount": 36280,
+        "DownloadCount": 36291,
         "LastUpdate": 1708789480501,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
@@ -168,7 +168,7 @@
         ],
         "InternalName": "Splatoon",
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-        "DownloadCount": 202271,
+        "DownloadCount": 202337,
         "LastUpdate": 1709004667189,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
@@ -190,7 +190,7 @@
         ],
         "InternalName": "Avarice",
         "RepoUrl": "https://github.com/PunishXIV/Avarice",
-        "DownloadCount": 42286,
+        "DownloadCount": 42287,
         "LastUpdate": 1699389412236,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
@@ -253,7 +253,7 @@
         ],
         "InternalName": "Saucy",
         "RepoUrl": "https://github.com/PunishXIV/Saucy",
-        "DownloadCount": 70230,
+        "DownloadCount": 70235,
         "LastUpdate": 1696597899287,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
@@ -673,7 +673,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1708943558,
-        "DownloadCount": 32880,
+        "DownloadCount": 34167,
         "DownloadLinkInstall": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.2/BDTHPlugin.zip",
         "DownloadLinkTesting": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.2/BDTHPlugin.zip",
         "DownloadLinkUpdate": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.2/BDTHPlugin.zip"
@@ -1339,7 +1339,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
-        "DownloadCount": 7080,
+        "DownloadCount": 7090,
         "LastUpdate": "1696378706"
     },
     {
@@ -1365,7 +1365,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.6/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.6/latest.zip",
-        "DownloadCount": 17571,
+        "DownloadCount": 17595,
         "LastUpdate": "1696379002"
     },
     {
@@ -1391,7 +1391,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
-        "DownloadCount": 11152,
+        "DownloadCount": 11166,
         "LastUpdate": "1700166956"
     },
     {
@@ -1418,7 +1418,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
-        "DownloadCount": 40463,
+        "DownloadCount": 40503,
         "LastUpdate": "1696379002"
     },
     {
@@ -1444,7 +1444,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
-        "DownloadCount": 25444,
+        "DownloadCount": 25477,
         "LastUpdate": "1696379002"
     },
     {
