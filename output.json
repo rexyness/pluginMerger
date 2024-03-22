@@ -37,7 +37,7 @@
         ],
         "InternalName": "PandorasBox",
         "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-        "DownloadCount": 198349,
+        "DownloadCount": 198352,
         "LastUpdate": 1709020225185,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
@@ -82,7 +82,7 @@
         "Tags": [],
         "InternalName": "AutoRetainer",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "DownloadCount": 290898,
+        "DownloadCount": 290901,
         "LastUpdate": 1707426838347,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -105,7 +105,7 @@
         ],
         "InternalName": "AutoHook",
         "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-        "DownloadCount": 86666,
+        "DownloadCount": 86675,
         "LastUpdate": 1710542906442,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
@@ -116,29 +116,6 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png"
     },
     {
-        "Author": "NightmareXIV, kawaii",
-        "Name": "Splatoon [Grinch API 9]",
-        "Punchline": "Redefining FFXIV navigation with unlimited, precise waymarks.",
-        "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
-        "Tags": [
-            "Utility",
-            "Accessibility"
-        ],
-        "InternalName": "Splatoon",
-        "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-        "DownloadCount": 213795,
-        "LastUpdate": 1711039702588,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
-        "AssemblyVersion": "3.4.1.3",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "9",
-        "Changelog": "",
-        "TestingAssemblyVersion": "3.5.0.8",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/10/Splatoon/versions/testing.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/10/icon-cchf5yumm2p.png"
-    },
-    {
         "Author": "daemitus, kawaii",
         "Name": "Yes Already [Grinch API 9]",
         "Punchline": "Clicks Yes in various dialogs you've specified.",
@@ -146,7 +123,7 @@
         "Tags": [],
         "InternalName": "YesAlready",
         "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-        "DownloadCount": 54192,
+        "DownloadCount": 54195,
         "LastUpdate": 1699458879203,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
@@ -159,6 +136,29 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/26/icon-v1pvonkr6r.png"
     },
     {
+        "Author": "NightmareXIV, kawaii",
+        "Name": "Splatoon [Grinch API 9]",
+        "Punchline": "Redefining FFXIV navigation with unlimited, precise waymarks.",
+        "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
+        "Tags": [
+            "Utility",
+            "Accessibility"
+        ],
+        "InternalName": "Splatoon",
+        "RepoUrl": "https://github.com/PunishXIV/Splatoon",
+        "DownloadCount": 213922,
+        "LastUpdate": 1711039702588,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
+        "AssemblyVersion": "3.4.1.3",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "9",
+        "Changelog": "",
+        "TestingAssemblyVersion": "3.5.0.8",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/10/Splatoon/versions/testing.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/10/icon-cchf5yumm2p.png"
+    },
+    {
         "Author": "Taurenkey, kawaii",
         "Name": "Artisan [Grinch API 9]",
         "Punchline": "A 'simple' crafting plugin.",
@@ -168,7 +168,7 @@
         ],
         "InternalName": "Artisan",
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 801478,
+        "DownloadCount": 801713,
         "LastUpdate": 1711002151705,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -190,7 +190,7 @@
         ],
         "InternalName": "Avarice",
         "RepoUrl": "https://github.com/PunishXIV/Avarice",
-        "DownloadCount": 44491,
+        "DownloadCount": 44492,
         "LastUpdate": 1699389412236,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
@@ -231,7 +231,7 @@
         ],
         "InternalName": "PalacePal",
         "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-        "DownloadCount": 42373,
+        "DownloadCount": 42377,
         "LastUpdate": 1701511408558,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
@@ -253,7 +253,7 @@
         ],
         "InternalName": "Saucy",
         "RepoUrl": "https://github.com/PunishXIV/Saucy",
-        "DownloadCount": 73478,
+        "DownloadCount": 73481,
         "LastUpdate": 1696597899287,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
@@ -1170,14 +1170,14 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1710954452"
+        "LastUpdated": "1711090295"
     },
     {
         "Author": "attick, daemitus, VariableVixen",
         "Name": "XIV Combo Very Expanded [Grinch API 9]",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
         "InternalName": "XIVComboVX",
-        "AssemblyVersion": "9.17.0",
+        "AssemblyVersion": "9.18.0",
         "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
@@ -1187,7 +1187,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1710954452"
+        "LastUpdated": "1711090295"
     },
     {
         "Author": "VariableVixen",
@@ -1204,7 +1204,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1710954452"
+        "LastUpdated": "1711090295"
     },
     {
         "Author": "VariableVixen",
@@ -1221,7 +1221,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1710954452"
+        "LastUpdated": "1711090295"
     },
     {
         "Author": "PunishedPineapple",
