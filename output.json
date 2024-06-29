@@ -1,5 +1,27 @@
 [
     {
+        "Author": "NightmareXIV",
+        "Name": "TextAdvance [Grinch API 10]",
+        "Punchline": "Quest speedrunning assistance tool. Automatically skips subtitle boxes and confirms cutscene skipping",
+        "Description": "",
+        "Changelog": "- Dawntrail update\r\n- MoveToQuest and MoveToFlag commands will only work once vnavmesh plugin is available\r\n- Entity overlay will work only onve Splatoon plugin is available",
+        "IsHide": false,
+        "InternalName": "TextAdvance",
+        "AssemblyVersion": "3.2.2.3",
+        "TestingAssemblyVersion": "3.2.1.4",
+        "IsTestingExclusive": false,
+        "RepoUrl": "https://github.com/NightmareXIV/TextAdvance",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 10,
+        "DownloadCount": 144115,
+        "LastUpdate": 1719670953,
+        "DownloadLinkInstall": "https://github.com/NightmareXIV/TextAdvance/releases/download/3.2.2.3/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/NightmareXIV/TextAdvance/releases/download/3.2.2.3/latest.zip",
+        "DownloadLinkTesting": "https://github.com/NightmareXIV/TextAdvance/releases/download/3.2.1.4/latest.zip",
+        "SupportsProfiles": true,
+        "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/TextAdvance/master/TextAdvance/images/icon.png"
+    },
+    {
         "Author": "Ottermandias",
         "Name": "AutoVisor [Grinch API 10]",
         "Punchline": "Change Visor and Stance based on State and Job.",
