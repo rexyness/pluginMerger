@@ -7,7 +7,7 @@
         "Tags": [],
         "InternalName": "YesAlready",
         "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-        "DownloadCount": 172980,
+        "DownloadCount": 173069,
         "LastUpdate": 1719741158808,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
@@ -26,7 +26,7 @@
         "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
         "Changelog": "1.5.0.3:\r\n    * Initial Viper features added. More will be added later when there is further access to Job Gauge variables via Client Structs.\r\n    \r\n    1.5.0.1:\r\n    * Initial Pictomancer features added.\r\n    \r\n    1.5.0.0:\r\n    * Wayyy too much. Please check the commits on the github, I left changelogs for each job there.",
         "InternalName": "XIVComboExpandedest",
-        "AssemblyVersion": "1.5.0.4",
+        "AssemblyVersion": "1.5.0.5",
         "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 10,
@@ -39,7 +39,7 @@
         "DownloadLinkTesting": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadLinkUpdate": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1719740567"
+        "LastUpdate": "1719755511"
     },
     {
         "Author": "Meisterlala",
