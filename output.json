@@ -1,5 +1,27 @@
 [
     {
+        "Author": "attick, daemitus, alymphocyte, grammernatzi",
+        "Name": "XIV Combo Expandedest [Grinch API 10]",
+        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button. Plus extras.",
+        "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
+        "Changelog": "1.5:\r\n    * Wayyy too much. Please check the commits on the github, I left changelogs for each job there.",
+        "InternalName": "XIVComboExpandedest",
+        "AssemblyVersion": "1.5.0.0",
+        "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 10,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/grammernatzi/XIVComboPluginExpandedest/master/res/icon.png",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1719726176"
+    },
+    {
         "Author": "Meisterlala",
         "Name": "Neko Fans [Grinch API 10]",
         "InternalName": "Neko",
