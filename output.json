@@ -7,7 +7,7 @@
         "Tags": [],
         "InternalName": "YesAlready",
         "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-        "DownloadCount": 174452,
+        "DownloadCount": 174688,
         "LastUpdate": 1719825987577,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
@@ -29,14 +29,14 @@
         ],
         "InternalName": "Artisan",
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 1129726,
-        "LastUpdate": 1719831340908,
+        "DownloadCount": 1130289,
+        "LastUpdate": 1719832967769,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
-        "AssemblyVersion": "4.0.0.0",
+        "AssemblyVersion": "4.0.0.1",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "10",
-        "Changelog": "- Early Dawntrail Version",
+        "Changelog": "",
         "TestingAssemblyVersion": "4.0.0.0",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
@@ -232,7 +232,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.9/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.9/latest.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 906,
         "LastUpdate": "1719799238"
     }
 ]
