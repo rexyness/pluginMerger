@@ -10,7 +10,7 @@
         ],
         "InternalName": "Splatoon",
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-        "DownloadCount": 236429,
+        "DownloadCount": 237224,
         "LastUpdate": 1719958165128,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
@@ -32,7 +32,7 @@
         ],
         "InternalName": "Artisan",
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 1139802,
+        "DownloadCount": 1140253,
         "LastUpdate": 1719944886117,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -52,7 +52,7 @@
         "Tags": [],
         "InternalName": "YesAlready",
         "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-        "DownloadCount": 179114,
+        "DownloadCount": 179189,
         "LastUpdate": 1719837849471,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
@@ -72,14 +72,14 @@
         "Tags": [],
         "InternalName": "AutoRetainer",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "DownloadCount": 407612,
-        "LastUpdate": 1719931170739,
+        "DownloadCount": 408423,
+        "LastUpdate": 1719960008092,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
-        "AssemblyVersion": "4.3.0.8",
+        "AssemblyVersion": "4.3.0.9",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "10",
-        "Changelog": "- Fixed incorrect FC gil issue\n- Fixed GC delivery not working",
+        "Changelog": "- Fixed max level being 90",
         "TestingAssemblyVersion": "4.3.0.2",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
@@ -127,8 +127,8 @@
         "DownloadLinkTesting": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
         "DownloadLinkUpdate": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1632469669",
-        "Changelog": "- updated for .net8, api10 and Dawntrail"
+        "LastUpdated": "1632469699",
+        "Changelog": "- update to api10, .net8 and sigs for Dawntrail (thanks Limiana)"
     },
     {
         "Author": "attick, daemitus, alymphocyte, grammernatzi",
@@ -151,6 +151,32 @@
         "DownloadLinkUpdate": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "1719914577"
+    },
+    {
+        "Author": "llock",
+        "Name": "Auto Jail Marker [Grinch API 10]",
+        "Punchline": "Simple Jails",
+        "Description": "A scuffed uwu jail auto marker",
+        "Tags": [
+            "titan",
+            "jails",
+            "uwu"
+        ],
+        "InternalName": "AutoJailMarker",
+        "AssemblyVersion": "3.3.0.0",
+        "RepoUrl": "https://github.com/LockonS483/AutoJailMarker",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 10,
+        "LoadPriority": 0,
+        "ImageUrls": null,
+        "IconUrl": "https://raw.githubusercontent.com/LockonS483/AutoJailMarker/master/Data/TitIco.png",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdated": "1719959485",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/LockonS483/AutoJailMarker/releases/download/3.3.0.0/AutoJailMarker.zip",
+        "DownloadLinkTesting": "https://github.com/LockonS483/AutoJailMarker/releases/download/3.3.0.0/AutoJailMarker.zip",
+        "DownloadLinkUpdate": "https://github.com/LockonS483/AutoJailMarker/releases/download/3.3.0.0/AutoJailMarker.zip"
     },
     {
         "Author": "Meisterlala",
@@ -357,7 +383,7 @@
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
         "InternalName": "XIVComboExpanded",
-        "AssemblyVersion": "1.5.0.11",
+        "AssemblyVersion": "1.5.0.12",
         "RepoUrl": "https://github.com/daemitus/XIVComboPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 10,
@@ -370,6 +396,6 @@
         "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1719956445"
+        "LastUpdate": "1719960437"
     }
 ]
