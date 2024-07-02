@@ -1,5 +1,27 @@
 [
     {
+        "Author": "Taurenkey, kawaii",
+        "Name": "Artisan [Grinch API 10]",
+        "Punchline": "A 'simple' crafting plugin.",
+        "Description": "The all-in-one crafting plugin.",
+        "Tags": [
+            "crafting"
+        ],
+        "InternalName": "Artisan",
+        "RepoUrl": "https://github.com/PunishXIV/Artisan",
+        "DownloadCount": 1137664,
+        "LastUpdate": 1719944886117,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
+        "AssemblyVersion": "4.0.0.3",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "10",
+        "Changelog": "",
+        "TestingAssemblyVersion": "4.0.0.0",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
+    },
+    {
         "Author": "daemitus, kawaii",
         "Name": "Yes Already [Grinch API 10]",
         "Punchline": "Clicks Yes in various dialogs you've specified.",
@@ -7,7 +29,7 @@
         "Tags": [],
         "InternalName": "YesAlready",
         "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-        "DownloadCount": 178820,
+        "DownloadCount": 178904,
         "LastUpdate": 1719837849471,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
@@ -20,28 +42,6 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/26/icon-v1pvonkr6r.png"
     },
     {
-        "Author": "Taurenkey, kawaii",
-        "Name": "Artisan [Grinch API 10]",
-        "Punchline": "A 'simple' crafting plugin.",
-        "Description": "The all-in-one crafting plugin.",
-        "Tags": [
-            "crafting"
-        ],
-        "InternalName": "Artisan",
-        "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 1136585,
-        "LastUpdate": 1719842382442,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
-        "AssemblyVersion": "4.0.0.2",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "10",
-        "Changelog": "",
-        "TestingAssemblyVersion": "4.0.0.0",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
-    },
-    {
         "Author": "kawaii, NightmareXIV",
         "Name": "AutoRetainer [Grinch API 10]",
         "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
@@ -49,7 +49,7 @@
         "Tags": [],
         "InternalName": "AutoRetainer",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "DownloadCount": 406636,
+        "DownloadCount": 406896,
         "LastUpdate": 1719931170739,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -60,6 +60,33 @@
         "TestingAssemblyVersion": "4.3.0.2",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
+    },
+    {
+        "Author": "Aireil",
+        "Name": "FF Logs Viewer [Grinch API 10]",
+        "Punchline": "View FF Logs ranking percentiles in-game.",
+        "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
+        "Changelog": "- 2.1.6.4:\n   Dawntrail update.\n   The default layout will be changed at a later date, when I'm done with the MSQ, you can change it in the settings if you want a different one now.",
+        "InternalName": "FFLogsViewer",
+        "AssemblyVersion": "2.1.7.0",
+        "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "FFLogs"
+        ],
+        "DalamudApiLevel": 10,
+        "IconUrl": "https://github.com/Aireil/FFLogsViewer/raw/master/res/icon.png",
+        "ImageUrls": [
+            "https://github.com/Aireil/FFLogsViewer/raw/master/res/image1.png",
+            "https://github.com/Aireil/FFLogsViewer/raw/master/res/image2.png"
+        ],
+        "DownloadLinkInstall": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1719946589"
     },
     {
         "Author": "attick, daemitus, alymphocyte, grammernatzi",
