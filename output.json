@@ -1,25 +1,5 @@
 [
     {
-        "Author": "daemitus, kawaii",
-        "Name": "Yes Already [Grinch API 10]",
-        "Punchline": "Clicks Yes in various dialogs you've specified.",
-        "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
-        "Tags": [],
-        "InternalName": "YesAlready",
-        "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-        "DownloadCount": 177663,
-        "LastUpdate": 1719837849471,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
-        "AssemblyVersion": "1.7.0.3",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "10",
-        "Changelog": "disabled last seen hook for lists until a fix is found",
-        "TestingAssemblyVersion": "1.7.0.4",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/26/YesAlready/versions/testing.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/26/icon-v1pvonkr6r.png"
-    },
-    {
         "Author": "Taurenkey, kawaii",
         "Name": "Artisan [Grinch API 10]",
         "Punchline": "A 'simple' crafting plugin.",
@@ -29,7 +9,7 @@
         ],
         "InternalName": "Artisan",
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 1134726,
+        "DownloadCount": 1134888,
         "LastUpdate": 1719842382442,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -42,6 +22,26 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
     },
     {
+        "Author": "daemitus, kawaii",
+        "Name": "Yes Already [Grinch API 10]",
+        "Punchline": "Clicks Yes in various dialogs you've specified.",
+        "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
+        "Tags": [],
+        "InternalName": "YesAlready",
+        "RepoUrl": "https://github.com/PunishXIV/YesAlready",
+        "DownloadCount": 177771,
+        "LastUpdate": 1719837849471,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
+        "AssemblyVersion": "1.7.0.3",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "10",
+        "Changelog": "disabled last seen hook for lists until a fix is found",
+        "TestingAssemblyVersion": "1.7.0.4",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/26/YesAlready/versions/testing.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/26/icon-v1pvonkr6r.png"
+    },
+    {
         "Author": "kawaii, NightmareXIV",
         "Name": "AutoRetainer [Grinch API 10]",
         "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
@@ -49,7 +49,7 @@
         "Tags": [],
         "InternalName": "AutoRetainer",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "DownloadCount": 402908,
+        "DownloadCount": 403137,
         "LastUpdate": 1719888625663,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -66,9 +66,9 @@
         "Name": "XIV Combo Expandedest [Grinch API 10]",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button. Plus extras.",
         "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
-        "Changelog": "1.5.0.8:\r\n    * Flare to Despair now works via reverse-AoE action detection, like Xenoglossy to Foul.\r\n    * High Thunder to High Thunder 2 added.\r\n    * Disclaimer added to (Between the) Ley Lines.\r\n    * Despair to Transpose removed.\r\n    \r\n    1.5.0.3:\r\n    * Initial Viper features added. More will be added later when there is further access to Job Gauge variables via Client Structs.\r\n    \r\n    1.5.0.1:\r\n    * Initial Pictomancer features added.\r\n    \r\n    1.5.0.0:\r\n    * Wayyy too much. Please check the commits on the github, I left changelogs for each job there.",
+        "Changelog": "1.5.0.11:\r\n    * Blizzard 1/3 Feature now works properly.\r\n    * High Fire 2 to Flare feature rewritten now that Enhanced Flare is gone and (High) Fire 2 is no longer used after switching to Astral Fire if you have Flare.\r\n    * Lance Charge to Dragon Sight removed because Dragon Sight no longer exists.\r\n    \r\n    1.5.0.8:\r\n    * Flare to Despair now works via reverse-AoE action detection, like Xenoglossy to Foul.\r\n    * High Thunder to High Thunder 2 added.\r\n    * Disclaimer added to (Between the) Ley Lines.\r\n    * Despair to Transpose removed.\r\n    \r\n    1.5.0.3:\r\n    * Initial Viper features added. More will be added later when there is further access to Job Gauge variables via Client Structs.\r\n    \r\n    1.5.0.1:\r\n    * Initial Pictomancer features added.\r\n    \r\n    1.5.0.0:\r\n    * Wayyy too much. Please check the commits on the github, I left changelogs for each job there.",
         "InternalName": "XIVComboExpandedest",
-        "AssemblyVersion": "1.5.0.9",
+        "AssemblyVersion": "1.5.0.11",
         "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 10,
@@ -81,7 +81,7 @@
         "DownloadLinkTesting": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadLinkUpdate": "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1719813740"
+        "LastUpdate": "1719914577"
     },
     {
         "Author": "Meisterlala",
@@ -231,6 +231,33 @@
     },
     {
         "Author": "UnknownX",
+        "Name": "NoClippy [Grinch API 10]",
+        "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
+        "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
+        "Changelog": "",
+        "InternalName": "NoClippy",
+        "AssemblyVersion": "0.5.0.15",
+        "RepoUrl": "https://github.com/UnknownX7/NoClippy",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "jobs",
+            "utility"
+        ],
+        "DalamudApiLevel": 10,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.15/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.15/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.15/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1719913008"
+    },
+    {
+        "Author": "UnknownX",
         "Name": "ReAction [Grinch API 10]",
         "Punchline": "QoL for the battle system.",
         "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
@@ -252,7 +279,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.9/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.9/latest.zip",
-        "DownloadCount": 1897,
+        "DownloadCount": 2503,
         "LastUpdate": "1719799238"
     },
     {
