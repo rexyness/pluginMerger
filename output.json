@@ -1,28 +1,5 @@
 [
     {
-        "Author": "NightmareXIV, kawaii",
-        "Name": "Splatoon [Grinch API 10]",
-        "Punchline": "Redefining FFXIV navigation with unlimited, precise waymarks.",
-        "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
-        "Tags": [
-            "Utility",
-            "Accessibility"
-        ],
-        "InternalName": "Splatoon",
-        "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-        "DownloadCount": 240429,
-        "LastUpdate": 1719958165128,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
-        "AssemblyVersion": "3.5.1.0",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "10",
-        "Changelog": "- Updated for Dawntrail\n- Most of scripts also were updated, I recommend going through the list and checking all that you need\n- Splatoon now has new rendering engine thanks to SourP's contribution; some presets and scripts may need adjustments\n- Legacy rendered is not available right now; however, if demand for it is large, I will bring it back as an option as well",
-        "TestingAssemblyVersion": "3.5.0.8",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/10/Splatoon/versions/testing.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/10/icon-cchf5yumm2p.png"
-    },
-    {
         "Author": "Taurenkey, kawaii",
         "Name": "Artisan [Grinch API 10]",
         "Punchline": "A 'simple' crafting plugin.",
@@ -32,7 +9,7 @@
         ],
         "InternalName": "Artisan",
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 1147510,
+        "DownloadCount": 1148015,
         "LastUpdate": 1719999171094,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -45,6 +22,29 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
     },
     {
+        "Author": "NightmareXIV, kawaii",
+        "Name": "Splatoon [Grinch API 10]",
+        "Punchline": "Redefining FFXIV navigation with unlimited, precise waymarks.",
+        "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
+        "Tags": [
+            "Utility",
+            "Accessibility"
+        ],
+        "InternalName": "Splatoon",
+        "RepoUrl": "https://github.com/PunishXIV/Splatoon",
+        "DownloadCount": 240537,
+        "LastUpdate": 1719958165128,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
+        "AssemblyVersion": "3.5.1.0",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "10",
+        "Changelog": "- Updated for Dawntrail\n- Most of scripts also were updated, I recommend going through the list and checking all that you need\n- Splatoon now has new rendering engine thanks to SourP's contribution; some presets and scripts may need adjustments\n- Legacy rendered is not available right now; however, if demand for it is large, I will bring it back as an option as well",
+        "TestingAssemblyVersion": "3.5.0.8",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/10/Splatoon/versions/testing.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/10/icon-cchf5yumm2p.png"
+    },
+    {
         "Author": "daemitus, kawaii",
         "Name": "Yes Already [Grinch API 10]",
         "Punchline": "Clicks Yes in various dialogs you've specified.",
@@ -52,7 +52,7 @@
         "Tags": [],
         "InternalName": "YesAlready",
         "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-        "DownloadCount": 179987,
+        "DownloadCount": 180030,
         "LastUpdate": 1719837849471,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
@@ -72,7 +72,7 @@
         "Tags": [],
         "InternalName": "AutoRetainer",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "DownloadCount": 414492,
+        "DownloadCount": 414704,
         "LastUpdate": 1719975309273,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
