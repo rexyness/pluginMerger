@@ -38,7 +38,7 @@
         ],
         "InternalName": "Saucy",
         "RepoUrl": "https://github.com/PunishXIV/Saucy",
-        "DownloadCount": 168329,
+        "DownloadCount": 168342,
         "LastUpdate": 1721322246022,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
@@ -48,6 +48,7 @@
         "Changelog": "",
         "TestingAssemblyVersion": "1.3.0.4",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/7/Saucy/versions/testing.zip",
+        "TestingDalamudApiLevel": "9",
         "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png"
     },
     {
@@ -58,7 +59,7 @@
         "Tags": [],
         "InternalName": "AutoRetainer",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "DownloadCount": 569628,
+        "DownloadCount": 569806,
         "LastUpdate": 1722031388970,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -68,6 +69,7 @@
         "Changelog": "",
         "TestingAssemblyVersion": "4.3.1.8",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
+        "TestingDalamudApiLevel": "10",
         "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
     },
     {
@@ -81,7 +83,7 @@
         ],
         "InternalName": "PandorasBox",
         "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-        "DownloadCount": 382737,
+        "DownloadCount": 382789,
         "LastUpdate": 1721735554589,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
@@ -91,6 +93,7 @@
         "Changelog": "",
         "TestingAssemblyVersion": "1.5.4.1",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/testing.zip",
+        "TestingDalamudApiLevel": "9",
         "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png"
     },
     {
@@ -103,7 +106,7 @@
         ],
         "InternalName": "Artisan",
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 1453716,
+        "DownloadCount": 1455077,
         "LastUpdate": 1722161192262,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -113,6 +116,7 @@
         "Changelog": "",
         "TestingAssemblyVersion": "4.0.0.0",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
+        "TestingDalamudApiLevel": "10",
         "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
     },
     {
@@ -128,7 +132,7 @@
         ],
         "InternalName": "LazyLoot",
         "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-        "DownloadCount": 81367,
+        "DownloadCount": 81387,
         "LastUpdate": 1721752970767,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
@@ -138,6 +142,7 @@
         "Changelog": "Fix weekly lockout rolling",
         "TestingAssemblyVersion": "5.2.0.2",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/testing.zip",
+        "TestingDalamudApiLevel": "9",
         "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png"
     },
     {
@@ -151,7 +156,7 @@
         ],
         "InternalName": "Splatoon",
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-        "DownloadCount": 331379,
+        "DownloadCount": 331608,
         "LastUpdate": 1722111590688,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
@@ -161,6 +166,7 @@
         "Changelog": "",
         "TestingAssemblyVersion": "3.7.0.0",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/10/Splatoon/versions/testing.zip",
+        "TestingDalamudApiLevel": "10",
         "IconUrl": "https://s3.puni.sh/media/plugin/10/icon-cchf5yumm2p.png"
     },
     {
@@ -171,7 +177,7 @@
         "Tags": [],
         "InternalName": "YesAlready",
         "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-        "DownloadCount": 282772,
+        "DownloadCount": 282942,
         "LastUpdate": 1722064678100,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
@@ -191,7 +197,7 @@
         ],
         "InternalName": "Avarice",
         "RepoUrl": "https://github.com/PunishXIV/Avarice",
-        "DownloadCount": 79283,
+        "DownloadCount": 79302,
         "LastUpdate": 1721654703773,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
@@ -209,7 +215,7 @@
         "Tags": [],
         "InternalName": "Orbwalker",
         "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
-        "DownloadCount": 23397,
+        "DownloadCount": 23410,
         "LastUpdate": 1721919187009,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
@@ -230,7 +236,7 @@
         ],
         "InternalName": "AutoHook",
         "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-        "DownloadCount": 325083,
+        "DownloadCount": 325330,
         "LastUpdate": 1722080482170,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
@@ -253,7 +259,7 @@
         ],
         "InternalName": "PalacePal",
         "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-        "DownloadCount": 66140,
+        "DownloadCount": 66148,
         "LastUpdate": 1720346837668,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
