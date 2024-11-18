@@ -62,7 +62,7 @@
         ],
         "InternalName": "PandorasBox",
         "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-        "DownloadCount": 467050,
+        "DownloadCount": 467601,
         "LastUpdate": 1731838842240,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
@@ -85,7 +85,7 @@
         ],
         "InternalName": "Avarice",
         "RepoUrl": "https://github.com/PunishXIV/Avarice",
-        "DownloadCount": 122976,
+        "DownloadCount": 122977,
         "LastUpdate": 1724628120535,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
@@ -105,7 +105,7 @@
         ],
         "InternalName": "Artisan",
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 1778841,
+        "DownloadCount": 1779676,
         "LastUpdate": 1731836275804,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -131,7 +131,7 @@
         ],
         "InternalName": "LazyLoot",
         "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-        "DownloadCount": 102324,
+        "DownloadCount": 102464,
         "LastUpdate": 1731753099898,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
@@ -170,7 +170,7 @@
         "Tags": [],
         "InternalName": "AutoRetainer",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "DownloadCount": 744684,
+        "DownloadCount": 745460,
         "LastUpdate": 1731861596204,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -194,7 +194,7 @@
         ],
         "InternalName": "Splatoon",
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-        "DownloadCount": 558453,
+        "DownloadCount": 558709,
         "LastUpdate": 1731701614358,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
@@ -218,7 +218,7 @@
         ],
         "InternalName": "AutoHook",
         "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-        "DownloadCount": 397390,
+        "DownloadCount": 398608,
         "LastUpdate": 1731880173825,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
@@ -239,7 +239,7 @@
         "Tags": [],
         "InternalName": "YesAlready",
         "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-        "DownloadCount": 450292,
+        "DownloadCount": 450627,
         "LastUpdate": 1731762390549,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
@@ -613,7 +613,7 @@
         "Description": "Move around housing items with coordinates and allows you to place anywhere.",
         "Punchline": "House decorating made easy!",
         "InternalName": "BDTHPlugin",
-        "AssemblyVersion": "1.6.6",
+        "AssemblyVersion": "1.6.8",
         "RepoUrl": "https://github.com/LeonBlade/BDTHPlugin",
         "ApplicableVersion": "any",
         "Tags": [
@@ -625,15 +625,15 @@
             "furnishing",
             "LeonBlade"
         ],
-        "DalamudApiLevel": 10,
+        "DalamudApiLevel": 11,
         "IconUrl": "https://github.com/LeonBlade/BDTHPlugin/raw/main/icon.png",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdated": 1720688557,
-        "DownloadCount": 14323,
-        "DownloadLinkInstall": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.6/BDTHPlugin.zip",
-        "DownloadLinkTesting": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.6/BDTHPlugin.zip",
-        "DownloadLinkUpdate": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.6/BDTHPlugin.zip"
+        "LastUpdated": 1731890939,
+        "DownloadCount": null,
+        "DownloadLinkInstall": null,
+        "DownloadLinkTesting": null,
+        "DownloadLinkUpdate": null
     },
     {
         "Author": "llock",
@@ -1142,7 +1142,7 @@
         ],
         "InternalName": "Glamourer",
         "AssemblyVersion": "1.3.3.0",
-        "TestingAssemblyVersion": "1.3.3.1",
+        "TestingAssemblyVersion": "1.3.3.2",
         "RepoUrl": "https://github.com/Ottermandias/Glamourer",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 10,
@@ -1153,7 +1153,7 @@
         "LastUpdate": 1618608322,
         "DownloadLinkInstall": "https://github.com/Ottermandias/Glamourer/releases/download/1.3.3.0/Glamourer.zip",
         "DownloadLinkUpdate": "https://github.com/Ottermandias/Glamourer/releases/download/1.3.3.0/Glamourer.zip",
-        "DownloadLinkTesting": "https://github.com/Ottermandias/Glamourer/releases/download/testing_1.3.3.1/Glamourer.zip",
+        "DownloadLinkTesting": "https://github.com/Ottermandias/Glamourer/releases/download/testing_1.3.3.2/Glamourer.zip",
         "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/images/icon.png"
     },
     {
@@ -1273,32 +1273,6 @@
         "DownloadLinkTesting": "https://github.com/WorkingRobot/SomethingNeedDoing/releases/download/1.5.1.0/latest.zip"
     },
     {
-        "Author": "UnknownX",
-        "Name": "ReAction [Grinch API 10]",
-        "Punchline": "QoL for the battle system.",
-        "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
-        "Changelog": "Fixed an issue with queuing some charged actions.",
-        "InternalName": "ReAction",
-        "AssemblyVersion": "1.3.3.10",
-        "RepoUrl": "https://github.com/UnknownX7/ReAction",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "jobs"
-        ],
-        "DalamudApiLevel": 10,
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.10/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.10/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.10/latest.zip",
-        "DownloadCount": 19598,
-        "LastUpdate": "1722547357"
-    },
-    {
         "Author": "NightmareXIV,Errer(\u672c\u5730\u7279\u5316)",
         "Name": "Splatoon [Grinch API 10]",
         "Punchline": "\u56fd\u670d\u753b\u5bb6 7.0CN \u89e3\u9650\u7279\u4f9b",
@@ -1412,6 +1386,32 @@
     },
     {
         "Author": "UnknownX",
+        "Name": "ReAction [Grinch API 10]",
+        "Punchline": "QoL for the battle system.",
+        "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
+        "Changelog": "",
+        "InternalName": "ReAction",
+        "AssemblyVersion": "1.3.3.11",
+        "RepoUrl": "https://github.com/UnknownX7/ReAction",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "jobs"
+        ],
+        "DalamudApiLevel": 11,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.11/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.11/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.11/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1731891923"
+    },
+    {
+        "Author": "UnknownX",
         "Name": "NoClippy [Grinch API 10]",
         "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
         "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
@@ -1434,7 +1434,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.17/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.17/latest.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 2016,
         "LastUpdate": "1731880974"
     },
     {
