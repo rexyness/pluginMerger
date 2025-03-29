@@ -38,7 +38,7 @@
         ],
         "InternalName": "Saucy",
         "RepoUrl": "https://github.com/PunishXIV/Saucy",
-        "DownloadCount": 280782,
+        "DownloadCount": 282143,
         "LastUpdate": 1743147483957,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
@@ -61,7 +61,7 @@
         ],
         "InternalName": "Avarice",
         "RepoUrl": "https://github.com/PunishXIV/Avarice",
-        "DownloadCount": 174422,
+        "DownloadCount": 174896,
         "LastUpdate": 1743097010005,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
@@ -84,7 +84,7 @@
         ],
         "InternalName": "LazyLoot",
         "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-        "DownloadCount": 130266,
+        "DownloadCount": 130835,
         "LastUpdate": 1743145378663,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
@@ -105,7 +105,7 @@
         "Tags": [],
         "InternalName": "Orbwalker",
         "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
-        "DownloadCount": 41085,
+        "DownloadCount": 41230,
         "LastUpdate": 1743101891226,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
@@ -126,7 +126,7 @@
         ],
         "InternalName": "PandorasBox",
         "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-        "DownloadCount": 591397,
+        "DownloadCount": 592992,
         "LastUpdate": 1743146567025,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
@@ -150,7 +150,7 @@
         ],
         "InternalName": "AutoHook",
         "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-        "DownloadCount": 501130,
+        "DownloadCount": 503108,
         "LastUpdate": 1743155727262,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
@@ -168,7 +168,7 @@
         "Tags": [],
         "InternalName": "AutoRetainer",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "DownloadCount": 1063709,
+        "DownloadCount": 1065437,
         "LastUpdate": 1743025991904,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -191,7 +191,7 @@
         ],
         "InternalName": "Artisan",
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 2076419,
+        "DownloadCount": 2080182,
         "LastUpdate": 1743025128622,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -215,7 +215,7 @@
         ],
         "InternalName": "Splatoon",
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-        "DownloadCount": 782023,
+        "DownloadCount": 783153,
         "LastUpdate": 1743110555061,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
@@ -236,7 +236,7 @@
         "Tags": [],
         "InternalName": "WrathCombo",
         "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-        "DownloadCount": 138384,
+        "DownloadCount": 139290,
         "LastUpdate": 1743186868354,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/latest.zip",
@@ -259,7 +259,7 @@
         ],
         "InternalName": "PalacePal",
         "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-        "DownloadCount": 113284,
+        "DownloadCount": 114127,
         "LastUpdate": 1743091529916,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
@@ -562,7 +562,7 @@
         "Punchline": "Various tools to debug things.",
         "AcceptsFeedback": true,
         "Changelog": "First update for Patch 7.2.\n\n- Added: A work in progress Excel (v2) tab, which is based on Lumina.Excel properties.\n- Added: Support for IconId arrays in the struct renderer.\n- Removed: Noun Processor and Sheet Redirect Test tabs were removed, because the SeStringEvaluator is now part of Dalamud and therefore I removed those services.\n- Fixed: HouseIds in the Housing tab are now correctly displayed as structs.",
-        "DownloadCount": 81,
+        "DownloadCount": 101,
         "LastUpdate": 1742957413,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.20.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.20.0/latest.zip"
@@ -571,7 +571,7 @@
         "Author": "Haselnussbomber",
         "Name": "HaselTweaks [Grinch API 10]",
         "InternalName": "HaselTweaks",
-        "AssemblyVersion": "34.0.2",
+        "AssemblyVersion": "34.0.3",
         "Description": "Keep on tweaking.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -583,11 +583,11 @@
         "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/dev/HaselTweaks/Assets/Icon.png",
         "Punchline": "A collection of quality of life tweaks.",
         "AcceptsFeedback": true,
-        "Changelog": "Patch 7.2 fixes for:\n\n- Enhanced Experience Bar - Max Level Override\n- Simple Aethernet List",
-        "DownloadCount": 2115,
-        "LastUpdate": 1743106180,
-        "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v34.0.2/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v34.0.2/latest.zip"
+        "Changelog": "Bigger Item Dyeing Preview\n\n- Fixed: Nodes were out of place and a button was hiding behind the preview.",
+        "DownloadCount": 0,
+        "LastUpdate": 1743210880,
+        "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v34.0.3/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v34.0.3/latest.zip"
     },
     {
         "Author": "Haselnussbomber",
@@ -606,7 +606,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "Update for 7.2 (Dalamud API 12).",
-        "DownloadCount": 414,
+        "DownloadCount": 521,
         "LastUpdate": 1743022643,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.2/latest.zip"
@@ -1140,7 +1140,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1743173458"
+        "LastUpdated": "1743208536"
     },
     {
         "Author": "VariableVixen",
@@ -1157,7 +1157,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1743173458"
+        "LastUpdated": "1743208536"
     },
     {
         "Author": "VariableVixen",
@@ -1174,14 +1174,14 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1743173458"
+        "LastUpdated": "1743208536"
     },
     {
         "Author": "attick, daemitus, VariableVixen",
         "Name": "XIV Combo Very Expanded [Grinch API 10]",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
         "InternalName": "XIVComboVX",
-        "AssemblyVersion": "9.32.0",
+        "AssemblyVersion": "9.32.1",
         "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 12,
@@ -1191,7 +1191,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1743173458"
+        "LastUpdated": "1743208536"
     },
     {
         "Author": "Windmourn",
@@ -1388,7 +1388,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.4.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.4.1/latest.zip",
-        "DownloadCount": 5598,
+        "DownloadCount": 7283,
         "LastUpdate": "1743025009"
     },
     {
@@ -1415,7 +1415,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.18/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.18/latest.zip",
-        "DownloadCount": 10282,
+        "DownloadCount": 13611,
         "LastUpdate": "1742952225"
     },
     {
@@ -1441,7 +1441,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.11/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.11/latest.zip",
-        "DownloadCount": 7383,
+        "DownloadCount": 10164,
         "LastUpdate": "1743050060"
     },
     {
