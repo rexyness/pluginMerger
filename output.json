@@ -1,32 +1,5 @@
 [
     {
-        "Author": "Cai",
-        "Name": "GCDTracker [Grinch API 10]",
-        "InternalName": "GCDTracker",
-        "AssemblyVersion": "1.0.4.9",
-        "Description": "Tracks GCD, OGCDs and combo status. Instantly visualizing what is happening with queue, animation lock and helping you get familiar with the concepts.",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/CaiClone/GCDTracker",
-        "Tags": [
-            "combat",
-            "gcd"
-        ],
-        "DalamudApiLevel": 12,
-        "LoadPriority": 0,
-        "ImageUrls": [
-            "https://github.com/CaiClone/GCDTracker/raw/main/images/image1.png"
-        ],
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "IconUrl": "https://github.com/CaiClone/GCDTracker/raw/main/images/icon.png",
-        "Punchline": "Is my DRG still jumping?",
-        "DownloadLinkInstall": "https://github.com/CaiClone/DalamudPlugins/raw/GCDTracker/GCDTracker/latest.zip",
-        "DownloadLinkTesting": "https://github.com/CaiClone/DalamudPlugins/raw/GCDTracker/GCDTracker/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/CaiClone/DalamudPlugins/raw/GCDTracker/GCDTracker/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1745772959"
-    },
-    {
         "Author": "Taurenkey",
         "Name": "Saucy [Grinch API 10]",
         "Punchline": "When working for MGP is too much effort.",
@@ -38,7 +11,7 @@
         ],
         "InternalName": "Saucy",
         "RepoUrl": "https://github.com/PunishXIV/Saucy",
-        "DownloadCount": 300328,
+        "DownloadCount": 300335,
         "LastUpdate": 1743147483957,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
@@ -61,7 +34,7 @@
         ],
         "InternalName": "Avarice",
         "RepoUrl": "https://github.com/PunishXIV/Avarice",
-        "DownloadCount": 186758,
+        "DownloadCount": 186762,
         "LastUpdate": 1743097010005,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
@@ -105,7 +78,7 @@
         "Tags": [],
         "InternalName": "Orbwalker",
         "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
-        "DownloadCount": 46710,
+        "DownloadCount": 46711,
         "LastUpdate": 1744951207517,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
@@ -126,7 +99,7 @@
         ],
         "InternalName": "AutoHook",
         "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-        "DownloadCount": 637803,
+        "DownloadCount": 637833,
         "LastUpdate": 1746757651287,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
@@ -147,7 +120,7 @@
         ],
         "InternalName": "PandorasBox",
         "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-        "DownloadCount": 657511,
+        "DownloadCount": 657519,
         "LastUpdate": 1743354051531,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
@@ -170,7 +143,7 @@
         ],
         "InternalName": "Artisan",
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 2756257,
+        "DownloadCount": 2756435,
         "LastUpdate": 1747156641794,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -191,7 +164,7 @@
         "Tags": [],
         "InternalName": "AutoRetainer",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "DownloadCount": 1198351,
+        "DownloadCount": 1198469,
         "LastUpdate": 1747259183173,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -215,7 +188,7 @@
         ],
         "InternalName": "Splatoon",
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-        "DownloadCount": 933556,
+        "DownloadCount": 933657,
         "LastUpdate": 1746918384415,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
@@ -236,7 +209,7 @@
         "Tags": [],
         "InternalName": "WrathCombo",
         "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-        "DownloadCount": 204968,
+        "DownloadCount": 204990,
         "LastUpdate": 1747113004965,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/latest.zip",
@@ -259,7 +232,7 @@
         ],
         "InternalName": "PalacePal",
         "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-        "DownloadCount": 126483,
+        "DownloadCount": 126488,
         "LastUpdate": 1743091529916,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
@@ -587,7 +560,7 @@
         "Punchline": "A collection of quality of life tweaks.",
         "AcceptsFeedback": true,
         "Changelog": "Enhanced Experience Bar\n\n- Fixed: Depending on the language, `<nbsp>` were printed in the cosmic class score numbers.",
-        "DownloadCount": 5144,
+        "DownloadCount": 5199,
         "LastUpdate": 1746620184,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v35.1.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v35.1.1/latest.zip"
@@ -609,7 +582,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "- Fixed: Zones for Spearfishing spots in the Queue tab were incorrectly resolved.",
-        "DownloadCount": 1231,
+        "DownloadCount": 1235,
         "LastUpdate": 1743336876,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.3/latest.zip"
@@ -1477,7 +1450,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.12/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.12/latest.zip",
-        "DownloadCount": 25873,
+        "DownloadCount": 26038,
         "LastUpdate": "1745885672"
     },
     {
@@ -1503,7 +1476,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.4.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.4.1/latest.zip",
-        "DownloadCount": 18859,
+        "DownloadCount": 18898,
         "LastUpdate": "1743025009"
     },
     {
@@ -1530,7 +1503,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.18/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.18/latest.zip",
-        "DownloadCount": 51181,
+        "DownloadCount": 51313,
         "LastUpdate": "1742952225"
     },
     {
@@ -1557,31 +1530,6 @@
             "UI",
             "Bars"
         ]
-    },
-    {
-        "Author": "digital pet",
-        "Name": "AetherSense Redux (18+) [Grinch API 10]",
-        "InternalName": "AetherSenseRedux",
-        "AssemblyVersion": "0.7.9136.26153",
-        "Description": "An advanced haptic feedback plugin for game controllers, adult toys, and more using the Buttplug.io library. Requires Intiface Desktop to operate.",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/digital-pet/AetherSenseRedux",
-        "Tags": [
-            "parsing",
-            "buttplug",
-            "haptic",
-            "erp"
-        ],
-        "DalamudApiLevel": 11,
-        "LoadRequiredState": 0,
-        "LoadSync": false,
-        "CanUnloadAsync": false,
-        "LoadPriority": 0,
-        "Punchline": "Advanced haptic feedback using Intiface",
-        "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/digital-pet/EgirlPlugins/main/plugins/AetherSenseRedux/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/digital-pet/EgirlPlugins/main/plugins/AetherSenseRedux/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/digital-pet/EgirlPlugins/main/plugins/AetherSenseRedux/latest.zip"
     },
     {
         "Author": "attick, daemitus, Khayle",
