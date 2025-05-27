@@ -62,7 +62,7 @@
         ],
         "InternalName": "Saucy",
         "RepoUrl": "https://github.com/PunishXIV/Saucy",
-        "DownloadCount": 309892,
+        "DownloadCount": 309893,
         "LastUpdate": 1748238035414,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
@@ -120,6 +120,27 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png"
     },
     {
+        "Author": "Det, Taurenkey",
+        "Name": "AutoHook [Grinch API 10]",
+        "Punchline": "Makes fishing less (or more) boring",
+        "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
+        "Tags": [
+            "Gathering",
+            "Fishing"
+        ],
+        "InternalName": "AutoHook",
+        "RepoUrl": "https://github.com/PunishXIV/AutoHook",
+        "DownloadCount": 642966,
+        "LastUpdate": 1746757651287,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
+        "AssemblyVersion": "4.3.4.1",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "12",
+        "Changelog": "",
+        "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png"
+    },
+    {
         "Author": "kawaii, NightmareXIV",
         "Name": "Avarice [Grinch API 10]",
         "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
@@ -163,27 +184,6 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png"
     },
     {
-        "Author": "Det, Taurenkey",
-        "Name": "AutoHook [Grinch API 10]",
-        "Punchline": "Makes fishing less (or more) boring",
-        "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
-        "Tags": [
-            "Gathering",
-            "Fishing"
-        ],
-        "InternalName": "AutoHook",
-        "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-        "DownloadCount": 642965,
-        "LastUpdate": 1746757651287,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
-        "AssemblyVersion": "4.3.4.1",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "12",
-        "Changelog": "",
-        "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png"
-    },
-    {
         "Author": "kawaii, NightmareXIV",
         "Name": "AutoRetainer [Grinch API 10]",
         "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
@@ -191,7 +191,7 @@
         "Tags": [],
         "InternalName": "AutoRetainer",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "DownloadCount": 1208394,
+        "DownloadCount": 1208395,
         "LastUpdate": 1747259183173,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
