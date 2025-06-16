@@ -27,6 +27,30 @@
         "LastUpdated": "1749773136"
     },
     {
+        "Author": "Taurenkey, croizat",
+        "Name": "Pandora's Box [Grinch API 12]",
+        "Punchline": "Do you dare to open Pandora's Box?",
+        "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
+        "Tags": [
+            "punish",
+            "plugin"
+        ],
+        "InternalName": "PandorasBox",
+        "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
+        "DownloadCount": 728856,
+        "LastUpdate": 1749106325146,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
+        "AssemblyVersion": "1.6.3.8",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "12",
+        "Changelog": "- Adds key items to /puseitem.",
+        "TestingAssemblyVersion": "1.5.4.1",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/testing.zip",
+        "TestingDalamudApiLevel": "9",
+        "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png"
+    },
+    {
         "Author": "kawaii, NightmareXIV",
         "Name": "Orbwalker [Grinch API 12]",
         "Punchline": "S P A C E G L I D I N G",
@@ -43,30 +67,6 @@
         "DalamudApiLevel": "12",
         "Changelog": "- Fix mount locking issue",
         "IconUrl": "https://s3.puni.sh/media/plugin/12/icon-o94qaw6cyn.png"
-    },
-    {
-        "Author": "Taurenkey, croizat",
-        "Name": "Pandora's Box [Grinch API 12]",
-        "Punchline": "Do you dare to open Pandora's Box?",
-        "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
-        "Tags": [
-            "punish",
-            "plugin"
-        ],
-        "InternalName": "PandorasBox",
-        "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-        "DownloadCount": 728855,
-        "LastUpdate": 1749106325146,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
-        "AssemblyVersion": "1.6.3.8",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "12",
-        "Changelog": "- Adds key items to /puseitem.",
-        "TestingAssemblyVersion": "1.5.4.1",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/testing.zip",
-        "TestingDalamudApiLevel": "9",
-        "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png"
     },
     {
         "Author": "Taurenkey, Gidedin",
@@ -184,6 +184,24 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png"
     },
     {
+        "Author": "Team Wrath",
+        "Name": "Wrath Combo [Grinch API 12]",
+        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
+        "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
+        "Tags": [],
+        "InternalName": "WrathCombo",
+        "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
+        "DownloadCount": 251007,
+        "LastUpdate": 1750010707978,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/latest.zip",
+        "AssemblyVersion": "1.0.1.10",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "12",
+        "Changelog": "Please check the project's GitHub or Discord for a full changelog.",
+        "IconUrl": "https://s3.puni.sh/media/plugin/60/icon-2bwhkn3zf1f.png"
+    },
+    {
         "Author": "kawaii, NightmareXIV",
         "Name": "AutoRetainer [Grinch API 12]",
         "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
@@ -203,24 +221,6 @@
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
         "TestingDalamudApiLevel": "12",
         "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
-    },
-    {
-        "Author": "Team Wrath",
-        "Name": "Wrath Combo [Grinch API 12]",
-        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
-        "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
-        "Tags": [],
-        "InternalName": "WrathCombo",
-        "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-        "DownloadCount": 251005,
-        "LastUpdate": 1750010707978,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/latest.zip",
-        "AssemblyVersion": "1.0.1.10",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "12",
-        "Changelog": "Please check the project's GitHub or Discord for a full changelog.",
-        "IconUrl": "https://s3.puni.sh/media/plugin/60/icon-2bwhkn3zf1f.png"
     },
     {
         "Author": "daemitus, kawaii",
@@ -277,7 +277,7 @@
         ],
         "InternalName": "Artisan",
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 2820735,
+        "DownloadCount": 2820740,
         "LastUpdate": 1749828282064,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
