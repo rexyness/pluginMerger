@@ -55,7 +55,7 @@
         ],
         "InternalName": "PandorasBox",
         "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-        "DownloadCount": 728861,
+        "DownloadCount": 728862,
         "LastUpdate": 1749106325146,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
@@ -95,6 +95,26 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png"
     },
     {
+        "Author": "kawaii, NightmareXIV",
+        "Name": "Avarice [Grinch API 12]",
+        "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+        "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+        "Tags": [
+            "combat"
+        ],
+        "InternalName": "Avarice",
+        "RepoUrl": "https://github.com/PunishXIV/Avarice",
+        "DownloadCount": 189404,
+        "LastUpdate": 1743097010005,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
+        "AssemblyVersion": "2.1.1.2",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "12",
+        "Changelog": "- Preliminary 7.2 update",
+        "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png"
+    },
+    {
         "Author": "Det, Taurenkey",
         "Name": "AutoHook [Grinch API 12]",
         "Punchline": "Makes fishing less (or more) boring",
@@ -116,24 +136,27 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png"
     },
     {
-        "Author": "kawaii, NightmareXIV",
-        "Name": "Avarice [Grinch API 12]",
-        "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+        "Author": "kawaii, jukka",
+        "Name": "Palace Pal [Grinch API 12]",
+        "Punchline": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.",
+        "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
         "Tags": [
-            "combat"
+            "potd",
+            "hoh",
+            "splatoon",
+            "palace"
         ],
-        "InternalName": "Avarice",
-        "RepoUrl": "https://github.com/PunishXIV/Avarice",
-        "DownloadCount": 189403,
-        "LastUpdate": 1743097010005,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
-        "AssemblyVersion": "2.1.1.2",
+        "InternalName": "PalacePal",
+        "RepoUrl": "https://github.com/PunishXIV/PalacePal",
+        "DownloadCount": 129120,
+        "LastUpdate": 1743091529916,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
+        "AssemblyVersion": "4.12.0.0",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "12",
-        "Changelog": "- Preliminary 7.2 update",
-        "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png"
+        "Changelog": "",
+        "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png"
     },
     {
         "Author": "Taurenkey",
@@ -161,29 +184,6 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png"
     },
     {
-        "Author": "kawaii, jukka",
-        "Name": "Palace Pal [Grinch API 12]",
-        "Punchline": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.",
-        "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
-        "Tags": [
-            "potd",
-            "hoh",
-            "splatoon",
-            "palace"
-        ],
-        "InternalName": "PalacePal",
-        "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-        "DownloadCount": 129119,
-        "LastUpdate": 1743091529916,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
-        "AssemblyVersion": "4.12.0.0",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "12",
-        "Changelog": "",
-        "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png"
-    },
-    {
         "Author": "Team Wrath",
         "Name": "Wrath Combo [Grinch API 12]",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
@@ -191,7 +191,7 @@
         "Tags": [],
         "InternalName": "WrathCombo",
         "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-        "DownloadCount": 251011,
+        "DownloadCount": 251013,
         "LastUpdate": 1750010707978,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/latest.zip",
@@ -254,7 +254,7 @@
         ],
         "InternalName": "Splatoon",
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-        "DownloadCount": 995269,
+        "DownloadCount": 995270,
         "LastUpdate": 1748589737039,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
@@ -277,7 +277,7 @@
         ],
         "InternalName": "Artisan",
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 2820764,
+        "DownloadCount": 2820771,
         "LastUpdate": 1749828282064,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
