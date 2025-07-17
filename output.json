@@ -27,24 +27,6 @@
         "LastUpdated": "1749773136"
     },
     {
-        "Author": "kawaii, NightmareXIV",
-        "Name": "Orbwalker [Grinch API 12]",
-        "Punchline": "S P A C E G L I D I N G",
-        "Description": "Locks player movement while casting and allows for maximum caster uptime during the course of a fight.",
-        "Tags": [],
-        "InternalName": "Orbwalker",
-        "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
-        "DownloadCount": 50280,
-        "LastUpdate": 1744951207517,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
-        "AssemblyVersion": "1.0.1.3",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "12",
-        "Changelog": "- Fix mount locking issue",
-        "IconUrl": "https://s3.puni.sh/media/plugin/12/icon-o94qaw6cyn.png"
-    },
-    {
         "Author": "Taurenkey, croizat",
         "Name": "Pandora's Box [Grinch API 12]",
         "Punchline": "Do you dare to open Pandora's Box?",
@@ -55,7 +37,7 @@
         ],
         "InternalName": "PandorasBox",
         "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-        "DownloadCount": 780097,
+        "DownloadCount": 780135,
         "LastUpdate": 1751960861602,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
@@ -67,6 +49,24 @@
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/testing.zip",
         "TestingDalamudApiLevel": "9",
         "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png"
+    },
+    {
+        "Author": "kawaii, NightmareXIV",
+        "Name": "Orbwalker [Grinch API 12]",
+        "Punchline": "S P A C E G L I D I N G",
+        "Description": "Locks player movement while casting and allows for maximum caster uptime during the course of a fight.",
+        "Tags": [],
+        "InternalName": "Orbwalker",
+        "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
+        "DownloadCount": 50281,
+        "LastUpdate": 1744951207517,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
+        "AssemblyVersion": "1.0.1.3",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "12",
+        "Changelog": "- Fix mount locking issue",
+        "IconUrl": "https://s3.puni.sh/media/plugin/12/icon-o94qaw6cyn.png"
     },
     {
         "Author": "Taurenkey, Gidedin",
@@ -81,7 +81,7 @@
         ],
         "InternalName": "LazyLoot",
         "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-        "DownloadCount": 143123,
+        "DownloadCount": 143124,
         "LastUpdate": 1743145378663,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
@@ -95,31 +95,6 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png"
     },
     {
-        "Author": "Taurenkey",
-        "Name": "Saucy [Grinch API 12]",
-        "Punchline": "When working for MGP is too much effort.",
-        "Description": "Automates certain Gold Saucer mini-games.",
-        "Tags": [
-            "gold saucer",
-            "mgp",
-            "automation"
-        ],
-        "InternalName": "Saucy",
-        "RepoUrl": "https://github.com/PunishXIV/Saucy",
-        "DownloadCount": 333188,
-        "LastUpdate": 1748238035414,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
-        "AssemblyVersion": "1.4.2.1",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "12",
-        "Changelog": "- Patch update",
-        "TestingAssemblyVersion": "1.3.0.4",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/7/Saucy/versions/testing.zip",
-        "TestingDalamudApiLevel": "9",
-        "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png"
-    },
-    {
         "Author": "Det, Taurenkey",
         "Name": "AutoHook [Grinch API 12]",
         "Punchline": "Makes fishing less (or more) boring",
@@ -130,7 +105,7 @@
         ],
         "InternalName": "AutoHook",
         "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-        "DownloadCount": 661296,
+        "DownloadCount": 661307,
         "LastUpdate": 1746757651287,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
@@ -139,29 +114,6 @@
         "DalamudApiLevel": "12",
         "Changelog": "",
         "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png"
-    },
-    {
-        "Author": "Taurenkey, kawaii",
-        "Name": "Artisan [Grinch API 12]",
-        "Punchline": "A 'simple' crafting plugin.",
-        "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
-        "Tags": [
-            "crafting"
-        ],
-        "InternalName": "Artisan",
-        "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 2911359,
-        "LastUpdate": 1751108257810,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
-        "AssemblyVersion": "4.0.3.44",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "12",
-        "Changelog": "Raphael update",
-        "TestingAssemblyVersion": "4.0.3.30",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
-        "TestingDalamudApiLevel": "12",
-        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
     },
     {
         "Author": "kawaii, NightmareXIV",
@@ -173,7 +125,7 @@
         ],
         "InternalName": "Avarice",
         "RepoUrl": "https://github.com/PunishXIV/Avarice",
-        "DownloadCount": 195276,
+        "DownloadCount": 195280,
         "LastUpdate": 1743097010005,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
@@ -182,6 +134,29 @@
         "DalamudApiLevel": "12",
         "Changelog": "- Preliminary 7.2 update",
         "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png"
+    },
+    {
+        "Author": "Taurenkey, kawaii",
+        "Name": "Artisan [Grinch API 12]",
+        "Punchline": "A 'simple' crafting plugin.",
+        "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
+        "Tags": [
+            "crafting"
+        ],
+        "InternalName": "Artisan",
+        "RepoUrl": "https://github.com/PunishXIV/Artisan",
+        "DownloadCount": 2911421,
+        "LastUpdate": 1751108257810,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
+        "AssemblyVersion": "4.0.3.44",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "12",
+        "Changelog": "Raphael update",
+        "TestingAssemblyVersion": "4.0.3.30",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
+        "TestingDalamudApiLevel": "12",
+        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
     },
     {
         "Author": "kawaii, jukka",
@@ -196,7 +171,7 @@
         ],
         "InternalName": "PalacePal",
         "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-        "DownloadCount": 134690,
+        "DownloadCount": 134693,
         "LastUpdate": 1743091529916,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
@@ -207,25 +182,29 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png"
     },
     {
-        "Author": "kawaii, NightmareXIV",
-        "Name": "AutoRetainer [Grinch API 12]",
-        "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "Tags": [],
-        "InternalName": "AutoRetainer",
-        "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "DownloadCount": 1296265,
-        "LastUpdate": 1752427951758,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
-        "AssemblyVersion": "4.5.1.6",
+        "Author": "Taurenkey",
+        "Name": "Saucy [Grinch API 12]",
+        "Punchline": "When working for MGP is too much effort.",
+        "Description": "Automates certain Gold Saucer mini-games.",
+        "Tags": [
+            "gold saucer",
+            "mgp",
+            "automation"
+        ],
+        "InternalName": "Saucy",
+        "RepoUrl": "https://github.com/PunishXIV/Saucy",
+        "DownloadCount": 333199,
+        "LastUpdate": 1748238035414,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
+        "AssemblyVersion": "1.4.2.1",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "12",
-        "Changelog": "- JP language fixes",
-        "TestingAssemblyVersion": "4.5.1.7",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
-        "TestingDalamudApiLevel": "12",
-        "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
+        "Changelog": "- Patch update",
+        "TestingAssemblyVersion": "1.3.0.4",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/7/Saucy/versions/testing.zip",
+        "TestingDalamudApiLevel": "9",
+        "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png"
     },
     {
         "Author": "Team Wrath",
@@ -235,7 +214,7 @@
         "Tags": [],
         "InternalName": "WrathCombo",
         "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-        "DownloadCount": 299820,
+        "DownloadCount": 299881,
         "LastUpdate": 1752462171251,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/latest.zip",
@@ -249,6 +228,27 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/60/icon-2bwhkn3zf1f.png"
     },
     {
+        "Author": "kawaii, NightmareXIV",
+        "Name": "AutoRetainer [Grinch API 12]",
+        "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
+        "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
+        "Tags": [],
+        "InternalName": "AutoRetainer",
+        "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
+        "DownloadCount": 1296382,
+        "LastUpdate": 1752427951758,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
+        "AssemblyVersion": "4.5.1.6",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "12",
+        "Changelog": "- JP language fixes",
+        "TestingAssemblyVersion": "4.5.1.7",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
+        "TestingDalamudApiLevel": "12",
+        "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
+    },
+    {
         "Author": "daemitus, kawaii",
         "Name": "Yes Already [Grinch API 12]",
         "Punchline": "Clicks Yes in various dialogs you've specified.",
@@ -256,7 +256,7 @@
         "Tags": [],
         "InternalName": "YesAlready",
         "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-        "DownloadCount": 717759,
+        "DownloadCount": 717782,
         "LastUpdate": 1751007793582,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
@@ -280,7 +280,7 @@
         ],
         "InternalName": "Splatoon",
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-        "DownloadCount": 1044426,
+        "DownloadCount": 1044438,
         "LastUpdate": 1750911087470,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
@@ -1130,7 +1130,7 @@
         "Tags": [],
         "InternalName": "SomethingNeedDoing",
         "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-        "DownloadCount": 515598,
+        "DownloadCount": 517097,
         "LastUpdate": 1752648428295,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
@@ -1163,7 +1163,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.4.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.4.1/latest.zip",
-        "DownloadCount": 22952,
+        "DownloadCount": 22967,
         "LastUpdate": "1743025009"
     },
     {
@@ -1190,7 +1190,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.18/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.18/latest.zip",
-        "DownloadCount": 62832,
+        "DownloadCount": 62896,
         "LastUpdate": "1742952225"
     },
     {
@@ -1253,7 +1253,7 @@
         "DownloadLinkTesting": "https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.2.6/latest.zip",
         "DownloadLinkUpdate": "https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.2.6/latest.zip",
         "IconUrl": "",
-        "DownloadCount": 9361
+        "DownloadCount": 9391
     },
     {
         "Author": "akira0245, Ori, Kalle, Zune",
@@ -1365,7 +1365,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.12/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.12/latest.zip",
-        "DownloadCount": 38938,
+        "DownloadCount": 39010,
         "LastUpdate": "1745885672"
     },
     {
