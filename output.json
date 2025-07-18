@@ -45,30 +45,6 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/12/icon-o94qaw6cyn.png"
     },
     {
-        "Author": "Taurenkey, croizat",
-        "Name": "Pandora's Box [Grinch API 12]",
-        "Punchline": "Do you dare to open Pandora's Box?",
-        "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
-        "Tags": [
-            "punish",
-            "plugin"
-        ],
-        "InternalName": "PandorasBox",
-        "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-        "DownloadCount": 780702,
-        "LastUpdate": 1751960861602,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
-        "AssemblyVersion": "1.6.3.13",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "12",
-        "Changelog": "- Slow down chest opening.",
-        "TestingAssemblyVersion": "1.5.4.1",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/testing.zip",
-        "TestingDalamudApiLevel": "9",
-        "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png"
-    },
-    {
         "Author": "Taurenkey, Gidedin",
         "Name": "LazyLoot [Grinch API 12]",
         "Punchline": "Dungeon Loot but Lazy.",
@@ -95,6 +71,30 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png"
     },
     {
+        "Author": "Taurenkey, croizat",
+        "Name": "Pandora's Box [Grinch API 12]",
+        "Punchline": "Do you dare to open Pandora's Box?",
+        "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
+        "Tags": [
+            "punish",
+            "plugin"
+        ],
+        "InternalName": "PandorasBox",
+        "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
+        "DownloadCount": 780736,
+        "LastUpdate": 1751960861602,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
+        "AssemblyVersion": "1.6.3.13",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "12",
+        "Changelog": "- Slow down chest opening.",
+        "TestingAssemblyVersion": "1.5.4.1",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/testing.zip",
+        "TestingDalamudApiLevel": "9",
+        "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png"
+    },
+    {
         "Author": "kawaii, NightmareXIV",
         "Name": "Avarice [Grinch API 12]",
         "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
@@ -104,7 +104,7 @@
         ],
         "InternalName": "Avarice",
         "RepoUrl": "https://github.com/PunishXIV/Avarice",
-        "DownloadCount": 195363,
+        "DownloadCount": 195369,
         "LastUpdate": 1743097010005,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
@@ -115,29 +115,27 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png"
     },
     {
-        "Author": "Taurenkey",
-        "Name": "Saucy [Grinch API 12]",
-        "Punchline": "When working for MGP is too much effort.",
-        "Description": "Automates certain Gold Saucer mini-games.",
+        "Author": "Taurenkey, kawaii",
+        "Name": "Artisan [Grinch API 12]",
+        "Punchline": "A 'simple' crafting plugin.",
+        "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
         "Tags": [
-            "gold saucer",
-            "mgp",
-            "automation"
+            "crafting"
         ],
-        "InternalName": "Saucy",
-        "RepoUrl": "https://github.com/PunishXIV/Saucy",
-        "DownloadCount": 333330,
-        "LastUpdate": 1748238035414,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
-        "AssemblyVersion": "1.4.2.1",
+        "InternalName": "Artisan",
+        "RepoUrl": "https://github.com/PunishXIV/Artisan",
+        "DownloadCount": 2912203,
+        "LastUpdate": 1751108257810,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
+        "AssemblyVersion": "4.0.3.44",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "12",
-        "Changelog": "- Patch update",
-        "TestingAssemblyVersion": "1.3.0.4",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/7/Saucy/versions/testing.zip",
-        "TestingDalamudApiLevel": "9",
-        "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png"
+        "Changelog": "Raphael update",
+        "TestingAssemblyVersion": "4.0.3.30",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
+        "TestingDalamudApiLevel": "12",
+        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
     },
     {
         "Author": "Det, Taurenkey",
@@ -150,7 +148,7 @@
         ],
         "InternalName": "AutoHook",
         "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-        "DownloadCount": 661472,
+        "DownloadCount": 661475,
         "LastUpdate": 1746757651287,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
@@ -159,29 +157,6 @@
         "DalamudApiLevel": "12",
         "Changelog": "",
         "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png"
-    },
-    {
-        "Author": "Taurenkey, kawaii",
-        "Name": "Artisan [Grinch API 12]",
-        "Punchline": "A 'simple' crafting plugin.",
-        "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
-        "Tags": [
-            "crafting"
-        ],
-        "InternalName": "Artisan",
-        "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 2912160,
-        "LastUpdate": 1751108257810,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
-        "AssemblyVersion": "4.0.3.44",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "12",
-        "Changelog": "Raphael update",
-        "TestingAssemblyVersion": "4.0.3.30",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
-        "TestingDalamudApiLevel": "12",
-        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
     },
     {
         "Author": "kawaii, jukka",
@@ -196,7 +171,7 @@
         ],
         "InternalName": "PalacePal",
         "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-        "DownloadCount": 134795,
+        "DownloadCount": 134798,
         "LastUpdate": 1743091529916,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
@@ -207,25 +182,29 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png"
     },
     {
-        "Author": "kawaii, NightmareXIV",
-        "Name": "AutoRetainer [Grinch API 12]",
-        "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "Tags": [],
-        "InternalName": "AutoRetainer",
-        "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "DownloadCount": 1306565,
-        "LastUpdate": 1752561423562,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
-        "AssemblyVersion": "4.5.1.7",
+        "Author": "Taurenkey",
+        "Name": "Saucy [Grinch API 12]",
+        "Punchline": "When working for MGP is too much effort.",
+        "Description": "Automates certain Gold Saucer mini-games.",
+        "Tags": [
+            "gold saucer",
+            "mgp",
+            "automation"
+        ],
+        "InternalName": "Saucy",
+        "RepoUrl": "https://github.com/PunishXIV/Saucy",
+        "DownloadCount": 333337,
+        "LastUpdate": 1748238035414,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
+        "AssemblyVersion": "1.4.2.1",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "12",
-        "Changelog": "- Reworked GC exchange plan UI: now plan starts empty and you can add items via dropdown menu. Already existing plans can clear 0-count items by using \"Actions\" menu on a plan. Additionally, new actions and buttons were added. \n- Plans can now specify two purchase options: \"Keep\" and \"One-Time\". \"Keep\" will maintain set amount in each character's inventory, while \"One-Time\" will let AutoRetainer purchase specific amount of selected items across all assigned characters.\n- You can set higher amount of seals to keep now, the amount will be scaled down appropriately if your rank is lower than maximum.\n- Added `/ays deliver` command that will bring you to the grand company and deliver your items. Lifestream is required.",
-        "TestingAssemblyVersion": "4.5.1.8",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
-        "TestingDalamudApiLevel": "12",
-        "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
+        "Changelog": "- Patch update",
+        "TestingAssemblyVersion": "1.3.0.4",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/7/Saucy/versions/testing.zip",
+        "TestingDalamudApiLevel": "9",
+        "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png"
     },
     {
         "Author": "Team Wrath",
@@ -235,7 +214,7 @@
         "Tags": [],
         "InternalName": "WrathCombo",
         "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-        "DownloadCount": 300687,
+        "DownloadCount": 300738,
         "LastUpdate": 1752462171251,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/latest.zip",
@@ -249,6 +228,27 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/60/icon-2bwhkn3zf1f.png"
     },
     {
+        "Author": "kawaii, NightmareXIV",
+        "Name": "AutoRetainer [Grinch API 12]",
+        "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
+        "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
+        "Tags": [],
+        "InternalName": "AutoRetainer",
+        "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
+        "DownloadCount": 1306880,
+        "LastUpdate": 1752561423562,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
+        "AssemblyVersion": "4.5.1.7",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "12",
+        "Changelog": "- Reworked GC exchange plan UI: now plan starts empty and you can add items via dropdown menu. Already existing plans can clear 0-count items by using \"Actions\" menu on a plan. Additionally, new actions and buttons were added. \n- Plans can now specify two purchase options: \"Keep\" and \"One-Time\". \"Keep\" will maintain set amount in each character's inventory, while \"One-Time\" will let AutoRetainer purchase specific amount of selected items across all assigned characters.\n- You can set higher amount of seals to keep now, the amount will be scaled down appropriately if your rank is lower than maximum.\n- Added `/ays deliver` command that will bring you to the grand company and deliver your items. Lifestream is required.",
+        "TestingAssemblyVersion": "4.5.1.8",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
+        "TestingDalamudApiLevel": "12",
+        "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
+    },
+    {
         "Author": "daemitus, kawaii",
         "Name": "Yes Already [Grinch API 12]",
         "Punchline": "Clicks Yes in various dialogs you've specified.",
@@ -256,7 +256,7 @@
         "Tags": [],
         "InternalName": "YesAlready",
         "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-        "DownloadCount": 718055,
+        "DownloadCount": 718066,
         "LastUpdate": 1751007793582,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
@@ -280,7 +280,7 @@
         ],
         "InternalName": "Splatoon",
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-        "DownloadCount": 1044708,
+        "DownloadCount": 1044722,
         "LastUpdate": 1750911087470,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
@@ -533,7 +533,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1743456054,
-        "DownloadCount": 69114,
+        "DownloadCount": 69236,
         "DownloadLinkInstall": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.9/BDTHPlugin.zip",
         "DownloadLinkTesting": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.9/BDTHPlugin.zip",
         "DownloadLinkUpdate": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.9/BDTHPlugin.zip"
@@ -1130,7 +1130,7 @@
         "Tags": [],
         "InternalName": "SomethingNeedDoing",
         "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-        "DownloadCount": 517704,
+        "DownloadCount": 518332,
         "LastUpdate": 1752648428295,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
@@ -1163,7 +1163,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.4.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.4.1/latest.zip",
-        "DownloadCount": 22984,
+        "DownloadCount": 23006,
         "LastUpdate": "1743025009"
     },
     {
@@ -1190,7 +1190,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.18/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.18/latest.zip",
-        "DownloadCount": 62994,
+        "DownloadCount": 63043,
         "LastUpdate": "1742952225"
     },
     {
@@ -1253,7 +1253,7 @@
         "DownloadLinkTesting": "https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.2.6/latest.zip",
         "DownloadLinkUpdate": "https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.2.6/latest.zip",
         "IconUrl": "",
-        "DownloadCount": 9391
+        "DownloadCount": 9416
     },
     {
         "Author": "akira0245, Ori, Kalle, Zune",
@@ -1365,7 +1365,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.12/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.12/latest.zip",
-        "DownloadCount": 39062,
+        "DownloadCount": 39124,
         "LastUpdate": "1745885672"
     },
     {
