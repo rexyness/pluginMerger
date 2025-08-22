@@ -7,7 +7,7 @@
         "Tags": [],
         "InternalName": "Orbwalker",
         "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
-        "DownloadCount": 55792,
+        "DownloadCount": 55802,
         "LastUpdate": 1755382108751,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
@@ -16,6 +16,29 @@
         "DalamudApiLevel": "13",
         "Changelog": "- Fix overlay",
         "IconUrl": "https://s3.puni.sh/media/plugin/12/icon-o94qaw6cyn.png"
+    },
+    {
+        "Author": "Taurenkey, NightmareXIV, kawaii",
+        "Name": "Artisan [Grinch API 13]",
+        "Punchline": "A 'simple' crafting plugin.",
+        "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
+        "Tags": [
+            "crafting"
+        ],
+        "InternalName": "Artisan",
+        "RepoUrl": "https://github.com/PunishXIV/Artisan",
+        "DownloadCount": 3160759,
+        "LastUpdate": 1755236196041,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
+        "AssemblyVersion": "4.0.3.55",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "13",
+        "Changelog": "- UI fixes (by PhoenixtheII)",
+        "TestingAssemblyVersion": "4.0.3.53",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
+        "TestingDalamudApiLevel": "13",
+        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
     },
     {
         "Author": "Taurenkey, NightmareXIV, croizat",
@@ -28,7 +51,7 @@
         ],
         "InternalName": "PandorasBox",
         "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-        "DownloadCount": 840727,
+        "DownloadCount": 840759,
         "LastUpdate": 1755025879074,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
@@ -40,29 +63,6 @@
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/testing.zip",
         "TestingDalamudApiLevel": "9",
         "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png"
-    },
-    {
-        "Author": "Taurenkey, NightmareXIV, kawaii",
-        "Name": "Artisan [Grinch API 13]",
-        "Punchline": "A 'simple' crafting plugin.",
-        "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
-        "Tags": [
-            "crafting"
-        ],
-        "InternalName": "Artisan",
-        "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 3160628,
-        "LastUpdate": 1755236196041,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
-        "AssemblyVersion": "4.0.3.55",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "13",
-        "Changelog": "- UI fixes (by PhoenixtheII)",
-        "TestingAssemblyVersion": "4.0.3.53",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
-        "TestingDalamudApiLevel": "13",
-        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
     },
     {
         "Author": "Taurenkey, NightmareXIV, Gidedin",
@@ -77,7 +77,7 @@
         ],
         "InternalName": "LazyLoot",
         "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-        "DownloadCount": 153696,
+        "DownloadCount": 153711,
         "LastUpdate": 1754949195613,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
@@ -91,29 +91,6 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png"
     },
     {
-        "Author": "kawaii, jukka",
-        "Name": "Palace Pal [Grinch API 13]",
-        "Punchline": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.",
-        "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
-        "Tags": [
-            "potd",
-            "hoh",
-            "splatoon",
-            "palace"
-        ],
-        "InternalName": "PalacePal",
-        "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-        "DownloadCount": 153637,
-        "LastUpdate": 1754737396149,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
-        "AssemblyVersion": "4.13.0.0",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "13",
-        "Changelog": "",
-        "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png"
-    },
-    {
         "Author": "Team Wrath",
         "Name": "Wrath Combo [Grinch API 13]",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
@@ -121,7 +98,7 @@
         "Tags": [],
         "InternalName": "WrathCombo",
         "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-        "DownloadCount": 358169,
+        "DownloadCount": 358232,
         "LastUpdate": 1755458928578,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/latest.zip",
@@ -144,7 +121,7 @@
         ],
         "InternalName": "Avarice",
         "RepoUrl": "https://github.com/PunishXIV/Avarice",
-        "DownloadCount": 208646,
+        "DownloadCount": 208661,
         "LastUpdate": 1754551915609,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
@@ -166,7 +143,7 @@
         ],
         "InternalName": "Saucy",
         "RepoUrl": "https://github.com/PunishXIV/Saucy",
-        "DownloadCount": 420182,
+        "DownloadCount": 420227,
         "LastUpdate": 1755277576897,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
@@ -180,25 +157,27 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png"
     },
     {
-        "Author": "Det, Taurenkey",
-        "Name": "AutoHook [Grinch API 13]",
-        "Punchline": "Makes fishing less (or more) boring",
-        "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
+        "Author": "kawaii, jukka",
+        "Name": "Palace Pal [Grinch API 13]",
+        "Punchline": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.",
+        "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
         "Tags": [
-            "Gathering",
-            "Fishing"
+            "potd",
+            "hoh",
+            "splatoon",
+            "palace"
         ],
-        "InternalName": "AutoHook",
-        "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-        "DownloadCount": 765118,
-        "LastUpdate": 1755110227199,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
-        "AssemblyVersion": "5.0.0.9",
+        "InternalName": "PalacePal",
+        "RepoUrl": "https://github.com/PunishXIV/PalacePal",
+        "DownloadCount": 153654,
+        "LastUpdate": 1754737396149,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
+        "AssemblyVersion": "4.13.0.0",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "13",
         "Changelog": "",
-        "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png"
+        "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png"
     },
     {
         "Author": "kawaii, NightmareXIV",
@@ -208,7 +187,7 @@
         "Tags": [],
         "InternalName": "AutoRetainer",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "DownloadCount": 1462528,
+        "DownloadCount": 1462591,
         "LastUpdate": 1754954042162,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -229,7 +208,7 @@
         "Tags": [],
         "InternalName": "YesAlready",
         "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-        "DownloadCount": 795806,
+        "DownloadCount": 795928,
         "LastUpdate": 1755589707846,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
@@ -243,28 +222,25 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/26/icon-v1pvonkr6r.png"
     },
     {
-        "Author": "NightmareXIV, Xenosys",
-        "Name": "Splatoon [Grinch API 13]",
-        "Punchline": "Redefining FFXIV navigation with unlimited, precise waymarks.",
-        "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
+        "Author": "Det, Taurenkey",
+        "Name": "AutoHook [Grinch API 13]",
+        "Punchline": "Makes fishing less (or more) boring",
+        "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
         "Tags": [
-            "Utility",
-            "Accessibility"
+            "Gathering",
+            "Fishing"
         ],
-        "InternalName": "Splatoon",
-        "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-        "DownloadCount": 1108050,
-        "LastUpdate": 1754801236139,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
-        "AssemblyVersion": "3.8.2.1",
+        "InternalName": "AutoHook",
+        "RepoUrl": "https://github.com/PunishXIV/AutoHook",
+        "DownloadCount": 765171,
+        "LastUpdate": 1755110227199,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
+        "AssemblyVersion": "5.0.0.9",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "13",
-        "Changelog": "- Added filter by layout's zone",
-        "TestingAssemblyVersion": "3.8.1.5",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/10/Splatoon/versions/testing.zip",
-        "TestingDalamudApiLevel": "12",
-        "IconUrl": "https://s3.puni.sh/media/plugin/10/icon-cchf5yumm2p.png"
+        "Changelog": "",
+        "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png"
     },
     {
         "Author": "NightmareXIV, akechi",
@@ -277,7 +253,7 @@
         ],
         "InternalName": "Questionable",
         "RepoUrl": "https://github.com/PunishXIV/Questionable",
-        "DownloadCount": 710,
+        "DownloadCount": 772,
         "LastUpdate": 1755809816176,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/94/Questionable/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/94/Questionable/versions/latest.zip",
@@ -285,6 +261,30 @@
         "ApplicableVersion": "any",
         "DalamudApiLevel": "13",
         "Changelog": ""
+    },
+    {
+        "Author": "NightmareXIV, Xenosys",
+        "Name": "Splatoon [Grinch API 13]",
+        "Punchline": "Redefining FFXIV navigation with unlimited, precise waymarks.",
+        "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
+        "Tags": [
+            "Utility",
+            "Accessibility"
+        ],
+        "InternalName": "Splatoon",
+        "RepoUrl": "https://github.com/PunishXIV/Splatoon",
+        "DownloadCount": 1108081,
+        "LastUpdate": 1754801236139,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
+        "AssemblyVersion": "3.8.2.1",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "13",
+        "Changelog": "- Added filter by layout's zone",
+        "TestingAssemblyVersion": "3.8.1.5",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/10/Splatoon/versions/testing.zip",
+        "TestingDalamudApiLevel": "12",
+        "IconUrl": "https://s3.puni.sh/media/plugin/10/icon-cchf5yumm2p.png"
     },
     {
         "Author": "Aireil",
@@ -454,7 +454,7 @@
         "Punchline": "Various tools to debug things.",
         "AcceptsFeedback": true,
         "Changelog": "- Fixed: There was a substantial FPS loss when displaying structs with a lot of field due to inheritance checks for type redirects. The result of inheritance checks is now cached.\n- Fixed: Hovering over an uninitialized `Character.CompanionObject` to highlight the position would crash the game because VirtualTable was a nullptr.\n- Updated: ClientStructs now at 2d10f753 (compare).",
-        "DownloadCount": 184,
+        "DownloadCount": 186,
         "LastUpdate": 1755284123,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.30.5/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.30.5/latest.zip"
@@ -476,7 +476,7 @@
         "Punchline": "A collection of quality of life tweaks.",
         "AcceptsFeedback": true,
         "Changelog": "Portrait Helper\n\nReworked a bunch of code regarding Menu Bar and its overlays and how it writes data to the clipboard. Hopefully everything works!\n\n- Fixed: The Portrait Browser, when popped out due to interface scaling, will no longer throw \"Cannot access a disposed object.\" errors and become unusable.",
-        "DownloadCount": 4931,
+        "DownloadCount": 5051,
         "LastUpdate": 1755390835,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v37.0.2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v37.0.2/latest.zip"
@@ -498,7 +498,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "Update for 7.3 (Dalamud API 13).",
-        "DownloadCount": 956,
+        "DownloadCount": 960,
         "LastUpdate": 1754742951,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.4/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.4/latest.zip"
@@ -1183,7 +1183,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.13/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.13/latest.zip",
-        "DownloadCount": 25983,
+        "DownloadCount": 26245,
         "LastUpdate": "1754893981"
     },
     {
