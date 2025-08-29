@@ -1,28 +1,5 @@
 [
     {
-        "Author": "Taurenkey, NightmareXIV, kawaii",
-        "Name": "Artisan [Grinch API 13]",
-        "Punchline": "A 'simple' crafting plugin.",
-        "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
-        "Tags": [
-            "crafting"
-        ],
-        "InternalName": "Artisan",
-        "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 3171437,
-        "LastUpdate": 1755236196041,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
-        "AssemblyVersion": "4.0.3.55",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "13",
-        "Changelog": "- UI fixes (by PhoenixtheII)",
-        "TestingAssemblyVersion": "4.0.3.53",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
-        "TestingDalamudApiLevel": "13",
-        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
-    },
-    {
         "Author": "Taurenkey, NightmareXIV, croizat",
         "Name": "Pandora's Box [Grinch API 13]",
         "Punchline": "Do you dare to open Pandora's Box?",
@@ -33,7 +10,7 @@
         ],
         "InternalName": "PandorasBox",
         "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-        "DownloadCount": 873956,
+        "DownloadCount": 874150,
         "LastUpdate": 1756336248939,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
@@ -45,6 +22,29 @@
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/testing.zip",
         "TestingDalamudApiLevel": "9",
         "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png"
+    },
+    {
+        "Author": "Taurenkey, NightmareXIV, kawaii",
+        "Name": "Artisan [Grinch API 13]",
+        "Punchline": "A 'simple' crafting plugin.",
+        "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
+        "Tags": [
+            "crafting"
+        ],
+        "InternalName": "Artisan",
+        "RepoUrl": "https://github.com/PunishXIV/Artisan",
+        "DownloadCount": 3171478,
+        "LastUpdate": 1755236196041,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
+        "AssemblyVersion": "4.0.3.55",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "13",
+        "Changelog": "- UI fixes (by PhoenixtheII)",
+        "TestingAssemblyVersion": "4.0.3.53",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
+        "TestingDalamudApiLevel": "13",
+        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
     },
     {
         "Author": "Taurenkey, NightmareXIV, Gidedin",
@@ -59,7 +59,7 @@
         ],
         "InternalName": "LazyLoot",
         "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-        "DownloadCount": 154699,
+        "DownloadCount": 154707,
         "LastUpdate": 1754949195613,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
@@ -80,7 +80,7 @@
         "Tags": [],
         "InternalName": "Orbwalker",
         "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
-        "DownloadCount": 56354,
+        "DownloadCount": 56356,
         "LastUpdate": 1755382108751,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
@@ -89,6 +89,26 @@
         "DalamudApiLevel": "13",
         "Changelog": "- Fix overlay",
         "IconUrl": "https://s3.puni.sh/media/plugin/12/icon-o94qaw6cyn.png"
+    },
+    {
+        "Author": "kawaii, NightmareXIV",
+        "Name": "Avarice [Grinch API 13]",
+        "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+        "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+        "Tags": [
+            "combat"
+        ],
+        "InternalName": "Avarice",
+        "RepoUrl": "https://github.com/PunishXIV/Avarice",
+        "DownloadCount": 209798,
+        "LastUpdate": 1754551915609,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
+        "AssemblyVersion": "2.1.1.3",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "13",
+        "Changelog": "- 7.3",
+        "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png"
     },
     {
         "Author": "kawaii, jukka",
@@ -103,7 +123,7 @@
         ],
         "InternalName": "PalacePal",
         "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-        "DownloadCount": 154983,
+        "DownloadCount": 154991,
         "LastUpdate": 1754737396149,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
@@ -112,26 +132,6 @@
         "DalamudApiLevel": "13",
         "Changelog": "",
         "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png"
-    },
-    {
-        "Author": "kawaii, NightmareXIV",
-        "Name": "Avarice [Grinch API 13]",
-        "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "Tags": [
-            "combat"
-        ],
-        "InternalName": "Avarice",
-        "RepoUrl": "https://github.com/PunishXIV/Avarice",
-        "DownloadCount": 209791,
-        "LastUpdate": 1754551915609,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
-        "AssemblyVersion": "2.1.1.3",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "13",
-        "Changelog": "- 7.3",
-        "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png"
     },
     {
         "Author": "Taurenkey, NightmareXIV",
@@ -145,7 +145,7 @@
         ],
         "InternalName": "Saucy",
         "RepoUrl": "https://github.com/PunishXIV/Saucy",
-        "DownloadCount": 423749,
+        "DownloadCount": 423765,
         "LastUpdate": 1755277576897,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
@@ -166,7 +166,7 @@
         "Tags": [],
         "InternalName": "WrathCombo",
         "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-        "DownloadCount": 373280,
+        "DownloadCount": 373312,
         "LastUpdate": 1756136645564,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/latest.zip",
@@ -190,7 +190,7 @@
         ],
         "InternalName": "Splatoon",
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-        "DownloadCount": 1110235,
+        "DownloadCount": 1110244,
         "LastUpdate": 1754801236139,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
@@ -214,7 +214,7 @@
         ],
         "InternalName": "AutoHook",
         "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-        "DownloadCount": 769315,
+        "DownloadCount": 769330,
         "LastUpdate": 1755110227199,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
@@ -232,7 +232,7 @@
         "Tags": [],
         "InternalName": "AutoRetainer",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "DownloadCount": 1488243,
+        "DownloadCount": 1488305,
         "LastUpdate": 1755673691951,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -246,6 +246,27 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
     },
     {
+        "Author": "NightmareXIV, Akechi",
+        "Name": "Questionable [Grinch API 13]",
+        "Punchline": "A tiny quest helper plugin",
+        "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
+        "Tags": [
+            "quests",
+            "msq"
+        ],
+        "InternalName": "Questionable",
+        "RepoUrl": "https://github.com/PunishXIV/Questionable",
+        "DownloadCount": 6043,
+        "LastUpdate": 1756157077385,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/94/Questionable/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/94/Questionable/versions/latest.zip",
+        "AssemblyVersion": "6.4.0.2",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "13",
+        "Changelog": "- Fix version numbering inside Questing window\n- Fix issue where certain quests would not progress correctly after a cutscene following duty completion (maybe)\n- Added \"An Unexpected Proposal\" quest",
+        "IconUrl": "https://s3.puni.sh/media/plugin/94/icon-k46r3zie7fh.png"
+    },
+    {
         "Author": "daemitus, kawaii",
         "Name": "Yes Already [Grinch API 13]",
         "Punchline": "Clicks Yes in various dialogs you've specified.",
@@ -253,7 +274,7 @@
         "Tags": [],
         "InternalName": "YesAlready",
         "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-        "DownloadCount": 802845,
+        "DownloadCount": 802876,
         "LastUpdate": 1755589707846,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
@@ -265,27 +286,6 @@
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/26/YesAlready/versions/testing.zip",
         "TestingDalamudApiLevel": "12",
         "IconUrl": "https://s3.puni.sh/media/plugin/26/icon-v1pvonkr6r.png"
-    },
-    {
-        "Author": "NightmareXIV, Akechi",
-        "Name": "Questionable [Grinch API 13]",
-        "Punchline": "A tiny quest helper plugin",
-        "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
-        "Tags": [
-            "quests",
-            "msq"
-        ],
-        "InternalName": "Questionable",
-        "RepoUrl": "https://github.com/PunishXIV/Questionable",
-        "DownloadCount": 6027,
-        "LastUpdate": 1756157077385,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/94/Questionable/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/94/Questionable/versions/latest.zip",
-        "AssemblyVersion": "6.4.0.2",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "13",
-        "Changelog": "- Fix version numbering inside Questing window\n- Fix issue where certain quests would not progress correctly after a cutscene following duty completion (maybe)\n- Added \"An Unexpected Proposal\" quest",
-        "IconUrl": "https://s3.puni.sh/media/plugin/94/icon-k46r3zie7fh.png"
     },
     {
         "Author": "Aireil",
@@ -455,7 +455,7 @@
         "Punchline": "Various tools to debug things.",
         "AcceptsFeedback": true,
         "Changelog": "- Added: Keybinds are now displayed in the Input tab.\n- Added: The Addon Config tab now has a sub-tab that lists all HudLayout configurable addons.\n- Updated: The GlobalParameters list in the RaptureTextModule tab was updated.\n- Updated: ClientStructs now at 0e5c2ea3 (compare).",
-        "DownloadCount": 126,
+        "DownloadCount": 130,
         "LastUpdate": 1756170706,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.31.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.31.0/latest.zip"
@@ -477,7 +477,7 @@
         "Punchline": "A collection of quality of life tweaks.",
         "AcceptsFeedback": true,
         "Changelog": "Portrait Helper\n\n- Fixed: The button for the Advanced Edit mode was incorrectly tied to the preset in clipboard detection. Copy/paste mistake, sorry.",
-        "DownloadCount": 3598,
+        "DownloadCount": 3880,
         "LastUpdate": 1756208250,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v37.0.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v37.0.3/latest.zip"
@@ -499,7 +499,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "Update for 7.3 (Dalamud API 13).",
-        "DownloadCount": 1033,
+        "DownloadCount": 1038,
         "LastUpdate": 1754742951,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.4/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.4/latest.zip"
@@ -591,7 +591,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1754743050,
-        "DownloadCount": 13,
+        "DownloadCount": 17,
         "DownloadLinkInstall": "https://github.com/Meisterlala/NekoFans/releases/download/1.3.6/NekoFans.zip",
         "DownloadLinkTesting": "https://github.com/Meisterlala/NekoFans/releases/download/1.3.6/NekoFans.zip",
         "DownloadLinkUpdate": "https://github.com/Meisterlala/NekoFans/releases/download/1.3.6/NekoFans.zip"
@@ -626,7 +626,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 1754743049,
-        "DownloadCount": 500,
+        "DownloadCount": 568,
         "DownloadLinkInstall": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.9-NSFW/NekoFansLewd.zip",
         "DownloadLinkTesting": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.9-NSFW/NekoFansLewd.zip",
         "DownloadLinkUpdate": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.9-NSFW/NekoFansLewd.zip",
