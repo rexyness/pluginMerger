@@ -1,29 +1,5 @@
 [
     {
-        "Author": "Taurenkey, NightmareXIV, croizat",
-        "Name": "Pandora's Box [Grinch API 13]",
-        "Punchline": "Do you dare to open Pandora's Box?",
-        "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
-        "Tags": [
-            "punish",
-            "plugin"
-        ],
-        "InternalName": "PandorasBox",
-        "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-        "DownloadCount": 891589,
-        "LastUpdate": 1756336248939,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
-        "AssemblyVersion": "1.6.3.18",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "13",
-        "Changelog": "- Solid Reason/Ageless Words fix.",
-        "TestingAssemblyVersion": "1.5.4.1",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/testing.zip",
-        "TestingDalamudApiLevel": "9",
-        "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png"
-    },
-    {
         "Author": "Taurenkey, NightmareXIV, Gidedin",
         "Name": "LazyLoot [Grinch API 13]",
         "Punchline": "Dungeon Loot but Lazy.",
@@ -48,6 +24,30 @@
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/testing.zip",
         "TestingDalamudApiLevel": "13",
         "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png"
+    },
+    {
+        "Author": "Taurenkey, NightmareXIV, croizat",
+        "Name": "Pandora's Box [Grinch API 13]",
+        "Punchline": "Do you dare to open Pandora's Box?",
+        "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
+        "Tags": [
+            "punish",
+            "plugin"
+        ],
+        "InternalName": "PandorasBox",
+        "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
+        "DownloadCount": 891598,
+        "LastUpdate": 1756336248939,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
+        "AssemblyVersion": "1.6.3.18",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "13",
+        "Changelog": "- Solid Reason/Ageless Words fix.",
+        "TestingAssemblyVersion": "1.5.4.1",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/testing.zip",
+        "TestingDalamudApiLevel": "9",
+        "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png"
     },
     {
         "Author": "kawaii, NightmareXIV",
@@ -79,7 +79,7 @@
         ],
         "InternalName": "Saucy",
         "RepoUrl": "https://github.com/PunishXIV/Saucy",
-        "DownloadCount": 427426,
+        "DownloadCount": 427430,
         "LastUpdate": 1755277576897,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
@@ -91,6 +91,29 @@
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/7/Saucy/versions/testing.zip",
         "TestingDalamudApiLevel": "9",
         "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png"
+    },
+    {
+        "Author": "kawaii, jukka",
+        "Name": "Palace Pal [Grinch API 13]",
+        "Punchline": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.",
+        "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
+        "Tags": [
+            "potd",
+            "hoh",
+            "splatoon",
+            "palace"
+        ],
+        "InternalName": "PalacePal",
+        "RepoUrl": "https://github.com/PunishXIV/PalacePal",
+        "DownloadCount": 157128,
+        "LastUpdate": 1754737396149,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
+        "AssemblyVersion": "4.13.0.0",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "13",
+        "Changelog": "",
+        "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png"
     },
     {
         "Author": "kawaii, NightmareXIV",
@@ -113,29 +136,6 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png"
     },
     {
-        "Author": "kawaii, jukka",
-        "Name": "Palace Pal [Grinch API 13]",
-        "Punchline": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.",
-        "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
-        "Tags": [
-            "potd",
-            "hoh",
-            "splatoon",
-            "palace"
-        ],
-        "InternalName": "PalacePal",
-        "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-        "DownloadCount": 157124,
-        "LastUpdate": 1754737396149,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
-        "AssemblyVersion": "4.13.0.0",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "13",
-        "Changelog": "",
-        "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png"
-    },
-    {
         "Author": "kawaii, NightmareXIV",
         "Name": "AutoRetainer [Grinch API 13]",
         "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
@@ -143,7 +143,7 @@
         "Tags": [],
         "InternalName": "AutoRetainer",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "DownloadCount": 1514503,
+        "DownloadCount": 1514606,
         "LastUpdate": 1756110059685,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -164,7 +164,7 @@
         ],
         "InternalName": "Splatoon",
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-        "DownloadCount": 1145985,
+        "DownloadCount": 1145996,
         "LastUpdate": 1756837943481,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
@@ -185,7 +185,7 @@
         "Tags": [],
         "InternalName": "WrathCombo",
         "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-        "DownloadCount": 406214,
+        "DownloadCount": 406240,
         "LastUpdate": 1757292455212,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/latest.zip",
@@ -209,7 +209,7 @@
         ],
         "InternalName": "Questionable",
         "RepoUrl": "https://github.com/PunishXIV/Questionable",
-        "DownloadCount": 22825,
+        "DownloadCount": 22844,
         "LastUpdate": 1757448775991,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/94/Questionable/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/94/Questionable/versions/latest.zip",
@@ -223,29 +223,6 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/94/icon-ayf2kn3uloc.png"
     },
     {
-        "Author": "Taurenkey, NightmareXIV, kawaii",
-        "Name": "Artisan [Grinch API 13]",
-        "Punchline": "A 'simple' crafting plugin.",
-        "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
-        "Tags": [
-            "crafting"
-        ],
-        "InternalName": "Artisan",
-        "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 3286805,
-        "LastUpdate": 1756838829006,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
-        "AssemblyVersion": "4.0.3.61",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "13",
-        "Changelog": "- Fix issues with raphael solver",
-        "TestingAssemblyVersion": "4.0.3.63",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
-        "TestingDalamudApiLevel": "13",
-        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
-    },
-    {
         "Author": "daemitus, kawaii",
         "Name": "Yes Already [Grinch API 13]",
         "Punchline": "Clicks Yes in various dialogs you've specified.",
@@ -253,7 +230,7 @@
         "Tags": [],
         "InternalName": "YesAlready",
         "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-        "DownloadCount": 857049,
+        "DownloadCount": 857109,
         "LastUpdate": 1757418638346,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
@@ -265,6 +242,29 @@
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/26/YesAlready/versions/testing.zip",
         "TestingDalamudApiLevel": "12",
         "IconUrl": "https://s3.puni.sh/media/plugin/26/icon-v1pvonkr6r.png"
+    },
+    {
+        "Author": "Taurenkey, NightmareXIV, kawaii",
+        "Name": "Artisan [Grinch API 13]",
+        "Punchline": "A 'simple' crafting plugin.",
+        "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
+        "Tags": [
+            "crafting"
+        ],
+        "InternalName": "Artisan",
+        "RepoUrl": "https://github.com/PunishXIV/Artisan",
+        "DownloadCount": 3286834,
+        "LastUpdate": 1756838829006,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
+        "AssemblyVersion": "4.0.3.61",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "13",
+        "Changelog": "- Fix issues with raphael solver",
+        "TestingAssemblyVersion": "4.0.3.63",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
+        "TestingDalamudApiLevel": "13",
+        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
     },
     {
         "Author": "Aireil",
