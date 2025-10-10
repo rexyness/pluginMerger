@@ -1,29 +1,5 @@
 [
     {
-        "Author": "Taurenkey, NightmareXIV, croizat",
-        "Name": "Pandora's Box [Grinch API 13]",
-        "Punchline": "Do you dare to open Pandora's Box?",
-        "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
-        "Tags": [
-            "punish",
-            "plugin"
-        ],
-        "InternalName": "PandorasBox",
-        "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-        "DownloadCount": 898413,
-        "LastUpdate": 1756336248,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.3.18/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.3.18/latest.zip",
-        "AssemblyVersion": "1.6.3.18",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "13",
-        "Changelog": "- Solid Reason/Ageless Words fix.",
-        "TestingAssemblyVersion": "1.5.4.1",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.5.4.1/testing.zip",
-        "TestingDalamudApiLevel": "9",
-        "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png"
-    },
-    {
         "Author": "Taurenkey, NightmareXIV, Gidedin",
         "Name": "LazyLoot [Grinch API 13]",
         "Punchline": "Dungeon Loot but Lazy.",
@@ -36,7 +12,7 @@
         ],
         "InternalName": "LazyLoot",
         "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-        "DownloadCount": 165573,
+        "DownloadCount": 165579,
         "LastUpdate": 1758304680,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.2.3/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.2.3/latest.zip",
@@ -50,6 +26,30 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png"
     },
     {
+        "Author": "Taurenkey, NightmareXIV, croizat",
+        "Name": "Pandora's Box [Grinch API 13]",
+        "Punchline": "Do you dare to open Pandora's Box?",
+        "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
+        "Tags": [
+            "punish",
+            "plugin"
+        ],
+        "InternalName": "PandorasBox",
+        "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
+        "DownloadCount": 898418,
+        "LastUpdate": 1756336248,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.3.18/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.3.18/latest.zip",
+        "AssemblyVersion": "1.6.3.18",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "13",
+        "Changelog": "- Solid Reason/Ageless Words fix.",
+        "TestingAssemblyVersion": "1.5.4.1",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.5.4.1/testing.zip",
+        "TestingDalamudApiLevel": "9",
+        "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png"
+    },
+    {
         "Author": "kawaii, NightmareXIV",
         "Name": "Orbwalker [Grinch API 13]",
         "Punchline": "S P A C E G L I D I N G",
@@ -57,7 +57,7 @@
         "Tags": [],
         "InternalName": "Orbwalker",
         "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
-        "DownloadCount": 61216,
+        "DownloadCount": 61221,
         "LastUpdate": 1757745201,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/1.0.1.6/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/1.0.1.6/latest.zip",
@@ -66,29 +66,6 @@
         "DalamudApiLevel": "13",
         "Changelog": "- Improved job selection UI\n- Fixed error caused by selecting DoH/DoL in Jobs tab (by Akechi)\n- Added Meditate from SAM under Job-specific Actions in Extras tab (by Akechi)\n- Added Block All Movement option; supports Controller & KBM (by Akechi)\n- UI cleanup (by Akechi)\n- Vector mode for overlay, supports vertical layout (by wah)",
         "IconUrl": "https://s3.puni.sh/media/plugin/12/icon-o94qaw6cyn.png"
-    },
-    {
-        "Author": "Taurenkey, NightmareXIV, kawaii",
-        "Name": "Artisan [Grinch API 13]",
-        "Punchline": "A 'simple' crafting plugin.",
-        "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
-        "Tags": [
-            "crafting"
-        ],
-        "InternalName": "Artisan",
-        "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 3363720,
-        "LastUpdate": 1759915183,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.0/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.0/latest.zip",
-        "AssemblyVersion": "4.0.4.0",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "13",
-        "Changelog": "- Updated Raphael solver to support new recipes\n- Skip Raphael auto-switch for recipes that already have a macro assigned option (by xan)\n- Add configurable option to play crafting completed sound on error (by TheOddball)",
-        "TestingAssemblyVersion": "4.0.4.0",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.0/testing.zip",
-        "TestingDalamudApiLevel": "13",
-        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
     },
     {
         "Author": "Taurenkey, NightmareXIV",
@@ -102,7 +79,7 @@
         ],
         "InternalName": "Saucy",
         "RepoUrl": "https://github.com/PunishXIV/Saucy",
-        "DownloadCount": 432218,
+        "DownloadCount": 432219,
         "LastUpdate": 1755277576,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/1.4.2.7/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/1.4.2.7/latest.zip",
@@ -114,26 +91,6 @@
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/7/Saucy/versions/1.3.0.4/testing.zip",
         "TestingDalamudApiLevel": "9",
         "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png"
-    },
-    {
-        "Author": "kawaii, NightmareXIV",
-        "Name": "Avarice [Grinch API 13]",
-        "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "Tags": [
-            "combat"
-        ],
-        "InternalName": "Avarice",
-        "RepoUrl": "https://github.com/PunishXIV/Avarice",
-        "DownloadCount": 216964,
-        "LastUpdate": 1754551915,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.1.1.3/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.1.1.3/latest.zip",
-        "AssemblyVersion": "2.1.1.3",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "13",
-        "Changelog": "- 7.3",
-        "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png"
     },
     {
         "Author": "kawaii, jukka",
@@ -148,7 +105,7 @@
         ],
         "InternalName": "PalacePal",
         "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-        "DownloadCount": 163363,
+        "DownloadCount": 163372,
         "LastUpdate": 1754737396,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.13.0.0/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.13.0.0/latest.zip",
@@ -163,13 +120,56 @@
     },
     {
         "Author": "kawaii, NightmareXIV",
+        "Name": "Avarice [Grinch API 13]",
+        "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+        "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+        "Tags": [
+            "combat"
+        ],
+        "InternalName": "Avarice",
+        "RepoUrl": "https://github.com/PunishXIV/Avarice",
+        "DownloadCount": 216966,
+        "LastUpdate": 1754551915,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.1.1.3/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.1.1.3/latest.zip",
+        "AssemblyVersion": "2.1.1.3",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "13",
+        "Changelog": "- 7.3",
+        "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png"
+    },
+    {
+        "Author": "Taurenkey, NightmareXIV, kawaii",
+        "Name": "Artisan [Grinch API 13]",
+        "Punchline": "A 'simple' crafting plugin.",
+        "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
+        "Tags": [
+            "crafting"
+        ],
+        "InternalName": "Artisan",
+        "RepoUrl": "https://github.com/PunishXIV/Artisan",
+        "DownloadCount": 3363756,
+        "LastUpdate": 1759915183,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.0/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.0/latest.zip",
+        "AssemblyVersion": "4.0.4.0",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "13",
+        "Changelog": "- Updated Raphael solver to support new recipes\n- Skip Raphael auto-switch for recipes that already have a macro assigned option (by xan)\n- Add configurable option to play crafting completed sound on error (by TheOddball)",
+        "TestingAssemblyVersion": "4.0.4.0",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.0/testing.zip",
+        "TestingDalamudApiLevel": "13",
+        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
+    },
+    {
+        "Author": "kawaii, NightmareXIV",
         "Name": "AutoRetainer [Grinch API 13]",
         "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
         "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
         "Tags": [],
         "InternalName": "AutoRetainer",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "DownloadCount": 1535370,
+        "DownloadCount": 1535380,
         "LastUpdate": 1756110059,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.5.2.1/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.5.2.1/latest.zip",
@@ -180,30 +180,6 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
     },
     {
-        "Author": "Liza Carvelli & various contributors",
-        "Name": "Questionable [Grinch API 13]",
-        "Punchline": "A tiny quest helper plugin.",
-        "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
-        "Tags": [
-            "quests",
-            "msq"
-        ],
-        "InternalName": "Questionable",
-        "RepoUrl": "https://github.com/PunishXIV/Questionable",
-        "DownloadCount": 40936,
-        "LastUpdate": 1760059830,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/94/Questionable/versions/6.8.22.0/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/94/Questionable/versions/6.8.22.0/latest.zip",
-        "AssemblyVersion": "6.8.22.0",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "13",
-        "Changelog": "- Add rng options for Yok Huy 5339\n",
-        "TestingAssemblyVersion": "6.6.0.9",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/94/Questionable/versions/6.6.0.9/testing.zip",
-        "TestingDalamudApiLevel": "13",
-        "IconUrl": "https://s3.puni.sh/media/plugin/94/icon-ayf2kn3uloc.png"
-    },
-    {
         "Author": "Team Wrath",
         "Name": "Wrath Combo [Grinch API 13]",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
@@ -211,7 +187,7 @@
         "Tags": [],
         "InternalName": "WrathCombo",
         "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-        "DownloadCount": 427903,
+        "DownloadCount": 427916,
         "LastUpdate": 1759721146,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.2.12/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.2.12/latest.zip",
@@ -235,7 +211,7 @@
         ],
         "InternalName": "AutoHook",
         "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-        "DownloadCount": 837246,
+        "DownloadCount": 837262,
         "LastUpdate": 1759047257,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/5.0.0.15/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/5.0.0.15/latest.zip",
@@ -244,6 +220,30 @@
         "DalamudApiLevel": "13",
         "Changelog": "",
         "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png"
+    },
+    {
+        "Author": "Liza Carvelli & various contributors",
+        "Name": "Questionable [Grinch API 13]",
+        "Punchline": "A tiny quest helper plugin.",
+        "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
+        "Tags": [
+            "quests",
+            "msq"
+        ],
+        "InternalName": "Questionable",
+        "RepoUrl": "https://github.com/PunishXIV/Questionable",
+        "DownloadCount": 40962,
+        "LastUpdate": 1760059830,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/94/Questionable/versions/6.8.22.0/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/94/Questionable/versions/6.8.22.0/latest.zip",
+        "AssemblyVersion": "6.8.22.0",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "13",
+        "Changelog": "- Add rng options for Yok Huy 5339\n",
+        "TestingAssemblyVersion": "6.6.0.9",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/94/Questionable/versions/6.6.0.9/testing.zip",
+        "TestingDalamudApiLevel": "13",
+        "IconUrl": "https://s3.puni.sh/media/plugin/94/icon-ayf2kn3uloc.png"
     },
     {
         "Author": "NightmareXIV, Xenosys",
@@ -256,7 +256,7 @@
         ],
         "InternalName": "Splatoon",
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-        "DownloadCount": 1183460,
+        "DownloadCount": 1183470,
         "LastUpdate": 1758169429,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.8.4.0/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.8.4.0/latest.zip",
@@ -277,7 +277,7 @@
         "Tags": [],
         "InternalName": "YesAlready",
         "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-        "DownloadCount": 886795,
+        "DownloadCount": 886805,
         "LastUpdate": 1757873731,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.13.03/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.13.03/latest.zip",
@@ -458,7 +458,7 @@
         "Punchline": "Various tools to debug things.",
         "AcceptsFeedback": true,
         "Changelog": "- Added: Golden Agent/Addon navigation links in the Addon Inspector and Agents tabs.\n- Added: The Addon Inspector now shows the callback handler, including EventKind.\n- Added: ByteColor structs now also show the color in CSS hex color notation (8 digits), the UIColor RowId (if found for the current theme) and a small visual preview.\n- Added: Type redirect for MassivePcContentDirector.\n- Updated: ClientStructs now at b41eccb6 (compare).",
-        "DownloadCount": 205,
+        "DownloadCount": 206,
         "LastUpdate": 1759098360,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.36.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.36.0/latest.zip"
@@ -480,7 +480,7 @@
         "Punchline": "A collection of quality of life tweaks.",
         "AcceptsFeedback": true,
         "Changelog": "Cosmic Research in Duty List\n\n- Fixed: A rounding issue that causes datasets to be marked as complete when they actually weren't.",
-        "DownloadCount": 5958,
+        "DownloadCount": 6019,
         "LastUpdate": 1759073271,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v40.0.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v40.0.1/latest.zip"
@@ -502,7 +502,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "Update for 7.3 (Dalamud API 13).",
-        "DownloadCount": 1359,
+        "DownloadCount": 1360,
         "LastUpdate": 1754742951,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.4/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.4/latest.zip"
@@ -1357,7 +1357,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.13/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.13/latest.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 36867,
         "LastUpdate": "1754893981"
     },
     {
