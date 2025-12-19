@@ -1,26 +1,5 @@
 [
     {
-        "Author": "Team Wrath",
-        "Name": "Wrath Combo [Grinch API 13]",
-        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
-        "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
-        "Tags": [],
-        "InternalName": "WrathCombo",
-        "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-        "DownloadCount": 504077,
-        "LastUpdate": 1766101467,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.3.0/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.3.0/latest.zip",
-        "AssemblyVersion": "1.0.3.0",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "14",
-        "Changelog": "Please check the project's GitHub or Discord for a full changelog.",
-        "TestingAssemblyVersion": "1.0.2.24",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.2.24/testing.zip",
-        "TestingDalamudApiLevel": "13",
-        "IconUrl": "https://s3.puni.sh/media/plugin/60/icon-2bwhkn3zf1f.png"
-    },
-    {
         "Author": "kawaii, NightmareXIV",
         "Name": "Orbwalker [Grinch API 13]",
         "Punchline": "S P A C E G L I D I N G",
@@ -49,7 +28,7 @@
         ],
         "InternalName": "PandorasBox",
         "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-        "DownloadCount": 954881,
+        "DownloadCount": 955479,
         "LastUpdate": 1766081698,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.3.24/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.3.24/latest.zip",
@@ -63,6 +42,50 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png"
     },
     {
+        "Author": "Team Wrath",
+        "Name": "Wrath Combo [Grinch API 13]",
+        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
+        "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
+        "Tags": [],
+        "InternalName": "WrathCombo",
+        "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
+        "DownloadCount": 504396,
+        "LastUpdate": 1766101467,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.3.0/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.3.0/latest.zip",
+        "AssemblyVersion": "1.0.3.0",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "14",
+        "Changelog": "Please check the project's GitHub or Discord for a full changelog.",
+        "TestingAssemblyVersion": "1.0.2.24",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.2.24/testing.zip",
+        "TestingDalamudApiLevel": "13",
+        "IconUrl": "https://s3.puni.sh/media/plugin/60/icon-2bwhkn3zf1f.png"
+    },
+    {
+        "Author": "Taurenkey, NightmareXIV, kawaii",
+        "Name": "Artisan [Grinch API 13]",
+        "Punchline": "A 'simple' crafting plugin.",
+        "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
+        "Tags": [
+            "crafting"
+        ],
+        "InternalName": "Artisan",
+        "RepoUrl": "https://github.com/PunishXIV/Artisan",
+        "DownloadCount": 3572508,
+        "LastUpdate": 1766092679,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.12/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.12/latest.zip",
+        "AssemblyVersion": "4.0.4.12",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "14",
+        "Changelog": "- 7.4.",
+        "TestingAssemblyVersion": "4.0.4.7",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.7/testing.zip",
+        "TestingDalamudApiLevel": "13",
+        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
+    },
+    {
         "Author": "kawaii, NightmareXIV",
         "Name": "Avarice [Grinch API 13]",
         "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
@@ -72,7 +95,7 @@
         ],
         "InternalName": "Avarice",
         "RepoUrl": "https://github.com/PunishXIV/Avarice",
-        "DownloadCount": 234700,
+        "DownloadCount": 234963,
         "LastUpdate": 1766113417,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.2/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.2/latest.zip",
@@ -94,7 +117,7 @@
         ],
         "InternalName": "Saucy",
         "RepoUrl": "https://github.com/PunishXIV/Saucy",
-        "DownloadCount": 444409,
+        "DownloadCount": 445016,
         "LastUpdate": 1766123382,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/1.4.2.8/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/1.4.2.8/latest.zip",
@@ -108,29 +131,6 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png"
     },
     {
-        "Author": "Taurenkey, NightmareXIV, kawaii",
-        "Name": "Artisan [Grinch API 13]",
-        "Punchline": "A 'simple' crafting plugin.",
-        "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
-        "Tags": [
-            "crafting"
-        ],
-        "InternalName": "Artisan",
-        "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 3571232,
-        "LastUpdate": 1766092679,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.12/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.12/latest.zip",
-        "AssemblyVersion": "4.0.4.12",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "14",
-        "Changelog": "- 7.4.",
-        "TestingAssemblyVersion": "4.0.4.7",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.7/testing.zip",
-        "TestingDalamudApiLevel": "13",
-        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
-    },
-    {
         "Author": "kawaii, NightmareXIV",
         "Name": "AutoRetainer [Grinch API 13]",
         "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
@@ -138,7 +138,7 @@
         "Tags": [],
         "InternalName": "AutoRetainer",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "DownloadCount": 1678566,
+        "DownloadCount": 1679317,
         "LastUpdate": 1766099072,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.5.5.2/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.5.5.2/latest.zip",
@@ -150,6 +150,27 @@
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.5.4.13/testing.zip",
         "TestingDalamudApiLevel": "13",
         "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
+    },
+    {
+        "Author": "daemitus, kawaii",
+        "Name": "Yes Already [Grinch API 13]",
+        "Punchline": "Clicks Yes in various dialogs you've specified.",
+        "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
+        "Tags": [],
+        "InternalName": "YesAlready",
+        "RepoUrl": "https://github.com/PunishXIV/YesAlready",
+        "DownloadCount": 938204,
+        "LastUpdate": 1766168541,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.14.02/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.14.02/latest.zip",
+        "AssemblyVersion": "1.14.02",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "14",
+        "Changelog": "",
+        "TestingAssemblyVersion": "1.10.4.0",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.10.4.0/testing.zip",
+        "TestingDalamudApiLevel": "12",
+        "IconUrl": "https://s3.puni.sh/media/plugin/26/icon-v1pvonkr6r.png"
     },
     {
         "Author": "kawaii, jukka",
@@ -173,27 +194,6 @@
         "DalamudApiLevel": "13",
         "Changelog": "",
         "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png"
-    },
-    {
-        "Author": "daemitus, kawaii",
-        "Name": "Yes Already [Grinch API 13]",
-        "Punchline": "Clicks Yes in various dialogs you've specified.",
-        "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
-        "Tags": [],
-        "InternalName": "YesAlready",
-        "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-        "DownloadCount": 936532,
-        "LastUpdate": 1766168541,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.14.02/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.14.02/latest.zip",
-        "AssemblyVersion": "1.14.02",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "14",
-        "Changelog": "",
-        "TestingAssemblyVersion": "1.10.4.0",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.10.4.0/testing.zip",
-        "TestingDalamudApiLevel": "12",
-        "IconUrl": "https://s3.puni.sh/media/plugin/26/icon-v1pvonkr6r.png"
     },
     {
         "Author": "Taurenkey, NightmareXIV, Gidedin",
@@ -222,27 +222,6 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png"
     },
     {
-        "Author": "Det, Taurenkey",
-        "Name": "AutoHook [Grinch API 13]",
-        "Punchline": "Makes fishing less (or more) boring",
-        "Description": "It hooks the fish for you, can you believe it?",
-        "Tags": [
-            "Gathering",
-            "Fishing"
-        ],
-        "InternalName": "AutoHook",
-        "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-        "DownloadCount": 930211,
-        "LastUpdate": 1766147788,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/5.0.0.27/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/5.0.0.27/latest.zip",
-        "AssemblyVersion": "5.0.0.27",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "14",
-        "Changelog": "",
-        "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png"
-    },
-    {
         "Author": "Liza Carvelli & various contributors",
         "Name": "Questionable [Grinch API 13]",
         "Punchline": "A tiny quest helper plugin.",
@@ -255,18 +234,39 @@
         ],
         "InternalName": "Questionable",
         "RepoUrl": "https://github.com/PunishXIV/Questionable",
-        "DownloadCount": 214163,
-        "LastUpdate": 1766165265,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/94/Questionable/versions/14.200.2.0/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/94/Questionable/versions/14.200.2.0/latest.zip",
-        "AssemblyVersion": "14.200.2.0",
+        "DownloadCount": 215181,
+        "LastUpdate": 1766172687,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/94/Questionable/versions/14.200.3.0/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/94/Questionable/versions/14.200.3.0/latest.zip",
+        "AssemblyVersion": "14.200.3.0",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "14",
-        "Changelog": "- api14\n- a lot of stuff is broken\n- but i added the starlight quest\n- and a note saying that stuff is broken",
+        "Changelog": "- api14\n- a lot of stuff is broken\n- but i added the starlight quest\n- and a note saying that stuff is broken\n- Taurenkey fixed the journal",
         "TestingAssemblyVersion": "6.23.16.1",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/94/Questionable/versions/6.23.16.1/testing.zip",
         "TestingDalamudApiLevel": "13",
         "IconUrl": "https://s3.puni.sh/media/plugin/94/icon-ayf2kn3uloc.png"
+    },
+    {
+        "Author": "Det, Taurenkey",
+        "Name": "AutoHook [Grinch API 13]",
+        "Punchline": "Makes fishing less (or more) boring",
+        "Description": "It hooks the fish for you, can you believe it?",
+        "Tags": [
+            "Gathering",
+            "Fishing"
+        ],
+        "InternalName": "AutoHook",
+        "RepoUrl": "https://github.com/PunishXIV/AutoHook",
+        "DownloadCount": 931098,
+        "LastUpdate": 1766147788,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/5.0.0.27/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/5.0.0.27/latest.zip",
+        "AssemblyVersion": "5.0.0.27",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "14",
+        "Changelog": "",
+        "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png"
     },
     {
         "Author": "NightmareXIV, Xenosys",
@@ -279,7 +279,7 @@
         ],
         "InternalName": "Splatoon",
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-        "DownloadCount": 1296312,
+        "DownloadCount": 1296860,
         "LastUpdate": 1766121655,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.8.5.2/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.8.5.2/latest.zip",
@@ -397,7 +397,7 @@
         "Author": "BardToolbox",
         "Name": "BardToolbox [Grinch API 13]",
         "InternalName": "BardToolbox",
-        "AssemblyVersion": "2.2.4.2",
+        "AssemblyVersion": "2.2.4.3",
         "Description": "",
         "ApplicableVersion": "any",
         "RepoUrl": "https://discord.gg/h9Nt5NXZWz",
@@ -466,7 +466,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "DownloadCount": 62310,
-        "LastUpdate": "1766067831",
+        "LastUpdate": "1766108205",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/latest.zip"
@@ -635,7 +635,7 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/ZanarkandEmoteLog/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/ZanarkandEmoteLog/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1765230007"
+        "LastUpdated": "1766172991"
     },
     {
         "Author": "Aida Enna, Edited by Rico Stryker and Nyanko, Rebranded by Maxunit",
@@ -643,7 +643,7 @@
         "Punchline": "Play a chime when someone comes into a house.",
         "Description": "Play a chime when someone comes into a house, when they leave or when entering a house people are already inside.\n\nIcon by Flaticon",
         "InternalName": "ZanarkandDoorbell",
-        "AssemblyVersion": "1.0.4.0",
+        "AssemblyVersion": "1.0.4.1",
         "RepoUrl": "https://github.com/Maxunit/ZanarkandDoorbell",
         "ApplicableVersion": "any",
         "Tags": [
@@ -652,7 +652,7 @@
             "aida",
             "rico"
         ],
-        "DalamudApiLevel": 13,
+        "DalamudApiLevel": 14,
         "LoadPriority": 0,
         "IconUrl": "https://i.imgur.com/wtOolxu.png",
         "DownloadLinkInstall": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/ZanarkandDoorbell/latest.zip",
@@ -661,7 +661,7 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/ZanarkandDoorbell/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/ZanarkandDoorbell/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1765230007"
+        "LastUpdated": "1766172991"
     },
     {
         "Author": "SaltyCog",
@@ -681,7 +681,7 @@
         "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/StartupCommands/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/StartupCommands/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1765230007"
+        "LastUpdated": "1766172991"
     },
     {
         "Author": "Meisterlala",
