@@ -7,7 +7,7 @@
         "Tags": [],
         "InternalName": "WrathCombo",
         "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-        "DownloadCount": 506947,
+        "DownloadCount": 507069,
         "LastUpdate": 1766101467,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.3.0/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.3.0/latest.zip",
@@ -31,7 +31,7 @@
         ],
         "InternalName": "PandorasBox",
         "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-        "DownloadCount": 959974,
+        "DownloadCount": 960116,
         "LastUpdate": 1766081698,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.3.24/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.3.24/latest.zip",
@@ -74,7 +74,7 @@
         ],
         "InternalName": "Saucy",
         "RepoUrl": "https://github.com/PunishXIV/Saucy",
-        "DownloadCount": 449217,
+        "DownloadCount": 449348,
         "LastUpdate": 1766123382,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/1.4.2.8/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/1.4.2.8/latest.zip",
@@ -88,6 +88,26 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png"
     },
     {
+        "Author": "kawaii, NightmareXIV",
+        "Name": "Avarice [Grinch API 13]",
+        "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+        "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+        "Tags": [
+            "combat"
+        ],
+        "InternalName": "Avarice",
+        "RepoUrl": "https://github.com/PunishXIV/Avarice",
+        "DownloadCount": 237246,
+        "LastUpdate": 1766113417,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.2/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.2/latest.zip",
+        "AssemblyVersion": "2.2.0.2",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "14",
+        "Changelog": "- 7.4",
+        "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png"
+    },
+    {
         "Author": "Taurenkey, NightmareXIV, kawaii",
         "Name": "Artisan [Grinch API 13]",
         "Punchline": "A 'simple' crafting plugin.",
@@ -97,7 +117,7 @@
         ],
         "InternalName": "Artisan",
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 3582204,
+        "DownloadCount": 3582578,
         "LastUpdate": 1766092679,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.12/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.12/latest.zip",
@@ -111,24 +131,25 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
     },
     {
-        "Author": "kawaii, NightmareXIV",
-        "Name": "Avarice [Grinch API 13]",
-        "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "Tags": [
-            "combat"
-        ],
-        "InternalName": "Avarice",
-        "RepoUrl": "https://github.com/PunishXIV/Avarice",
-        "DownloadCount": 237151,
-        "LastUpdate": 1766113417,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.2/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.2/latest.zip",
-        "AssemblyVersion": "2.2.0.2",
+        "Author": "daemitus, kawaii",
+        "Name": "Yes Already [Grinch API 13]",
+        "Punchline": "Clicks Yes in various dialogs you've specified.",
+        "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
+        "Tags": [],
+        "InternalName": "YesAlready",
+        "RepoUrl": "https://github.com/PunishXIV/YesAlready",
+        "DownloadCount": 952143,
+        "LastUpdate": 1766186061,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.14.03/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.14.03/latest.zip",
+        "AssemblyVersion": "1.14.03",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "14",
-        "Changelog": "- 7.4",
-        "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png"
+        "Changelog": "",
+        "TestingAssemblyVersion": "1.10.4.0",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.10.4.0/testing.zip",
+        "TestingDalamudApiLevel": "12",
+        "IconUrl": "https://s3.puni.sh/media/plugin/26/icon-v1pvonkr6r.png"
     },
     {
         "Author": "kawaii, NightmareXIV",
@@ -138,7 +159,7 @@
         "Tags": [],
         "InternalName": "AutoRetainer",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "DownloadCount": 1684730,
+        "DownloadCount": 1684935,
         "LastUpdate": 1766099072,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.5.5.2/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.5.5.2/latest.zip",
@@ -173,27 +194,6 @@
         "DalamudApiLevel": "13",
         "Changelog": "",
         "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png"
-    },
-    {
-        "Author": "daemitus, kawaii",
-        "Name": "Yes Already [Grinch API 13]",
-        "Punchline": "Clicks Yes in various dialogs you've specified.",
-        "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
-        "Tags": [],
-        "InternalName": "YesAlready",
-        "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-        "DownloadCount": 951714,
-        "LastUpdate": 1766186061,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.14.03/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.14.03/latest.zip",
-        "AssemblyVersion": "1.14.03",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "14",
-        "Changelog": "",
-        "TestingAssemblyVersion": "1.10.4.0",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.10.4.0/testing.zip",
-        "TestingDalamudApiLevel": "12",
-        "IconUrl": "https://s3.puni.sh/media/plugin/26/icon-v1pvonkr6r.png"
     },
     {
         "Author": "Taurenkey, NightmareXIV, Gidedin",
@@ -232,7 +232,7 @@
         ],
         "InternalName": "AutoHook",
         "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-        "DownloadCount": 937979,
+        "DownloadCount": 938220,
         "LastUpdate": 1766147788,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/5.0.0.27/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/5.0.0.27/latest.zip",
@@ -255,7 +255,7 @@
         ],
         "InternalName": "Questionable",
         "RepoUrl": "https://github.com/PunishXIV/Questionable",
-        "DownloadCount": 221522,
+        "DownloadCount": 221685,
         "LastUpdate": 1766182271,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/94/Questionable/versions/14.200.4.0/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/94/Questionable/versions/14.200.4.0/latest.zip",
@@ -279,7 +279,7 @@
         ],
         "InternalName": "Splatoon",
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-        "DownloadCount": 1301544,
+        "DownloadCount": 1301755,
         "LastUpdate": 1766121655,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.8.5.2/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.8.5.2/latest.zip",
@@ -509,7 +509,7 @@
         "Punchline": "Various tools to debug things.",
         "AcceptsFeedback": true,
         "Changelog": "- Fixed: The Outfits tab now pulls data directly from MirageManager instead of the ItemFinderModule when it's loaded, because the data in ItemFinderModule is out of date when you're not actively running item searches.\n- Fixed: The Restore Item context menu entry when right-clicking an item in the Outfits tab no longer has a checkmark next to it. (Note: Restoring might still fail. Maybe there is also some internal countdown. Just retry.)",
-        "DownloadCount": 0,
+        "DownloadCount": 102,
         "LastUpdate": 1766199211,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.42.4/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselDebug/releases/download/v1.42.4/latest.zip"
@@ -531,7 +531,7 @@
         "Punchline": "A collection of quality of life tweaks.",
         "AcceptsFeedback": true,
         "Changelog": "Outfit Glamour Try On\n\n- Fixed: Context menu entry didn't work correctly due to offset changes.",
-        "DownloadCount": 2695,
+        "DownloadCount": 3112,
         "LastUpdate": 1766107822,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v40.1.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/HaselTweaks/releases/download/v40.1.1/latest.zip"
@@ -553,7 +553,7 @@
         "Punchline": "A little helper for Levequests.",
         "AcceptsFeedback": true,
         "Changelog": "Update for 7.4 (Dalamud API 14).",
-        "DownloadCount": 398,
+        "DownloadCount": 462,
         "LastUpdate": 1766113008,
         "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.5/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.5.5/latest.zip"
@@ -1226,24 +1226,51 @@
         "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
         "Changelog": "",
         "InternalName": "ReAction",
-        "AssemblyVersion": "1.3.4.2",
+        "AssemblyVersion": "1.3.4.3",
         "RepoUrl": "https://github.com/UnknownX7/ReAction",
         "ApplicableVersion": "any",
         "CategoryTags": [
             "jobs"
         ],
-        "DalamudApiLevel": 13,
+        "DalamudApiLevel": 14,
         "IconUrl": "",
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.4.2/latest.zip",
+        "DownloadLinkInstall": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.4.3/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.4.2/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.4.2/latest.zip",
-        "DownloadCount": 17201,
-        "LastUpdate": "1754732126"
+        "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.4.3/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.4.3/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1766232634"
+    },
+    {
+        "Author": "UnknownX",
+        "Name": "NoClippy [Grinch API 13]",
+        "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
+        "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
+        "Changelog": "Fixed for 7.4 (Thanks to Zeffuro)",
+        "InternalName": "NoClippy",
+        "AssemblyVersion": "0.5.0.20",
+        "RepoUrl": "https://github.com/UnknownX7/NoClippy",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "jobs",
+            "utility"
+        ],
+        "DalamudApiLevel": 14,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.20/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.20/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.20/latest.zip",
+        "DownloadCount": 5769,
+        "LastUpdate": "1766199482"
     },
     {
         "Author": "NightmareXIV,Errer(\u672c\u5730\u7279\u5316)",
@@ -1352,33 +1379,6 @@
     },
     {
         "Author": "UnknownX",
-        "Name": "NoClippy [Grinch API 13]",
-        "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
-        "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
-        "Changelog": "Fixed for 7.4 (Thanks to Zeffuro)",
-        "InternalName": "NoClippy",
-        "AssemblyVersion": "0.5.0.20",
-        "RepoUrl": "https://github.com/UnknownX7/NoClippy",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "jobs",
-            "utility"
-        ],
-        "DalamudApiLevel": 14,
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.20/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.20/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.20/latest.zip",
-        "DownloadCount": 501,
-        "LastUpdate": "1766199482"
-    },
-    {
-        "Author": "UnknownX",
         "Name": "Cammy [Grinch API 13]",
         "Punchline": "A simple editor for the game's camera settings",
         "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
@@ -1400,7 +1400,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.14/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.14/latest.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 5424,
         "LastUpdate": "1766200983"
     },
     {
