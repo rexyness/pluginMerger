@@ -1,29 +1,5 @@
 [
     {
-        "Author": "Taurenkey, NightmareXIV, croizat",
-        "Name": "Pandora's Box [Grinch API 13]",
-        "Punchline": "Do you dare to open Pandora's Box?",
-        "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
-        "Tags": [
-            "punish",
-            "plugin"
-        ],
-        "InternalName": "PandorasBox",
-        "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-        "DownloadCount": 959474,
-        "LastUpdate": 1766081698,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.3.24/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.3.24/latest.zip",
-        "AssemblyVersion": "1.6.3.24",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "14",
-        "Changelog": "- 7.4",
-        "TestingAssemblyVersion": "1.5.4.1",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.5.4.1/testing.zip",
-        "TestingDalamudApiLevel": "9",
-        "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png"
-    },
-    {
         "Author": "kawaii, NightmareXIV",
         "Name": "Orbwalker [Grinch API 13]",
         "Punchline": "S P A C E G L I D I N G",
@@ -49,7 +25,7 @@
         "Tags": [],
         "InternalName": "WrathCombo",
         "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-        "DownloadCount": 506632,
+        "DownloadCount": 506741,
         "LastUpdate": 1766101467,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.3.0/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.3.0/latest.zip",
@@ -63,27 +39,48 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/60/icon-2bwhkn3zf1f.png"
     },
     {
-        "Author": "Taurenkey, NightmareXIV, kawaii",
-        "Name": "Artisan [Grinch API 13]",
-        "Punchline": "A 'simple' crafting plugin.",
-        "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
+        "Author": "Taurenkey, NightmareXIV, croizat",
+        "Name": "Pandora's Box [Grinch API 13]",
+        "Punchline": "Do you dare to open Pandora's Box?",
+        "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
         "Tags": [
-            "crafting"
+            "punish",
+            "plugin"
         ],
-        "InternalName": "Artisan",
-        "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 3581017,
-        "LastUpdate": 1766092679,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.12/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.12/latest.zip",
-        "AssemblyVersion": "4.0.4.12",
+        "InternalName": "PandorasBox",
+        "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
+        "DownloadCount": 959626,
+        "LastUpdate": 1766081698,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.3.24/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.3.24/latest.zip",
+        "AssemblyVersion": "1.6.3.24",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "14",
-        "Changelog": "- 7.4.",
-        "TestingAssemblyVersion": "4.0.4.7",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.7/testing.zip",
-        "TestingDalamudApiLevel": "13",
-        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
+        "Changelog": "- 7.4",
+        "TestingAssemblyVersion": "1.5.4.1",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.5.4.1/testing.zip",
+        "TestingDalamudApiLevel": "9",
+        "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png"
+    },
+    {
+        "Author": "kawaii, NightmareXIV",
+        "Name": "Avarice [Grinch API 13]",
+        "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+        "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+        "Tags": [
+            "combat"
+        ],
+        "InternalName": "Avarice",
+        "RepoUrl": "https://github.com/PunishXIV/Avarice",
+        "DownloadCount": 236951,
+        "LastUpdate": 1766113417,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.2/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.2/latest.zip",
+        "AssemblyVersion": "2.2.0.2",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "14",
+        "Changelog": "- 7.4",
+        "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png"
     },
     {
         "Author": "Taurenkey, NightmareXIV",
@@ -97,7 +94,7 @@
         ],
         "InternalName": "Saucy",
         "RepoUrl": "https://github.com/PunishXIV/Saucy",
-        "DownloadCount": 448801,
+        "DownloadCount": 448929,
         "LastUpdate": 1766123382,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/1.4.2.8/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/1.4.2.8/latest.zip",
@@ -111,24 +108,27 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png"
     },
     {
-        "Author": "kawaii, NightmareXIV",
-        "Name": "Avarice [Grinch API 13]",
-        "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+        "Author": "Taurenkey, NightmareXIV, kawaii",
+        "Name": "Artisan [Grinch API 13]",
+        "Punchline": "A 'simple' crafting plugin.",
+        "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
         "Tags": [
-            "combat"
+            "crafting"
         ],
-        "InternalName": "Avarice",
-        "RepoUrl": "https://github.com/PunishXIV/Avarice",
-        "DownloadCount": 236868,
-        "LastUpdate": 1766113417,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.2/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.2/latest.zip",
-        "AssemblyVersion": "2.2.0.2",
+        "InternalName": "Artisan",
+        "RepoUrl": "https://github.com/PunishXIV/Artisan",
+        "DownloadCount": 3581388,
+        "LastUpdate": 1766092679,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.12/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.12/latest.zip",
+        "AssemblyVersion": "4.0.4.12",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "14",
-        "Changelog": "- 7.4",
-        "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png"
+        "Changelog": "- 7.4.",
+        "TestingAssemblyVersion": "4.0.4.7",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.7/testing.zip",
+        "TestingDalamudApiLevel": "13",
+        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
     },
     {
         "Author": "kawaii, jukka",
@@ -161,7 +161,7 @@
         "Tags": [],
         "InternalName": "AutoRetainer",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "DownloadCount": 1684041,
+        "DownloadCount": 1684256,
         "LastUpdate": 1766099072,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.5.5.2/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.5.5.2/latest.zip",
@@ -182,7 +182,7 @@
         "Tags": [],
         "InternalName": "YesAlready",
         "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-        "DownloadCount": 950365,
+        "DownloadCount": 950811,
         "LastUpdate": 1766186061,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.14.03/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.14.03/latest.zip",
@@ -222,6 +222,27 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png"
     },
     {
+        "Author": "Det, Taurenkey",
+        "Name": "AutoHook [Grinch API 13]",
+        "Punchline": "Makes fishing less (or more) boring",
+        "Description": "It hooks the fish for you, can you believe it?",
+        "Tags": [
+            "Gathering",
+            "Fishing"
+        ],
+        "InternalName": "AutoHook",
+        "RepoUrl": "https://github.com/PunishXIV/AutoHook",
+        "DownloadCount": 937407,
+        "LastUpdate": 1766147788,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/5.0.0.27/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/5.0.0.27/latest.zip",
+        "AssemblyVersion": "5.0.0.27",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "14",
+        "Changelog": "",
+        "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png"
+    },
+    {
         "Author": "Liza Carvelli & various contributors",
         "Name": "Questionable [Grinch API 13]",
         "Punchline": "A tiny quest helper plugin.",
@@ -234,7 +255,7 @@
         ],
         "InternalName": "Questionable",
         "RepoUrl": "https://github.com/PunishXIV/Questionable",
-        "DownloadCount": 220984,
+        "DownloadCount": 221180,
         "LastUpdate": 1766182271,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/94/Questionable/versions/14.200.4.0/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/94/Questionable/versions/14.200.4.0/latest.zip",
@@ -248,27 +269,6 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/94/icon-ayf2kn3uloc.png"
     },
     {
-        "Author": "Det, Taurenkey",
-        "Name": "AutoHook [Grinch API 13]",
-        "Punchline": "Makes fishing less (or more) boring",
-        "Description": "It hooks the fish for you, can you believe it?",
-        "Tags": [
-            "Gathering",
-            "Fishing"
-        ],
-        "InternalName": "AutoHook",
-        "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-        "DownloadCount": 937133,
-        "LastUpdate": 1766147788,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/5.0.0.27/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/5.0.0.27/latest.zip",
-        "AssemblyVersion": "5.0.0.27",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "14",
-        "Changelog": "",
-        "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png"
-    },
-    {
         "Author": "NightmareXIV, Xenosys",
         "Name": "Splatoon [Grinch API 13]",
         "Punchline": "Redefining FFXIV navigation with unlimited, precise waymarks.",
@@ -279,7 +279,7 @@
         ],
         "InternalName": "Splatoon",
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-        "DownloadCount": 1300886,
+        "DownloadCount": 1301080,
         "LastUpdate": 1766121655,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.8.5.2/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.8.5.2/latest.zip",
@@ -1574,21 +1574,21 @@
         "Name": "Lemegeton [Grinch API 13]",
         "Description": "Your ultimate ingame companion; spells and enchantments to make your gameplay experience a little more magical.",
         "InternalName": "Lemegeton",
-        "AssemblyVersion": "1.0.7.6",
+        "AssemblyVersion": "1.0.7.8",
         "RepoUrl": "https://github.com/paissaheavyindustries/Lemegeton",
         "IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/lemegeton.png",
         "ApplicableVersion": "any",
         "Tags": [
             "meow"
         ],
-        "DalamudApiLevel": 13,
+        "DalamudApiLevel": 14,
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 0,
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.7.6/Lemegeton_1_0_7_6.zip",
-        "DownloadLinkTesting": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.7.6/Lemegeton_1_0_7_6.zip",
-        "DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.7.6/Lemegeton_1_0_7_6.zip"
+        "DownloadLinkInstall": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.7.8/Lemegeton_1_0_7_8.zip",
+        "DownloadLinkTesting": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.7.8/Lemegeton_1_0_7_8.zip",
+        "DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.7.8/Lemegeton_1_0_7_8.zip"
     },
     {
         "Author": "Paissa Heavy Industries",
