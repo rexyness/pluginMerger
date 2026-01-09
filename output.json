@@ -1,13 +1,13 @@
 [
     {
         "Author": "kawaii, NightmareXIV",
-        "Name": "Orbwalker [Grinch API 13]",
+        "Name": "Orbwalker [Grinch API 14]",
         "Punchline": "S P A C E G L I D I N G",
         "Description": "Locks player movement while casting and allows for maximum caster uptime during the course of a fight.",
         "Tags": [],
         "InternalName": "Orbwalker",
         "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
-        "DownloadCount": 69477,
+        "DownloadCount": 69481,
         "LastUpdate": 1766353349,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/1.0.1.9/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/1.0.1.9/latest.zip",
@@ -19,13 +19,13 @@
     },
     {
         "Author": "Team Wrath",
-        "Name": "Wrath Combo [Grinch API 13]",
+        "Name": "Wrath Combo [Grinch API 14]",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
         "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
         "Tags": [],
         "InternalName": "WrathCombo",
         "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-        "DownloadCount": 571691,
+        "DownloadCount": 571744,
         "LastUpdate": 1767597625,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.3.5/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.3.5/latest.zip",
@@ -39,54 +39,8 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/60/icon-2bwhkn3zf1f.png"
     },
     {
-        "Author": "Taurenkey, Kage, NightmareXIV",
-        "Name": "Saucy [Grinch API 13]",
-        "Punchline": "When working for MGP is too much effort.",
-        "Description": "Automates certain Gold Saucer mini-games.",
-        "Tags": [
-            "gold saucer",
-            "mgp",
-            "automation"
-        ],
-        "InternalName": "Saucy",
-        "RepoUrl": "https://github.com/PunishXIV/Saucy",
-        "DownloadCount": 492316,
-        "LastUpdate": 1767092642,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/1.4.2.9/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/1.4.2.9/latest.zip",
-        "AssemblyVersion": "1.4.2.9",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "14",
-        "Changelog": "- Fix Triple Triad challenge not auto-accepting.",
-        "TestingAssemblyVersion": "1.3.0.4",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/7/Saucy/versions/1.3.0.4/testing.zip",
-        "TestingDalamudApiLevel": "9",
-        "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png"
-    },
-    {
-        "Author": "daemitus, kawaii",
-        "Name": "Yes Already [Grinch API 13]",
-        "Punchline": "Clicks Yes in various dialogs you've specified.",
-        "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
-        "Tags": [],
-        "InternalName": "YesAlready",
-        "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-        "DownloadCount": 1015868,
-        "LastUpdate": 1767377738,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.14.05/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.14.05/latest.zip",
-        "AssemblyVersion": "1.14.05",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "14",
-        "Changelog": "",
-        "TestingAssemblyVersion": "1.10.4.0",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.10.4.0/testing.zip",
-        "TestingDalamudApiLevel": "12",
-        "IconUrl": "https://s3.puni.sh/media/plugin/26/icon-v1pvonkr6r.png"
-    },
-    {
         "Author": "kawaii, NightmareXIV",
-        "Name": "Avarice [Grinch API 13]",
+        "Name": "Avarice [Grinch API 14]",
         "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
         "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
         "Tags": [
@@ -94,7 +48,7 @@
         ],
         "InternalName": "Avarice",
         "RepoUrl": "https://github.com/PunishXIV/Avarice",
-        "DownloadCount": 251486,
+        "DownloadCount": 251503,
         "LastUpdate": 1766113417,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.2/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.2/latest.zip",
@@ -108,38 +62,60 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png"
     },
     {
-        "Author": "Taurenkey, NightmareXIV, croizat",
-        "Name": "Pandora's Box [Grinch API 13]",
-        "Punchline": "Do you dare to open Pandora's Box?",
-        "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
-        "Tags": [
-            "punish",
-            "plugin"
-        ],
-        "InternalName": "PandorasBox",
-        "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-        "DownloadCount": 1052122,
-        "LastUpdate": 1767520973,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.3.27/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.3.27/latest.zip",
-        "AssemblyVersion": "1.6.3.27",
+        "Author": "daemitus, kawaii",
+        "Name": "Yes Already [Grinch API 14]",
+        "Punchline": "Clicks Yes in various dialogs you've specified.",
+        "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
+        "Tags": [],
+        "InternalName": "YesAlready",
+        "RepoUrl": "https://github.com/PunishXIV/YesAlready",
+        "DownloadCount": 1015908,
+        "LastUpdate": 1767377738,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.14.05/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.14.05/latest.zip",
+        "AssemblyVersion": "1.14.05",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "14",
-        "Changelog": "- Disable simplify relic quest steps.",
-        "TestingAssemblyVersion": "1.5.4.1",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.5.4.1/testing.zip",
+        "Changelog": "",
+        "TestingAssemblyVersion": "1.10.4.0",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.10.4.0/testing.zip",
+        "TestingDalamudApiLevel": "12",
+        "IconUrl": "https://s3.puni.sh/media/plugin/26/icon-v1pvonkr6r.png"
+    },
+    {
+        "Author": "Taurenkey, Kage, NightmareXIV",
+        "Name": "Saucy [Grinch API 14]",
+        "Punchline": "When working for MGP is too much effort.",
+        "Description": "Automates certain Gold Saucer mini-games.",
+        "Tags": [
+            "gold saucer",
+            "mgp",
+            "automation"
+        ],
+        "InternalName": "Saucy",
+        "RepoUrl": "https://github.com/PunishXIV/Saucy",
+        "DownloadCount": 492347,
+        "LastUpdate": 1767092642,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/1.4.2.9/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/1.4.2.9/latest.zip",
+        "AssemblyVersion": "1.4.2.9",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "14",
+        "Changelog": "- Fix Triple Triad challenge not auto-accepting.",
+        "TestingAssemblyVersion": "1.3.0.4",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/7/Saucy/versions/1.3.0.4/testing.zip",
         "TestingDalamudApiLevel": "9",
-        "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png"
+        "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png"
     },
     {
         "Author": "kawaii, NightmareXIV",
-        "Name": "AutoRetainer [Grinch API 13]",
+        "Name": "AutoRetainer [Grinch API 14]",
         "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
         "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
         "Tags": [],
         "InternalName": "AutoRetainer",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "DownloadCount": 1779924,
+        "DownloadCount": 1780025,
         "LastUpdate": 1767643573,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.5.5.7/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.5.5.7/latest.zip",
@@ -153,8 +129,32 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
     },
     {
+        "Author": "Taurenkey, NightmareXIV, croizat",
+        "Name": "Pandora's Box [Grinch API 14]",
+        "Punchline": "Do you dare to open Pandora's Box?",
+        "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
+        "Tags": [
+            "punish",
+            "plugin"
+        ],
+        "InternalName": "PandorasBox",
+        "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
+        "DownloadCount": 1052193,
+        "LastUpdate": 1767520973,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.3.27/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.3.27/latest.zip",
+        "AssemblyVersion": "1.6.3.27",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "14",
+        "Changelog": "- Disable simplify relic quest steps.",
+        "TestingAssemblyVersion": "1.5.4.1",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.5.4.1/testing.zip",
+        "TestingDalamudApiLevel": "9",
+        "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png"
+    },
+    {
         "Author": "Det, Taurenkey",
-        "Name": "AutoHook [Grinch API 13]",
+        "Name": "AutoHook [Grinch API 14]",
         "Punchline": "Makes fishing less (or more) boring",
         "Description": "It hooks the fish for you, can you believe it?",
         "Tags": [
@@ -163,7 +163,7 @@
         ],
         "InternalName": "AutoHook",
         "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-        "DownloadCount": 1033354,
+        "DownloadCount": 1033427,
         "LastUpdate": 1767444005,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/5.0.0.30/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/5.0.0.30/latest.zip",
@@ -174,57 +174,8 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png"
     },
     {
-        "Author": "Taurenkey, NightmareXIV, Gidedin",
-        "Name": "LazyLoot [Grinch API 13]",
-        "Punchline": "Dungeon Loot but Lazy.",
-        "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
-        "Tags": [
-            "plugin",
-            "loot",
-            "utility",
-            "other"
-        ],
-        "InternalName": "LazyLoot",
-        "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-        "DownloadCount": 194949,
-        "LastUpdate": 1766319602,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.2.7/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.2.7/latest.zip",
-        "AssemblyVersion": "5.3.2.7",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "14",
-        "Changelog": "- 7.4",
-        "TestingAssemblyVersion": "5.3.2.2",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.2.2/testing.zip",
-        "TestingDalamudApiLevel": "13",
-        "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png"
-    },
-    {
-        "Author": "Taurenkey, NightmareXIV, kawaii",
-        "Name": "Artisan [Grinch API 13]",
-        "Punchline": "A 'simple' crafting plugin.",
-        "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
-        "Tags": [
-            "crafting"
-        ],
-        "InternalName": "Artisan",
-        "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 4011692,
-        "LastUpdate": 1767984174,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.28/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.28/latest.zip",
-        "AssemblyVersion": "4.0.4.28",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "14",
-        "Changelog": "- Fix issue with expert cosmic crafts that required max quality.",
-        "TestingAssemblyVersion": "4.0.4.7",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.7/testing.zip",
-        "TestingDalamudApiLevel": "13",
-        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
-    },
-    {
         "Author": "Liza Carvelli & various contributors",
-        "Name": "Questionable [Grinch API 13]",
+        "Name": "Questionable [Grinch API 14]",
         "Punchline": "A tiny quest helper plugin.",
         "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
         "Tags": [
@@ -235,7 +186,7 @@
         ],
         "InternalName": "Questionable",
         "RepoUrl": "https://github.com/PunishXIV/Questionable",
-        "DownloadCount": 297585,
+        "DownloadCount": 297807,
         "LastUpdate": 1767936057,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/94/Questionable/versions/14.205.5.0/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/94/Questionable/versions/14.205.5.0/latest.zip",
@@ -249,8 +200,31 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/94/icon-ayf2kn3uloc.png"
     },
     {
+        "Author": "Taurenkey, NightmareXIV, kawaii",
+        "Name": "Artisan [Grinch API 14]",
+        "Punchline": "A 'simple' crafting plugin.",
+        "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
+        "Tags": [
+            "crafting"
+        ],
+        "InternalName": "Artisan",
+        "RepoUrl": "https://github.com/PunishXIV/Artisan",
+        "DownloadCount": 4014530,
+        "LastUpdate": 1767984174,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.28/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.28/latest.zip",
+        "AssemblyVersion": "4.0.4.28",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "14",
+        "Changelog": "- Fix issue with expert cosmic crafts that required max quality.",
+        "TestingAssemblyVersion": "4.0.4.7",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.7/testing.zip",
+        "TestingDalamudApiLevel": "13",
+        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
+    },
+    {
         "Author": "kawaii, jukka",
-        "Name": "Palace Pal [Grinch API 13]",
+        "Name": "Palace Pal [Grinch API 14]",
         "Punchline": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.",
         "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
         "Tags": [
@@ -261,7 +235,7 @@
         ],
         "InternalName": "PalacePal",
         "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-        "DownloadCount": 191064,
+        "DownloadCount": 191082,
         "LastUpdate": 1766422628,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.15.0.0/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.15.0.0/latest.zip",
@@ -272,8 +246,34 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png"
     },
     {
+        "Author": "Taurenkey, NightmareXIV, Gidedin",
+        "Name": "LazyLoot [Grinch API 14]",
+        "Punchline": "Dungeon Loot but Lazy.",
+        "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
+        "Tags": [
+            "plugin",
+            "loot",
+            "utility",
+            "other"
+        ],
+        "InternalName": "LazyLoot",
+        "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
+        "DownloadCount": 194965,
+        "LastUpdate": 1766319602,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.2.7/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.2.7/latest.zip",
+        "AssemblyVersion": "5.3.2.7",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "14",
+        "Changelog": "- 7.4",
+        "TestingAssemblyVersion": "5.3.2.2",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.2.2/testing.zip",
+        "TestingDalamudApiLevel": "13",
+        "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png"
+    },
+    {
         "Author": "NightmareXIV, Xenosys",
-        "Name": "Splatoon [Grinch API 13]",
+        "Name": "Splatoon [Grinch API 14]",
         "Punchline": "Redefining FFXIV navigation with unlimited, precise waymarks.",
         "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
         "Tags": [
@@ -282,7 +282,7 @@
         ],
         "InternalName": "Splatoon",
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-        "DownloadCount": 1398294,
+        "DownloadCount": 1398777,
         "LastUpdate": 1767939221,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.0.8/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.0.8/latest.zip",
@@ -297,7 +297,7 @@
     },
     {
         "Author": "Aireil",
-        "Name": "FF Logs Viewer [Grinch API 13]",
+        "Name": "FF Logs Viewer [Grinch API 14]",
         "Punchline": "View FF Logs ranking percentiles in-game.",
         "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
         "Changelog": "-2.4.2.1\n    Update default layout with M12S P2.\n.-2.4.2.0\n    Update default layout with Savage by WorstAquaPlayer, thank you!.\n-2.4.1.0\n    Unreal update and open with reliability improvements by WorstAquaPlayer, thank you!\u00b2\n-2.4.0.0\n    7.4 update by WorstAquaPlayer, thank you!",
@@ -324,7 +324,7 @@
     },
     {
         "Author": "Nyssa",
-        "Name": "MiscPlugin [Grinch API 13]",
+        "Name": "MiscPlugin [Grinch API 14]",
         "InternalName": "MiscPlugin",
         "AssemblyVersion": "3.0.1",
         "RepoUrl": "https://github.com/AjisaiMirai/MiscPlugin",
@@ -348,7 +348,7 @@
     },
     {
         "Author": "Nyssa",
-        "Name": "Who Emoted At Me [Grinch API 13]",
+        "Name": "Who Emoted At Me [Grinch API 14]",
         "InternalName": "WhoEmotedAtMe",
         "AssemblyVersion": "1.1.0",
         "RepoUrl": "https://github.com/AjisaiMirai/WhoEmotedAtMe",
@@ -373,7 +373,7 @@
     },
     {
         "Author": "Athavar",
-        "Name": "Athavar's ToolBox [Grinch API 13]",
+        "Name": "Athavar's ToolBox [Grinch API 14]",
         "Punchline": "Various tools for private use.",
         "Description": "Various tools for private use. Module: AutoSpear, CraftQueue, Dps, DutyHistory, Instancinator, Macro, OpcodeWizard, SliceIsRight, Yes",
         "Changelog": "Go to https://github.com/Athavar/Athavar.FFXIV.Plugin/releases/latest to find the last changes.",
@@ -398,7 +398,7 @@
     },
     {
         "Author": "BardToolbox",
-        "Name": "BardToolbox [Grinch API 13]",
+        "Name": "BardToolbox [Grinch API 14]",
         "InternalName": "BardToolbox",
         "AssemblyVersion": "2.2.4.3",
         "Description": "",
@@ -476,7 +476,7 @@
     },
     {
         "Author": "attick, daemitus, alymphocyte, grammernatzi",
-        "Name": "XIV Combo Expandedest [Grinch API 13]",
+        "Name": "XIV Combo Expandedest [Grinch API 14]",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button. Plus extras.",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button.",
         "Changelog": "1.5.0.91: \r\n    * Removed Burst Strike/Fated Circle to Bloodfest as you now cannot overcap with Bloodfest.\r\n    * Added Bloodfest to No Mercy.\r\n    * Fixed a bug where Blizzard/Fire switcher did not work without Enochian unlocked.\r\n\r\n    1.5.0.90: \r\n    * Updated to 7.4.\r\n    * Some more changes coming soon but emergency maintenance started RIP\r\n    \r\n    1.5.0.82:\r\n    * Reawakened Fangs Feature now also applies to Steel Maw.\r\n    \r\n    1.5.0.79:\r\n    * Phlegma into Eukrasian Dyskrasia added.\r\n    \r\n    1.5.0.73:\r\n    * Meisui/Tenri priority fixed and DWaD to Meisui added.\r\n    * Monk's Draconic Leap feature now properly syncs below level 50 when you don't have a form.\r\n    * Raise Hard Target Lockout Feature added.\r\n    \r\n    1.5.0.72:\r\n    * Double Down features now account for its new cost.\r\n    * New option for Royal Authority to Atonement where it will only activate if you are about to overwrite Sword Oath in your combo.\r\n    * Empyreal Arrow will no longer turn into Pitch Perfect under any circumstances.\r\n    \r\n    1.5.0.71:\r\n    * Updated for 7.1 compatibility.\r\n    * Devilment to Starfall Dance feature removed as it is now vanilla.\r\n    * Removed Jump to Mirage Dive due to it being vanilla, as I completely forgot to earlier.\r\n    * Added an 'Only When Full' option to Sidewinder to Pitch Perfect.\r\n\r\n    1.5.0.70:\r\n    * Added Comet Overwrite Prevention feature. Or did I?\r\n    * Removed Holy overcap features (it made no sense when you gain, not lose, DPS by letting it overcap).\r\n    \r\n    1.5.0.69 (Nice):\r\n    * Sacrificium Feature added.\r\n    * Despair to Flare Star added.\r\n    * Dragon Kick to Forbidden Chakra added.\r\n    \r\n    1.5.0.67:\r\n    * Blizzard 3 & 2 to Flare Star feature added.\r\n    \r\n    1.5.0.61:\r\n    * Lucid Dreaming Reminders now have a configurable MP threshold, as well as a configurable cooldown remaining offset where they stop replacing the cooldown.\r\n    \r\n    1.5.0.60:\r\n    * Combos to Saber Dance during Devilment feature added.\r\n    * Some other stuff added to Dancer, too. Maybe.\r\n    * Phlegma to Psyche added.\r\n    \r\n    1.5.0.59:\r\n    * Isle Sprint feature added.\r\n    \r\n    1.5.0.53:\r\n    * Reaving Steel added from regular XIVComboExpanded. Maybe something else, too? Tis a secret.\r\n    * Hooking Hooksets and Chummy Cast added.\r\n    \r\n    1.5.0.51:\r\n    * Chaotic Glide added.\r\n    \r\n    1.5.0.49:\r\n    * Standard Step into Technical Step added.\r\n    \r\n    1.5.0.41:\r\n    * Viper features added. Please look forward to it (happening right now).",
@@ -498,7 +498,7 @@
     },
     {
         "Author": "Haselnussbomber",
-        "Name": "HaselDebug [Grinch API 13]",
+        "Name": "HaselDebug [Grinch API 14]",
         "InternalName": "HaselDebug",
         "AssemblyVersion": "1.44.1",
         "Description": "For developers.",
@@ -519,7 +519,7 @@
     },
     {
         "Author": "Haselnussbomber",
-        "Name": "HaselTweaks [Grinch API 13]",
+        "Name": "HaselTweaks [Grinch API 14]",
         "InternalName": "HaselTweaks",
         "AssemblyVersion": "41.0.0",
         "Description": "Keep on tweaking.",
@@ -541,7 +541,7 @@
     },
     {
         "Author": "Haselnussbomber",
-        "Name": "LeveHelper [Grinch API 13]",
+        "Name": "LeveHelper [Grinch API 14]",
         "InternalName": "LeveHelper",
         "AssemblyVersion": "2.5.5",
         "Description": "A little helper to check which Levequests have been completed and which are missing.",
@@ -563,7 +563,7 @@
     },
     {
         "Author": "LeonBlade",
-        "Name": "Burning Down the House [Grinch API 13]",
+        "Name": "Burning Down the House [Grinch API 14]",
         "Description": "Move around housing items with coordinates and allows you to place anywhere.",
         "Punchline": "House decorating made easy!",
         "InternalName": "BDTHPlugin",
@@ -591,7 +591,7 @@
     },
     {
         "Author": "llock",
-        "Name": "Auto Jail Marker [Grinch API 13]",
+        "Name": "Auto Jail Marker [Grinch API 14]",
         "Punchline": "Simple Jails",
         "Description": "A scuffed uwu jail auto marker",
         "Tags": [
@@ -616,33 +616,8 @@
         "DownloadLinkUpdate": "https://github.com/LockonS483/AutoJailMarker/releases/download/3.4.3.0/AutoJailMarker.zip"
     },
     {
-        "Author": "Speedas, Edited by Rico Stryker, Renamed by Maxunit",
-        "Name": "Zanarkand Emote log [Grinch API 13]",
-        "Punchline": "Shows all emotes used in the instance and who used them.",
-        "Description": "Shows all emotes used in the instance and who used them.",
-        "InternalName": "ZanarkandEmoteLog",
-        "AssemblyVersion": "1.1.5.0",
-        "RepoUrl": "https://github.com/Maxunit/NoxEmoteLog",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "EmoteLog",
-            "Zanarkand",
-            "rico",
-            "maxunit"
-        ],
-        "DalamudApiLevel": 13,
-        "LoadPriority": 0,
-        "DownloadLinkInstall": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/ZanarkandEmoteLog/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/ZanarkandEmoteLog/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/ZanarkandEmoteLog/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1766172991"
-    },
-    {
         "Author": "Aida Enna, Edited by Rico Stryker and Nyanko, Rebranded by Maxunit",
-        "Name": "Zanarkand Doorbell [Grinch API 13]",
+        "Name": "Zanarkand Doorbell [Grinch API 14]",
         "Punchline": "Play a chime when someone comes into a house.",
         "Description": "Play a chime when someone comes into a house, when they leave or when entering a house people are already inside.\n\nIcon by Flaticon",
         "InternalName": "ZanarkandDoorbell",
@@ -667,28 +642,8 @@
         "LastUpdated": "1766172991"
     },
     {
-        "Author": "SaltyCog",
-        "Name": "Startup Commands [Grinch API 13]",
-        "Punchline": "Perform various behaviors/commands right after logging into a character.",
-        "Description": "Perform various behaviors/commands right after logging into a character.",
-        "InternalName": "StartupCommands",
-        "AssemblyVersion": "1.3.0.1",
-        "RepoUrl": "https://github.com/saltycog/ffxiv-startup-commands",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 13,
-        "LoadPriority": 0,
-        "IconUrl": "https://github.com/saltycog/ffxiv-startup-commands/raw/master/icon.png",
-        "DownloadLinkInstall": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/StartupCommands/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/StartupCommands/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/maxunit/MyDalamudPlugins/raw/master/plugins/StartupCommands/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1766172991"
-    },
-    {
         "Author": "Meisterlala",
-        "Name": "Neko Fans [Grinch API 13]",
+        "Name": "Neko Fans [Grinch API 14]",
         "InternalName": "Neko",
         "AssemblyVersion": "1.3.7",
         "Description": "Shows you an image of a random neko character. Click on the image to view the next one.\nYou can choose different image sources, allowing you to look at Catboys, Waifus, Cats, Dogs and more.\n\nSupported APIs:\nnekos.best, Nekos.life, Dog CEO, The Cat API, Pic.re, Waifu.im, Waifu.pics and shibe.online\n\nWarning: You might see naughty images",
@@ -726,7 +681,7 @@
     },
     {
         "Author": "Meisterlala",
-        "Name": "Neko Fans NSFW 18+ Patch [Grinch API 13]",
+        "Name": "Neko Fans NSFW 18+ Patch [Grinch API 14]",
         "InternalName": "NekoLewd",
         "AssemblyVersion": "1.0.10",
         "Description": "This Plugin does nothing on its own. Neko Fans needs to be installed.\nYou now have access to NSFW images in Neko Fans.",
@@ -762,7 +717,7 @@
     },
     {
         "Author": "NightmareXIV, AsunaTsuki",
-        "Name": "DynamicBridge [Grinch API 13]",
+        "Name": "DynamicBridge [Grinch API 14]",
         "Punchline": "Allows you to automatically change your appearance based on various conditions.",
         "Description": "Automates character appearance changes through rule-based presets, utilizing integration with other popular customization plugins. This enables seamless and context-sensitive transformations, enriching gameplay and increasing immersion.",
         "Changelog": "- 7.4",
@@ -784,7 +739,7 @@
     },
     {
         "Author": "NightmareXIV",
-        "Name": "HuntTrainAssistant [Grinch API 13]",
+        "Name": "HuntTrainAssistant [Grinch API 14]",
         "Punchline": "Hunt train assistance tool.",
         "Description": "Provides useful tools for hunt trains such as: highlighting conductor messages and muting all other chat, auto-opening flags from conductors and auto-teleporting to announced destination. ",
         "Changelog": "- 7.4",
@@ -807,7 +762,7 @@
     },
     {
         "Author": "NightmareXIV",
-        "Name": "Lifestream [Grinch API 13]",
+        "Name": "Lifestream [Grinch API 14]",
         "Punchline": "A plugin to speed up Aethernet travel and World changing.",
         "Description": "- One click to teleport to any world or aethernet destination\n- Click on aetheryte shards inside zone map to teleport to them",
         "Changelog": "- Experimental CN client support",
@@ -830,7 +785,7 @@
     },
     {
         "Author": "NightmareXIV",
-        "Name": "DSR Toolbox [Grinch API 13]",
+        "Name": "DSR Toolbox [Grinch API 14]",
         "Punchline": "A helper plugin for Dragonsong's Reprise (Ultimate).",
         "Description": "Current functions:\nResolve eyes position\nWroth flames automarker (whole group and personal)\nTether to your chain partner",
         "Changelog": "- 7.4",
@@ -853,7 +808,7 @@
     },
     {
         "Author": "NightmareXIV",
-        "Name": "WeathermanExtras [Grinch API 13]",
+        "Name": "WeathermanExtras [Grinch API 14]",
         "Punchline": "Experimental Weatherman functions. ",
         "Description": "Experimental Weatherman functions. Use at your own risk.",
         "Changelog": "- 7.4",
@@ -872,7 +827,7 @@
     },
     {
         "Author": "NightmareXIV",
-        "Name": "TextAdvance [Grinch API 13]",
+        "Name": "TextAdvance [Grinch API 14]",
         "Punchline": "Quest speedrunning assistance tool. Automatically skips subtitle boxes and confirms cutscene skipping",
         "Description": "",
         "Changelog": "- Updated to adjust for latest Dalamud update",
@@ -895,7 +850,7 @@
     },
     {
         "Author": "NightmareXIV",
-        "Name": "AntiAfkKick [Grinch API 13]",
+        "Name": "AntiAfkKick [Grinch API 14]",
         "Punchline": "A Dalamud plugin for preventing being auto-kicked from FFXIV due to inactivity. Install and forget, no config needed.",
         "Description": "A Dalamud plugin for preventing being auto-kicked from FFXIV due to inactivity. Install and forget, no config needed.",
         "Changelog": "- 7.4",
@@ -915,7 +870,7 @@
     },
     {
         "Author": "NightmareXIV",
-        "Name": "SelectString [Grinch API 13]",
+        "Name": "SelectString [Grinch API 14]",
         "Punchline": "Select items in menus via 0-9 keys rather than mouse.",
         "Description": "Numpad is also supported.",
         "Changelog": "- 7.4",
@@ -938,7 +893,7 @@
     },
     {
         "Author": "NightmareXIV",
-        "Name": "Prioritizer [Grinch API 13]",
+        "Name": "Prioritizer [Grinch API 14]",
         "Punchline": "Prioritizer sets game's priority to high while crafting. ",
         "Description": "Prioritizer sets game's priority to high while crafting. No more failed crafts due to random lags while game is minimized.",
         "Changelog": "- 7.4",
@@ -958,7 +913,7 @@
     },
     {
         "Author": "NightmareXIV",
-        "Name": "UnloadErrorFuckOff [Grinch API 13]",
+        "Name": "UnloadErrorFuckOff [Grinch API 14]",
         "Punchline": "[For plugin developers only] A plugin that clears off load and unload errors.",
         "Description": "[For plugin developers only] A plugin that clears off load and unload errors. Plugin development is made easy once again!",
         "Changelog": "- 7.4",
@@ -977,25 +932,7 @@
     },
     {
         "Author": "NightmareXIV",
-        "Name": "Imagenation [Grinch API 13]",
-        "Punchline": "An image drawing backend. To be used together with Triggernometry.",
-        "Description": "An image drawing backend. To be used together with Triggernometry.",
-        "Changelog": "- 7.4",
-        "IsHide": false,
-        "InternalName": "Imagenation",
-        "AssemblyVersion": "1.0.0.9",
-        "IsTestingExclusive": false,
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 13,
-        "DownloadCount": 7634,
-        "LastUpdate": 1766120750,
-        "DownloadLinkInstall": "https://github.com/NightmareXIV/Imagenation/releases/download/1.0.0.9/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/NightmareXIV/Imagenation/releases/download/1.0.0.9/latest.zip",
-        "SupportsProfiles": true
-    },
-    {
-        "Author": "NightmareXIV",
-        "Name": "ObjectExplorer [Grinch API 13]",
+        "Name": "ObjectExplorer [Grinch API 14]",
         "Punchline": "A convenient way to explore current objects around you.",
         "Description": "A convenient way to explore current objects around you. Currently supports players only.",
         "Changelog": "",
@@ -1014,7 +951,7 @@
     },
     {
         "Author": "NightmareXIV",
-        "Name": "StandalonePluginManager [Grinch API 13]",
+        "Name": "StandalonePluginManager [Grinch API 14]",
         "Punchline": "Simplifies installation and upgrade process for plugins installed manually.",
         "Description": "- Simplifies installation and upgrade process for plugins installed manually.",
         "Changelog": "- 7.4 update",
@@ -1033,7 +970,7 @@
     },
     {
         "Author": "NightmareXIV",
-        "Name": "Battlevest [Grinch API 13]",
+        "Name": "Battlevest [Grinch API 14]",
         "Punchline": "Battle LeveQuest Helper",
         "Description": "",
         "Changelog": "- 7.4",
@@ -1056,7 +993,7 @@
     },
     {
         "Author": "NightmareXIV",
-        "Name": "Stylist [Grinch API 13]",
+        "Name": "Stylist [Grinch API 14]",
         "Punchline": "Gear manager",
         "Description": "Gear manager that will watch your gearset for possible upgrades and upgrade them via single command.",
         "Changelog": "- 7.4",
@@ -1079,7 +1016,7 @@
     },
     {
         "Author": "Ottermandias",
-        "Name": "AutoVisor [Grinch API 13]",
+        "Name": "AutoVisor [Grinch API 14]",
         "Punchline": "Change Visor and Stance based on State and Job.",
         "Description": "Automatically change visor, headslot hiding, and weapon hiding status for different player states, as well as default CPose-stances per job.",
         "Tags": [
@@ -1107,7 +1044,7 @@
     },
     {
         "Author": "Ottermandias",
-        "Name": "Glamourer [Grinch API 13]",
+        "Name": "Glamourer [Grinch API 14]",
         "Punchline": "Change and save appearance of players.",
         "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
         "Tags": [
@@ -1140,7 +1077,7 @@
     },
     {
         "Author": "VariableVixen",
-        "Name": "BetterFateList [Grinch API 13]",
+        "Name": "BetterFateList [Grinch API 14]",
         "Description": "Provides a list of all FATEs in the current zone, with their type, sorted by maximum level and distance from you.",
         "InternalName": "BetterFateList",
         "AssemblyVersion": "1.1.2",
@@ -1160,7 +1097,7 @@
     },
     {
         "Author": "attick, daemitus, VariableVixen",
-        "Name": "XIV Combo Very Expanded [Grinch API 13]",
+        "Name": "XIV Combo Very Expanded [Grinch API 14]",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
         "InternalName": "XIVComboVX",
         "AssemblyVersion": "9.35.0",
@@ -1177,7 +1114,7 @@
     },
     {
         "Author": "VariableVixen",
-        "Name": "XivEsp [Grinch API 13]",
+        "Name": "XivEsp [Grinch API 14]",
         "Description": "If you've ever spent ten minutes looking for your hunt target, this is the plugin for you. Set a case-insensitive substring, glob, or regular expression, and all nearby game objects with matching names will be tagged on your screen!",
         "InternalName": "XivEsp",
         "AssemblyVersion": "1.11.2",
@@ -1200,7 +1137,7 @@
     },
     {
         "Author": "VariableVixen",
-        "Name": "TinyCommands [Grinch API 13]",
+        "Name": "TinyCommands [Grinch API 14]",
         "Description": "Adds tiny and simple but useful chat commands, and nothing more. It doesn't even have a UI.",
         "InternalName": "TinyCmds",
         "AssemblyVersion": "8.10.2",
@@ -1217,7 +1154,7 @@
     },
     {
         "Author": "VariableVixen",
-        "Name": "WoLua [Grinch API 13]",
+        "Name": "WoLua [Grinch API 14]",
         "Description": "Write custom chat commands by creating lua scripts",
         "InternalName": "WoLua",
         "AssemblyVersion": "4.3.2",
@@ -1234,7 +1171,7 @@
     },
     {
         "Author": "croizat",
-        "Name": "Something Need Doing [Grinch API 13]",
+        "Name": "Something Need Doing [Grinch API 14]",
         "Punchline": "Work work.",
         "Description": "Now for more than crafting!",
         "Tags": [],
@@ -1252,7 +1189,7 @@
     },
     {
         "Author": "UnknownX",
-        "Name": "ReAction [Grinch API 13]",
+        "Name": "ReAction [Grinch API 14]",
         "Punchline": "QoL for the battle system.",
         "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
         "Changelog": "",
@@ -1278,7 +1215,7 @@
     },
     {
         "Author": "UnknownX",
-        "Name": "NoClippy [Grinch API 13]",
+        "Name": "NoClippy [Grinch API 14]",
         "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
         "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
         "Changelog": "Fixed for 7.4 (Thanks to Zeffuro)",
@@ -1305,7 +1242,7 @@
     },
     {
         "Author": "NightmareXIV,Errer(\u672c\u5730\u7279\u5316)",
-        "Name": "Splatoon [Grinch API 13]",
+        "Name": "Splatoon [Grinch API 14]",
         "Punchline": "\u56fd\u670d\u753b\u5bb6 7.4CN \u89e3\u9650\u7279\u4f9b\uff0c",
         "Description": "\u56fd\u670d\u7279\u4f9bSPLX 7.4CN ",
         "InternalName": "SplatoonX",
@@ -1325,7 +1262,7 @@
     },
     {
         "Author": "",
-        "Name": "Lock [Grinch API 13]",
+        "Name": "Lock [Grinch API 14]",
         "Punchline": "\u9501\u5b9a",
         "Description": "\u9501\u5b9aBOSS /LockBOSS change 1 \u9760\u8fd1\u6c34\u6676\u5207\u63621\u53f7\u7ebf\u8def",
         "InternalName": "Lock",
@@ -1345,7 +1282,7 @@
     },
     {
         "Author": "a08381",
-        "Name": "SkipCutscene [Grinch API 13]",
+        "Name": "SkipCutscene [Grinch API 14]",
         "Description": "\u574f\u5b69\u5b50\u8f8d\u5b66\u3002",
         "InternalName": "SkipCutscene",
         "AssemblyVersion": "1.2.3.1",
@@ -1366,7 +1303,7 @@
     },
     {
         "Author": "akira0245, Ori, Kalle, Zune",
-        "Name": "MidiBard 2 [Grinch API 13]",
+        "Name": "MidiBard 2 [Grinch API 14]",
         "InternalName": "MidiBard2",
         "AssemblyVersion": "3.2.3.0",
         "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: ffbard.com",
@@ -1414,7 +1351,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "LastUpdate": 1767889852,
-        "Name": "Heliosphere [Grinch API 13]",
+        "Name": "Heliosphere [Grinch API 14]",
         "Punchline": "An efficient mod manager and platform that integrates directly with Penumbra.",
         "RepoUrl": "https://heliosphere.app/",
         "Tags": [
@@ -1430,7 +1367,7 @@
     },
     {
         "Author": "UnknownX",
-        "Name": "Cammy [Grinch API 13]",
+        "Name": "Cammy [Grinch API 14]",
         "Punchline": "A simple editor for the game's camera settings",
         "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
         "Changelog": "Fix disconnects not reapply presets on login",
@@ -1455,29 +1392,6 @@
         "LastUpdate": "1767383467"
     },
     {
-        "Author": "Zhyra",
-        "Name": "SimpleTimers [Grinch API 13]",
-        "InternalName": "SimpleTimers",
-        "AssemblyVersion": "1.0.4",
-        "Description": "Create customizable timers for all your needs. /stimers",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "timers",
-            "scheduling",
-            "tasks"
-        ],
-        "DalamudApiLevel": 13,
-        "LoadRequiredState": 0,
-        "LoadSync": false,
-        "CanUnloadAsync": false,
-        "LoadPriority": 0,
-        "Punchline": "Create customizable timers for all your needs.",
-        "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/ZhyraPlugins/SimpleTimers/releases/latest/download/latest.zip",
-        "DownloadLinkTesting": "https://github.com/ZhyraPlugins/SimpleTimers/releases/latest/download/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/ZhyraPlugins/SimpleTimers/releases/latest/download/latest.zip"
-    },
-    {
         "AcceptsFeedback": true,
         "ApplicableVersion": "any",
         "AssemblyVersion": "14.2",
@@ -1495,37 +1409,9 @@
         "LoadPriority": 0,
         "LoadRequiredState": 0,
         "LoadSync": false,
-        "Name": "ARC [Grinch API 13]",
+        "Name": "ARC [Grinch API 14]",
         "Punchline": "Better AutoRetainer Venture Planner",
         "RepoUrl": "https://github.com/a1hena/ARControl"
-    },
-    {
-        "AcceptsFeedback": true,
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "8.3",
-        "Author": "Liza Carvelli",
-        "CanUnloadAsync": false,
-        "Changelog": "d525e61: 8.3\nebe8c53: Delete build.yaml\n5639af1: api13\nae4623c: Update ARDiscard.json\n6bbb83b: Create ci.yaml\nebcfef1: update metadata\n73d30c8: Update packages.lock.json\n507a245: update libs\n79b9f4e: Clean up\n9045d8c: Add IsRunning IPC\nc7914fb: Update CI\nf09df2b: Update AR API\ne9b45b7: Update CI\n7ecc097: Update CI\nf4a59dc: Update version, LLIb + CI\n5e0333e: api12 prelim/vs support (#3)\n\nReviewed-on: https://git.carvel.li/liza/ARDiscard/pulls/3\n8ffeb88: api12\n8943aaf: Make limited items from 7.0/7.1 discardable\n5258ed3: Rename debug PackagePlugin target\n6ad112f: API 11\nb92bff2: Version bump\n6437692: Update submodules\nde4c2ab: Add collectables to discardable items\n3bd6b6f: Remove Red Onion Helm from internal blacklist\ncfbd064: Automatically adjust max gear item level based on the highest ilvl green item (dungeon drop)\nd730e2c: Fix confirm check\ned2f8b9: API 10\n33c9fac: Replace deprecated gearset accessors\n32775ac: Allow auto-discarding irregular tomestones\n51d94c9: Ensure no two discard processes run at the same time",
-        "DalamudApiLevel": 13,
-        "Description": "Small plugin to help keep your inventory organized (especially when automating retainers or submersibles) by discarding items you don't want (e.g. Stuffed Alphas)",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/a1hena/PluginRepository/master/dist/stable/ARDiscard/latest.zip",
-        "IconUrl": "https://raw.githubusercontent.com/a1hena/ARDiscard/master/ARDiscard/ARDiscard.png",
-        "InternalName": "ARDiscard",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdated": 1754923354,
-        "LoadPriority": 0,
-        "LoadRequiredState": 0,
-        "LoadSync": false,
-        "Name": "Discard Helper [Grinch API 13]",
-        "Punchline": "Discard items automatically via a command or as a post-venture task for AutoRetainer",
-        "RepoUrl": "https://github.com/a1hena/ARDiscard",
-        "Tags": [
-            "autoretainer",
-            "automation",
-            "discard",
-            "yeet"
-        ]
     },
     {
         "AcceptsFeedback": true,
@@ -1544,13 +1430,13 @@
         "LoadPriority": 0,
         "LoadRequiredState": 0,
         "LoadSync": false,
-        "Name": "IconBrowser [Grinch API 13]",
+        "Name": "IconBrowser [Grinch API 14]",
         "Punchline": "Browse FF14 icons by patch and category",
         "RepoUrl": "https://github.com/a1hena/IconBrowser"
     },
     {
         "Author": "attick, daemitus, Khayle",
-        "Name": "XIV Combo Expanded [Grinch API 13]",
+        "Name": "XIV Combo Expanded [Grinch API 14]",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button.",
         "InternalName": "XIVComboExpanded",
@@ -1577,7 +1463,7 @@
     },
     {
         "Author": "DodingDaga",
-        "Name": "Puppet Master [Grinch API 13]",
+        "Name": "Puppet Master [Grinch API 14]",
         "InternalName": "PuppetMaster",
         "AssemblyVersion": "7.4.0.0",
         "Description": "For the lulz",
@@ -1600,7 +1486,7 @@
     },
     {
         "Author": "DodingDaga",
-        "Name": "Right Back At You [Grinch API 13]",
+        "Name": "Right Back At You [Grinch API 14]",
         "InternalName": "Copycat",
         "AssemblyVersion": "7.4.0.0",
         "Description": "For the lulz",
@@ -1623,7 +1509,7 @@
     },
     {
         "Author": "Lichie",
-        "Name": "LMeter [Grinch API 13]",
+        "Name": "LMeter [Grinch API 14]",
         "Description": "Plugin to display ACT combat log data.",
         "InternalName": "LMeter",
         "AssemblyVersion": "0.4.3.3",
@@ -1643,7 +1529,7 @@
     },
     {
         "Author": "Paissa Heavy Industries",
-        "Name": "Lemegeton [Grinch API 13]",
+        "Name": "Lemegeton [Grinch API 14]",
         "Description": "Your ultimate ingame companion; spells and enchantments to make your gameplay experience a little more magical.",
         "InternalName": "Lemegeton",
         "AssemblyVersion": "1.0.7.8",
@@ -1664,7 +1550,7 @@
     },
     {
         "Author": "Paissa Heavy Industries",
-        "Name": "Telesto [Grinch API 13]",
+        "Name": "Telesto [Grinch API 14]",
         "Description": "This plugin allows Triggernometry (and other programs, why not) some means to interact with the game directly.",
         "InternalName": "Telesto",
         "AssemblyVersion": "1.0.0.9",
@@ -1689,7 +1575,7 @@
     },
     {
         "Author": "Paissa Heavy Industries",
-        "Name": "Where's Mouse? [Grinch API 13]",
+        "Name": "Where's Mouse? [Grinch API 14]",
         "Description": "An accessibility plugin to help you locate your mouse cursor when you need it the most.",
         "InternalName": "WheresMouse",
         "AssemblyVersion": "1.0.0.8",
@@ -1712,7 +1598,7 @@
     },
     {
         "Author": "Paissa Heavy Industries",
-        "Name": "Chibi Omega [Grinch API 13]",
+        "Name": "Chibi Omega [Grinch API 14]",
         "Punchline": "Aww, he's so cute! But don't let his diminished stature fool you; his damage output has not scaled to match.",
         "InternalName": "Chibi Omega",
         "AssemblyVersion": "1.0.1.6",
@@ -1736,7 +1622,7 @@
     },
     {
         "Author": "Paissa Heavy Industries",
-        "Name": "Tallafell [Grinch API 13]",
+        "Name": "Tallafell [Grinch API 14]",
         "Punchline": "They hide inside bosses' legs! Clothing! Other players! No longer, I say -- it's time to put an end to the Lalafell menace.",
         "InternalName": "Tallafell",
         "AssemblyVersion": "1.0.0.5",
@@ -1763,33 +1649,8 @@
         "DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Tallafell/releases/download/v1.0.0.5/Tallafell_1_0_0_5.zip"
     },
     {
-        "Author": "Serifine",
-        "Name": "Chat Tools [Grinch API 13]",
-        "Punchline": "Filter messages in crowded environments, bringing some sanity back to RP.",
-        "Description": "Chat Tools was developed to cut through the cluttered chat that can happen at large RP events, or in crowded environments.\n\nJust some of the things you can do with Chat Tools is:\n- Filter messages in crowded environments\n- Set up windows to watch specific characters of your choice\n- Set up windows to watch for messages from a group of characters\n- Quickly scan what your selected or hovered targets have said\n- Search through your message history\n- Preserve messages on logout",
-        "InternalName": "XIVChatTools",
-        "AssemblyVersion": "3.3.0.0",
-        "Tags": [
-            "Social",
-            "UI",
-            "Chat",
-            "RP"
-        ],
-        "RepoUrl": "https://github.com/serifine/XIV-Chat-Tools",
-        "IconUrl": "https://raw.githubusercontent.com/serifine/XIV-Chat-Scanner/main/XIVChatTools/images/icon.png",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 13,
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "LastUpdate": 1696614479236,
-        "DownloadCount": 9236,
-        "DownloadLinkInstall": "https://github.com/serifine/XIV-Chat-Tools/releases/download/3.3.0/XIVChatTools.zip",
-        "DownloadLinkTesting": "https://github.com/serifine/XIV-Chat-Tools/releases/download/3.3.0/XIVChatTools.zip",
-        "DownloadLinkUpdate": "https://github.com/serifine/XIV-Chat-Tools/releases/download/3.3.0/XIVChatTools.zip"
-    },
-    {
         "Author": "Usagi",
-        "Name": "IINACT [Grinch API 13]",
+        "Name": "IINACT [Grinch API 14]",
         "Punchline": "A parsing plugin.",
         "Description": "\u80fd\u5728replay\u91cc\u9762\u4f7f\u7528\u7684\u548c\u4f7f\u7528edgetts\u7684\u52a0\u5f3a\u7248",
         "InternalName": "IINACT",
@@ -1813,7 +1674,7 @@
     },
     {
         "Author": "",
-        "Name": "DDD [Grinch API 13]",
+        "Name": "DDD [Grinch API 14]",
         "Description": "\u53d1\u9001\u6570\u636e\u5230inact",
         "InternalName": "DDD",
         "AssemblyVersion": "1.0.1.2",
@@ -1832,7 +1693,7 @@
     },
     {
         "Author": "",
-        "Name": "Line [Grinch API 13]",
+        "Name": "Line [Grinch API 14]",
         "Punchline": "",
         "Description": "\u67e5\u770b\u8eab\u4e3a\u7ebf\u548c\u72e9\u730e\u602a",
         "InternalName": "Line",
@@ -1852,7 +1713,7 @@
     },
     {
         "Author": "\u7259\u5237play",
-        "Name": "SeeBoss [Grinch API 13]",
+        "Name": "SeeBoss [Grinch API 14]",
         "Punchline": "A parsing plugin.",
         "Description": "\u65b9\u4fbf\u67e5\u770bbuffid\u548cbossid\u548c\u6280\u80fdid",
         "InternalName": "SeeBoss",
@@ -1871,7 +1732,7 @@
     },
     {
         "Author": "yasatoma",
-        "Name": "PikuminMarker [Grinch API 13]",
+        "Name": "PikuminMarker [Grinch API 14]",
         "Punchline": "Add Marker for Pikumin.",
         "Description": "Puts a marker on the specified player. If the target player travels to DC, the internal ID will change and the marker will be invalid.",
         "InternalName": "PikuminMarker",
@@ -1892,7 +1753,7 @@
     },
     {
         "Author": "yasatoma",
-        "Name": "LeveDelivery [Grinch API 13]",
+        "Name": "LeveDelivery [Grinch API 14]",
         "Punchline": "Leve Automation.",
         "Description": "A plugin that automatically accepts and delivers leves.",
         "InternalName": "LeveDelivery",
