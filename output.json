@@ -25,7 +25,7 @@
         "Tags": [],
         "InternalName": "WrathCombo",
         "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-        "DownloadCount": 659615,
+        "DownloadCount": 659619,
         "LastUpdate": 1769895596,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.3.13/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.3.13/latest.zip",
@@ -37,6 +37,29 @@
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.2.24/testing.zip",
         "TestingDalamudApiLevel": "13",
         "IconUrl": "https://s3.puni.sh/media/plugin/60/icon-2bwhkn3zf1f.png"
+    },
+    {
+        "Author": "kawaii, NightmareXIV",
+        "Name": "Avarice [Grinch API 14]",
+        "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+        "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+        "Tags": [
+            "combat"
+        ],
+        "InternalName": "Avarice",
+        "RepoUrl": "https://github.com/PunishXIV/Avarice",
+        "DownloadCount": 269749,
+        "LastUpdate": 1766785215,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.4/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.4/latest.zip",
+        "AssemblyVersion": "2.2.0.4",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "14",
+        "Changelog": " - Fix overlay drawing height for housing zone striking dummies\n",
+        "TestingAssemblyVersion": "2.2.0.5",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.5/testing.zip",
+        "TestingDalamudApiLevel": "14",
+        "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png"
     },
     {
         "Author": "Taurenkey, Kage, NightmareXIV",
@@ -64,29 +87,6 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png"
     },
     {
-        "Author": "kawaii, NightmareXIV",
-        "Name": "Avarice [Grinch API 14]",
-        "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "Tags": [
-            "combat"
-        ],
-        "InternalName": "Avarice",
-        "RepoUrl": "https://github.com/PunishXIV/Avarice",
-        "DownloadCount": 269748,
-        "LastUpdate": 1766785215,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.4/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.4/latest.zip",
-        "AssemblyVersion": "2.2.0.4",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "14",
-        "Changelog": " - Fix overlay drawing height for housing zone striking dummies\n",
-        "TestingAssemblyVersion": "2.2.0.5",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.5/testing.zip",
-        "TestingDalamudApiLevel": "14",
-        "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png"
-    },
-    {
         "Author": "daemitus, kawaii",
         "Name": "Yes Already [Grinch API 14]",
         "Punchline": "Clicks Yes in various dialogs you've specified.",
@@ -108,30 +108,6 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/26/icon-v1pvonkr6r.png"
     },
     {
-        "Author": "Taurenkey, NightmareXIV, croizat",
-        "Name": "Pandora's Box [Grinch API 14]",
-        "Punchline": "Do you dare to open Pandora's Box?",
-        "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
-        "Tags": [
-            "punish",
-            "plugin"
-        ],
-        "InternalName": "PandorasBox",
-        "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-        "DownloadCount": 1066324,
-        "LastUpdate": 1767520973,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.3.27/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.3.27/latest.zip",
-        "AssemblyVersion": "1.6.3.27",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "14",
-        "Changelog": "- Disable simplify relic quest steps.",
-        "TestingAssemblyVersion": "1.5.4.1",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.5.4.1/testing.zip",
-        "TestingDalamudApiLevel": "9",
-        "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png"
-    },
-    {
         "Author": "kawaii, NightmareXIV",
         "Name": "AutoRetainer [Grinch API 14]",
         "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
@@ -139,7 +115,7 @@
         "Tags": [],
         "InternalName": "AutoRetainer",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "DownloadCount": 1838546,
+        "DownloadCount": 1838547,
         "LastUpdate": 1769385560,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.5.5.10/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.5.5.10/latest.zip",
@@ -163,7 +139,7 @@
         ],
         "InternalName": "Splatoon",
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-        "DownloadCount": 1533240,
+        "DownloadCount": 1533242,
         "LastUpdate": 1769577613,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.0.18/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.0.18/latest.zip",
@@ -177,25 +153,28 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/10/icon-cchf5yumm2p.png"
     },
     {
-        "Author": "Det, Taurenkey",
-        "Name": "AutoHook [Grinch API 14]",
-        "Punchline": "Makes fishing less (or more) boring",
-        "Description": "It hooks the fish for you, can you believe it?",
+        "Author": "Taurenkey, NightmareXIV, croizat",
+        "Name": "Pandora's Box [Grinch API 14]",
+        "Punchline": "Do you dare to open Pandora's Box?",
+        "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
         "Tags": [
-            "Gathering",
-            "Fishing"
+            "punish",
+            "plugin"
         ],
-        "InternalName": "AutoHook",
-        "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-        "DownloadCount": 1225353,
-        "LastUpdate": 1770243280,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/5.0.0.44/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/5.0.0.44/latest.zip",
-        "AssemblyVersion": "5.0.0.44",
+        "InternalName": "PandorasBox",
+        "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
+        "DownloadCount": 1066325,
+        "LastUpdate": 1767520973,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.3.27/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.3.27/latest.zip",
+        "AssemblyVersion": "1.6.3.27",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "14",
-        "Changelog": "",
-        "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png"
+        "Changelog": "- Disable simplify relic quest steps.",
+        "TestingAssemblyVersion": "1.5.4.1",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.5.4.1/testing.zip",
+        "TestingDalamudApiLevel": "9",
+        "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png"
     },
     {
         "Author": "Taurenkey, Gid, NightmareXIV",
@@ -236,7 +215,7 @@
         ],
         "InternalName": "Questionable",
         "RepoUrl": "https://github.com/PunishXIV/Questionable",
-        "DownloadCount": 412074,
+        "DownloadCount": 412077,
         "LastUpdate": 1770172042,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/94/Questionable/versions/14.205.26.0/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/94/Questionable/versions/14.205.26.0/latest.zip",
@@ -248,6 +227,27 @@
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/94/Questionable/versions/6.23.16.1/testing.zip",
         "TestingDalamudApiLevel": "13",
         "IconUrl": "https://s3.puni.sh/media/plugin/94/icon-lbslnc2t1ls.png"
+    },
+    {
+        "Author": "Det, Taurenkey",
+        "Name": "AutoHook [Grinch API 14]",
+        "Punchline": "Makes fishing less (or more) boring",
+        "Description": "It hooks the fish for you, can you believe it?",
+        "Tags": [
+            "Gathering",
+            "Fishing"
+        ],
+        "InternalName": "AutoHook",
+        "RepoUrl": "https://github.com/PunishXIV/AutoHook",
+        "DownloadCount": 1225387,
+        "LastUpdate": 1770243280,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/5.0.0.44/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/5.0.0.44/latest.zip",
+        "AssemblyVersion": "5.0.0.44",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "14",
+        "Changelog": "",
+        "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png"
     },
     {
         "Author": "kawaii, jukka",
@@ -282,7 +282,7 @@
         ],
         "InternalName": "Artisan",
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 4274334,
+        "DownloadCount": 4274369,
         "LastUpdate": 1770233107,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.35/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.35/latest.zip",
