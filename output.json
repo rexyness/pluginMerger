@@ -50,7 +50,7 @@
         ],
         "InternalName": "Saucy",
         "RepoUrl": "https://github.com/PunishXIV/Saucy",
-        "DownloadCount": 510150,
+        "DownloadCount": 510151,
         "LastUpdate": 1767092642,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/1.4.2.9/install/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/1.4.2.9/update/latest.zip",
@@ -153,29 +153,6 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
     },
     {
-        "Author": "Taurenkey, Gid, NightmareXIV",
-        "Name": "LazyLoot [Grinch API 14]",
-        "Punchline": "Dungeon Loot but Lazy.",
-        "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
-        "Tags": [
-            "plugin",
-            "loot",
-            "utility",
-            "other"
-        ],
-        "InternalName": "LazyLoot",
-        "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-        "DownloadCount": 213612,
-        "LastUpdate": 1769259115,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.2.9/install/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.2.9/update/latest.zip",
-        "AssemblyVersion": "5.3.2.9",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "14",
-        "Changelog": "Small improvement to the add item and add duty buttons for custom user restrictions.",
-        "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png"
-    },
-    {
         "Author": "Det, Taurenkey",
         "Name": "AutoHook [Grinch API 14]",
         "Punchline": "Makes fishing less (or more) boring",
@@ -220,27 +197,27 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png"
     },
     {
-        "Author": "Taurenkey, kawaii, NightmareXIV",
-        "Name": "Artisan [Grinch API 14]",
-        "Punchline": "A 'simple' crafting plugin.",
-        "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
+        "Author": "Taurenkey, Gid, NightmareXIV",
+        "Name": "LazyLoot [Grinch API 14]",
+        "Punchline": "Dungeon Loot but Lazy.",
+        "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
         "Tags": [
-            "crafting"
+            "plugin",
+            "loot",
+            "utility",
+            "other"
         ],
-        "InternalName": "Artisan",
-        "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 4759480,
-        "LastUpdate": 1777146524,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.55/install/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.55/update/latest.zip",
-        "AssemblyVersion": "4.0.4.55",
+        "InternalName": "LazyLoot",
+        "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
+        "DownloadCount": 213613,
+        "LastUpdate": 1769259115,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.2.9/install/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.2.9/update/latest.zip",
+        "AssemblyVersion": "5.3.2.9",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "14",
-        "Changelog": "- Fix progress only solver being unselectable.",
-        "TestingAssemblyVersion": "4.0.4.48",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.48/install/testing.zip",
-        "TestingDalamudApiLevel": "14",
-        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
+        "Changelog": "Small improvement to the add item and add duty buttons for custom user restrictions.",
+        "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png"
     },
     {
         "Author": "Chalkos, NightmareXIV",
@@ -260,6 +237,29 @@
         "ApplicableVersion": "any",
         "DalamudApiLevel": "14",
         "Changelog": ""
+    },
+    {
+        "Author": "Taurenkey, kawaii, NightmareXIV",
+        "Name": "Artisan [Grinch API 14]",
+        "Punchline": "A 'simple' crafting plugin.",
+        "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
+        "Tags": [
+            "crafting"
+        ],
+        "InternalName": "Artisan",
+        "RepoUrl": "https://github.com/PunishXIV/Artisan",
+        "DownloadCount": 4759481,
+        "LastUpdate": 1777146524,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.55/install/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.55/update/latest.zip",
+        "AssemblyVersion": "4.0.4.55",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "14",
+        "Changelog": "- Fix progress only solver being unselectable.",
+        "TestingAssemblyVersion": "4.0.4.48",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.48/install/testing.zip",
+        "TestingDalamudApiLevel": "14",
+        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
     },
     {
         "Author": "Liza Carvelli & various contributors",
