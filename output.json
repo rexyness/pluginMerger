@@ -220,6 +220,29 @@
         "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png"
     },
     {
+        "Author": "Taurenkey, kawaii, NightmareXIV",
+        "Name": "Artisan [Grinch API 14]",
+        "Punchline": "A 'simple' crafting plugin.",
+        "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
+        "Tags": [
+            "crafting"
+        ],
+        "InternalName": "Artisan",
+        "RepoUrl": "https://github.com/PunishXIV/Artisan",
+        "DownloadCount": 4759486,
+        "LastUpdate": 1777146524,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.55/install/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.55/update/latest.zip",
+        "AssemblyVersion": "4.0.4.55",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "14",
+        "Changelog": "- Fix progress only solver being unselectable.",
+        "TestingAssemblyVersion": "4.0.4.48",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.48/install/testing.zip",
+        "TestingDalamudApiLevel": "14",
+        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
+    },
+    {
         "Author": "Chalkos, NightmareXIV",
         "Name": "Marketbuddy [Grinch API 14]",
         "Punchline": "Less clicks, more gil!",
@@ -263,29 +286,6 @@
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/94/Questionable/versions/6.23.16.1/install/testing.zip",
         "TestingDalamudApiLevel": "13",
         "IconUrl": "https://s3.puni.sh/media/plugin/94/icon-dpfaauzm5b.png"
-    },
-    {
-        "Author": "Taurenkey, kawaii, NightmareXIV",
-        "Name": "Artisan [Grinch API 14]",
-        "Punchline": "A 'simple' crafting plugin.",
-        "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
-        "Tags": [
-            "crafting"
-        ],
-        "InternalName": "Artisan",
-        "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "DownloadCount": 4759485,
-        "LastUpdate": 1777146524,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.55/install/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.55/update/latest.zip",
-        "AssemblyVersion": "4.0.4.55",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "14",
-        "Changelog": "- Fix progress only solver being unselectable.",
-        "TestingAssemblyVersion": "4.0.4.48",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/4.0.4.48/install/testing.zip",
-        "TestingDalamudApiLevel": "14",
-        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
     },
     {
         "Author": "NightmareXIV",
