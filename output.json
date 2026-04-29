@@ -1,27 +1,47 @@
 [
     {
-        "Author": "Taurenkey, NightmareXIV, croizat",
-        "Name": "Pandora's Box [Grinch API 15]",
-        "Punchline": "Do you dare to open Pandora's Box?",
-        "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
+        "Author": "kawaii, NightmareXIV",
+        "Name": "Avarice [Grinch API 15]",
+        "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+        "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
         "Tags": [
-            "punish",
-            "plugin"
+            "combat"
         ],
-        "InternalName": "PandorasBox",
-        "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-        "DownloadCount": 1166212,
-        "LastUpdate": 1777493220,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.0/install/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.0/update/latest.zip",
-        "AssemblyVersion": "1.6.4.0",
+        "InternalName": "Avarice",
+        "RepoUrl": "https://github.com/PunishXIV/Avarice",
+        "DownloadCount": 284775,
+        "LastUpdate": 1777497479,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.6/install/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.6/update/latest.zip",
+        "AssemblyVersion": "2.2.0.6",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "15",
-        "Changelog": "- 7.5 Update",
-        "TestingAssemblyVersion": "1.5.4.1",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.5.4.1/install/testing.zip",
-        "TestingDalamudApiLevel": "9",
-        "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png"
+        "Changelog": "- 7.5",
+        "TestingAssemblyVersion": "2.2.0.5",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/11/Avarice/versions/2.2.0.5/install/testing.zip",
+        "TestingDalamudApiLevel": "14",
+        "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png"
+    },
+    {
+        "Author": "daemitus, kawaii",
+        "Name": "Yes Already [Grinch API 15]",
+        "Punchline": "Clicks Yes in various dialogs you've specified.",
+        "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
+        "Tags": [],
+        "InternalName": "YesAlready",
+        "RepoUrl": "https://github.com/PunishXIV/YesAlready",
+        "DownloadCount": 1134288,
+        "LastUpdate": 1777495794,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.0/install/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.15.0/update/latest.zip",
+        "AssemblyVersion": "1.15.0",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "15",
+        "Changelog": "",
+        "TestingAssemblyVersion": "1.10.4.0",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/26/YesAlready/versions/1.10.4.0/install/testing.zip",
+        "TestingDalamudApiLevel": "12",
+        "IconUrl": "https://s3.puni.sh/media/plugin/26/icon-v1pvonkr6r.png"
     },
     {
         "Author": "kawaii, NightmareXIV",
@@ -31,7 +51,7 @@
         "Tags": [],
         "InternalName": "AutoRetainer",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "DownloadCount": 1944886,
+        "DownloadCount": 1945769,
         "LastUpdate": 1777492129,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.0.1/install/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.0.1/update/latest.zip",
@@ -43,6 +63,30 @@
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.6.0.0/install/testing.zip",
         "TestingDalamudApiLevel": "15",
         "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
+    },
+    {
+        "Author": "Taurenkey, NightmareXIV, croizat",
+        "Name": "Pandora's Box [Grinch API 15]",
+        "Punchline": "Do you dare to open Pandora's Box?",
+        "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
+        "Tags": [
+            "punish",
+            "plugin"
+        ],
+        "InternalName": "PandorasBox",
+        "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
+        "DownloadCount": 1167155,
+        "LastUpdate": 1777493220,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.0/install/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.6.4.0/update/latest.zip",
+        "AssemblyVersion": "1.6.4.0",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "15",
+        "Changelog": "- 7.5 Update",
+        "TestingAssemblyVersion": "1.5.4.1",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/1.5.4.1/install/testing.zip",
+        "TestingDalamudApiLevel": "9",
+        "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png"
     },
     {
         "Author": "Taurenkey, Gid, NightmareXIV",
@@ -57,7 +101,7 @@
         ],
         "InternalName": "LazyLoot",
         "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-        "DownloadCount": 214364,
+        "DownloadCount": 214564,
         "LastUpdate": 1777466712,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.3.0/install/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/5.3.3.0/update/latest.zip",
@@ -78,7 +122,7 @@
         ],
         "InternalName": "Splatoon",
         "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-        "DownloadCount": 1677676,
+        "DownloadCount": 1678292,
         "LastUpdate": 1777487888,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.1.4/install/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.1.4/update/latest.zip",
@@ -90,6 +134,33 @@
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.1.1/install/testing.zip",
         "TestingDalamudApiLevel": "14",
         "IconUrl": "https://s3.puni.sh/media/plugin/10/icon-cchf5yumm2p.png"
+    },
+    {
+        "Author": "Aireil",
+        "Name": "FF Logs Viewer [Grinch API 15]",
+        "Punchline": "View FF Logs ranking percentiles in-game.",
+        "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
+        "Changelog": "-2.5.0.1\n    Update for 7.5 patch.",
+        "InternalName": "FFLogsViewer",
+        "AssemblyVersion": "2.5.0.1",
+        "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "FFLogs"
+        ],
+        "DalamudApiLevel": 15,
+        "IconUrl": "https://github.com/Aireil/FFLogsViewer/raw/master/res/icon.png",
+        "ImageUrls": [
+            "https://github.com/Aireil/FFLogsViewer/raw/master/res/image1.png",
+            "https://github.com/Aireil/FFLogsViewer/raw/master/res/image2.png"
+        ],
+        "DownloadLinkInstall": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1777497153"
     },
     {
         "Author": "BardToolbox",
@@ -170,6 +241,32 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/latest.zip"
     },
     {
+        "Author": "llock",
+        "Name": "Auto Jail Marker [Grinch API 15]",
+        "Punchline": "Simple Jails",
+        "Description": "A scuffed uwu jail auto marker",
+        "Tags": [
+            "titan",
+            "jails",
+            "uwu"
+        ],
+        "InternalName": "AutoJailMarker",
+        "AssemblyVersion": "3.4.3.1",
+        "RepoUrl": "https://github.com/LockonS483/AutoJailMarker",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 15,
+        "LoadPriority": 0,
+        "ImageUrls": null,
+        "IconUrl": "https://raw.githubusercontent.com/LockonS483/AutoJailMarker/master/Data/TitIco.png",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdated": "1777497341",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/LockonS483/AutoJailMarker/releases/download/3.4.3.1/AutoJailMarker.zip",
+        "DownloadLinkTesting": "https://github.com/LockonS483/AutoJailMarker/releases/download/3.4.3.1/AutoJailMarker.zip",
+        "DownloadLinkUpdate": "https://github.com/LockonS483/AutoJailMarker/releases/download/3.4.3.1/AutoJailMarker.zip"
+    },
+    {
         "Author": "NightmareXIV",
         "Name": "Lifestream [Grinch API 15]",
         "Punchline": "A plugin to speed up Aethernet travel and World changing.",
@@ -233,5 +330,39 @@
         "DownloadLinkInstall": "https://github.com/NightmareXIV/StandalonePluginManager/releases/download/1.0.0.4/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NightmareXIV/StandalonePluginManager/releases/download/1.0.0.4/latest.zip",
         "SupportsProfiles": true
+    },
+    {
+        "Author": "akira0245, Ori, Kalle, Zune",
+        "Name": "MidiBard 2 [Grinch API 15]",
+        "InternalName": "MidiBard2",
+        "AssemblyVersion": "3.2.4.0",
+        "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: ffbard.com",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://midibard.org",
+        "Tags": [
+            "music",
+            "utility",
+            "midi",
+            "bard"
+        ],
+        "DalamudApiLevel": 15,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "ImageUrls": [
+            "https://i.imgur.com/1R13XF0.png"
+        ],
+        "IconUrl": "https://i.imgur.com/OSxqew4.png",
+        "Punchline": "Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: ffbard.com",
+        "Changelog": "1. Better support on Bard MIDI Library: Show Playlist Menu(Triple dots on top right) -> BML Browser; 2. Rename Electric Guitar Modes and adding help messages. 3. Loads of fixes and QOL changes! 4. \u66f4\u65b0\u90e8\u5206\u52a0\u5165\u4e2d\u6587\u7ffb\u8b6f Please join our Discord for details: ffbard.com",
+        "AcceptsFeedback": false,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 221454,
+        "LastUpdate": "1766066842",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip"
     }
 ]
